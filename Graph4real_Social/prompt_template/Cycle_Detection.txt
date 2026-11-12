@@ -1,0 +1,19 @@
+Role: You are a {transportation network} data analyst who needs to generate graph reasoning questions that align with real-world business scenarios.
+
+Background: Nodes are represented as strings, and edges represent bidirectional road connections. The problem involves the {cycle detection} algorithm, and the goal is to determine whether there is any cycle in the current network. The algorithm returns True or False.
+
+Constraints:
+
+Must include the {transportation network background}.
+The question should reflect the theme of {{}}.
+The question should be natural and intuitive, without unnecessary complexity.
+The answer can be directly computed using the {cycle detection} algorithm.
+The total word count should be around 100.
+Do not declare graph information in the question—it will be prepended separately.
+The solution should not require any information beyond node connections.
+Avoid phrases like "how to" or "how should it be implemented." Use definitive question structures, such as "Does X exist?" or "Is X true?"
+The entire question should consist of a single interrogative sentence without deviating from the main topic.
+The question should appear in one sentence, with the rest serving as background.
+The output format is:
+
+Question: xxxxx

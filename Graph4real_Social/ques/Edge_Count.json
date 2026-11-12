@@ -1,0 +1,1987 @@
+[
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "A city's public transit department is planning new express bus routes to connect major tourist attractions. To ensure efficient route scheduling, they need to determine how many direct bidirectional road connections currently exist between these landmark nodes. What is the total number of active inter-landmark road segments available for route planning?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route planning between major districts in a city, how many bidirectional road connections need to be inspected to ensure all possible routes are considered?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route planning for inter-city buses, the transportation department needs to assess the current connectivity of regional hubs. How many bidirectional road links exist between all designated transportation nodes in this network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "A travel planning agency is mapping weekend cycling routes in a coastal tourist region. To optimize their recommended circuits, they need to calculate the total number of bidirectional bike path connections between scenic spots. How many distinct coastal cycling routes exist based purely on direct road links between locations?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel routes and reduce congestion in the city's road network, the transportation department needs to assess current connectivity. How many bidirectional roads exist in the entire network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route planning efficiency, a city's transportation department needs to assess the connectivity of key locations. How many distinct two-way road connections exist between major landmarks in the urban transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize a travel route planning app for a city's public transport system, the developers need to know the total number of bidirectional road connections between key locations. How many unique road segments must be maintained to ensure seamless connectivity across all designated transit hubs and tourist attractions?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route planning for tourists visiting the historic district, the city council needs to assess the connectivity of key landmarks. Calculate the total number of bidirectional roads in the area to determine how many direct pathways exist between these cultural sites."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "A tourist planning to visit all major landmarks in the city wants to ensure efficient route connectivity. Given bidirectional roads linking these landmarks, determine the total number of direct road connections required to guarantee seamless travel between any two sites through existing pathways."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To improve travel route efficiency, the city plans to evaluate all direct bidirectional road links between neighborhoods for emergency vehicle access. How many such direct road connections must be analyzed in the transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize vacation travel planning between neighboring towns, the regional transit authority needs to verify the total number of direct two-way roads connecting popular destinations. How many road links require maintenance checks in this transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To improve public transit efficiency, the city plans to analyze direct road links between districts for potential express bus routes. How many bidirectional road connections exist in the current transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "The city tourism department is optimizing sightseeing routes by ensuring all bidirectional roads between landmarks are covered. To avoid redundant paths in the tour plan, what is the total number of unique road segments connecting these attractions?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize a tourist shuttle service that visits all landmarks without redundant travel, the city's transportation department needs to know how many direct bidirectional road connections exist between attractions. Calculate the exact number of road segments required to interconnect these key locations in the travel network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": " To optimize travel route planning for a maintenance crew servicing all bidirectional roads, calculate the total number of road segments requiring inspection in the transportation network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize the urban transit system, city planners need to assess the current road infrastructure for travel route planning. How many bidirectional road connections exist in the city's transportation network that maintenance crews must regularly inspect?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To plan a sightseeing tour that ensures visitors can travel between all major landmarks without retracing steps, what is the total count of two-way road connections available in the city's tourism transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To improve the efficiency of regional travel route recommendations, the city's transportation department needs to assess the total number of bidirectional road connections available in the current network. How many roads require maintenance prioritization based on their connection status?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To help travelers efficiently plan sightseeing routes in the city's scenic area, the tourism department needs to map all possible road connections between attractions. How many bidirectional roads exist in total to ensure every route combination can be accurately calculated?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To assist tourists in efficiently planning their sightseeing itineraries, calculate the total number of bidirectional roads connecting landmarks within the city's transportation network, ensuring they can traverse all key attractions without missing any routes."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize a travel itinerary that covers all possible connections between major tourist spots, the city's transit department needs to evaluate route redundancy. Calculate the total number of bidirectional roads in the transportation network linking these attractions directly."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "A regional travel agency is developing an efficient route planner for tourists visiting multiple cities connected by bidirectional roads. To optimize connection paths between attractions, please calculate the total number of direct two-way road links available in the current transportation network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To help tourists plan efficient sightseeing routes without retracing steps, how many bidirectional roads exist between the city's major attractions in the current transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's public transportation network designed for efficient travel route planning, stations are interconnected by bidirectional roads. To determine the infrastructure complexity for maintenance scheduling, how many direct road connections exist between stations in total?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize the city's cycling infrastructure, planners need to assess current connectivity. A regional maintenance project has temporarily closed roads marked as edges between nodes B3-F7 and K9-P2. Calculate the total number of available bidirectional bike path connections remaining in the network to prioritize route upgrades."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To improve travel route efficiency between urban hubs, the city's traffic management team is analyzing roadway interconnectivity. How many bidirectional road links currently connect all designated transit zones within the metropolitan network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize the maintenance schedule for a city's tourist shuttle service, how many bidirectional road segments connect the major attractions in the transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize traffic flow during the upcoming holiday season, the city's transportation department needs to assess the current road infrastructure connecting major tourist attractions. How many bidirectional roads exist in total across the entire sightseeing network to support efficient travel route planning?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's public transportation network, stations are interconnected by bidirectional rail lines. To assist travelers in planning efficient routes and minimizing transfers, the transit authority needs to assess the total number of direct connections available. How many bidirectional rail links currently exist between stations in this network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To improve travel route efficiency between regional hubs, a transportation department needs to evaluate road connectivity in their network. Calculate the total number of bidirectional road segments currently linking all accessible locations."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel routes between popular tourist attractions, the city council needs to assess the connectivity of the road network. Each attraction is connected by bidirectional roads. How many distinct roads exist in total across the entire network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "After expanding the city's bus network to improve regional connectivity, the transit authority needs to verify operational route quantities for maintenance planning. How many bidirectional bus routes currently exist in the entire transportation system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To improve public transportation efficiency, the city plans to assess the connectivity of its downtown district. Each intersection is linked by bidirectional roads, and a bus route requires traversing connected roads. What is the total number of road segments that need maintenance checks to ensure all possible routes between landmarks remain operational?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "When planning a circular sightseeing route that passes through every city exactly once, the tourism department needs to know how many direct road connections exist between cities. Calculate the total number of bidirectional roads available in this transportation network to determine potential route combinations."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "As a city planner assessing travel route efficiency, you need to determine the number of direct bidirectional rail connections between subway stations to optimize transit coverage. How many edges exist in this transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route planning for tourists visiting major landmarks, calculate the total number of bidirectional roads connecting these attractions within the city's transportation network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "A logistics company is maintaining a regional highway network to optimize delivery routes between cities. During seasonal road repairs, their planning team needs to calculate the total number of bidirectional highway connections requiring inspections to ensure alternative routes remain available. How many highway segments should be prioritized for maintenance checks in this transportation system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize public transportation coverage, the city council needs to assess connectivity between residential zones and commercial hubs by calculating all available bidirectional routes. How many direct road links exist in the current urban transit network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize the city's travel route planning system, calculate the total number of bidirectional road connections between major landmarks that currently exist in the transportation network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To ensure efficient travel route planning for tourists visiting major landmarks, the city transportation department needs to assess the connectivity between key locations. How many bidirectional road connections exist between these attraction nodes in the current network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize the public bus route planning in a city's transportation network, the urban planning department needs to evaluate the current road connectivity. How many bidirectional road connections exist in the network to determine potential route redundancy?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To help tourists efficiently plan their travel routes between all major landmarks in the city, calculate the total number of bidirectional road connections required to directly link these points of interest within the transportation network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize the public bus routes and reduce travel time between key locations, the city's transportation department needs to evaluate the current road connectivity. How many bidirectional road segments exist in the active transportation network that directly link these critical nodes?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To improve regional travel efficiency, the transportation bureau plans to assess road connectivity for emergency route optimization between key locations. How many bidirectional road segments exist in the current network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize emergency evacuation routes for coastal areas during hurricane season, disaster management teams need to evaluate current transportation links. What is the total number of bidirectional roads connecting critical shelters and evacuation hubs in the regional network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize public transportation routes, the city planning department needs to assess the connectivity of the downtown area. How many bidirectional roads exist between major landmarks and their directly adjacent intersections in this zone?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel routes between major tourist spots in the city, the transportation department needs to evaluate the current road connectivity. Each bidirectional road directly linking two attractions is counted as one connection. How many such road connections exist in the entire tourism network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To help the tourism department assess regional connectivity for efficient travel route planning, how many bidirectional roads exist between major scenic spots that allow direct traversal in both directions?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To improve efficiency in regional travel route planning, the transportation authority needs to assess the current infrastructure. How many bidirectional road connections exist between service nodes in the network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize delivery routes for a logistics company operating in the city's transportation network, planners need to know the total number of bidirectional road segments connecting key distribution hubs. How many direct road links exist in this network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route efficiency for a new city tour service, the transportation department needs to assess road network connectivity. How many bidirectional road segments exist between all designated tourist hubs in the current system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route planning for tourists, the regional transportation department is analyzing connectivity between scenic spots. Each bidirectional road directly connects two attractions. Calculate the total number of direct road connections available in this network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "A tourism company is analyzing popular sightseeing spots connected by bidirectional roads for efficient travel route planning. If each road represents a direct route between two attractions, how many road segments in total need maintenance checks to ensure all paths remain accessible for tourists?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel routes for a city's public bus system, the transportation department needs to assess current network efficiency. Each bus stop is treated as a node, and roads between adjacent stops are bidirectional edges. Calculate the total number of direct road connections in this network to determine if additional routes are required to reduce transfer delays."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route efficiency in the city's downtown area, how many bidirectional road connections exist between all major landmarks and transit hubs?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel routes between popular tourist attractions, the city's transportation department needs to assess existing road connections. How many bidirectional roads require maintenance in the current network to ensure efficient route planning for visitors?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's bicycle lane maintenance project, the transportation department needs to inspect all bidirectional road segments connecting stations to assess route viability. If the network links stations as undirected edges, how many road sections require safety checks?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To improve the connectivity assessment for tourist shuttle services, how many bidirectional road segments exist between all designated sightseeing hubs in the urban transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route that connects all major cities in the transportation network, it's essential to know how many bidirectional roads exist between these cities. Calculate the total number of roads available in the network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "A tourism company is planning sightseeing tours that cover all possible travel routes between historical sites in a heritage city. To ensure comprehensive route planning, what is the total number of bidirectional road connections linking these cultural landmarks that must be included in their itinerary designs?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "A tourist bus company is planning routes to connect all major heritage sites in a historic district, where each site is linked by bidirectional roads. To optimize their service frequency, they need to determine the total number of road segments available for creating efficient circular routes. How many distinct road connections exist in this transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize regional bus route planning, the transportation department needs to determine how many direct two-way road connections exist between key locations in the urban area. What is the total number of bidirectional road segments available in the current network for route mapping?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To improve regional tourism connectivity, the transportation department aims to evaluate the total number of bidirectional road links available for travel route planning between scenic spots. How many operational roads exist in the current network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "A regional bus company is optimizing their travel route planning by analyzing connections between cities. Each bidirectional route allows buses to travel in both directions. To assess network capacity, how many total operational routes exist in their current transportation system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route efficiency during peak hours, the city's transportation department needs to assess the current road network connectivity. Calculate the total number of bidirectional road segments connecting all major intersections in the urban area?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "A logistics company is planning optimal delivery routes between regional distribution hubs connected by two-way roads. To evaluate network capacity, calculate the total number of road connections currently available in their transportation system."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel routes during peak hours, a city's transportation department needs to evaluate road connectivity. Calculate the total number of bidirectional roads between all connected locations in the urban network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "A regional tourism board is developing a travel route planner for visitors exploring multiple cities via interconnected highways. To optimize path suggestions, they need to calculate the total number of direct road connections between cities. How many bidirectional highway segments exist in this transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "As part of optimizing travel route efficiency in City Metro's expanded transportation network, planners need to assess current infrastructure complexity. How many bidirectional road segments exist between all connected districts to prioritize maintenance planning?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "As part of a city's travel route optimization project, the transportation department needs to evaluate the current road infrastructure. How many bidirectional road connections exist between all landmarks in the downtown area's traffic network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "A city is planning to optimize its public bus routes between major districts. The current transportation network allows bidirectional travel, but officials need to verify whether the existing road connections meet the minimum requirement of 18 direct inter-district links for efficient commuter access. How many bidirectional road connections currently exist between the districts in this network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "A travel planning company wants to assess route flexibility for tourists visiting key landmarks. If each landmark is treated as a node and bidirectional roads as connections, calculate the total number of direct road links required to ensure travelers can optimize their itinerary choices."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize public bus routes in a city, the transportation department needs to assess the current road connectivity. If every street is treated as a bidirectional link between intersections, how many unique bidirectional road segments exist in the urban traffic network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel routes and reduce congestion in a city's bike-sharing system, the transportation department needs to know the total number of bidirectional road connections between all docking stations. Calculate how many distinct bike paths exist across the entire network based on station linkage data."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To ensure efficient maintenance of all bidirectional roads used for inter-city travel route planning, calculate the total number of direct road connections present in the transportation network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "A city travel agency is mapping popular landmarks to improve tour route efficiency. They need to know the total number of bidirectional roads connecting major attractions like museums, parks, and historic sites. How many road segments should their planners analyze when designing optimized sightseeing paths?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To improve regional travel route efficiency, a transportation agency is evaluating all direct road connections between towns. Calculate the total number of bidirectional roads in the network to determine possible route combinations for emergency response planning."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize the city's public transport connectivity for upcoming holiday travel, the traffic management team needs to know how many bidirectional road segments exist between all designated tourist hubs. What is the total count of these connecting roads?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's public transportation network where each node represents a metro station and edges indicate direct connections between stations, a traveler wants to know how many unique bidirectional routes exist to plan efficient transfers. Calculate the total number of direct rail links available in this system."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Travel route planning",
+    "answer": "The city's public transit authority is planning to expand bus routes to improve connectivity between residential areas and the downtown business district. To determine the current infrastructure capacity, how many bidirectional road connections exist in the transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery efficiency and reduce fuel costs, a logistics company needs to assess the connectivity of their distribution network between regional warehouses. How many bidirectional access roads currently link these facilities in total?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network used by a delivery company to optimize package distribution routes, the maintenance department needs to assess infrastructure costs. To balance route flexibility and upkeep expenses, calculate the total number of bidirectional road segments requiring maintenance in this transportation system."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and assess potential redundancy for a logistics company, what is the total number of bidirectional road connections currently available between all distribution hubs in the transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution efficiency, a logistics company needs to evaluate road connectivity in their service network. How many bidirectional road segments must be inspected for maintenance prioritization across all delivery routes?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce transportation time for a logistics company, calculate the total number of bidirectional roads currently existing in the transportation network, as this directly determines the number of direct connections between distribution hubs."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline last-mile logistics and reduce redundant routes, a delivery company aims to assess their current network connectivity. Calculate the total number of bidirectional road links maintained across all urban distribution hubs in their operational zone."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery routes in an urban logistics network, the planning team needs to assess the existing road infrastructure. How many bidirectional road connections exist between all distribution nodes in the current network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package distribution routes, a logistics company needs to evaluate the connectivity of their warehouse network. How many bidirectional roads are directly connecting adjacent facilities in the current transportation system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and reduce redundant path planning, calculate the total number of bidirectional road connections in the current transportation network that directly influence fuel cost estimations."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery routes and minimize fuel costs, our logistics team needs to assess the total infrastructure connections between urban distribution centers. How many bidirectional road links exist directly connecting these facilities in the transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the transportation network's bidirectional road connections need to be analyzed. How many unique road segments currently exist in the network to determine potential route adjustments that could reduce transit time and fuel consumption?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by analyzing their transportation network, which connects distribution centers via bidirectional roads. To determine redundant paths and improve efficiency, how many roads currently exist between the centers?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel delivery routes and minimize redundant paths, the logistics company needs to know the total number of direct road connections between all distribution centers, warehouses, and retail points in their transportation network. Calculate the current number of bidirectional roads present in the network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a regional logistics company, the operations team needs to know how many direct road connections exist between distribution hubs in their transportation network. Each road allows two-way traffic. What is the total number of bidirectional roadway segments requiring maintenance checks in this hub network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery times for a regional logistics company, the operations team needs to evaluate the current road connectivity between distribution hubs. Calculate the total number of bidirectional roadway links maintained in their transportation network, as this directly impacts route planning efficiency and fleet deployment strategies."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery times and fuel efficiency, a logistics company needs to analyze all bidirectional road connections between city warehouses and distribution centers. How many such bidirectional roads exist in the network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery times by evaluating the efficiency of its urban road network. To determine the total possible route combinations between distribution hubs, calculate the number of bidirectional roads currently maintained in the network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics company's regional delivery network, the operations team needs to optimize parcel distribution routes by identifying all bidirectional trunk roads between key distribution hubs. To prioritize maintenance planning, how many such critical bidirectional trunk roads exist in total?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To enhance logistics delivery efficiency in an urban transportation network, the planning team needs to know the total number of bidirectional road segments available for route optimization. How many unique road connections exist across all distribution hubs and delivery points in the network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes, a logistics company needs to determine the total number of bidirectional road connections in their network. How many such connections must be analyzed to identify redundant paths and minimize fuel consumption?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the first step is to determine the total number of bidirectional road connections available in the current transportation network. How many edges exist in this network to assess potential route efficiency improvements?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the operations team needs to determine the total number of direct road connections available between their regional warehouses. How many bidirectional pathways exist in their current transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery efficiency in an urban traffic network. To determine route redundancy and streamline operations, calculate the total number of roads connecting all distribution hubs in the current network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by assessing the connectivity of its distribution centers. Each center is linked via bidirectional roads, and efficient routing depends on understanding total infrastructure links. To prioritize maintenance planning, how many bidirectional roads exist across the entire network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce redundant paths for a logistics company, the transportation network's bidirectional road connections between distribution hubs must be analyzed. Calculate the total number of bidirectional roads in the current network to determine available route options for efficient parcel distribution."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce fuel costs for a logistics company operating in Metroville, the transportation network connects distribution hubs via two-way roads. How many total bidirectional road connections exist in the current network that must be analyzed for efficient route planning?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package delivery routes and reduce transportation time, the logistics company needs to assess the current infrastructure. Calculate the total number of bidirectional road connections between all designated distribution hubs in the regional delivery network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes and reduce redundant travel, a logistics company needs to calculate the total number of operational bidirectional road connections between all delivery stations and warehouses in the urban network. How many bidirectional roads are actively connecting these logistics nodes?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and reduce fuel consumption, a transportation company needs to evaluate the connectivity efficiency of their distribution network. How many bidirectional road connections exist between their major warehouse nodes in the current infrastructure?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery efficiency, a distribution company needs to evaluate the connectivity of their transportation network. Calculate the total number of bidirectional roads requiring maintenance checks to prevent delays in regional supply chain operations."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package distribution routes and reduce maintenance costs, the logistics company needs to evaluate the current road network. How many bidirectional road connections exist between all delivery hubs in the system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company expanding into a new city, the transportation team needs to assess the existing road network's connectivity. How many bidirectional road connections must be evaluated in total to map all possible distribution paths between warehouses and fulfillment centers?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes and reduce redundant pathways, a logistics company needs to analyze the current transportation network. How many bidirectional road connections must be evaluated to determine potential redundancies in delivery routes?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and reduce maintenance costs, a city's transportation department needs to assess current road connectivity. Calculate the total number of bidirectional road segments requiring routine inspection across all distribution paths in the urban network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes in a city's transportation network. To prioritize road maintenance checks, they need to assess all active bidirectional connections between distribution hubs. Calculate the total number of roads that need to be evaluated to ensure seamless last-mile delivery operations."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a city's transportation network. Each distribution center is connected by bidirectional roads, and redundant routes must be minimized. To plan fuel-efficient delivery paths, how many direct road connections exist between these centers in total?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery efficiency and minimize redundant routes, a logistics company aims to assess the current road network's connectivity. How many bidirectional road segments exist that need to be evaluated for potential expansion or consolidation to streamline regional distribution?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and reduce redundant maintenance costs for a city's transportation network, the planning department needs to calculate the total number of bidirectional road connections available. How many maintenance vehicles should be deployed if each vehicle is responsible for servicing exactly 3 road segments?  \n\n注：问题保持了自然业务场景（物流配送优化与道路维护），通过维护车辆部署需求隐式要求边计数（总边数÷3），仅关注节点连接关系，且核心算法只需计算边数。英文问句在单句中完成，其余背景信息作为前置条件。"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce fuel costs, a logistics company needs to assess all available road connections in their service network. How many bidirectional roads exist in the current transportation system to determine efficient route planning?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes between cities, a logistics company needs to assess the complexity of their current transportation network where distribution centers are connected by bidirectional roads. How many unique road segments exist in this network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce fuel consumption, a logistics company needs to assess the current road network's complexity. How many bidirectional roads exist between the distribution centers and delivery points in their transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and reduce transportation time between package distribution hubs, the network represents hubs as nodes and available roads as connections. Calculate the total number of bidirectional delivery routes currently operational in this network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the transportation network connects distribution centers (nodes) via two-way roads. If each road represents a direct path between two centers, how many total bidirectional road segments must be maintained in the current network to ensure full coverage of all possible delivery routes?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the urban transportation network connects multiple warehouses and customer hubs through bidirectional roads. Before implementing route efficiency algorithms, the first step is to assess existing infrastructure. Calculate the total number of bidirectional road segments currently available in this network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by evaluating all possible road connections in the current transportation network. To determine the maximum number of direct pathways available, how many bidirectional road segments exist that connect different nodes?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes in a city's transportation network by determining the total number of direct bidirectional road connections available. How many road segments need to be considered for potential route efficiency improvements?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery efficiency in a metropolitan area's logistics network, where each warehouse is connected to multiple distribution points via bidirectional roads, how many total road connections need to be assessed to ensure seamless route planning between all facilities?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package delivery routes between regional sorting centers, a logistics company needs to assess the connectivity of their transportation network where each bidirectional road represents a direct delivery corridor. How many total delivery corridors currently exist between these facilities to determine potential route consolidation opportunities?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To enhance delivery efficiency for a logistics company, the operations team needs to evaluate the current road infrastructure used for cargo distribution. How many bidirectional road connections exist in the transportation network that directly enable route optimization between distribution centers?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel delivery routes and reduce transit time, a logistics company needs to assess the total number of direct bidirectional road connections between distribution hubs in their urban network. How many such road links currently exist to serve as the baseline for route planning?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by evaluating direct road connections between storage hubs. To determine potential fuel savings from route consolidation, how many bidirectional maintenance-monitored road segments exist in their transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes and reduce redundant paths, a logistics company needs to assess the current road network. How many bidirectional road connections exist between their distribution hubs in total?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel delivery routes between regional distribution hubs, a logistics company needs to assess the current infrastructure. How many bidirectional road connections exist in the transportation network to determine potential efficiency upgrades for seamless cargo transfers?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "As a logistics company aims to optimize delivery routes in an urban distribution network where nodes represent delivery hubs and edges represent direct two-way roads between them, how many unique road connections must be analyzed to ensure efficient path planning across the entire system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes in the urban transportation network, a distribution company needs to assess the total number of bidirectional road segments available between key delivery hubs. What is the exact count of operational road connections required to minimize redundant path evaluations during route planning?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery route planning and minimize fuel costs, a logistics company needs to determine the complete road connectivity in their regional distribution network. How many bidirectional road connections must be evaluated when designing their daily delivery circuits?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery efficiency, a logistics company is analyzing their urban road network connectivity. What is the total count of bidirectional roads connecting package distribution hubs that need urgent maintenance to prevent holiday season delays?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and reduce fuel consumption, a transportation company needs to evaluate the efficiency of their current road network. How many bidirectional road connections exist in this network, which directly impacts route redundancy and maintenance planning?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and minimize redundant trips, the city's transportation department needs to know how many bidirectional road connections exist between distribution hubs. Calculate the total number of bidirectional roads in the current network to determine possible direct shipment pathways."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes in a city's transportation network where each road is bidirectional. To minimize shipment delays, they need to evaluate all valid pathways between distribution hubs. How many two-way road connections must be inspected to ensure full coverage of current delivery routes?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package distribution routes and allocate maintenance resources efficiently, calculate the total number of bidirectional road connections between distribution hubs in the urban logistics network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To enhance last-mile delivery efficiency in a metropolitan area, a logistics company is analyzing the city's road network where each connection represents a two-way street. What is the total number of bidirectional road segments that need to be evaluated for potential route optimizations?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes between distribution centers connected by bidirectional roads. To allocate sufficient maintenance resources for peak season, they need to determine the total number of existing road connections requiring upgrades. How many bidirectional road segments must be evaluated in their current network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and minimize redundant paths, a company needs to evaluate the total number of active two-way road connections available in their transportation network. How many directly traversable bidirectional roads exist in this system for efficient route planning?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce redundant paths, a logistics company needs to assess the current road network's connectivity. How many bidirectional roads require maintenance checks to ensure all possible delivery pathways are operational?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "Calculate the total number of bidirectional roads in the current transportation network to determine how many potential delivery routes need evaluation for optimizing logistics efficiency."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package distribution routes and minimize fuel costs, how many bidirectional road connections exist in the urban delivery network that require evaluation for potential route consolidation?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing its regional delivery network by eliminating redundant routes between cities and towns. To ensure accurate fuel and time estimates for all possible delivery paths, what is the total number of bidirectional roads that currently exist in the transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a city's transportation network. To ensure efficient coverage, they need to calculate the total number of available bidirectional road connections between distribution hubs. How many road links should be considered in their current network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce maintenance costs, a logistics company needs to assess the connectivity between their warehouses and maintenance facilities. Calculate the total number of bidirectional roads connecting all warehouses and maintenance facilities in the transportation network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package delivery routes and reduce redundant transportation costs, a logistics company needs to evaluate the complexity of their urban road network. How many bidirectional road connections must be maintained to ensure full coverage of all distribution centers while eliminating unnecessary detours?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In order to optimize package delivery routes and reduce transportation time, a logistics company needs to evaluate all possible path combinations in the current traffic network. Calculate the total number of bidirectional roads that need to be considered for route planning."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and minimize redundant travel time, a logistics company needs to determine the total number of bidirectional road connections available in the city's transportation network. How many active road links must be accounted for in the current infrastructure?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery efficiency, a company needs to assess the total number of bidirectional road connections between all distribution hubs in a city. Calculate the current count of roads requiring maintenance in the network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to streamline regional delivery routes by analyzing bidirectional road connections between urban hubs. To optimize fleet deployment, calculate the total number of critical road connections that need to be prioritized for maintaining seamless inter-city freight transportation."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes, a city's transportation department needs to determine the total number of bidirectional road connections available in their network. How many road segments require maintenance checks to ensure uninterrupted cargo distribution?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline parcel distribution in a metropolitan area, a logistics company aims to eliminate redundant routes while ensuring all distribution centers remain connected. What is the total number of bidirectional road links requiring maintenance checks across their current transportation grid?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and reduce transportation time, a delivery company needs to assess the connectivity of their service network. How many bidirectional road connections exist in the traffic network used for their operations?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize same-day delivery routes for a metropolitan area, a logistics company needs to assess their current urban distribution network. How many bidirectional road connections exist between distribution centers that must be included in calculating the minimum fuel-efficient transportation pathways?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics network where delivery hubs are interconnected by roads, optimizing package distribution routes requires knowing the total number of direct connections. How many bidirectional roads exist in the current network to determine feasible delivery pathways?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to identify all functional road connections to allocate rescue teams effectively. How many bidirectional roads require priority maintenance checks in the transportation network to ensure seamless disaster management?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In order to optimize emergency vehicle routes during urban disasters, the city's transportation department needs to evaluate the redundancy of critical road connections. How many bidirectional road segments exist in the current network to ensure sufficient alternative paths for ambulances and fire trucks?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency evacuation routes during disasters, the urban planning committee requires the total number of two-way road connections between critical infrastructure points in the city's transportation grid. What is the exact count of bidirectional edges that must be analyzed for redundancy assessment?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, the city's disaster management department needs to inspect all critical evacuation routes connected by bidirectional roads. To ensure optimal resource allocation, how many unique two-way road segments must be surveyed in the designated emergency network spanning key facilities and shelters?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle coverage during urban disasters, the city's transportation department needs to assess critical road connectivity. Calculate the total number of bidirectional road connections in the current network to identify how many vital routes must be prioritized for maintenance and rapid response access."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, how many bidirectional road connections exist between critical facilities like fire stations and medical centers to ensure minimum network redundancy during crises?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, a city needs to optimize evacuation routes by evaluating road network redundancy. How many bidirectional road connections exist in the transportation system to ensure sufficient path alternatives during crisis scenarios?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the aftermath of a major earthquake, urban emergency responders need to quickly assess operational road connections between shelters. If nodes represent emergency shelters and edges indicate accessible two-way routes unaffected by debris, calculate the total number of usable bidirectional pathways to prioritize resource distribution and evacuation plans."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "After a major earthquake disrupted urban infrastructure, emergency crews must map all functional road links between rescue hubs and medical stations to coordinate relief efforts. What is the total number of bidirectional roadway connections available in the critical emergency response network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, analyzing road network connectivity ensures efficient ambulance routing during crises. To prioritize infrastructure upgrades near a major hospital, calculate the total number of bidirectional road connections within its 2-kilometer coverage zone."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "Following a recent earthquake, city planners need to assess the coverage of emergency evacuation routes represented as bidirectional roads between shelters. Calculate the total number of active road connections available for coordinating rescue operations across the urban network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": " To optimize emergency response routes during potential disaster scenarios, the city's transportation department needs to assess the total bidirectional road connections in critical zones. How many direct roadway links exist between all designated emergency shelters and medical facilities in the network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to optimize patrol routes for rescue vehicles by identifying all bidirectional road connections between critical infrastructure nodes. To ensure full coverage during crises, how many unique road segments (edges) exist in the transportation network connecting these facilities?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To ensure efficient deployment of emergency services during a citywide power outage, the disaster response committee must verify the total number of accessible road links between vital facilities like hospitals and fire stations. How many bidirectional road connections exist in this critical infrastructure network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, evaluating road network capacity is critical for evacuation route optimization. To determine the maximum concurrent evacuation pathways, how many bidirectional road connections exist in the current transportation system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency ambulance routing during urban disasters, the crisis management team needs to identify critical transportation links. How many bidirectional road connections exist in the current traffic network to support rapid emergency response planning?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, rescue teams need to prioritize routes with redundant connectivity to ensure access during disasters. If the city's emergency vehicle network is represented as interconnected nodes, how many bidirectional road segments exist in total to support critical infrastructure evacuation pathways?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, the city's critical infrastructure network connects hospitals, fire stations, and evacuation centers through bidirectional roads. To optimize resource allocation during crises, how many total road connections exist between these emergency service nodes in the current transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": " To optimize emergency evacuation routes during a flood scenario, city planners need to verify the total number of bidirectional road connections available across all residential zones. Calculate the exact count of functional road links in the urban transportation network to ensure efficient resource allocation."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In order to optimize emergency evacuation routes for a metropolitan area, the city's disaster management team needs to verify the redundancy of critical road connections. How many bidirectional road segments exist between designated emergency shelters and hospitals to ensure ambulances have sufficient alternative routes during disasters?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency resource distribution during power outages, urban planners must verify redundancy in critical infrastructure connections. Calculate the total number of bidirectional service roads linking backup power stations and emergency shelters in the disaster response network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, assessing route redundancy for ambulance networks is critical. To optimize medical evacuation efficiency during crises, how many bidirectional road connections exist between major hospitals in the current transportation network, as this directly impacts alternative path availability during emergencies?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize urban emergency response planning, the city needs to evaluate road connectivity coverage between critical facilities like fire stations and hospitals. How many bidirectional road connections exist in this network to ensure efficient emergency vehicle routing during disasters?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to know the total number of bidirectional road links between critical facilities like hospitals and fire stations to ensure efficient disaster routing. How many such connections exist in the current transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance emergency vehicle routing efficiency during critical incidents, city planners must evaluate the redundancy of evacuation pathways between major hospitals and disaster relief centers. How many bidirectional road links currently connect these vital nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response capabilities, the city needs to evaluate the connectivity of critical evacuation routes. During a crisis, emergency vehicles must navigate seamlessly between disaster sites and hospitals. How many bidirectional road links exist in the central emergency zone’s transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During city-wide emergencies, efficient evacuation relies on interconnected fire stations and emergency shelters. To optimize response times, how many critical road connections must exist between these facilities to ensure all evacuation routes remain uninterrupted?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the aftermath of a city-wide flood, emergency responders need to verify connectivity for resource distribution. The transportation network represents accessible roads between evacuation hubs. Calculate the total number of currently passable road connections to determine if emergency resource distribution coverage meets city-wide requirements."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize ambulance routes during emergencies, the city's emergency response team needs to assess critical infrastructure in the downtown district. How many bidirectional road connections exist between key facilities like hospitals, fire stations, and emergency shelters to ensure efficient disaster evacuation planning?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, assessing the reliability of evacuation routes requires evaluating all bidirectional road connections in the city's network. To prioritize infrastructure inspections, how many bidirectional road segments must be reviewed to confirm their capacity for emergency vehicle access during disasters?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": " Following a major earthquake, urban emergency teams must rapidly assess functional road connections to deploy rescue crews and supplies. How many undamaged bidirectional roads remain in the transportation network to ensure timely critical response operations?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a flood-prone district, emergency management teams need to prioritize evacuation route optimization. To assess the road network's capacity for simultaneous emergency vehicle deployment, calculate the total number of bidirectional road connections between critical infrastructure nodes in this area."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, the city's transportation department needs to assess the redundancy of road networks connecting critical facilities like hospitals and fire stations. How many bidirectional road segments require regular maintenance to ensure key facilities' accessibility during emergencies?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, firefighters need to determine the total number of direct bidirectional road connections between stations to optimize emergency routes. How many such connections exist in the current network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, a newly established hospital needs to evaluate road connectivity efficiency for ambulance routing optimization. Given the bidirectional road network linking critical facilities and residential zones, how many road segments exist in total that directly connect neighboring nodes within this transportation system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "Following a recent earthquake, the emergency management team needs to assess the connectivity of the city's road network to ensure sufficient urgent evacuation routes. How many bidirectional road segments exist between critical infrastructure nodes (hospitals, shelters, and fire stations) in the current transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routing during urban disasters, the city's crisis management team needs to assess road network redundancy. Calculate the total number of bidirectional road connections in the current transportation grid to determine available detour options for critical infrastructure access."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routes during flood evacuations, the city needs to assess the reliability of connections between critical infrastructure. How many bidirectional road links currently exist between hospitals, fire stations, and shelters in the transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response plan, rescue teams need to quickly identify all accessible routes between critical infrastructure points. Calculate the total number of bidirectional roads available for emergency vehicle deployment to ensure efficient coverage during urban crisis scenarios."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for flood evacuation, authorities need to assess the total number of bidirectional road connections available between critical shelters and hospitals. How many edges exist in this transportation network to ensure sufficient route redundancy for emergency vehicles?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routes during urban disasters, the city's emergency response team needs to assess current road network connectivity. Calculate the total number of bidirectional road connections available in the transportation system to determine possible evacuation paths and resource distribution channels."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "After a recent earthquake, the city's emergency management team needs to assess the connectivity of the current road network to ensure all affected zones have viable evacuation routes. How many bidirectional roads exist in the operational transportation network to verify coverage for rescue operations?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "Calculate the total number of bidirectional road connections in the urban emergency response network to ensure all critical evacuation routes have sufficient redundancy during large-scale disasters."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "Following a recent earthquake, emergency responders need to assess the integrity of bidirectional roads connecting critical infrastructure nodes in the affected urban area. How many bidirectional road segments currently exist in the active transportation network to prioritize rescue route planning?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, efficient road connectivity ensures rapid deployment of rescue teams. To validate network redundancy, calculate the total number of bidirectional roads available across all critical infrastructure zones in the transportation system."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, evaluating the connectivity of critical infrastructure is essential. To optimize ambulance routes between emergency shelters and hospitals, how many bidirectional road connections exist in the current transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize urban emergency evacuation routes, city planners need to assess critical infrastructure connectivity. Calculate the total number of bidirectional roads in the current traffic network to evaluate emergency evacuation route capacity, ensuring efficient deployment of rescue vehicles during crises."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, efficient evacuation routes rely on accurate road connectivity data. During a recent citywide safety audit, emergency shelters and hospitals were mapped as nodes. To optimize disaster recovery protocols, how many bidirectional roads exist between critical facilities in this network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle deployment during urban emergencies, the disaster response team needs to verify the total number of accessible bidirectional routes in the central district's transportation grid. What is the exact count of road connections they must account for in their contingency plans?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, analyzing road connectivity is critical for efficient resource dispatch. If traffic disruptions caused by recent flooding have altered bidirectional routes between districts, calculate the total number of active road connections remaining in the city's transportation network to determine emergency vehicle coverage capacity."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "Following a recent earthquake, urban emergency planners must verify the total number of intact two-way road connections to ensure sufficient evacuation routes for critical facilities like hospitals and shelters. Calculate the current operational road segments in the transportation network to validate emergency accessibility compliance."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "Following a major earthquake, urban emergency response teams need to map all functional road connections between district hubs to coordinate relief efforts. Given that each operational road represents a critical pathway for aid delivery, calculate the total number of active bidirectional routes remaining in the city's transportation network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize urban emergency evacuation routes, the city council needs to assess the current transportation network's capacity. How many bidirectional road connections exist in the system to ensure sufficient pathways for emergency vehicles during critical incidents?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "After a major flood disrupted urban connectivity, emergency responders must verify if backup evacuation routes provide sufficient pathway redundancy between all residential zones and relief centers. Compute the total number of bidirectional road links available in the restored network to confirm emergency accessibility compliance."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response capabilities during critical incidents, the city needs to evaluate the total number of bidirectional road connections available for rapid deployment of rescue teams between key infrastructure points. Calculate the current count of maintained roads in the network to ensure seamless emergency vehicle routing."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency evacuation routes during disasters, the city needs to assess critical infrastructure connectivity. How many bidirectional road segments must be maintained between fire stations, hospitals, and designated shelters to ensure all emergency facilities remain mutually reachable?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to identify redundant evacuation routes between critical facilities like hospitals and shelters. How many bidirectional road connections currently exist in the infrastructure network to ensure backup pathways during disasters?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency evacuation routes for urban disaster response, how many bidirectional road connections exist between critical facilities like hospitals, shelters, and supply centers that must be included in contingency planning?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routes for fire stations and hospitals during crises, calculate the total number of bidirectional road connections in the transportation network, ensuring critical facilities are reachable within mandated response times."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency resource distribution and evacuation routes during flood season, calculate the total number of active bidirectional road connections in the city's transportation network that are critical for maintaining accessibility to hospitals and shelters."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routes during urban evacuations, the city's emergency response team needs to assess road network redundancy. Calculate the total number of bidirectional roads available for simultaneous rescue operations and civilian evacuation across all connected zones."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, after establishing bidirectional roads between hospitals, fire stations, and shelters to ensure critical connectivity during disasters, how many total road segments exist in this emergency logistics network to validate redundancy for rescue vehicle routing?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To ensure efficient medical evacuation routes during urban emergencies, disaster response planners need to map all bidirectional roadway links between critical infrastructure points. What is the total number of road connections requiring emergency maintenance prioritization in the city's core zone?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, a city's critical infrastructure network connects hospitals, fire stations, and evacuation shelters through bidirectional roads. To optimize emergency vehicle routing during disasters, calculate the total number of direct road connections existing between these facilities in the network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "As part of urban emergency response planning, the city's fire department needs to evaluate connectivity between critical infrastructure nodes to ensure efficient disaster routing. How many bidirectional road connections must be verified in the transportation network to confirm full coverage of evacuation routes for flood-prone areas?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "问题：To optimize emergency vehicle routes during urban crises, the city's emergency management team needs to assess critical infrastructure connectivity. Calculate the total number of bidirectional road connections between all designated emergency shelters and hospitals in the transportation network to verify if redundancy meets minimum safety thresholds."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "问题：To optimize ambulance routes during emergencies, the city's critical facilities (hospitals, fire stations, and shelters) are connected by bidirectional roads. How many direct road connections exist between these facilities to ensure redundant emergency access?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "问题：To optimize emergency vehicle routing during critical incidents, the city's disaster management team needs to assess connectivity redundancy in key zones. How many bidirectional road links exist in the transportation network serving as potential alternative routes for first responders when primary arteries are blocked?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": " To optimize evacuation routes during urban flood emergencies, the emergency management team needs to assess functional road connections between critical facilities. Calculate the total number of bidirectional road links currently available between shelters, hospitals, and fire stations that are not submerged by floodwaters."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "Following a recent earthquake, urban emergency planners need to assess critical road connections for rescue vehicle routing. How many bidirectional road segments exist in the city's transportation network to ensure all evacuation routes remain accessible?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": " During urban emergency response planning, a city needs to ensure redundant road connectivity between critical facilities like hospitals and fire stations. If the transportation network links these key nodes through bidirectional routes, how many road segments must be maintained to guarantee direct or alternative access for emergency vehicles?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "问题：In order to optimize urban evacuation routes during emergencies, the city's emergency response team needs to calculate the total number of bidirectional road connections between critical facilities like hospitals and shelters. How many road segments require priority maintenance to ensure full connectivity across these essential nodes?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "问题：To optimize emergency vehicle routes during disasters, the city's emergency management team needs to know the total number of direct road connections between critical facilities such as hospitals, fire stations, and shelters. How many such connections exist in the current transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routes during urban disasters, the city's crisis management team needs to assess current road connectivity. Calculate the total number of available bidirectional road segments in the transportation network that can simultaneously support multiple rescue vehicles, ensuring no critical connections are overlooked in evacuation planning."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "问题：To optimize emergency evacuation routes during urban disasters, the fire department needs to assess critical infrastructure connectivity. Based on current bidirectional road links between emergency shelters and hospitals, calculate the total number of bidirectional roads that must be prioritized in contingency planning to ensure efficient resource allocation."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency evacuation routes during disasters, the city's emergency management team needs to assess direct road links between critical facilities. How many bidirectional road connections exist between all designated fire stations and hospitals in the urban crisis response network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Urban emergency response planning",
+    "answer": "问题：To optimize emergency vehicle routes during critical incidents, the city's emergency management team needs to assess connectivity redundancy in the transportation grid. How many bidirectional road connections exist in the current network to ensure sufficient alternative pathways for first responders?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In order to optimize public transit scheduling during peak hours, the city plans to adjust bus route frequencies based on current network connectivity. Calculate the total number of direct road segments connecting adjacent bus stops across all active routes, as this determines the minimum infrastructure required to maintain seamless transfers between lines."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour bus frequency adjustments in the public transit network, the scheduling team requires data on current infrastructure connectivity. Calculate the total number of bidirectional road segments directly linking stations across the entire network to determine potential route prioritization."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "As part of optimizing public transit schedules in a city with frequent bus route overlaps, the planning department needs to verify the total number of direct road links shared by multiple bus lines. What is the exact count of bidirectional roadway segments connecting transit stops that are jointly utilized by at least two different bus routes?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling efficiency, the city needs to evaluate the connectivity of its current bus network. Calculate the total number of bidirectional road segments connecting stations to determine potential route redundancy."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network undergoing route optimization to reduce transfer times, the scheduling team needs to assess the current infrastructure complexity. Calculate the total number of bidirectional road connections between all active bus and tram stops to determine if current vehicle allocation matches the network's operational scale."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour service efficiency, the public transit department needs to assess the network's connectivity based on active bus routes. How many operational road segments exist between designated stops in the current system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour bus scheduling, the public transit department needs to evaluate route redundancy in the current network. What is the total number of bidirectional road segments directly connecting bus stops within the central business district?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour scheduling efficiency in the public transit network, transportation planners need to evaluate the current infrastructure connectivity. Calculate the total number of bidirectional road segments in the current network to establish a baseline for route coordination adjustments."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "问题：To optimize public transit scheduling during peak hours, the city's transportation department needs to assess connectivity efficiency. How many bidirectional rail segments exist between subway stations in the current network to ensure adequate maintenance crews are allocated?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize the public bus schedule during peak hours, the city's transportation department needs to assess the current network's connectivity. How many direct bidirectional bus routes exist between the stops in the system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling and minimize transfer wait times, the city's transportation team needs to evaluate route connectivity. How many bidirectional road links currently exist between all designated bus and tram stops in the operational network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "问题：To improve public transit efficiency, the city plans to optimize bus frequencies based on connection density. During route network analysis, how many road segments between bus stops must be inspected to prioritize maintenance and ensure timely scheduling adjustments?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "问题：To optimize maintenance scheduling during off-peak hours, the public transit network needs to determine the total number of direct track segments between stations. How many track segments require inspection based on the current connections?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "问题：To optimize the public bus schedule during peak hours, the transit authority needs to assess the network's connectivity. How many direct bidirectional road connections exist between the bus stops in the current system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "问题：To optimize the frequency of buses during peak hours, the public transit department needs to know the total number of direct bidirectional routes connecting all stops in the city. How many such routes exist in the current network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "问题：To improve public transit scheduling accuracy and ensure efficient route planning during peak hours, the city's transportation department needs to evaluate the current bus network infrastructure. How many bidirectional road connections exist between all designated transit hubs and stops in the active network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "问题：To improve public transit scheduling efficiency during peak hours, the city needs to verify the total number of operational route linkages between stations that enable direct transfers. How many such bidirectional connections exist in the current network to ensure timely vehicle allocation?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "Following recent adjustments to the public bus routes aimed at reducing transfer times between key residential areas and downtown hubs, calculate the total number of bidirectional road segments in the updated network to verify if the operational vehicle allocation meets peak-hour frequency targets."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit route scheduling efficiency, the city's transportation department needs to assess the current network connectivity. Calculate the total number of bidirectional road segments between all connected transit hubs to determine potential route redundancy."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "A public transit agency is optimizing their bus network to reduce overlapping routes and improve connectivity in suburban areas. Before finalizing the new express line plan, they need to determine how many feeder road segments currently link residential zones to main transit corridors. Calculate the total number of direct road connections between residential zone nodes and arterial transit nodes in the existing network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "问题：To improve efficiency in the public transit network, planners need to balance vehicle allocation based on the total number of bidirectional rail links between stations. How many direct rail connections currently exist across the entire system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To coordinate vehicle schedules and reduce congestion delays, the public transit authority must evaluate connection points between stations. Calculate the total number of bidirectional road segments currently linking all bus terminals and transit hubs in the network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit schedules during peak hours, the city's transportation department needs to assess current infrastructure connectivity. How many track segments exist between subway stations in the network to determine if additional routes are required to reduce transfer bottlenecks?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "问题：To optimize peak-hour bus frequency and reduce transfer delays, the public transit scheduling team needs to determine how many direct bidirectional road links exist between stations in the current network. What is the total number of these operational connections?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "问题：To improve public transit scheduling efficiency and minimize redundant routes, the city's transport planners need to assess direct bidirectional connections between all transit hubs. What is the total number of edges representing these direct road links in the current network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "Following a recent expansion of the public transit network to reduce commute times, the city's transport authority needs to verify the updated bidirectional road connections between bus stations. How many bidirectional road connections currently exist in the optimized network to ensure accurate scheduling of bus frequencies?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "问题：To optimize peak-hour bus frequencies, the public transit authority needs to determine the total number of bidirectional road segments in the current network. How many road segments must be considered when scheduling additional buses during rush hours?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a city's public transit network redesign, planners need to assess route connectivity for efficient bus allocation. Calculate the total number of bidirectional road segments between transit hubs to determine optimal vehicle distribution during rush hours."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during peak hours, the city's bus network requires analyzing connection efficiency between key stops. Given the bidirectional routes, how many total road segments exist between interconnected stops that need to be evaluated for capacity planning?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve peak-hour service efficiency, the public transit agency plans to adjust bus frequencies based on connection density in the updated network. Calculate the total number of bidirectional roadway links between all active bus stops and metro stations."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public bus schedules during peak hours, the transit authority needs to assess the current network's connectivity. Calculate the total number of bidirectional road connections in the adjusted public transit system to determine if key areas are adequately linked for efficient route planning."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour public transit scheduling, the transport department needs to know how many direct road connections exist between all operational bus exchange hubs in the network. Calculate the total number of these bidirectional roadway links."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "As part of optimizing public transit schedules in a metropolitan area, the transportation authority needs to evaluate the current connectivity of bus routes. How many direct road connections exist between stops in the network to determine optimal vehicle frequency allocation?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize bus route coverage and maintenance frequency, the scheduling team needs to determine the total number of bidirectional road connections present in the current public transit network. How many bidirectional roads exist in the entire system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit efficiency during peak hours, the city plans to adjust bus routes based on current connectivity. Calculate the total number of direct road connections between bus stops in the existing network to determine resource allocation priorities."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "After a recent public transit network reorganization aimed at optimizing route efficiency between key residential and commercial hubs, how many bidirectional rail segments must be monitored daily to ensure full coverage of the updated system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer efficiency during peak hours, the city's public transit authority added new bus stops and adjusted routes between key interchange stations. After the changes, how many direct road connections exist between all stops in the updated network that enable bidirectional travel for buses? Calculate the total number."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit efficiency, the city plans to consolidate overlapping bus routes into a unified network. After merging the Blue Line's 8-stop circular route with the Green Line's 12-stop radial route that shares 3 transfer stations, how many bidirectional road segments exist in the current integrated network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "After analyzing the public transit network's bidirectional routes, the scheduling team needs to calculate the total number of direct road connections between stops to optimize overlapping bus lines. How many bidirectional edges exist in the current network to support efficient route integration and frequency adjustments?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour public transit scheduling, the city needs to verify the total number of direct bidirectional road links between stations. What is the exact count of operational road segments connecting adjacent transit nodes in the current network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit efficiency during peak hours, the city's transportation department needs to assess connectivity between key transit hubs. Calculate the total number of active bidirectional routes currently operational in the metro bus network, where each route directly links two major interchange stations."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour bus frequencies, the city's public transit authority needs to determine the total number of bidirectional road connections between all existing stations in the network. How many such physical road links require coordinated scheduling?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour operational efficiency in the public transit network, the scheduling team needs to determine the current number of direct bidirectional road connections between bus stops. How many such edges exist in the network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour service frequency on the public bus network, the scheduling team needs to determine the total number of direct route connections between stops. Calculate the current count of bidirectional road links in the operational network to allocate vehicles efficiently."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during peak hours, the transportation department needs to assess current network connectivity. How many bidirectional road connections exist between stations in the metropolitan area's bus network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit coverage after expanding a new residential zone, the city plans to adjust bus route connections. Each route change involves adding or removing bidirectional roads between stops. Determine the total number of bidirectional road connections required to maintain current network integrity during the rescheduling."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize the public transit schedule during peak hours, the city's transportation department needs to assess the current network connectivity. If each bus route is represented as a bidirectional link between stops, calculate the total number of direct road connections required to maintain seamless transfers across all major transit hubs."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve peak-hour service efficiency, the transit authority wants to verify the total number of active bidirectional bus routes connecting key transfer hubs. How many operational road links exist in the current public transit network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "Following the recent integration of two metro lines and the addition of new transfer stations to improve connectivity, what is the total number of bidirectional rail segments required to maintain operational efficiency in the updated public transit system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "After the city's public transit agency restructured bus routes to improve scheduling efficiency, they need to verify connectivity between transfer hubs. Calculate the total number of direct bidirectional road segments connecting all active subway stations and bus terminals in the updated network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve peak-hour bus frequency adjustments, the public transit scheduling team needs to determine how many direct road connections exist between transfer hubs in the current network. Calculate the total number of these bidirectional road links to ensure efficient vehicle distribution across critical junctions."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour scheduling in a city's public bus network, planners need to assess the current infrastructure connectivity. If each bidirectional route between stations is treated as an active operational link, calculate the total number of active bus route segments required to maintain seamless transfers across the entire transit system."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "After a recent adjustment to the public bus routes aimed at optimizing peak-hour scheduling, the transit authority needs to verify the current network's connectivity. Calculate the total number of bidirectional road segments directly connecting bus stops to ensure adequate coverage across all residential and commercial zones."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve scheduling efficiency in the urban public transit network, the transport department needs to verify the total number of bidirectional road segments connecting bus stops for real-time route optimization. How many such maintenance-critical connections must be prioritized to prevent delays during peak hours?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve the efficiency of public bus scheduling during peak hours, the transit authority needs to assess the current connectivity of their network. How many bidirectional road segments exist between bus stops that must be factored into route optimization calculations?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during a citywide festival, the transportation department needs to assess the current bus network's connectivity. If each bidirectional road segment between stops represents an edge, how many such edges must be inspected for maintenance prioritization to ensure all routes remain operational?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during peak hours, the transport authority needs to assess connection efficiency between interchange stations. Calculate the total number of direct road connections maintained across all bus stations in the current network configuration."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour scheduling efficiency, the public transit authority needs an accurate count of all active bidirectional bus routes connecting key districts in the expanding metropolitan area. What is the total number of operational bus routes currently maintained in this public transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize late-night public transit schedules and ensure adequate coverage across the city's bus network, the transportation department needs to evaluate the current infrastructure. How many bidirectional routes exist between stations in the network, as this directly impacts the allocation of additional overnight services?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize the frequency of public bus routes and minimize transfer delays during peak hours, the transit authority needs to assess the connectivity of the current network. Calculate the total number of bidirectional road segments directly linking bus stops to determine baseline infrastructure capacity."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve public bus transfer efficiency during peak hours, the transit authority needs to assess current road linkages between major interchange stations. Calculate the total number of active bidirectional bus corridor connections in the operational network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling efficiency, the city's transportation department needs to assess the total number of operational route segments between stations. How many direct bidirectional road connections exist across all active public transit routes in the current network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour service frequency, the public transit authority needs to evaluate the current network's connectivity. How many bidirectional road segments exist between stops in the active bus routes?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during peak hours, the city needs to assess connectivity between subway lines for efficient route planning. Calculate the total number of bidirectional track segments directly linking distinct subway lines at shared transfer stations in the current network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To streamline the public transit network scheduling and reduce overlapping routes, city planners need to evaluate the system's connectivity. Calculate the total number of bidirectional road links between all designated transit stops in the current network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour bus frequency adjustments in the public transit network, the scheduling team needs to evaluate the current infrastructure connectivity. Calculate the total number of bidirectional road connections across all transit hubs to determine resource allocation priorities."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize resource allocation for public transit during rush hours, the city's transportation department needs to assess current infrastructure connectivity. Calculate the total number of bidirectional road connections in the public transit network to determine baseline operational requirements."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during peak hours, the city's transportation team needs to assess route connectivity. Calculate the total number of bidirectional road segments currently operational in the public bus network to determine efficient vehicle allocation across interchange hubs."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "Following a recent public bus route optimization in the city, transit planners need to verify the total number of bidirectional connections between stops across all active routes. How many unique two-way road segments must be maintained in the updated network to ensure seamless transfers and operational efficiency?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during peak hours, the city's transportation department needs to assess current route connectivity. Calculate the total number of active bidirectional bus route connections between stations in the central district's network, as this directly impacts fleet allocation and service frequency planning."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling and ensure efficient coverage across the city, the transportation department needs to calculate the total number of bidirectional route connections in the current bus network. How many such connections exist in the system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve scheduling efficiency and reduce transfer delays in the public bus network, the transit agency needs to assess the total number of direct road connections between stops. Calculate the current number of bidirectional route segments available across the entire network for optimal resource planning."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling efficiency, the city merged several overlapping bus routes and added new connections between underserved neighborhoods. Calculate the total number of bidirectional road segments required for daily bus operations in the updated network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize the public transit schedule for a growing metropolitan area, the transportation department needs to assess the current network's efficiency. How many bidirectional bus routes exist between key districts to ensure timely connectivity during peak hours?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer efficiency during peak hours, the public transit scheduling team needs to determine the total number of direct connections between different metro lines in the network. How many such connections exist?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "After recent adjustments to the public transit network, including new routes and discontinued services, the city's transportation department needs an updated count of active bidirectional road connections between stops. Calculate the total number of valid two-way bus routes currently operational in the network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during peak hours, the city's transportation department needs to assess current road infrastructure between key transit hubs. Calculate the total number of bidirectional road connections required to evaluate if existing routes can support additional buses without congestion."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "After merging two bus routes to optimize morning peak schedules, the public transit department needs to verify connectivity efficiency. How many direct road connections exist between consecutive stops in the consolidated route?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize the public bus timetable and reduce overlapping routes, the transit authority needs to determine the total number of direct two-way road connections between all bus terminals in the network. Calculate how many such road segments exist for efficient vehicle scheduling?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit schedules during peak hours, the city needs to assess the current connectivity of bus transfer hubs. How many direct bus route connections exist in the network that allow passengers to transfer between hubs without intermediate stops?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company is analyzing their parking spot network coverage to optimize dockless vehicle availability. Given the bidirectional roads connecting these spots form an undirected graph, calculate the total number of bidirectional road connections between all parking spots."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing their e-scooter redistribution strategy by analyzing station connectivity in downtown. To balance vehicle availability, their logistics team needs to calculate the total number of direct road connections between stations. How many bidirectional pathways exist in this network for efficient fleet deployment?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize daily operations for shared e-scooter rebalancing, the maintenance team needs to verify how many bidirectional road segments directly connect parking hubs in the city's mobility network. What is the total number of active roadway links available for scooter redistribution between these designated stations?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize maintenance routes for a shared e-scooter service's urban stations, the operations team needs to determine the total number of bidirectional roads connecting these stations. How many edges exist in this transportation network representing all operational connections?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution during peak hours, a shared car platform needs to determine how many bidirectional road connections exist between stations in their service network. Calculate the total number of these direct inter-station roads."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution for a bike-sharing platform, the operations team needs to determine how many direct bidirectional routes exist between docking stations in the urban network. Calculate the total number of roadway connections available for coordinating bike transfers."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize bike redistribution for a shared mobility platform, the operations team needs to assess connectivity in the downtown area's station network. How many bidirectional road links exist between these stations?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution and reduce rider detours, a shared e-moped platform needs to assess the current connectivity of their station network. How many bidirectional road connections exist between all stations in their system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution efficiency, a shared mobility platform needs to determine how many direct bidirectional routes connect their service hubs in the urban core. How many road segments currently link these hubs within the city's main transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle dispatch and maintenance efficiency for a shared e-scooter service, the platform needs to determine how many bidirectional road segments connect their charging stations and parking hubs. What is the total number of bidirectional routes requiring regular maintenance in this urban mobility network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared mobility platform analyst, to optimize service coverage in the urban area, calculate the total number of bidirectional road links between all active shared e-scooter stations that currently form the operational network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize the docking station layout for shared e-bikes, a mobility platform needs to analyze connectivity in their urban network. How many bidirectional road connections exist between stations in the current transportation grid?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution for a shared mobility platform, the operations team needs to calculate the total number of bidirectional routes connecting shared e-scooter parking zones and charging stations. How many road connections exist in this transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize the scheduling efficiency of shared e-scooters across charging stations in the city, how many bidirectional road connections exist between all charging stations in the network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared mobility platform analyst, the company wants to optimize vehicle redistribution by evaluating service coverage. To determine how many bidirectional road segments directly link different service zones in the operational area, calculate the total number of direct road connections between these zones."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared electric vehicle company aims to optimize route planning by assessing road connectivity between charging stations. In their current network, how many direct bidirectional road connections exist among charging stations, which directly determines the efficiency of vehicle redistribution and charging scheduling?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle availability during peak hours, a shared mobility platform needs to assess the connectivity of their service stations. How many bidirectional road connections exist in their current network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize the availability of shared e-scooters, a mobility platform analyzed the connectivity of a downtown district's traffic network where nodes represent docking stations and edges represent bidirectional road links. What is the total number of roads present in this network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution for a shared e-scooter platform, the operations team needs to determine the total number of direct road connections between all designated parking hubs in the downtown area. How many bidirectional road links exist in the current transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared mobility platform analyst, the city's bike-sharing stations are represented as nodes, and bidirectional roads between them are edges. To optimize vehicle redistribution, calculate the total number of road connections requiring maintenance checks this month to ensure smooth transfers across all accessible stations."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To improve fleet allocation efficiency, a shared bike platform needs to determine the exact number of active rideable pathways between their parking hubs in downtown areas. What is the total count of bidirectional route connections available across their entire service network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution for a shared bike service across a city, the operations team needs to map all bidirectional routes between docking stations. How many direct road connections exist in total to ensure balanced bike availability?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing their electric scooter deployment across a city's downtown and adjacent suburbs, where each bidirectional road connects service zones. To assess coverage efficiency, calculate the total number of bidirectional road links in their current operational network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a bike-sharing system operated by a shared mobility platform, the maintenance team needs to optimize vehicle distribution across stations. Each station is connected to others via bidirectional bike lanes for rider accessibility. To plan efficient routes for rebalancing bikes, calculate the total number of direct road connections between stations in the network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, each docking station is connected bidirectionally to nearby stations within a 500-meter radius for efficient rebalancing. If stations are represented as nodes, how many direct connections exist across the entire network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution for a bike-sharing service covering multiple urban hubs, the operations team needs to assess connectivity between docking stations. Each station is linked to others via dedicated bike lanes allowing two-way travel. Calculate the total number of bidirectional routes currently maintained across the network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize the rebalancing of shared e-scooters across a city's station network, a mobility platform needs to determine how many direct bidirectional road connections exist between stations for efficient route planning. How many such connections are present in the current transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "Shared electric scooter platforms need to optimize fleet redistribution by analyzing connectivity between urban docking stations. Each bidirectional route allows scooters to be transported for rebalancing. What is the total number of transport-enabled road connections requiring daily maintenance checks across the network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize maintenance routes for shared electric scooters, the operations team needs to determine the number of direct bidirectional road connections between all charging stations in the city. Calculate the total number of edges in the current network to identify accessible maintenance pathways."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is optimizing vehicle relocation between merged operational zones in two cities. Their service network combines all existing road connections from both regions. To adjust fleet distribution, they need to calculate the total number of bidirectional road segments available across the unified transportation system. How many road links should their routing algorithm process?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution for a shared e-scooter platform, the operations team needs to know how many direct bidirectional road connections exist between parking stations in the urban network. What is the total number of roadway links available for scooter transfers across all connected stations?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared bike and e-scooter network where docking stations are interconnected through bidirectional lanes, calculate the total number of road segments requiring routine maintenance checks this month to ensure balanced vehicle distribution across all accessible stations."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution for a shared e-scooter platform, the operations team needs to determine the total number of active road connections between docking stations that require real-time monitoring. How many maintenance routes should be prepared daily to cover all direct bidirectional pathways in the current network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize route planning for maintenance teams, a shared e-scooter platform needs to determine the total number of bidirectional road connections between all service stations in the city. What is the total count of these road connections that require inspection?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing their bike-sharing network to optimize vehicle redistribution. The maintenance team needs to inspect all bidirectional road connections between stations to ensure smooth operations. Calculate the total number of road segments they must check to verify connectivity across the entire transportation network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a bike-sharing network operated by a shared mobility platform, stations are connected based on proximity and demand patterns. To optimize rebalancing routes during peak hours, the operations team needs to know how many direct road connections exist between stations. Each connection allows two-way bike transfers. Calculate the total number of bidirectional links maintained in this system."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared mobility platform analyst, calculate the number of bidirectional road connections requiring maintenance checks this month across all docking stations in the urban electric scooter network to prioritize repair crews."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution efficiency, a shared e-scooter platform needs to calculate the total number of direct maintenance routes between stations in the urban core. How many bidirectional pathways require regular inspection based on current station linkages?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company is optimizing their vehicle redistribution routes across urban stations. Their maintenance team needs to determine how many direct bidirectional pathways exist between adjacent docking stations to plan efficient repair schedules. How many road connections should their logistics team account for in total?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution efficiency, a shared car platform's dispatch team needs to determine the total number of bidirectional road connections between all service hubs in their urban operating zone. How many direct two-way road links exist in this transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize scooter redistribution efficiency for a shared mobility platform in an urban area, the operations team needs to determine the total number of bidirectional road connections available between parking hubs. Calculate the total number of roads required to fully interconnect all designated hubs in their service network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To improve service efficiency, a shared e-scooter platform wants to assess connectivity between urban hubs in their network. How many bidirectional road links currently exist between paired service zones?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared mobility platform analyzes connectivity in their bike-sharing network across downtown, where each station is linked via bidirectional bike lanes, how many unique road segments must be maintained to ensure all 35 stations remain reachable?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution for a shared e-scooter platform, the operations team needs to evaluate road accessibility between charging hubs. How many bidirectional road links exist between stations in the current network to ensure efficient battery replacement routes?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To improve maintenance efficiency for their e-scooter fleet, a shared mobility operator needs to identify how many direct road segments connect charging hubs in their downtown service area. How many bidirectional pathways require priority inspection based on the current network configuration?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle dispatch efficiency, a shared e-scooter platform needs to calculate the total number of bidirectional road connections between all service zones in their urban transportation network. What is the integer result of this edge count?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution for a shared e-scooter platform operating in downtown, the operations team needs to assess the network's connectivity. How many bidirectional road connections exist between all designated parking stations in the current transportation network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing their electric scooter deployment by analyzing the city's road network between their service hubs. To ensure efficient maintenance routes, calculate the total number of bidirectional road connections that their team must regularly inspect across all operational zones."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize e-scooter deployment and operational efficiency, a shared mobility platform needs to analyze the road network connectivity in their current service area. How many bidirectional road segments exist between charging stations in the network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution for a shared e-scooter platform, the operations team needs to know how many direct road connections exist between docking stations in the urban network. Calculate the total number of bidirectional pathways available for scooter transfers between adjacent stations."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution and reduce rider wait times, a shared e-bike platform needs to assess the connectivity of their station network. How many bidirectional road connections exist between stations in their current service area?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing its vehicle deployment across a city's bike lanes and pedestrian pathways. To ensure efficient connectivity between all docking stations, how many bidirectional road segments are present in the current service network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize rebalancing operations for shared e-scooters, how many bidirectional connections exist in the transportation network that directly link different mobility hubs, ensuring efficient vehicle redistribution across all stations?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution for a shared e-scooter platform operating between two cities, the operations team needs to assess route availability in their service network. How many connected roads exist between all registered parking stations across both urban areas, where each road directly links two distinct stations?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle allocation for a shared e-scooter platform in the newly expanded urban zone, the operations team needs to determine how many bidirectional road connections exist between all mobility hubs. Each hub represents a parking/charging station. What's the total number of direct road links connecting these stations in the current service network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is optimizing its docking station network to ensure efficient rebalancing of vehicles across high-demand zones. To evaluate the current connectivity, calculate the total number of bidirectional road connections between all docking stations in the service area."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing city-wide bike station connectivity to improve vehicle redistribution. Each station is linked via bidirectional bike lanes. To prioritize maintenance, how many direct lane connections exist between stations in the current network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution during peak hours, a shared mobility platform needs to calculate the total number of bidirectional road connections available between all service zones in their current network. How many such road connections should be accounted for to assess infrastructure coverage?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared mobility platform analyzing station connectivity to optimize vehicle redistribution across a city's electric scooter network, how would you calculate the total number of bidirectional road connections between adjacent stations required to ensure efficient fleet balancing?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle allocation for a shared e-scooter platform during peak hours, the operations team needs to determine the total number of bidirectional road connections between all docking stations. What is the exact count of active roadway links in their service network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing electric scooter deployment by analyzing the connectivity of docking stations in downtown areas. Each station is linked via bike lanes allowing two-way travel. To evaluate network efficiency, calculate the total number of bidirectional lane connections between stations."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution for a shared e-scooter platform in downtown areas, the operations team needs to determine how many direct bidirectional road connections exist between mobility hubs. What is the total count of roadway links available for scooter transfers across all stations in this urban network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution and reduce empty ride times between stations, a shared e-scooter platform needs to assess the total number of directly connected bidirectional pathways available in their service network. How many rideable routes exist between stations in the current transportation system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle dispatch efficiency and reduce idle riding time for a bike-sharing platform, the operations team needs to analyze direct roadway links between docking stations. Calculate the total number of direct road connections between stations that enable two-way bike transfers within the current service network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform operates a bike-sharing network in a city where stations are interconnected by bidirectional roads. To optimize fleet distribution during peak hours, the operations team needs to know the total number of direct road connections between stations. Calculate the total count of bidirectional roads in this network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company aims to balance vehicle distribution across docking stations. To optimize their routing algorithms, how many bidirectional road connections exist between stations in the downtown district?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is optimizing vehicle distribution in a city's transportation network. To ensure balanced coverage, they need to calculate the total number of bidirectional road connections available between all docking stations. What is the exact count of operational route links that connect adjacent stations directly?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize parking spot allocation for a shared e-scooter service, the platform needs to assess connectivity between stations in their transportation network. Given each station node and their bidirectional access routes, calculate the total number of direct road connections available across the entire system."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared mobility platform analyzes its bike-sharing station network to optimize vehicle distribution, each station is connected via bidirectional bike lanes. To determine the minimum number of relocations needed for balanced inventory, what is the total count of direct bike lane connections between stations?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a city's shared e-scooter network, stations are connected via bidirectional lanes allowing riders to pick up and drop off vehicles. If the operations team needs to efficiently redistribute scooters across all active stations, what is the total number of direct physical lane connections they must account for in the entire system?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "Shared bike stations in a city's transportation network are interconnected via bikeable roads. To optimize maintenance coverage, the platform needs to calculate the total number of directly accessible routes between adjacent stations. How many bidirectional road connections exist across the entire network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing its service coverage in a downtown area by analyzing the bidirectional road connections between mobility hubs. To evaluate route availability for users, what is the total number of direct roadway links connecting these hubs in the current network?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution during peak hours, a bike-sharing platform needs to assess connectivity between stations. Given the bidirectional roads representing balanced rider flows, calculate the total number of direct station connections available in their network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a city's shared bike network, stations are connected by bike lanes allowing two-way travel. To optimize rebalancing operations, the platform needs to know how many direct lane connections exist between stations. How many bike lane segments should the logistics team consider when planning redistribution routes?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared mobility platform analyst, to optimize vehicle routing between stations, calculate the total number of bidirectional road segments currently connecting all docking stations in the urban network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing vehicle deployment in a downtown area by analyzing its road network connectivity. To ensure efficient coverage, calculate the total number of bidirectional roads currently active between service hubs, which directly impacts fleet allocation strategies."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform needs to plan maintenance routes across their service zones. Each zone (node) is connected via bidirectional bike lanes. To optimize patrol schedules, calculate the total number of bidirectional bike lanes their maintenance team must inspect in the entire network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize bike redistribution between stations for a shared mobility platform, the operations team needs to know the total number of direct road connections available across the entire network. How many bidirectional pathways exist between all station pairs?"
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing its electric scooter deployment across a city. Stations are connected via bidirectional lanes allowing pick-up and return. To balance vehicle distribution, the maintenance team needs to know how many direct route options exist between stations. Calculate the total number of bidirectional lanes in this shared scooter network."
+  },
+  {
+    "label": "Edge_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle redistribution analysis, stations are represented as nodes and bidirectional roads between them as edges. To optimize fleet management during peak hours, how many bidirectional road connections need maintenance checks if the network's efficiency relies on ensuring all possible station links are operational?"
+  }
+]

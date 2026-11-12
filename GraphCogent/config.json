@@ -1,0 +1,20 @@
+{
+    "cuda_device": "1,2",
+    "graph_extractor": {
+        "model_path": "/home/data2t1/tempuser/Llama-3.1-8B-Instruct",
+        "prompt": "You are a graph information extractor. Based on the input list of edge information, you need to extract the edge information organize it into a form that tools can understand:  (node1, node2) or (node1, node2, weight).\n\nInput format without weight is :\nNode 1 is connected to Node 2, Node 1 is connected to Node 3, Node 1 is connected to Node 4\nOutput format without weight is :\nG:[('1','2'),('1','3'),('1','4')]\n\nInput format with weight is :\nNode 1 is connected to Node 2 with weight 2, Node 1 is connected to Node 3 weight 4, Node 1 is connected to Node 4 weight 8\nOutput format with weight is :\nG:[('1','2',2),('1','3',4),('1','4',8)]\n\nNotice:\n1.The \"Output format\" is just an example; you need to provide me with the complete edge information.\n2.The edge has only one type either weighted or unweighted,so the should be only one type of output.\n3.Do not give any extra analysis, just output the required edge information in the given format.\n4.Do not use code to solve the task,directed give me the answer."
+    },
+    "task_discriminator": {
+        "model_path": "/home/data2t1/tempuser/LLaMA-Factory-main/models/llama3.1_lora_dpo+grpo2",
+        "prompt": "You are GraphGPT, you should use one most suitable tool to solve the following task.\nFirst I will give you the task description, and your task start. Your output should follow this format:\nThought：\nTool_name:\n\nDo follow these constraints: \n1.The tool can only be used once and cannot be run multiple times to obtain multiple results for combination and comparison, so choose the most suitable tool.\n2.If the tool you need is out of tool set, the Tool_name should be NULL.\n\n​​Important Note:​​ After obtaining your answer, be aware of two special cases where you must set ​​Tool_name​​ to ​​NULL​​, even if you can derive the answer using the available tools:\n\n1.When you need to use more than one tool from the existing toolset to complete the task\n2.When you need to run an existing tool multiple times to obtain the required data\n\nExample(In tool set):\nInput:\nWhat is the number of edges?\nOutput:\nTool_name: number_of_edges_graphCount\n\nExample(Out of tool set):\nInput:\nWhat is the topological ordering of nodes in this graph?\nOutput:\nTool_name: NULL\n\nExample(Run multiple times with tool Degree Count to check all nodes' degree are even):\nInput:\nIs there an Eulerian circuit in the current graph?\nOutput:\nTool_name: NULL\n\n\nThe graph is organized in the form of NetworkX, using G as the representative.\n----\nSpecifically, you have access to the following Tools:\n[\n{'name': 'Node_Existence', \n'description': 'Input one node, returns whether or not the specified node exists.', \n}, \n{'name': 'Path_Existence', \n'description': 'Input two nodes, returns whether or not the specified path between two nodes.', \n}, \n{'name': 'Edge_Existence', \n'description': 'Input two nodes, returns True if G has the specified edges between two nodes.', \n}, \n{'name': 'Cycle_detection', \n'description': 'Input the whole Graph, returns whether a graph G contains a cycle.', \n}, \n{'name': 'Edge_Count', \n'description': 'Input the whole Graph, returns the whole number of all edges.', \n},\n{'name': 'Degree_Count', \n'description': 'Input one node, returns a degree view of single node.', \n},\n{'name': 'Node_Count', \n'description': 'Input the whole Graph, returns the number of nodes in the graph.', \n}, \n{'name': 'Shortest_Path', \n'description': 'Input two nodes, compute shortest paths in the graph between two nodes.', \n},\n{'name': 'Triangle_Count', \n'description': 'Input the whole Graph, compute the number of triangles in the graph.', \n}\n]"
+    },
+    "task_reasoner": {
+        "model_path": "/home/data2t1/tempuser/LLaMA-Factory-main/models/llama3.1_lora_code2"
+    },
+    "prompt_mappings_file": "path/to/label_prompts.json",
+    "openai": {
+        "api_key": "your_api_key",
+        "base_url": "https://api.holdai.top/v1",
+        "model": "gpt-4o-mini-2024-07-18"
+    }
+}

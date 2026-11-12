@@ -1,0 +1,2002 @@
+[
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "To improve travel route efficiency in a city's transportation grid, a navigation app needs to identify critical junctions. Calculate the degree of node 123 to determine how many direct road connections it maintains within the network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When optimizing a city's sightseeing bus routes, the transportation department needs to assess key transfer hubs. If node 123 represents a central interchange station, how many directly connected road segments should be accounted for in its route planning efficiency analysis?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's public transportation network used by a travel route planning app, the connectivity of transit hubs directly impacts route recommendations. To optimize navigation algorithms, what is the total number of direct bidirectional road connections associated with the key transportation hub labeled Node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's traffic network used for travel route planning, the transportation department needs to evaluate key intersections. Calculate the total number of bidirectional road connections directly linked to intersection 123 to assess its role as a transit hub."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a travel route planning system, a transportation hub labeled 123 is critical for connecting multiple scenic spots. To assess its connectivity, compute the total number of direct road connections this hub has with surrounding attractions."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When travelers use a navigation system to plan routes around the city, they need to evaluate key hubs. Calculate the degree of node 123 to determine how many direct road connections it has within the regional transportation network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route planning system, stations are interconnected by bidirectional bus routes. To optimize transfer efficiency, please calculate the total number of direct connections at station 123 to determine its significance as a transportation hub."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In the metropolitan area's traffic network used by the TravelRouteMate app for optimal route planning, a key transportation hub is represented by node 123. When evaluating potential congestion points for holiday travel preparations, how would you directly calculate the current degree of node 123 to determine its total number of connected roadways?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's public transportation network where bus stops are interconnected to optimize travel routes, a planner needs to assess key connection hubs. During route adjustment analysis, how many direct bus route connections does node 123 currently have to neighboring stops?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's public transportation network used for travel route optimization, station \"123\" serves as a key transfer hub. When planning express routes for tourists, how many direct bidirectional connections does station \"123\" have with neighboring stations?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "During routine maintenance of a city's travel route network, the transportation department needs to assess connectivity patterns to optimize traffic flow. What is the total number of direct road connections (degree) for intersection 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's traffic network used for travel route optimization, how many direct two-way road connections does the transportation hub with node ID 123 currently have?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network where each junction is modeled as a node, a travel route planning app needs to evaluate connectivity for optimizing tourist paths. What is the total number of direct road connections (both incoming and outgoing) associated with hub node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize the tourist shuttle routes during a city festival, the transportation department needs to assess the connectivity of metro station node 123, which serves as a central transfer hub. What is the degree of node 123 in the current network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's public transportation network, Central Station (node 123) serves as a critical hub. For travel route planning, how many direct bidirectional rail links does this station currently maintain to other stations?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's road network optimization project for efficient travel route planning, which central junction's connectivity is being evaluated by calculating the total number of direct two-way road connections linked to node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's traffic network used for travel route planning, a navigation app evaluates connection density to optimize detour suggestions. If intersection 123 represents a key transit hub, what is its degree based on the total number of incoming and outgoing road links?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's traffic network utilized for travel route planning, a navigation app needs to identify how many direct road connections exist at intersection 123 to assess potential alternate routes. What is the total degree of node 123 in this network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's metro system where stations are connected bidirectionally and transfer hubs link multiple lines, a traveler wants to identify key interchange points for efficient route planning. Calculate the total number of direct rail connections (both incoming and outgoing) available at station node 123 during trip coordination."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's public transportation network optimization project, the planning committee needs to assess critical hubs for efficient route redesign. What is the total number of direct road connections (both incoming and outgoing) to transit station 123, which will determine its capacity as a transfer point?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "During a travel route optimization project for a metropolitan bus network, analysts need to assess the connectivity of key transfer stations. Calculate the degree of node 123 to determine how many direct bidirectional bus routes connect to this central hub station."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When analyzing a regional travel network for efficient route planning, how many direct two-way road connections does transportation hub node 123 have to adjacent cities?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route efficiency in the city's transportation network, how many two-way road connections directly link to the intersection labeled 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a transportation network used for optimizing travel routes, each node represents an intersection, and bidirectional edges indicate roads connecting them. To assist travelers in avoiding high-traffic intersections, the navigation system analyzes connection patterns. What is the degree of node 123, representing the total number of roads linked to this intersection?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's metro system where stations are interconnected for efficient travel planning, Node 123 acts as a critical transfer point. To optimize maintenance schedules during peak hours, the transportation department needs to determine how many direct bidirectional routes connect to Node 123. Calculate the degree of Node 123 to identify its total adjacent connections."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's traffic network used for travel route optimization, node 123 represents a major transportation hub. How many direct road connections does it have to determine its connectivity influence?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When planning an efficient detour around a congested transit hub, how many direct two-way road connections does the critical intersection node 123 currently have in the urban traffic network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When planning a multi-city road trip, travelers need to assess which hubs offer the most route flexibility. Based on the bidirectional road connections, what is the total degree of node 123 in the transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "A tourist is planning a sightseeing route through the city's transportation network. They start at node 45, visit nodes 78 and 92 via connected roads, and want to evaluate route flexibility near landmark node 123. What is the total number of direct road connections (degree) at node 123 for optimizing detour options?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When optimizing travel routes for a city's public transportation system, a navigation platform needs to evaluate key intersections. Calculate the total number of roads directly connected to intersection 123 in the current traffic network to determine its connectivity importance."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In the city's travel route optimization project, transportation engineers need to assess key transit hubs for efficient path planning. If node \"123\" represents a major subway interchange station, calculate its total number of directly connected rail lines (degree) to evaluate its connectivity criticality."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a multi-city tour but notices unusual congestion reports around transit hub 123. To evaluate alternative route options, calculate the total number of direct road connections (both incoming and outgoing) available at node 123 in this transportation network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route efficiency between major hubs, the transportation network identifies key connection points. During route planning analysis, node 123 is flagged as a critical junction. Based on current bidirectional road links, what is the total number of direct connections (degree) for node 123 to adjacent nodes?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "A tourist is planning a city sightseeing route where each attraction is connected by two-way roads. To optimize their itinerary, they need to determine how many direct road connections exist at the landmark labeled 123. Calculate the total number of roads directly linked to node 123 in this transportation network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a travel route planning application analyzing city road connections, a user wants to evaluate the connectivity of transport hubs. What is the total number of bidirectional roads directly linked to node 123 in the current network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When planning optimal travel routes through the city's subway system, a key subway interchange station (node 123) is being evaluated for its connectivity. How many direct bidirectional rail links does this station currently have to neighboring stations?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When planning efficient sightseeing shuttle routes in the urban transportation network, the tourism department needs to evaluate transfer hub capacities. Calculate the total degree of node 123 to determine how many direct road links connect to this landmark station."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "A travel planning platform is analyzing connection roads between transportation hubs in a city network. To optimize route recommendations for commuters, calculate the total degree of node 123 which represents a major subway transfer station connecting multiple bus lines and cycling paths."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When optimizing intercity travel routes, a transportation hub's connectivity determines efficient transfers. What is the total degree of node 123 in this road network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize tourist travel routes, the city needs to assess key transportation hubs. Calculate the degree of node 123 to determine how many direct two-way road connections it has for efficient itinerary planning."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route planning between cities, the navigation system needs to assess the connectivity of node 123 in the transportation network. How many bidirectional roads are directly connected to node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In the context of optimizing a city's public transportation network to improve travel route efficiency, the traffic management department is evaluating key transfer points. To assess the suitability of Node 123 as a major hub, what is the total number of direct road connections it currently has?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In the city's public transit network, a traveler needs to determine how many direct bus routes connect to Central Hub Station (node 123) to efficiently plan transfers between districts. Calculate the total number of bidirectional road connections at this hub for route optimization."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route through a city's transportation network, how many direct road connections does the traffic analysis system need to evaluate for the central hub labeled 123 to determine its connectivity?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize the travel route planning for a city's public transportation system, the transport department needs to evaluate connectivity at key hubs. What is the degree of node 123 in the road network, indicating how many direct routes connect it to neighboring intersections?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's metro system used for travel route planning, the central interchange station 'Node123' connects multiple lines. To optimize passenger transfers, how many direct bidirectional rail links does Node123 currently have in the network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In an urban travel route planning system, a transportation hub labeled node 123 serves as a critical interchange. To optimize passenger transfers, how many directly connected bidirectional road links does node 123 have in total?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's public transportation network where bidirectional roads connect bus stops to help tourists efficiently navigate between attractions, what is the degree of stop 123 when evaluating its importance for route planning?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When planning an optimized travel route through a city's transportation network, the traffic control center needs to calculate the total number of direct road connections at intersection node 123 to evaluate its connectivity. What is the degree of node 123 in this network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route planning system, a navigation app analyzes road connectivity to optimize trip durations. When evaluating the central hub at node 123, how many direct two-way road connections does it have to neighboring intersections?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When optimizing travel routes in a city's transportation network, a key hub labeled node 123 has multiple bidirectional roads linking to other locations. How many direct road connections does this hub currently maintain to ensure efficient transit planning?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's metro system used for optimizing travel routes, a tourist wants to know how many direct transfers are possible at station 123 to plan efficient sightseeing. Calculate the degree of station 123 based on its bidirectional rail connections."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "A tourist is planning a road trip through a regional transportation network and needs to assess key connection points. Calculate the total number of bidirectional road links connected to Node 123 to determine its suitability as a central transfer station during their journey."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's subway system used for travel route optimization, node 123 represents Central Station. A commuter needs to know how many direct platform transfers exist at this station to minimize connection time during peak hours. What is the total number of rail lines directly linked to Central Station (node 123) in this bidirectional network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route planning system, a transportation hub labeled node 123 serves as a critical transfer point. To evaluate its accessibility for optimizing tourist itineraries, what is the total number of direct road connections linked to node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's bus route optimization project for travel planning, the transportation department needs to evaluate connection capabilities of key stations. Calculate the degree of station 123 to determine how many direct routes connect it to other stations in the network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When optimizing travel routes between tourist attractions, how many direct two-way road connections does transportation hub node 123 have to neighboring locations?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When planning optimal travel routes between cities, the transportation hub at node 123's connectivity is crucial. How many direct road connections does it have in total?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's public transit optimization project, node 123 serves as a critical bus interchange connecting multiple routes. To prioritize maintenance schedules, calculate the total number of direct road connections linked to node 123 for assessing its operational load."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When assessing the connectivity of key transit hubs for optimizing tourist travel routes, what is the total number of direct road links connected to node 123 in the transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's traffic optimization system for travel route planning, the navigation algorithm evaluates junction connectivity. What is the total number of direct road connections (both incoming and outgoing) associated with node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route planning system, certain key intersections act as major connectors between tourist attractions. To optimize navigation efficiency, how many total road connections (both incoming and outgoing) does the critical intersection node 123 currently have?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When planning the most efficient travel routes through a city's public transportation system, what is the total number of direct bidirectional connections associated with transit hub 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "To assist travelers in evaluating the number of transfer options at the central transportation hub during route planning, calculate the total number of direct road connections (both incoming and outgoing) for node 123 in the city's traffic network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route planning in a city's transportation network, a navigation app needs to evaluate key hubs. What is the degree of node 123, representing a major intersection, to determine how many direct road connections it has?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a metropolitan subway system where stations are interconnected for efficient travel, a commuter wants to determine how many direct route transfers are available at station 123 to assess its connectivity for trip planning. Calculate the total number of bidirectional rail links connected to station 123."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When planning optimal travel routes through a city's transportation network, a key step is identifying critical hubs. What is the total number of direct bidirectional road connections currently linked to node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When analyzing the regional highway network for optimizing travel route recommendations, calculate the degree of node 123 to determine how many direct road connections it has as a potential transit hub."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "A tourist uses a navigation app to plan routes through a city's transportation network. To optimize their travel, they need to know how many direct road connections exist at the hub represented by node 123. What is the total degree of node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize a travel route between cities connected by bidirectional roads, a transportation planner needs to assess the connectivity of key hubs. Calculate the total number of direct road connections linked to node 123 in the network to determine its accessibility for route planning."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route planning system, transportation hub 123 serves as a key transfer point. To optimize connection efficiency, how many directly connected roads does this hub currently have in the network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a sightseeing route through the city's transportation network and wants to identify key hubs for efficient transfers. To prioritize accessibility, calculate the total number of direct road connections (both incoming and outgoing) for the intersection labeled 123."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route through the city's transportation network, determining how many direct road connections exist at hub node 123 is crucial for assessing transfer options. What is the degree of node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network where each node represents a major traffic hub, a traveler wants to optimize their sightseeing route by identifying key hubs. Calculate the total number of direct road connections (degree) for node 123 to determine its criticality in the travel plan."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When planning optimal travel routes through a major urban transit system, a navigation app needs to evaluate connection points – what is the total count of bidirectional road segments directly connected to intersection node 123 in this transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's public transportation network where bus stops are interconnected to optimize travel routes, the planning department needs to assess key hubs. Calculate the total number of direct bidirectional road connections for node 123 to determine its routing flexibility."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "When planning an efficient cross-regional travel route, drivers often prioritize hubs with optimal connectivity. Based on current bidirectional road links in the transportation network, calculate how many direct road connections Hub ID 123 has to other locations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "While planning optimal travel routes through a major transportation hub network, the city council needs to assess connection density at key junctions. What is the total number of direct road connections (both incoming and outgoing) for node 123 in this system?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route planning system, the transportation hub corresponding to node 123 serves as a critical interchange. To optimize transfer efficiency, how many directly connected road segments (both incoming and outgoing) does this hub currently have?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route efficiency during the upcoming holiday season, the transportation department urgently needs to assess key hub connectivity. In the city's bus network, how many direct road connections does the central transfer station (node 123) currently have for coordinating shuttle transfers?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes and reduce delivery times, a logistics company needs to calculate the total number of direct road connections linked to their central hub with node ID 123 in the transportation network. What is the degree of node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize parcel delivery routes in their transportation network, where distribution centers are interconnected via bidirectional roads. To prioritize route efficiency for center 123, what is the total number of direct road connections (degree) linked to this center?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes in the transportation network, a key step is evaluating the connectivity of critical nodes. Calculate the degree of node 123 to determine how many direct road connections it has for efficient parcel routing."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in their transportation network. Each distribution hub is connected to adjacent facilities via two-way roads. To assess the capacity of hub \"123\" in handling simultaneous incoming and outgoing shipments, calculate its degree to determine how many direct road connections it currently maintains. What is the degree of node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes, a logistics company needs to assess key hubs' connectivity. Calculate the current number of direct road connections for node 123 to determine its capacity as a regional sorting center."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce transit time in an urban logistics network, the traffic control center needs to assess connectivity at key distribution hubs. Calculate the total number of two-way roads directly linked to the central cargo transfer station labeled node 123, which handles 40% of regional parcel traffic."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes, the logistics company needs to evaluate the sorting workload at hub 123. How many direct road connections does this hub have in the transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the transportation network's hub connectivity is being analyzed. What is the degree of node 123, indicating the total number of direct road connections it has to neighboring distribution centers?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's transportation network being analyzed for logistics delivery optimization, which critical hub's degree must be calculated to identify the number of direct road connections influencing route distribution efficiency? Compute the degree of node 123."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a city's transportation network, where each node represents a key package distribution hub. To ensure timely deliveries, the algorithm must assess hub connectivity. Calculate the degree of node 123 to determine how many direct two-way road connections it has to other hubs in the network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a city's traffic network. To determine if node 123 is a critical hub, calculate the total number of direct road connections (both incoming and outgoing) it currently maintains across the network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a city's transportation network, where node 123 represents a critical distribution hub. To streamline parcel flow, engineers need to determine how many bidirectional roads directly connect to this hub for capacity planning. What is the total degree of node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a metropolitan logistics network, a delivery company aims to optimize package distribution routes by identifying key hubs. Each node represents a distribution center, and edges show direct two-way road connections between them. To assess the connectivity of their central facility labeled 123, what is the total number of road connections directly linked to node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes in a logistics network, a company analyzes key hubs' connectivity. What is the degree of node 123, which serves as a major sorting center handling regional parcel distribution?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a metropolitan transportation network where a logistics company aims to optimize delivery routes by analyzing critical hubs, calculate the degree of node 123 to determine how many bidirectional road connections it has for efficient parcel distribution."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the central hub needs to determine how many direct road connections node 123 has. What is the degree of node 123 in this transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package distribution routes in an urban transportation network, the logistics coordinator needs to evaluate the connectivity of critical hubs. Calculate the total degree of node 123, which serves as the main distribution center connecting regional warehouses and delivery stations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes, a company is analyzing the connectivity of key intersections in their transportation network. Calculate the degree of node 123 to determine how many direct road connections it currently has for simultaneous package distribution."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's parcel distribution network, a logistics company needs to optimize delivery routes by identifying key transfer hubs. If node 123 represents a central sorting facility, calculate its total degree to determine how many direct road connections it maintains with neighboring warehouses and delivery stations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes, a company needs to evaluate the connectivity of critical hubs in their transportation network. Calculate the degree of node 123 to determine how many possible delivery routes can directly connect to this hub."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network where distribution centers are connected by bidirectional roads, a delivery company aims to optimize route planning by identifying critical hubs. To assess the connectivity of their main facility labeled node 123, calculate its degree to determine how many direct road links it maintains with other distribution nodes."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes in a city logistics network, the transportation team needs to evaluate key distribution hubs. Calculate the total number of bidirectional road connections for Warehouse Node 123, as its connectivity directly impacts route planning efficiency for cargo vehicles."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes in a city's transportation network, a logistics company needs to evaluate key hubs. If node 123 represents a central warehouse, what is its total number of direct road connections required to prioritize maintenance resource allocation?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the transportation network's hub connectivity is crucial. Calculate the degree of node 123 to determine how many directly connected roads this distribution center has for improving its route efficiency."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics route efficiency analysis for a major city's parcel distribution system, transportation engineers need to determine key junction capacities. Calculate the total number of direct two-way street connections at the critical sorting facility represented by node 123."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a city's transportation network. To determine the efficiency of their main distribution hub at node 123, how many directly connected roads should they account for when calculating its total connectivity degree?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package delivery routes in the urban transportation network, a logistics company needs to assess the connectivity of key distribution hubs. What is the total degree of node 123, which represents a critical intersection for last-mile deliveries?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city logistics delivery optimization project, the transportation network is analyzed to identify key hubs for efficient routing. A node labeled 123 represents a major distribution center. To evaluate its connectivity impact, what is the total degree of node 123 in this bidirectional road network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, a delivery company aims to optimize routes by identifying critical hub nodes. Nodes with higher connection counts could indicate strategic transfer points for parcel distribution. Calculate the degree of node 123 to determine its potential as a primary dispatch hub."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution efficiency in a city logistics network, a delivery company needs to evaluate key transfer hubs. What is the total number of direct road connections (both incoming and outgoing) for the central sorting facility labeled as node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics delivery optimization scenario, the transportation company needs to assess key hub connectivity. Calculate the number of two-way roads directly connected to logistics hub 123 in the transportation network to determine its criticality for route planning efficiency."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the traffic network's connectivity analysis is critical. What is the degree of node 123, which represents a major warehouse hub, to evaluate its current road access capacity for efficient resource allocation?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, a delivery company aims to optimize route efficiency by prioritizing hubs with critical connectivity. To determine the importance of distribution center node 123, calculate the total number of direct two-way road links it currently maintains for coordinating cargo transfers."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization analysis for a regional distribution network, central hubs are prioritized based on connection density. Calculate the degree of node 123 to determine its criticality in streamlining same-day parcel transfers between adjacent facilities."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery routes and reduce redundant connections in an urban logistics network, what is the total degree of node 123 that serves as the central parcel distribution hub for coordinating neighborhood drop-off points?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network optimization project, the distribution center at node 123 shows potential bottleneck risks due to unbalanced route connections. To allocate delivery vehicles efficiently, what is the total number of direct two-way roads connected to node 123 to verify if its current capacity matches regional parcel volume demands?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics network optimization project for a regional delivery company, hubs are connected via two-way roads. To assess the criticality of the central sorting hub (node 123) in streamlining package distribution routes, calculate its degree to determine how many direct road connections it maintains with neighboring hubs."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network optimization project, a delivery company aims to streamline parcel distribution by analyzing key connection hubs. To determine the routing flexibility of their central depot labeled 123, what is the total number of direct road connections (degree) associated with this node?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and reduce transportation time, a company needs to assess the connectivity of logistics hubs in their traffic network. What is the degree of node 123, which represents a critical distribution center linked via bidirectional roads?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, a delivery company aims to optimize routes by analyzing hub connections. Each node represents a distribution center, and edges indicate two-way roads between them. To assess transportation efficiency, calculate the degree of node 123, which reflects how many direct routes connect it to other hubs.  \n\nAnswer format:  \n\\boxed{[integer]}"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package distribution routes in a city's logistics network, the dispatch center needs to assess key hub connectivity. Calculate the degree of node 123 to determine how many direct road connections influence its delivery route planning efficiency."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes, a company is analyzing key hub connections in their transportation network. Calculate the degree of node 123 to determine how many direct road links this distribution center currently maintains for efficient package routing."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce delays in a transportation network, a logistics company needs to assess the connectivity of their hub nodes. What is the total degree of node 123, representing the number of direct road connections it has?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In the process of optimizing a logistics delivery network, determining the number of direct road connections to a central hub is critical for assessing its processing capacity. What is the degree of node 123 in this transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics delivery optimization project, node \"123\" serves as a central package distribution hub. To balance truck traffic capacity and minimize route congestion, calculate the degree of node 123 to determine how many direct road connections require priority maintenance during peak hours."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's transportation network analyzed for logistics delivery optimization, what is the degree of node 123 that needs to be calculated to evaluate its connectivity as a potential distribution hub for minimizing parcel transfer delays?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": " To optimize delivery routes, a logistics company is analyzing connection patterns of hubs in their transportation network. Calculate the total number of roads connected to hub 123, as this determines its current resource allocation priority for maintenance crews."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In an urban logistics network where delivery efficiency depends on critical hub connectivity, the operations team needs to identify key distribution nodes. Calculate the degree of node 123 to determine its total number of direct road links for optimizing parcel routing."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a transportation network where distribution hubs are connected by two-way roads. To assess the connectivity of Hub 123 for efficient resource allocation, calculate the total number of direct road connections (degree) linked to Hub 123."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a metropolitan logistics network where delivery hubs are interconnected by two-way roads to optimize parcel distribution, the operations team needs to assess connectivity bottlenecks. What is the total number of direct road connections (degree) associated with hub 123 to streamline route planning and minimize delivery delays?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the transportation network's hub efficiency is being assessed. Calculate the degree of node 123 to determine how many direct road connections it has to neighboring distribution centers."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the transportation network's key hubs are being analyzed. Calculate the number of roads directly connected to node 123 to evaluate its package handling capacity within the network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing parcel distribution routes in a city's traffic network. Their algorithm prioritizes hubs with higher connectivity to allocate more delivery trucks. To streamline resource allocation, calculate the degree of node 123 which represents a key distribution center, determining how many bidirectional road connections it maintains for efficient route planning."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes and reduce delivery bottlenecks, a logistics company needs to determine if node 123 currently has sufficient road connections for efficient traffic flow. What is the total number of direct two-way road connections (degree) at node 123 in the urban transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline package distribution routes, a logistics company needs to evaluate critical hub connectivity in their transportation network. What is the degree of distribution center node 123, which influences route efficiency and bottleneck risk?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in their transportation network, where key distribution hubs represent nodes. To streamline parcel flow efficiency, engineers need to determine how many direct bidirectional road connections exist for the central hub labeled 123. What is the total degree of node 123 in this logistics network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a metropolitan logistics network analysis for optimizing next-day delivery routes, a shipping company identifies key distribution hubs. To determine the connectivity of hub node 123, what is its degree in the transportation graph?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city logistics network optimizing delivery routes, the central hub at node 123 handles package distribution. Calculate its degree to assess its capacity for simultaneous transportation connections."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package distribution routes, a logistics company is evaluating key junctions in their transportation network. Calculate the degree of node 123, which serves as a critical hub connecting multiple delivery zones."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the central hub's connectivity is crucial. In the transportation network, each node represents a distribution center, and edges indicate direct two-way road connections. What is the degree of node 123, which determines how many immediate transportation routes intersect at this potential key hub?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the transportation network's key hub connections must be evaluated. What is the total degree (sum of incoming and outgoing roads) of node 123 in this distribution network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, each distribution hub represents a node, and bidirectional roads between hubs indicate delivery routes. To optimize truck dispatch efficiency and prevent route congestion, what is the total number of direct connections (both incoming and outgoing) associated with Distribution Hub 123 that must be considered for real-time vehicle scheduling?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize a regional delivery network, a logistics company needs to assess the connectivity of their central hub corresponding to node 123. Calculate the total number of direct transportation routes linked to this hub for efficient resource allocation."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, Node 123 represents a crucial parcel sorting hub. To optimize delivery routes and minimize transfer delays, calculate the total number of direct road connections to Node 123 for prioritizing maintenance and capacity upgrades."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in an urban traffic network and needs to evaluate key connection hubs. Calculate the degree of node 123 to determine its criticality as a distribution junction."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics network where hubs are optimizing delivery routes to minimize transit time, calculate the total number of direct road connections linked to distribution center node 123, as this determines its capacity to simultaneously sort and dispatch shipments."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city logistics network where delivery hubs are connected by roads, a courier company aims to optimize package routing by identifying critical hubs. If Hub 123 represents a central distribution point, calculate its total degree to determine how many direct road connections it has for efficient route planning."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a regional logistics network, a package sorting hub (node 123) connects to neighboring delivery stations and transit hubs. To optimize delivery routes, the logistics company needs to determine how many direct road connections this hub maintains. Calculate the total degree of node 123 in the transportation network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a transportation hub network where each node represents a distribution center. To balance workload and efficiency, the planning team needs to determine how many directly connected roads lead to the critical hub node 123. What is the total number of bidirectional roads connected to node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes in an urban transportation network, a logistics company needs to evaluate key connection points. What is the total degree (sum of incoming and outgoing roads) of Node 123 in the current road network configuration?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics delivery optimization plan, the transportation department needs to evaluate key distribution hubs. Calculate the total number of direct road connections for node 123 to determine its connectivity efficiency in the parcel transfer network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics network optimization project aiming to minimize delivery time between warehouses, the central hub (node 123) connects to multiple regional distribution points. To allocate delivery vehicles efficiently, what is the total number of bidirectional road links directly connected to node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and reduce delays in a city's road network, the distribution center located at node 123 requires assessing its connectivity. What is the total number of roads directly connected to this critical hub node?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city logistics network optimizing delivery routes, a key distribution hub is identified as node 123. To streamline parcel flow efficiency, calculate the total degree of this node to determine how many direct road connections it maintains for cargo dispatch coordination."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In the process of optimizing a logistics company's regional delivery network to reduce transit times, the central hub node 123 is critical for distributing packages. Calculate the total number of bidirectional road connections directly linked to node 123 to assess its current handling capacity."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution efficiency, a logistics company needs to assess key hubs in their urban road network. Calculate the degree of node 123 to determine how many direct road connections it has for route planning."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes in a city's logistics network, the transportation department needs to evaluate key hubs. What is the total number of direct road connections (degree) for node 123, which determines its capacity to coordinate simultaneous delivery vehicles?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's transportation network used for logistics delivery optimization, a major package distribution hub located at node 123 needs its connectivity assessed to streamline route planning. What is the total number of bidirectional roads directly connected to node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes for a logistics company, the central hub's connectivity is critical. If node 123 represents a key sorting facility, what is its total degree to assess potential bottlenecks in delivery throughput?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the transportation network's hub connectivity is crucial. Calculate the degree of node 123 to determine how many direct road connections it has to adjacent hubs, which will help prioritize maintenance and capacity planning."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for ambulance route optimization, a critical emergency hub is represented as node 123. To assess its operational capacity during crises, calculate the total number of bidirectional road connections (degree) directly linked to node 123, which determines its maximum simultaneous access points for emergency vehicles."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying critical intersections for efficient ambulance routing requires analyzing node connectivity. To assess the evacuation capacity of a key transport hub labeled node 123, calculate its total degree in the transportation network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, evaluating critical evacuation hubs' connectivity is vital. To ensure efficient resource distribution, what is the total degree of node 123 in the transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response plan for ambulance route optimization, calculate the total number of direct road connections (degree) for node 123 to identify critical junctions requiring prioritized maintenance and resource allocation during disasters."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": " During urban emergency response planning for a city's critical infrastructure network, the fire department needs to prioritize evacuation routes around Node 123 (a major hospital hub). Calculate the total number of bidirectional road connections directly linked to Node 123 to assess its immediate accessibility during crises."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, assessing critical connectivity points in the transportation network is vital for optimizing rescue routes. Calculate the degree of node 123 to determine how many direct road connections it has within the current infrastructure."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for medical evacuations, the city's traffic network is analyzed to identify critical junctions; to determine how many direct road connections should be prioritized around node 123 for rapid ambulance routing, calculate the degree of node 123."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a transportation network, rescue teams need to prioritize critical junctions. To assess connectivity during crisis routing, calculate the total degree (sum of incoming and outgoing roads) for node 123 to determine its evacuation and supply delivery capacity."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response plan, rescue teams need to quickly identify critical road intersections for deploying resources. If node 123 represents a key evacuation hub, calculate the total number of roads directly connected to it to assess its accessibility during crises."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, optimizing emergency vehicle routes requires identifying critical intersections. To evaluate the connectivity of a key evacuation hub represented by node 123 in the transportation network, what is the total number of bidirectional road connections (degree) directly linked to this node?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a major metropolitan area, transportation hubs are critical for coordinating rescue operations. If node 123 represents a central hospital used as a triage point, calculate its degree in the road network to determine how many direct routes connect it to neighboring facilities during crises."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying critical road junctions is vital for efficient ambulance routing. Calculate the degree of node 123 to assess its connectivity during evacuation scenarios."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a major metropolitan area, emergency management teams need to evaluate critical infrastructure connectivity. Calculate the degree of node 123 in the transportation network to determine how many direct road connections exist between this emergency service hub and adjacent evacuation zones during crisis scenarios."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response efficiency during crisis scenarios, city planners need to identify critical infrastructure hubs. Calculate the degree of node 123 in the transportation network to determine how many direct road connections it provides for coordinating rescue operations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, evaluating the connectivity of critical infrastructure junctions is vital. During a crisis, node 123 serves as a key medical supply distribution hub. Calculate its degree to determine how many direct road connections it maintains for simultaneous emergency vehicle access."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, evaluating critical infrastructure connectivity is vital. Firefighters need to prioritize routes around Station Alpha located at junction node 123. Calculate the total number of roads directly connected to this node to determine its evacuation capacity."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, optimizing routes for emergency vehicles requires assessing the connectivity of critical hubs. Calculate the total degree of node 123 to determine its capacity to handle simultaneous emergencies."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, optimizing evacuation routes relies on assessing critical road junctions. To determine the connectivity importance of intersection 123 for resource allocation, what is the total number of roads directly linked to this node in the transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response plan for a transportation network, determining critical intersections is vital for efficient ambulance routing. During the analysis of road connectivity, what is the total degree (sum of inbound and outbound connections) of node 123 to assess its capacity as a potential emergency coordination hub?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, the efficiency of evacuation routes relies on key intersections' connectivity. During a crisis, node 123 serves as a critical hub for dispatching rescue teams. What is the total number of direct road connections linked to node 123 to assess its capacity for simultaneous emergency service access?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": " During urban emergency response planning, assessing the connectivity of critical infrastructure is vital. If node 123 represents a major hospital's intersection in the road network, calculate its degree to determine how many direct road connections emergency vehicles can utilize for rapid access."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routing during urban crisis scenarios, the city's traffic network is analyzed. Calculate the degree of node 123 to determine how many direct road connections this critical intersection maintains for coordinating rescue operations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, rescue teams need to prioritize intersections with high connectivity for deploying mobile command units. If node 123 represents a critical junction linking multiple emergency service hubs, what is its total degree to assess its strategic importance?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routes during urban crises, the city's disaster management team needs to identify critical intersections. Calculate the degree of node 123 to determine its connectivity value for potential deployment of mobile command units."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, determining the connectivity of critical intersections is vital for optimizing emergency vehicle routes. To assess the direct accessibility of a major hospital located at node 123, what is the degree of node 123 in the transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities temporarily closed certain roads near node 123 to prioritize ambulance routes. Based on the current adjusted road connections, calculate the total degree of node 123 in the transportation network to verify its criticality for rerouting emergency vehicles."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, the local government needs to assess critical transportation hubs. Calculate the current total number of direct road connections (degree) for node 123 to determine its capacity to handle simultaneous ambulance and rescue vehicle routes during crises."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to identify critical transportation hubs. To optimize ambulance routing during disasters, calculate the total number of road connections (degree) for node 123 in the city's emergency evacuation network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routing during urban disasters, calculate the degree of node 123 in the city's transportation network to determine its critical connectivity as an evacuation hub."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to identify critical transportation hubs. Calculate the degree of node 123 to assess how many direct road connections it maintains for coordinating emergency vehicles and evacuation routes."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency route planning for fire trucks, determining the number of direct road connections at critical intersections is vital. Calculate the degree of node 123 to assess its capacity to handle simultaneous emergency traffic flows."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a city's road network, during the evaluation of critical infrastructure resilience, what is the total degree of node 123 to determine its connectivity importance for ambulance and firetruck routing prioritization?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, a critical step is evaluating connectivity for efficient ambulance routing during crises. The traffic network's emergency coordination hub is located at node 123. What is the total number of directly connected roads (degree) to this node, determining its capacity to manage simultaneous rescue operations?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, assessing critical infrastructure connectivity is vital. To optimize evacuation routes near the main hospital located at node 123, what is its total degree in the transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response planning scenario, where the connectivity of critical infrastructure nodes directly impacts disaster resilience, calculate the total degree of node 123 to evaluate its road accessibility for coordinating fire stations and hospitals during crises."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response planning scenario, the transportation network's connectivity is critical for efficient dispatch of rescue vehicles. To optimize emergency routes, calculate the total degree (sum of incoming and outgoing connections) of node 123, which represents a key intersection near a hospital zone."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a metropolitan area, the critical transportation hub at node 123 serves as an evacuation coordination point. To ensure efficient deployment of rescue vehicles during disasters, please calculate the total number of direct road connections (sum of incoming and outgoing routes) for this node to verify its connectivity resilience."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, the city needs to assess critical transport hubs. If node 123 represents an evacuation route intersection, calculate its total connectivity degree to determine how many alternative pathways emergency vehicles can utilize immediately."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency planning, calculate the number of direct road connections to intersection 123 to assess its criticality for ambulance dispatch during crises."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routes during citywide crises, the disaster management team is assessing critical intersections. Calculate the total degree of node 123, a pivotal junction linking evacuation paths and rescue stations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a medical supply distribution network, rescue teams need to identify critical junctions. Calculate the total number of road connections directly linked to node 123 to determine its capacity as a potential disaster relief transit hub."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, a city's transportation network is being analyzed to optimize ambulance routing during crises. To assess critical junctions, calculate the degree of node 123 to determine how many direct road connections it maintains for emergency vehicle access."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "When evaluating the efficiency of emergency evacuation routes in a city's traffic network, how many bidirectional road connections does the critical intersection node 123 have, as it directly serves the main hospital and impacts evacuation time?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routing during urban crises, calculate the degree of node 123 to determine the number of connecting roads at this critical intersection."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response plan, the central dispatch needs to identify critical road junctions for deploying resources. Calculate the degree of node 123 in the transportation network to determine how many direct road connections it has to adjacent emergency service hubs."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying critical road junctions with high connectivity ensures efficient deployment of emergency services. What is the degree of node 123 to evaluate its suitability as a prioritized disaster relief coordination point?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, evaluating critical infrastructure resilience requires analyzing node connectivity. What is the degree of transportation hub node 123 to determine its direct road links for emergency vehicle routing?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to prioritize critical transportation hubs for efficient ambulance routing. To assess the connectivity of key infrastructure, calculate the total degree of node 123 in the city's road network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, evaluating critical infrastructure junctions is essential for efficient resource deployment. During a crisis, the emergency management team needs to assess the connectivity of key nodes to optimize evacuation routes. What is the degree of node 123 in the transportation network, which represents a major intersection near a hospital?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation planning, the city's rescue command center needs to identify critical road junctions with sufficient connectivity for ambulance routing. Calculate the degree of node 123 to assess its capacity as a potential emergency logistics hub."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, a critical evacuation route intersection is identified as node 123. Calculate its total degree in the transportation network to determine how many direct road connections require prioritized maintenance for disaster resilience."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a critical medical supply distribution network, the connectivity of hub nodes directly impacts rescue route efficiency. Calculate the degree of node 123 to prioritize its strategic importance in coordinating ambulance dispatch pathways."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, a critical ambulance routing network is analyzed to optimize resource allocation. To assess the connectivity of key intersections, calculate the degree (sum of incoming and outgoing connections) of node 123 to determine its suitability as a priority hub for emergency vehicle deployment."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, identifying critical junctions for ambulance routing requires analyzing direct road links. To prioritize resource allocation, calculate the total number of bidirectional road connections (degree) at node 123 in the transportation grid."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, assessing key intersections for efficient ambulance routing is crucial. To prioritize evacuation routes near the most connected junctions, compute the degree of node 123 in the road network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, evaluating critical infrastructure hubs is vital. To prioritize medical supply routes, calculate the degree of node 123 in the city's transportation network to identify its total road connections for rapid crisis intervention."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for fire station accessibility, the connectivity of critical junctions is vital. To assess the direct road links available for emergency vehicles at node 123, what is the total number of bidirectional roads connected to this node in the transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response plan assessment for a critical hospital located at node 123, city planners need to prioritize evacuation routes based on its road connectivity. Calculate the degree of node 123 to determine how many direct road links must be maintained for efficient ambulance access during crises."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize urban emergency response routes for critical incidents, the city's disaster management team needs to assess connectivity strengths of key junctions. Calculate the degree of node 123 to determine how many direct road connections it has in the transportation network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a metropolitan transportation network, emergency vehicle routing optimization requires assessing critical hub connectivity. Calculate the degree of node 123 to determine its direct road access capacity for prioritizing resource allocation during crises."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "As part of urban emergency response planning, rescue teams need to prioritize critical junctions for ambulance routing. A key transport hub labeled node 123 is suspected to have suboptimal connectivity during peak hours. Calculate the degree of node 123 to verify how many direct road connections it maintains for emergency vehicle access."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency route planning for critical ambulance access, the intersection represented by node 123 serves as a key hub near a central hospital. To ensure redundancy in crisis scenarios, what is the total number of directly connected roads (degree) to this node?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a metropolitan transportation network, critical facilities like hospitals and fire stations must maintain optimal connectivity. To evaluate the resilience of emergency routes, calculate the degree of node 123 representing a central medical hub."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning for a transportation network, emergency vehicles require efficient routing through critical junctions. To assess the connectivity of a key hub during crisis scenarios, calculate the total degree (sum of incoming and outgoing connections) for node 123 to determine its capacity to serve as an evacuation route."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, a transportation network's critical intersections must be prioritized for route optimization during crises. To assess the operational importance of junction 123, calculate its total degree as the sum of all incoming and outgoing road connections."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a fire department, station connectivity is critical for rapid deployment. To optimize rescue routes in the city's road network, identify the key intersection node 123's total adjacent connections. What is the degree of node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, assessing critical facility connectivity is vital. As part of evaluating rescue route efficiency, calculate the degree of node 123 representing a central hospital."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill evaluating critical road network resilience, what is the total degree of intersection node 123 to determine its connectivity priority for ambulance routing?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to identify critical transportation hubs. If node 123 represents a hospital zone, what is its total degree in the road network to assess connectivity for ambulance route optimization?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, assessing the connectivity of critical junctions is vital. What is the total degree of node 123 in the transportation network to determine its capacity for handling simultaneous emergency vehicle routes?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In optimizing emergency evacuation routes, the city needs to identify critical transportation hubs based on their connectivity. Calculate the degree of node 123 to assess its importance in the emergency response network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, evaluating critical infrastructure connectivity is vital. In the transportation network representing emergency service routes, calculate the total number of road connections (both incoming and outgoing) directly linked to node 123 to determine its operational reliability."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a transportation network, critical infrastructure nodes must be evaluated for connectivity. During route prioritization analysis, calculate the degree of node 123 to determine its direct road access capacity for deploying emergency vehicles. What is the total number of immediate bidirectional road connections at this node?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "As part of an urban disaster preparedness plan, emergency responders need to identify critical road intersections for deploying rapid evacuation routes. Calculate the total number of direct road connections (degree) at intersection node 123 to evaluate its capacity as a potential emergency coordination hub."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response plan for a transportation network, identifying critical intersections is vital. During a recent flood, rescue teams needed to prioritize access points connected to intersection 123 for efficient deployment. Calculate the total number of direct road connections (both directions) to intersection 123 to determine its operational capacity during emergencies."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response plan for a city's transportation network, the criticality of a junction is determined by its connectivity. To prioritize deployment of ambulances and fire stations, calculate the degree of node 123 to assess how many direct road links it maintains for rapid emergency vehicle routing."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, a critical junction's connectivity determines rescue efficiency. To prioritize resource allocation, calculate the total degree (sum of incoming and outgoing connections) of node 123 in the road network to identify if it represents a bottleneck for emergency vehicles."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency evacuation routes during a citywide crisis, rescue teams must assess key intersections. What is the total number of direct road connections (degree) at node 123 in the transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response planning scenario, efficient resource dispatch relies on critical infrastructure hubs. To optimize emergency vehicle routing, calculate the degree of node 123 which represents a major intersection connecting fire stations and hospitals through bidirectional access roads."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a major city's transportation network, the emergency management team needs to identify critical junctions with insufficient redundancy. Calculate the total number of direct road connections (sum of incoming and outgoing routes) for the evacuation hub node 123 to assess its vulnerability to traffic bottlenecks during crisis scenarios."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization project, city planners need to identify major transfer hubs by analyzing station connectivity. What is the total degree of node 123, which indicates how many different bus lines directly connect to this station?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During peak hours, the public transit authority aims to optimize bus routes by identifying key transfer hubs. To prioritize scheduling adjustments, calculate the total number of direct road connections (both incoming and outgoing) for station node 123 in the current network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network redesign proposal, Station 123 serves as a critical interchange hub. To optimize bus routing efficiency, transit planners need to determine how many direct bidirectional road connections currently exist between Station 123 and adjacent stops. What is the total degree of Station 123 in this transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public bus network optimization project, the transit authority needs to identify critical transfer hubs by analyzing station connectivity. Calculate the total number of direct road connections (degree) for station node 123 to determine its role in current route efficiency."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during peak hours, the transport authority needs to determine how many direct route connections exist around the central hub station (node 123) for efficient vehicle allocation. What is the degree of node 123 in this network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during rush hours, the transport authority needs to determine how many direct route connections exist at the critical transfer station numbered 123. Calculate the degree of this station to prioritize resource allocation for maintaining service reliability."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In the public bus network optimization project, the transit authority needs to prioritize maintenance and frequency adjustments for key transfer hubs. To evaluate Station 123's connectivity criticality, calculate its degree representing the total number of direct road connections to adjacent stations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, planners need to determine how many direct bus routes intersect at transfer hub station 123 to optimize timetable coordination. What is the total number of bidirectional connections (degree) for node 123 in this transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule adjustment, the central transfer station (node 123) has undergone route optimizations to balance passenger flow. To ensure adequate connectivity for commuters, what is the current degree of node 123 in the updated bus/metro interchange system?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network, after recent route optimizations to enhance connectivity during peak hours, the scheduling team needs to assess the current integration level of transfer station node 123. Calculate the degree of node 123 to determine if additional service frequency adjustments are required."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network where bus stops are interconnected to optimize transfer efficiency, the scheduling team needs to evaluate hub connectivity. Calculate the total number of direct route connections for the bus interchange station with ID 123 to determine its criticality for network redundancy planning."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour bus scheduling, the public transit department needs to evaluate connectivity of transfer stations. What is the degree of node 123 in the current network, reflecting its total road connections to adjacent stops?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network optimization project, station 123 is a key transfer hub. To balance route frequency, calculate the total number of direct bidirectional connections this station currently has to adjacent stops."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization meeting, the scheduling team needs to assess connectivity patterns of key transfer hubs. To prioritize maintenance for station 123, calculate its total degree as the sum of all bidirectional rail links connecting to adjacent stations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during peak hours, the transportation department needs to assess how critical Station 123 is based on its direct connections to other stops. What is the total degree of Station 123 in the current bus network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "While optimizing public transit schedules for a metropolitan area, the interchange station labeled 123 shows irregular passenger flow patterns. How many direct bus routes currently connect to this station to determine its transfer capacity?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization project, the city planners need to assess connectivity of transfer stations. Given recent route adjustments, calculate the current total number of direct rail line connections (both incoming and outgoing) at interchange station 123 to evaluate its hub capacity."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize bus scheduling efficiency at a major transit hub, what is the total number of bidirectional road connections directly linked to station node 123, reflecting its operational centrality in the public transport network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization meeting, planners need to assess critical transfer hubs. To adjust bus route frequencies, calculate the total number of direct route connections (both incoming and outgoing) for transit hub station 123."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during peak hours, the city's transport authority needs to assess the connectivity of key transfer hubs. What is the degree of node 123 in the current network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "After recent scheduling adjustments to optimize bus route efficiency in the public transit network, the operations team needs to verify connectivity levels at key hubs. What is the total degree of node 123 to determine if its current route allocations align with updated service demands?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve public transit scheduling efficiency during peak hours, the central hub station (node 123) requires an updated count of its direct bus route connections. What is the degree of node 123 to prioritize timetable synchronization?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, planners need to determine key transfer hubs by analyzing station connectivity. Calculate the total degree of station node 123 to identify how many direct road connections it currently maintains with adjacent stops."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During the public transit network scheduling optimization, station 123 had several bus routes adjusted—new connections were added to improve transfer efficiency while some redundant links were removed. To evaluate the hub's current connectivity, what is the total number of direct route connections (both incoming and outgoing) remaining at station 123 after these changes?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network optimization project, a city planner needs to determine how many direct route connections exist at transfer hub station 123 to evaluate its criticality for scheduling adjustments. What is the total degree of node 123 in this network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule optimization, the operations team needs to assess the connectivity of key transfer hubs. Calculate the total number of direct road connections (both incoming and outgoing) for station node 123 to determine if it requires additional bus allocation during rush hours."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review for downtown connections, station maintenance planners need to prioritize hubs by their route intersections. Calculate the degree of node 123 to identify its criticality in daily commuter transfers."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling optimization, the transport authority needs to assess connectivity patterns of key transfer hubs. To prioritize maintenance for Station 123, calculate its degree in the current bidirectional route network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During peak hour scheduling optimization in the metro network, a critical transfer hub's connectivity determines operational efficiency. Calculate the total number of rail lines directly connected to transfer hub station 123 in the updated timetable to assess whether its capacity meets current passenger demand."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit schedules during peak hours, the transportation department needs to assess connectivity at key hubs. If Station 123 serves as a critical transfer point, what is its total degree to determine its capacity for handling simultaneous route connections?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "A public bus company is optimizing transfer efficiency during peak hours by evaluating connectivity at key hubs. To determine if Station 123's current schedule adjustments align with its role as a transfer point, calculate its total number of direct route connections in the network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization meeting, planners need to assess key transfer stations' connectivity. To prioritize route adjustments, calculate the total number of bidirectional road connections (degree) for interchange station node 123 in the current bus network configuration."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit schedules during peak hours, the transit authority needs to assess the connectivity of key stations. What is the total number of direct route connections (both incoming and outgoing) for the station represented by node 123 in the current subway network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour public transit network scheduling, the city's transport department needs to assess the connectivity of station 123. Calculate the total number of direct road connections (degree) for this station to determine its role as a potential transit hub."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During the public transit network optimization for weekend shuttle services, the operations team needs to verify the connectivity of transfer hub station 123 to prioritize maintenance resources. Calculate the total number of direct roadway links (both incoming and outgoing) associated with this station."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "When analyzing a city's public transit network to optimize bus and metro route coordination, the transportation department must evaluate key transfer stations' connectivity. To determine the operational load of the Central Interchange (node 123), calculate its total degree in the multimodal network graph."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization project, planners are evaluating key transfer hubs to balance route connectivity. To determine if node 123 requires additional infrastructure upgrades, calculate its total degree as the sum of all direct rail and bus route connections it currently maintains."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during peak hours, the transport authority needs to assess connection density at critical stations. Calculate the total number of direct bidirectional routes linked to transfer hub node 123 in the network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "As part of optimizing peak-hour vehicle allocation in a public transit network, the scheduling team needs to evaluate connectivity at transfer hub \"123\" to prevent bottlenecks. What is the total number of direct route connections (both incoming and outgoing) for node 123 in this network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling optimization, planners need to assess the connectivity of key transfer hubs. What is the degree of node 123 in the current network, reflecting its direct road connections to adjacent stations?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization meeting, the city planner needs to identify key transfer hubs by analyzing connection density. Calculate the degree of node 123 to determine how many direct bus routes currently intersect at this station."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve public transit transfer efficiency during peak hours, the scheduling team needs to determine how many direct bus routes currently connect to the central interchange station (node 123) for coordinated timetable adjustments. What is the degree of node 123 in this transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In the process of optimizing a public transit network schedule, the planning team needs to assess connection density at key transfer stations. Calculate the degree of node 123 to determine how many distinct bus routes directly intersect at this station hub."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network scheduling project, a key bus transfer station (node 123) connects multiple routes. To optimize vehicle allocation, what is the total number of direct bidirectional route connections associated with this station?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network scheduling project, transport planners are evaluating route redundancy for hub station 123 to optimize bus frequency allocations. Based on current bidirectional road connections between stations, what is the total degree of node 123 in this transit system?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization meeting, planners need to assess transfer station workload by counting connected routes. What is the degree of node 123 representing Central Interchange's bus/train connections?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In the context of public transit network scheduling, station 123 serves as a major transfer hub. To evaluate its operational impact, calculate the total number of direct route connections (both incoming and outgoing) for station 123 based on current bidirectional road links between stations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling during peak hours, the city planners need to assess the connectivity of transfer stations. Calculate the degree of node 123 to determine how many direct road connections it has with neighboring bus/tram stops in the current bidirectional route configuration."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule optimization, the transport authority needs to determine how many direct route connections exist at transfer station 123 to adjust peak-hour service frequency. What is the total number of connections (both incoming and outgoing) for this station?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour service frequency in the public transit network, calculate the total number of direct route connections (both incoming and outgoing) currently linked to the transfer hub labeled 123. This will determine if additional buses are needed to handle passenger transfers at this node."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network undergoing route optimization, the scheduling team needs to assess connectivity at key hubs to balance coverage and efficiency. Calculate the total degree of station 123 to determine how many direct route connections it currently maintains across the network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network scheduling optimization, the planning team needs to evaluate connection density at key transfer hubs. Calculate the degree of node 123 to determine how many direct road links this interchange station maintains with neighboring stops, which is critical for adjusting bus frequencies."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, planners need to optimize route distribution around a key transfer hub labeled Stop 123. What is the total number of direct bidirectional connections (incoming and outgoing routes) linked to Stop 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network optimization project, the city plans to balance transfer efficiency by adjusting bus routes connected to hub station 123. To evaluate its connectivity impact, what is the total number of direct roadway links (in both directions) currently associated with node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve peak-hour scheduling efficiency in the public transit network, planners are analyzing connectivity patterns of key transfer stations. Calculate the degree of node 123, which represents a central subway-bus interchange hub, to determine how many direct route connections require coordinated timetable adjustments."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network redesign proposal, station 123 is identified as a critical transfer hub. To optimize bus route frequency allocation, planners need to determine how many direct bidirectional connections this station currently has with neighboring stops. What is the degree count of node 123 in this transportation system?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization project, the transport authority needs to identify key transfer hubs by analyzing connection density. Calculate the current degree of node 123 to determine how many direct bus routes intersect at this station."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling, the transport authority needs to assess connectivity of a critical transfer hub. What is the total degree of node 123, representing this hub's combined incoming and outgoing bus route connections?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "As part of a public transit network optimization project, city planners need to evaluate the connectivity of a key bus transfer station (node 123) to balance route scheduling. What is the total degree of node 123 in the current bus network configuration?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization project, evaluating station connectivity helps prioritize scheduling adjustments. To allocate maintenance crews efficiently, what is the total degree of station 123 based on its immediate road linkages?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve efficiency in public transit scheduling, the city's transport authority needs to assess connectivity patterns at major transfer hubs. Calculate the total degree of node 123, which represents a critical subway station where multiple bus routes intersect with rail lines."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling optimization for morning rush hour, the central transfer station labeled 123 became critical for managing route overlaps. Calculate the total number of directly connected stations (bidirectional routes) to node 123 in the updated bus network configuration."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during peak hours, the city wants to identify key transfer hubs by analyzing connection density. Calculate the degree of node 123 in the metro-bus network to determine how many direct route connections this interchange station currently maintains."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour transfer efficiency, the public transit team needs to determine the total number of direct routes connected to hub station 123. Calculate the degree of this node."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize the public transit network scheduling during peak hours, the transport authority needs to evaluate the connectivity of transfer stations. What is the degree of node 123 in the current network, as its connections directly impact route prioritization and frequency adjustments?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour public transit network scheduling, the transit authority needs to assess the connectivity strength of transfer hubs. Station node \"123\" serves as a critical interchange, where its degree directly impacts passenger transfer efficiency. Calculate the degree of node 123 to determine if additional shuttle services should be allocated to this station."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit efficiency during peak hours, the scheduling team has adjusted bus route connections at major transfer hubs. Determine the current total number of direct road links connected to interchange station node 123 after these updates."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization meeting, the team needs to determine if the central bus terminal (Node 123) has sufficient route connections to handle increased commuter transfers. What is the total number of direct bidirectional road links connected to Node 123 in the current transportation system?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network redesign project, planners are evaluating transfer hubs to balance route connectivity. To determine if station 123 meets the minimum connection threshold for priority scheduling, calculate its degree in the current network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "When optimizing public transit schedules, evaluating the connectivity of key hubs helps balance route efficiency. What is the total number of direct road connections adjacent to transit hub 123 in the current network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve peak-hour service reliability in the public transit network, the scheduling team needs to evaluate the connectivity of transfer hub station 123. Calculate the degree of node 123 to determine whether its current route connections justify increasing dedicated bus allocations during rush hours."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling, the city's transport agency is evaluating key transfer hubs. Calculate the total number of direct route connections (both incoming and outgoing) for station 123 to assess its criticality in the network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization, the scheduling team needs to determine the total number of direct route connections at hub station 123 to assess its connectivity. What is the degree of node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During the optimization of public bus transfer efficiency during peak hours, transit planners need to evaluate key stations' connectivity. What is the total degree of node 123 in this network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In the process of optimizing public transit route efficiency, the scheduling team needs to assess connectivity changes at transfer hub Station 123. Calculate the degree of node 123 to determine how many direct road links it currently maintains with adjacent stops in the updated network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During the public transit network schedule adjustment for peak hour congestion management, station node 123 is being evaluated as a potential bottleneck. What is the total number of immediate neighboring stations directly connected to node 123 through bidirectional transit routes?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization project, the scheduling team needs to assess connectivity of hub stations to balance route loads. What is the total number of direct bidirectional road connections (degree) for station node 123 in the current network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer efficiency during peak hours, the public transit scheduling team needs to identify connection patterns at key hubs. Calculate the degree of node 123 to determine how many direct route connections it maintains across the network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a recent increase in passenger demand at the central hub station 123, the public transit authority needs to optimize its scheduling by evaluating the station's connectivity. How many total bidirectional routes (combining incoming and outgoing) are directly linked to station 123 in the network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network where stations are interconnected to optimize commuter flow during peak hours, calculate the total number of direct route connections (both incoming and outgoing) for station 123 to assess its critical role in maintaining schedule reliability."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban traffic network, maintenance teams need to identify critical hubs for e-scooter fleet redistribution. Calculate the degree of node 123 to determine how many direct road connections it has for optimizing vehicle dispatch routes."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle charging station network, optimizing station connectivity is crucial for efficient fleet management. To assess the accessibility of Station 123, how many bidirectional road connections does it have in total?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter platform's traffic network analysis for optimizing vehicle rebalancing, station connectivity is critical. Calculate the degree of node 123 to determine how many stations are directly accessible from it through bidirectional routes."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle charging network, where nodes represent charging stations and edges indicate bidirectional access roads, how many direct road connections (degree) does station node 123 have to determine optimal power allocation for electric scooter redistribution?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize shared e-scooter redistribution during peak hours, a mobility platform needs to assess connectivity at key stations. Based on the bidirectional road links between nodes, calculate the degree of node 123 to determine its potential for fleet balancing."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle redistribution analysis, the operations team needs to identify key stations based on road connectivity. Calculate the total degree of station node 123 to determine how many direct bidirectional routes connect it to other stations in the network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network where stations are connected via bike lanes, the operations team needs to identify key stations for maintenance. Calculate the degree of node 123 to determine how many directly connected neighboring stations require priority charging infrastructure deployment."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle routing network, where each node represents a mobility hub managing car-sharing and bike-sharing fleets, the operations team needs to verify connectivity for maintenance planning. Please calculate the degree of hub node 123 to determine how many direct road connections it maintains with adjacent charging stations and parking zones."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's traffic network analysis, node 123 represents a key charging station hub. To optimize vehicle routing, what is the total number of bidirectional road connections directly linked to this node?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's transportation network where stations are connected via bidirectional roads, what is the degree of node 123, representing the total number of direct connections to this station?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network where nodes represent parking hubs and edges indicate high-traffic routes between them, what is the degree of hub 123 to determine its connectivity importance for fleet rebalancing?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's bike-sharing network, stations are connected if users can directly transfer between them. To optimize vehicle redistribution, calculate the degree of station 123 indicating how many neighboring stations are immediately reachable through bidirectional bike lanes."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's transportation network analysis for optimizing vehicle redistribution, station 123 is considered a critical hub. To determine its connectivity for efficient fleet management, what is the total number of direct road connections (both incoming and outgoing) associated with station 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To improve vehicle rebalancing for a shared mobility platform, the operations team needs to identify key hubs in the transportation network. Calculate the degree of node 123 to determine how many charging stations and maintenance centers are directly connected to this central docking station."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared mobility platform operator analyzing city bike station connectivity, the logistics team needs to optimize vehicle redistribution. Station 123 acts as a critical hub for balancing demand. How many direct two-way road connections does station 123 have in the transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter network operated by a mobility platform, station 123 is connected to neighboring hubs for rebalancing fleets. To optimize vehicle distribution, what is the total number of direct road connections (both incoming and outgoing) associated with station 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban traffic network, where nodes represent vehicle hubs and edges indicate bidirectional routes available for scooter/bike transfers, calculate the total number of routes directly connected to hub 123 to optimize fleet redistribution efficiency."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's traffic network where nodes represent vehicle pickup/drop-off hubs and edges indicate bidirectional travel routes, compute the degree of hub 123 to determine how many immediate connections it has for coordinating e-bike relocation operations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To assess the impact of temporarily closing shared e-scooter hub 123 for maintenance, how many other charging stations are directly connected to it in the transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle allocation across a shared mobility platform's station network, the operations team needs to determine the total number of direct road connections associated with station 123. What is the degree of node 123 in this transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle relocation analysis, stations are connected based on frequent user transfer patterns. To optimize bike redistribution, calculate the degree of station node 123, which indicates how many direct routes it has to adjacent stations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban traffic network, a user is trying to locate available bikes near the busy hub at node 123. To optimize vehicle redistribution, calculate the total number of connected roads (degree) for this node, which reflects its accessibility to adjacent stations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's transportation network where bike stations are connected via bidirectional bike lanes for optimal vehicle redistribution, the operations team needs to assess the connectivity of station ID 123 to prioritize maintenance. What is the total number of direct lane connections (both incoming and outgoing) for station 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platforms often optimize vehicle redistribution between stations. In the bike-sharing network, station 123 is a hub connecting multiple routes. To determine how many direct road connections it has for efficient rebalancing, calculate the degree of node 123 in the transportation graph."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle redistribution network where e-scooter stations are interconnected based on frequent user transfers, calculate the degree of station node 123 to determine how many charging docks require regular maintenance due to high connection frequency."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle allocation during peak hours, a shared e-scooter platform needs to assess connectivity patterns at their station hub labeled 123. How many directly connected neighboring stations (bidirectional links) does station 123 have in the urban mobility network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle routing network, stations are connected via two-way roads for optimal trip distribution. Calculate the degree of station 123 to determine how many direct connections it maintains with neighboring stations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's city network, where each node represents a vehicle docking station, station 123 is a critical hub for rebalancing e-bike inventory. To optimize redistribution routes, what is the total number of direct road connections (two-way) currently linked to station 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter platform's urban traffic network analysis, station 123 serves as a key interchange hub connecting multiple residential and commercial zones. To optimize fleet redistribution, calculate the total number of direct road connections (both incoming and outgoing) associated with station 123."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter platform's parking station network, stations are connected based on mutual accessibility for vehicle redistribution. To optimize scheduling efficiency, the operations team needs to calculate how many direct roadway connections Station 123 has with neighboring stations. What is the total degree of node 123 in this transportation graph?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter platform's charging station network, routing efficiency relies on node connectivity. To optimize battery redistribution, calculate the total number of direct road connections (in both directions) for station node 123."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's bike-sharing system, stations are connected via bidirectional bike lanes. To optimize rebalancing routes, calculate the total number of direct connections (degree) for station node 123 in the current transportation network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban scooter network, maintenance teams need to optimize vehicle redistribution by analyzing station connectivity. If node 123 represents a central charging hub, what is its total degree when accounting for all bidirectional routes connecting it to neighboring pickup/dropoff stations?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle allocation for a shared mobility platform's urban network, what is the total number of road connections (both incoming and outgoing) associated with station ID 123 when evaluating its redistribution efficiency as a transportation hub?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle charging network, where stations are interconnected based on real-time availability data, determine the total number of direct road connections (both incoming and outgoing) for station node 123 to prioritize maintenance resource allocation."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared electric car network where nodes represent charging stations and edges show bidirectional travel routes, the city planner needs to identify critical hubs for maintenance. Calculate the degree of node 123 to determine how many directly connected stations rely on its operational status."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's transportation network where nodes represent e-scooter docking stations and edges indicate bidirectional vehicle redistribution routes, calculate the degree of node 123 to evaluate its operational significance in maintaining regional service coverage."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize the charging station layout for a shared car service, the operations team needs to determine how many direct road connections exist for station 123 in the network. What is the total degree of node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared electric car charging network operated by a mobility platform, the scheduling system needs to determine how many bidirectional charging routes are directly connected to hub station 123 to optimize fleet deployment. What is the total degree of node 123 in this transportation graph?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared car mobility platform's station network, where each station is connected via two-way roads allowing pick-up and return, calculate the total number of direct road connections (degree) for station 123 to determine its accessibility score."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution efficiency for a shared e-scooter platform, how many direct road connections (both incoming and outgoing) does station 123 have in the transportation network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution efficiency, a shared mobility platform needs to calculate the total number of bidirectional road connections linked to their central hub station (node 123) in the transportation network. What is the degree of node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban traffic network analysis, when evaluating station connectivity for efficient vehicle redistribution, what is the degree of node 123 based on its bidirectional road links to adjacent charging stations?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform manages an urban electric scooter network where stations (nodes) are connected via routes. To optimize vehicle redistribution, the operations team needs to know how many direct bidirectional road connections station 123 has with neighboring stations. What is the total number of immediate connections to station 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban transportation network where nodes represent docking stations and edges indicate bidirectional road connections between them, calculate the degree of station 123 to assess its connectivity for optimizing vehicle redistribution during peak hours."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared car platform's traffic network where nodes represent charging stations and edges indicate bidirectional road access, calculate the degree of node 123 to prioritize its maintenance scheduling and vehicle allocation efficiency."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing the connectivity of their electric scooter hubs in a downtown area to optimize rebalancing routes. If hub 123 represents a key transit point near a metro station, what is its degree in the network considering both incoming and outgoing connections?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle charging infrastructure network, station 123 requires maintenance. How many directly connected road segments must be checked to ensure all accessible routes are accounted for during servicing?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platforms are optimizing their vehicle redistribution by analyzing station connectivity. If station 123 is directly linked to multiple stations for efficient bike transfers, what is the current degree of station 123 in the network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's transportation network where nodes represent vehicle charging stations and edges indicate bidirectional access roads between them, a logistics team needs to optimize delivery routes. To prioritize maintenance scheduling, calculate the total number of direct road connections (degree) for charging station node 123."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter platform's charging network analysis, stations are interconnected to optimize battery swaps. To identify key hubs, calculate the total number of direct road connections (both directions) for charging station node 123."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter platform's charging station network, where nodes represent stations and edges indicate bidirectional maintenance routes between facilities used for battery swaps, what is the degree count of station node 123 that determines its connectivity efficiency?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban traffic network, station 123 is critical for balancing e-scooter redistribution. To optimize dispatch efficiency, calculate the total number of direct bidirectional road connections (shared with bikes and e-scooters) that station 123 currently has across the network."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is optimizing their fleet redistribution network. To prioritize maintenance routes, they need to determine how many direct road connections intersect at hub 123. Calculate the total degree of node 123."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's traffic network used to optimize vehicle redistribution between high-demand zones, calculate the degree of node 123 to determine how many direct road connections it has for efficient fleet rebalancing operations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter charging station network maintained by a mobility platform, each station (node) is connected via bidirectional access roads (edges) allowing vehicle redistribution. During system maintenance, technicians need to prioritize stations with high connectivity for route optimization. Calculate the degree of station 123 to determine how many direct road links it currently maintains."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle redistribution analysis, the operations team needs to identify key hubs by counting direct road connections between stations. Station 123 is critical for balancing e-scooter availability – calculate its total number of connected neighboring stations to prioritize route optimization efforts."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing connectivity between stations to optimize vehicle redistribution. In the transportation network graph where each node represents a station, calculate the degree of node 123 to determine how many direct road connections it has for efficient maintenance routing."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To improve shared e-scooter rebalancing in an urban transport network, the platform needs to assess connection density at key stations. What is the total degree (both incoming and outgoing connections) of node 123 in this mobility grid?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To balance vehicle availability across a shared e-scooter platform's transportation network, the dispatch system requires the degree (number of directly connected neighboring stations) for station 123. What is the total number of bidirectional road links connected to this station?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter station network where each station is connected to adjacent hubs for vehicle redistribution, what is the degree of station node 123 when counting all its bidirectional road links?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared bike network operated by a mobility platform, stations are connected based on frequent user trips. To balance bike availability during peak hours, the operations team needs to identify stations with highest connectivity. What is the degree of station node 123 in this network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's bike-sharing network, station 123 frequently experiences vehicle imbalance. To optimize redistribution, what is the total number of direct road connections (both incoming and outgoing) that station 123 currently has with neighboring stations?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is analyzing station connectivity patterns to optimize vehicle redistribution. Based on the bidirectional travel routes between stations, calculate the degree of node 123 to determine how many stations are directly connected to it for efficient fleet balancing."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle charging station network, where nodes represent charging hubs and edges indicate two-way road connections between them, calculate the degree of node 123 to determine how many direct road links this charging hub maintains with neighboring stations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, station 123 is a key hub for rebalancing operations. To optimize fleet distribution during peak hours, the operations team needs to determine how many bidirectional road connections station 123 directly maintains with neighboring stations. What is the total count of immediate connections (both incoming and outgoing) for node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's transportation network where bike-sharing stations are represented as nodes and bidirectional bike lanes as edges, calculate the degree of station node 123 to determine how many direct connections it has with neighboring stations for optimizing rebalancing operations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing vehicle redistribution between docking stations. To assess connectivity efficiency, what is the total degree of station node 123, representing its direct road links to adjacent stations?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform analyzes its station network where each node represents a bike-sharing station. If station 123 is connected bidirectionally to other stations via accessible roads, calculate its total number of direct connections to determine usage hotspots."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban traffic network analysis, a key hub station is represented by node 123. To optimize vehicle redistribution, how many direct road connections (degree) does this node have to neighboring stations?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's transportation network analyzing key stations for vehicle redistribution efficiency, calculate the degree of node 123 to determine how many road connections it maintains with neighboring stations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network where stations are interconnected by bidirectional roads, the operations team needs to balance vehicle availability. To optimize redistribution routes, what is the total number of direct road connections (both incoming and outgoing) for station 123 in the current network layout?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network where nodes represent parking hubs and edges indicate bidirectional routes available for vehicle rebalancing, calculate the total number of direct route connections (degree) for hub 123 to optimize fleet redistribution strategies."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle allocation during peak hours, the operations team needs to determine how many direct road connections the charging station at node 123 has to neighboring stations in the shared e-scooter network. What is the degree of node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network where stations are linked if users can directly ride between them, calculate the degree of station 123 (downtown transit hub) to determine how many immediate neighboring stations are accessible for rebalancing operations."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's bike network, station 123 serves as a key hub connecting multiple residential areas and business districts. To optimize bike redistribution, how many direct bidirectional routes (ignoring distance and capacity) are currently linked to station 123 across the entire network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle redistribution network, station 123 is connected to multiple charging hubs and parking zones. To optimize maintenance scheduling, the operations team needs to determine how many direct road connections this station has with neighboring facilities. Calculate the total degree of node 123 in this transportation graph."
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's traffic network analysis, station 123 serves as a key hub for connecting e-scooters and bike routes. To evaluate its connectivity efficiency, what is the total degree (sum of incoming and outgoing connections) of node 123 in the current network?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's traffic network analyzing popular station connectivity for rebalancing electric scooters, what is the degree of node 123?"
+  },
+  {
+    "label": "Degree_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution for a bike-sharing platform, the operations team needs to identify high-demand hub stations in the transportation network. If each station is connected to others via bidirectional bike lanes, calculate the degree of station 123 to determine how many directly accessible neighboring stations it has for efficient fleet rebalancing."
+  }
+]

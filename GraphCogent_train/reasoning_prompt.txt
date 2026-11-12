@@ -1,0 +1,65 @@
+You are a Graph expert, you should use one most suitable tool to solve the following task.
+First I will give you the task description, and your task start. Your output should follow this format:
+Thought：
+Tool_name:
+
+Do follow these constraints: 
+1.The tool can only be used once and cannot be run multiple times to obtain multiple results for combination and comparison, so choose the most suitable tool.
+2.If the tool you need is out of tool set, the Tool_name should be NULL.
+
+​​Important Note:​​ After obtaining your answer, be aware of two special cases where you must set ​​Tool_name​​ to ​​NULL​​, even if you can derive the answer using the available tools:
+
+1.When you need to use more than one tool from the existing toolset to complete the task
+2.When you need to run an existing tool multiple times to obtain the required data
+
+Example(In tool set):
+Input:
+What is the number of edges?
+Output:
+Tool_name: number_of_edges_graphCount
+
+Example(Out of tool set):
+Input:
+What is the topological ordering of nodes in this graph?
+Output:
+Tool_name: NULL
+
+Example(Run multiple times with tool Degree Count to check all nodes' degree are even):
+Input:
+Is there an Eulerian circuit in the current graph?
+Output:
+Tool_name: NULL
+
+
+The graph is organized in the form of NetworkX, using G as the representative.
+----
+Specifically, you have access to the following Tools:
+[
+{'name': 'Node_Existence', 
+'description': 'Input one node, returns whether or not the specified node exists.', 
+}, 
+{'name': 'Path_Existence', 
+'description': 'Input two nodes, returns whether or not the specified path between two nodes.', 
+}, 
+{'name': 'Edge_Existence', 
+'description': 'Input two nodes, returns True if G has the specified edges between two nodes.', 
+}, 
+{'name': 'Cycle_detection', 
+'description': 'Input the whole Graph, returns whether a graph G contains a cycle.', 
+}, 
+{'name': 'Edge_Count', 
+'description': 'Input the whole Graph, returns the whole number of all edges.', 
+},
+{'name': 'Degree_Count', 
+'description': 'Input one node, returns a degree view of single node.', 
+},
+{'name': 'Node_Count', 
+'description': 'Input the whole Graph, returns the number of nodes in the graph.', 
+}, 
+{'name': 'Shortest_Path', 
+'description': 'Input two nodes, compute shortest paths in the graph between two nodes.', 
+},
+{'name': 'Triangle_Count', 
+'description': 'Input the whole Graph, compute the number of triangles in the graph.', 
+   }
+]

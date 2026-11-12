@@ -1,0 +1,1987 @@
+[
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's traffic network where key intersections are interconnected by two-way roads, travel planners aim to identify stable route alternatives. How many triangular closed-loop structures exist where three distinct intersections form mutually accessible routes, providing redundancy for congestion avoidance?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's transit network where key hubs are interconnected by bidirectional roads, a travel route planner aims to identify frequently traversed triangular pathways for optimizing efficient transfer options. How many triangle structures exist in this network to prioritize route redundancy analysis?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's tourism route planning system, scenic spots are interconnected by two-way roads. For efficient tour organization, how many triangular routes exist where visitors can start at one spot, visit two others via connected roads, and return without repeating roads? Calculate the total number of such cyclic triangular structures."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route optimization project, the transportation department wants to identify triangular circuits where three attractions are directly connected by bike lanes, allowing tourists to cycle seamlessly between them. How many such triangular structures exist in the current bike lane network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's public transportation network where bus stops are interconnected, travel planners want to identify triangular routes that allow passengers to cycle between three stops via alternate paths. How many such triangular structures exist in the network to support redundant route planning during unexpected closures?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "When optimizing sightseeing routes for tourists, triangular connections between landmarks allow efficient round-trip travel. How many such triangle structures exist in the transportation network where three distinct locations form closed-loop itineraries?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's public transit network where major hubs are interconnected, travel planners want to identify efficient loop routes for tourists visiting three landmarks consecutively. Calculate how many triangular routes exist where passengers can depart from a hub, visit three distinct attractions via direct connections, and return without retracing roads."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's public transport network where key attractions are connected by bidirectional shuttle routes, travel agencies aim to design efficient circular tours. Calculate the total number of triangular circuits where tourists can visit three distinct landmarks sequentially and return to the starting point without repeating routes."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To enhance travel route efficiency in a city's metro system, planners want to identify clusters of three interconnected stations forming closed loops for alternative transit options. Calculate the total number of triangular station groups where each pair is directly linked by bidirectional rail lines."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route planning system, bidirectional roads connect key landmarks. To evaluate network resilience, how many unique triangular circuits exist where three connected locations form a cyclic route through mutual road connections?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's traffic network used for travel route optimization, a triangular structure between three intersections allows drivers to form efficient loop routes without backtracking. How many such triangular structures exist in the current network to provide viable circular path options?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To enhance travel route reliability, identifying redundant connection loops in the transportation network is crucial. How many triangular structures formed by mutually connected triple nodes exist in the current network for stable detour planning?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "A tourism company aims to optimize regional day-trip routes by identifying triangular road loops between scenic spots, as such loops minimize redundant travel time. How many triangular circuits exist in the current road network connecting these attractions?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route planning system, popular tourist spots are interconnected by two-way roads. To optimize recommended itinerary efficiency, the tourism platform needs to identify triangular circuits where three distinct locations are mutually reachable through direct routes. How many such triangular route structures exist in the current network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To improve travel route planning efficiency in the urban traffic network, transportation analysts need to identify triangular structures where three interconnected nodes form alternative shortcut loops. How many such triangles exist in the current network to enable optimized detour recommendations during road maintenance?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "Calculate the number of triangular structures in the transportation network to identify potential shortcut route options for optimizing travel time between connected locations."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's traffic network, transportation planners aim to optimize road connectivity by identifying groups of three intersections where each pair is directly connected by a two-way road. Calculate the total number of such triangular structures to evaluate potential redundant connections and alternative route efficiency for travel planning."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's traffic network used for travel route planning, triangular structures indicate potential detour-reducing shortcuts between three locations. To optimize route efficiency, how many such triangular structures exist in the current network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route efficiency, how many triangular pathways exist in the city's road network where three interconnected locations form a shortcut, reducing travel time between any pair?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network used for travel route planning, triangular circuits consisting of three interconnected locations allow tourists to visit attractions without backtracking. How many such triangular route structures exist in the network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route planning and reduce unnecessary detours, calculate the total number of triangular structures in the transportation network where three interconnected nodes form a closed loop, allowing drivers to identify potential shortcuts between locations."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To assist in optimizing travel route efficiency and identifying potential detour options, how many triangular roadway formations exist where three interconnected locations form a closed loop, allowing drivers to pivot between any pair without backtracking?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network used for travel route optimization, how many distinct triangular routes exist where three connected road junctions form closed loops, allowing tourists to revisit their starting point without retracing roads?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route planning system, attractions are connected by two-way roads. To optimize tour options, how many unique triangular circuits exist where visitors can travel between three distinct landmarks without retracing any road?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a region popular for travel destinations, scenic spots are connected by bidirectional roads forming route networks. To optimize tour package designs, how many triangular route loops exist where three distinct attractions are directly interconnected, allowing visitors to efficiently cycle between them via shortcut paths?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "A tourism company aims to optimize scenic spot route recommendations by identifying shortcut opportunities. How many triangular structures exist in the transportation network connecting popular attractions, where each triangle represents a potential fast loop for travelers?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network where certain roundabout intersections form triangular pathways, a travel route planning agency wants to identify scenic loop routes for tourists. How many triangular structures exist in the network to optimize such route offerings?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize sightseeing efficiency, the city's tourism department wants to identify triangular routes where tourists can visit three attractions in a loop without retracing roads. How many such triangular route structures exist in the current transportation network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's road network where intersections are connected by two-way streets, route planners need to identify triangular pathways that allow alternative travel options. Calculate the total number of triangular structures to evaluate redundancy for optimizing commute routes during road maintenance."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel itineraries for sightseeing buses, the city's road network connects popular attractions with bidirectional routes. Each cyclic route visiting three distinct attractions without backtracking forms an efficient triangular circuit. How many such triangular circuits exist in the current transportation network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route efficiency and identify alternative pathways in the urban road network, calculate the total number of triangular structures formed by interconnected three-way intersections."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In the city's traffic network where triangular road formations indicate potential efficient detour options, how many such triangles exist to help travelers optimize their route planning by minimizing unnecessary backtracking?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a bike-sharing city's transportation network, stations are interconnected by bike lanes. To optimize travel route options for users, how many unique triangular route combinations exist where three stations are mutually reachable via direct lanes, allowing cyclists to plan closed-loop trips without retracing paths?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network where certain roundabout shortcuts between three locations can significantly reduce travel time, a ride-sharing company wants to optimize their route planning by identifying all possible triangular shortcuts. How many triangular structures exist where drivers could efficiently loop through three interconnected points while maintaining the shortest possible circuit, "
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route efficiency, how many triangular circuits exist in the transportation network where three interconnected nodes form a closed loop with direct two-way roads, allowing drivers to bypass congested zones? Calculate the total number of such triangles."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route efficiency in the city's road network, calculate the total number of triangular circuits where three connected landmarks form a closed loop, enabling shorter alternative paths without backtracking."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network where key tourist attractions are connected by two-way roads, travel planners aim to design efficient sightseeing routes that avoid backtracking. How many triangular structures exist in the network, representing closed-loop routes between three directly connected landmarks?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a regional travel route optimization study, the transportation department aims to identify clustered connection patterns among key landmarks. How many triangular route alternatives exist where travelers can cycle between three interconnected attractions without retracing roads, providing redundant path options during peak hours?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network where nodes represent major landmarks connected by two-way roads, how many triangular routes exist where three distinct landmarks are all directly linked, allowing travelers to move seamlessly between them without taking alternative paths?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "Calculate the number of triangular structures formed by three interconnected intersections in the transportation network that can serve as efficient alternative routes to alleviate congestion during peak hours."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network used for travel route planning, tourists often prefer circular routes that connect three landmarks without backtracking. How many such triangular routes exist where each pair of landmarks is directly connected by bidirectional roads?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route reliability in the urban metro system, planners need to identify redundant connection patterns where three stations form a closed loop, allowing alternative paths during disruptions. How many triangular route groups exist in the current network where each station pair is directly linked?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route planning and reduce congestion, calculate the total number of triangular structures in the city's road network where three interconnected locations form a closed loop accessible via bidirectional roads."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's road network where certain congestion hotspots are formed by triangular structures of interconnected roads, how many such triangles exist to help the traffic management department identify potential alternative routes and optimize detour suggestions during peak hours?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel routes and reduce redundant paths in the urban transit network, planners need to identify triangular structures where three intersections are directly connected in a cyclic manner. How many such triangular shortcuts exist in the current road network to enable faster trip planning?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route planning system, stations are interconnected via bidirectional roads. To identify reliable detour options during peak hours, calculate the total number of triangular structures formed by three mutually connected stations, where each side represents a direct road usable for congestion avoidance."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route planning system, where bike-sharing stations are interconnected via dedicated lanes, calculate the total number of triangular routes that allow cyclists to form closed loops visiting three distinct stations without repeating roads."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route planning system, intersections are connected by two-way roads. To optimize sightseeing efficiency, how many triangular circuits exist where three distinct locations form a closed loop without retracing roads?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route efficiency, how many triangular circuits exist in the transportation network where three interconnected locations form a closed loop via direct roads, enabling drivers to avoid backtracking?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's traffic network where bidirectional roads connect key locations, travel planners want to identify efficient closed-loop routes for optimizing sightseeing tours. How many triangular circuits exist where three distinct locations are mutually reachable through direct roads?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To enhance travel route efficiency, a city's transportation department wants to identify clusters of three interconnected locations forming cyclic routes. How many such triangular road loops exist in the current network where three nodes are mutually connected via direct bidirectional roads?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In urban travel route planning, triangular road connections between intersections can indicate alternative path options for avoiding traffic. How many such triangles exist in the transportation network to help optimize detour strategies during peak hours?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's subway transfer network where stations are interconnected, how many triangular route loops exist where three distinct stations form a closed circuit through bidirectional tracks, enabling travelers to rotate between them without backtracking?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route efficiency in the urban metro system, calculate how many unique triangular routes exist where three connected stations form a closed loop, allowing passengers to return to their starting point without backtracking."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "Calculate the number of triangular structures in the current transportation network where each triangle represents a closed-loop route between three intersections that can be used as alternative paths for drivers when main roads are congested."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route options for travelers, a transportation planning platform aims to identify cyclic connection patterns between key locations. How many triangular structures exist where three directly interconnected points allow round-trip journeys without detours?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To assist in optimizing travel routes for tourists who prefer circular sightseeing paths without repeating roads, calculate the total number of triangular loops in the urban road network where each triangle consists of three interconnected landmarks serving as route shortcuts."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route efficiency in the urban transportation network, calculate the total number of triangular circuits formed by three interconnected intersections, which represent potential alternative routes for minimizing travel delays during peak hours."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize sightseeing efficiency, a tourism agency aims to identify tightly interconnected attraction clusters where visitors can travel between any three locations via direct routes. How many such triangular route circuits exist in this city's road network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To assist in optimizing travel route efficiency, calculate the number of triangular circuits in the transportation network where each triangle represents a closed-loop path allowing tourists to visit three distinct landmarks and return to the starting point without repeating roads."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In an urban travel route planning system, stations are interconnected through bidirectional roads. To optimize recommended scenic loops for tourists, how many triangular structures exist in the network where three stations form cyclic routes allowing round-trip itineraries without backtracking?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a regional travel route planning scenario, the transportation authority wants to identify efficient circular paths where travelers can visit three connected cities without backtracking. How many such cyclic routes exist where every pair of three cities has direct bidirectional roads?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In the transportation network where cities are connected by bidirectional roads, a triangular travel route is formed when three cities have direct roads connecting each pair. To assess efficient circular route options for tourism planning, how many such triangular routes exist in the network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "When planning detour routes for road closures in the city center, how many triangular structures exist in the road network where three connected junctions form alternative pathways, ensuring efficient rerouting options during infrastructure maintenance?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel route efficiency, the city's transportation department wants to identify triangular shortcuts where three locations are mutually reachable. Calculate the total number of triangular structures in the road network to determine potential efficient alternative routes for travelers."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To enhance travel route efficiency between key landmarks, calculate the total number of triangular structures in the transportation network where three interconnected locations form a closed loop, aiding in identifying potential shortcut routes for tourists."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network where tourists aim to plan efficient sightseeing routes, how many three-node cyclic routes exist that allow visitors to travel between three attractions without backtracking, helping optimize their travel itineraries?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "A tourism company is analyzing popular attractions connected by bidirectional walking paths in a city. To design efficient sightseeing routes, they want to identify triangular circuits where visitors can travel between three locations without backtracking. How many such triangular route structures exist in the network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route optimization study, a triangular route formed by three interconnected locations allows tourists to minimize transit time. Calculate the total number of such triangular closed-loop structures present in the transportation network where each triangle represents three mutually accessible points."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel efficiency for tourists exploring a city's main attractions, how many triangular route formations exist where three connected landmarks allow direct round trips without backtracking?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's bus route network where each bidirectional route connects two stops, travel planners want to identify triangular circuits enabling flexible transfers. How many such triangles exist where three stops form a closed loop via direct routes?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize travel routes and reduce traffic congestion in a city's transportation network, how many triangular structures exist where three connected road junctions form a closed loop, allowing drivers to choose alternative pathways and enabling efficient detour planning during road maintenance?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize urban travel route planning, analysts need to identify triangular shortcuts that connect three locations via bidirectional roads. How many such triangular routes exist in the transportation network where a vehicle can traverse three distinct nodes cyclically without repeating edges?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route optimization project, circular sightseeing tours involving three interconnected landmarks are prioritized for visitor convenience. How many triangular route patterns can be formed where three distinct locations are mutually accessible via direct bidirectional roads?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's traffic network where certain roads form triangular shortcuts, a delivery company wants to optimize routes by identifying locations where three interconnected roads create alternative paths. How many such triangular structures exist where drivers could efficiently reroute between any pair of nodes within the triangle?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network where bidirectional roads connect various locations, travel planners aim to identify efficient triangular routes that allow visiting three distinct locations without backtracking. How many such triangle structures exist in this network to optimize circular tour planning for visitors?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "When planning travel routes in a city's road network, how many triangular structures exist where three interconnected junctions form closed loops that could serve as efficient sightseeing circuits for minimizing backtracking?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route optimization plan, the tourism department wants to identify efficient circular sightseeing paths. How many triangular closed-loop routes exist where three distinct checkpoints are mutually connected by direct roads, allowing visitors to tour without backtracking?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route optimization project, tourist attractions are connected by two-way roads. To enhance sightseeing efficiency, planners need to identify all possible closed-loop routes where visitors can start at one attraction, visit two others, and return without repeating roads. How many such triangular route structures exist in the network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's road network where major intersections are connected by two-way streets, a transportation engineer aims to optimize travel routes by identifying triangular circuits that can reduce unnecessary detours. How many such triangular structures exist in the current network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics network where distribution centers are interconnected by bidirectional routes, identifying triangular structures can help optimize delivery efficiency by detecting redundant paths. How many such triangles exist in the current network to assess potential route consolidation opportunities?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery efficiency, how many closed triangular routes exist where three distribution centers are mutually interconnected, enabling shorter alternative paths?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize regional logistics delivery efficiency and reduce redundant routes, a distribution company analyzes its transportation network. By identifying triangular structures where three facilities are mutually connected, they can determine potential collaborative transfer points. How many such triangular configurations exist in the current network to assess route synergy opportunities?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes and minimize redundant stops, how many triangular structures exist where three delivery hubs are directly connected to each other in the transportation network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, analysts need to evaluate the resilience of the transportation network. A key indicator is the presence of triangular structures where three locations are mutually interconnected, enabling redundant pathing. How many such triangular structures exist in the current network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city logistics network, delivery hubs are interconnected by bidirectional roads. To optimize package routing efficiency, calculate the total number of triangular structures formed by three directly connected hubs, which would allow alternative shortest paths and reduce delivery delays caused by single-route dependencies."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes in an urban transportation network, identifying closed triangular routes can help reduce redundant paths and improve efficiency. Calculate the total number of triangular structures present in the current network to evaluate potential route optimization opportunities."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city logistics network, delivery hubs are connected by two-way roads. To optimize route efficiency and identify redundant paths, how many triangular circuits exist where three hubs are mutually interconnected?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network analysis for delivery route optimization, triangular structures often indicate potential areas where redundant paths can be eliminated. How many triangular subgraphs exist in the current transportation grid, as identifying these clusters could help streamline delivery schedules by converting triangle detours into direct routes?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In an urban logistics network where delivery hubs are interconnected by roads, calculate the total number of triangle formations to identify redundant transportation paths and optimize last-mile delivery efficiency."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package distribution routes, a logistics company needs to identify clusters where three delivery hubs are mutually interconnected. Calculate the total number of such triangular connection structures in the transportation network to determine potential efficient route consolidation zones."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, distribution hubs are connected by direct routes. To optimize delivery efficiency, the logistics company aims to identify clusters of three hubs where each pair has a direct route, allowing faster rerouting. How many such triangular clusters exist in the current network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, identifying triangular structures in the road network can help reduce redundant paths and improve efficiency. How many triangular structures exist in the current network to evaluate potential route consolidation opportunities?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics distribution network, identifying triangular routes can help optimize delivery efficiency by reducing redundant paths. To improve route planning, calculate the number of closed triangular routes where three distribution hubs are mutually interconnected via direct roads, forming a cycle that enables bidirectional travel between any pair."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes between warehouses, a logistics company needs to identify closed-loop paths formed by three interconnected nodes, enabling direct transfers and reducing intermediate stops. Calculate the number of such triangular structures in the network."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and reduce redundant paths between distribution hubs, calculate the total number of triangular structures where three hubs are mutually interconnected through direct roads in the transportation network."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes, the transportation department needs to identify how many triangular structures exist among interconnected distribution hubs, as these triangles represent potential shortcuts for efficient cargo transfers. How many such triangles are present in the current network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery efficiency and reduce redundant routes, a city's transportation department wants to identify triangular clusters where three locations are mutually reachable through direct roads. Calculate the total number of such triangular structures in the current road network."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel delivery routes, a logistics company analyzes tightly connected hub clusters in their network where three hubs form direct mutual connections, enabling faster transit times. Calculate the total number of such triangular hub groups to identify priority zones for coordinated dispatch scheduling."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network designed to optimize package delivery routes, how many triangular connections exist where three distribution hubs are mutually interconnected, allowing for efficient route redundancy and minimized delivery times during peak traffic hours?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics delivery network, triangular structures allow drivers to reroute efficiently between three hubs during disruptions without detours. To optimize backup route planning, how many triangles exist where each trio of hubs is directly interconnected, ensuring instant alternative paths for cargo transfers?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network where distribution hubs are interconnected by two-way roads, optimizing delivery routes relies on identifying efficient triangular pathways. How many triangular structures exist where three hubs are mutually reachable, indicating potential for minimized transit times?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package distribution routes between logistics hubs, the transportation department needs to identify clusters of three interconnected hubs allowing efficient triangular pathways. How many such triangular clusters exist in the current network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics distribution network, delivery hubs are interconnected to optimize route efficiency. Identifying triangular structures between three hubs can reveal redundant paths for alternative routing during traffic congestion. How many such triangular structures exist in the current network to assess potential route optimization opportunities?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, delivery efficiency depends on minimizing redundant routes. Identifying triangular structures between distribution hubs can help optimize paths. How many triangles exist where three hubs are mutually interconnected, enabling shorter delivery times and reduced fuel costs?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city logistics network where distribution centers are interconnected by bidirectional routes, a delivery company aims to optimize vehicle scheduling by identifying triangular routes that reduce redundant travel. How many such triangular structures exist in the network to enable efficient multi-stop delivery planning?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's road network used for logistics delivery optimization, identifying triangular structures among distribution centers can help reduce redundant routes. How many triangles exist where three centers are directly connected to each other, enabling efficient shipment transfers without detours?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network where distribution hubs are interconnected by roads, identifying triangular routes can optimize delivery paths by reducing redundant travel. How many triangular structures exist in this network to help streamline efficient parcel distribution plans?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics delivery network optimization project, to identify potential route shortcuts that can reduce fuel costs and improve efficiency, how many triangular connection structures exist where three distribution hubs are mutually reachable through direct roads?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes in a city's logistics network, how many triangular structures exist where three distribution centers are mutually interconnected by direct roads, enabling efficient round-trip cargo transfers without detours?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes and identify potential transfer hubs for reducing delivery time, how many triangular structures exist in the logistics network where three facilities are mutually connected, indicating redundant path elimination opportunities?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics distribution network, identifying triangular structures can help optimize delivery routes by minimizing redundant paths. How many triangles exist in the current transportation graph to determine potential efficient routing zones?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network where distribution centers are interconnected by bidirectional roads, identifying triangular routes can help optimize delivery paths by reducing transit time. How many triangular structures exist where three distinct centers are directly connected to each other, indicating potential efficient route planning zones?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, triangular structures indicate efficient transfer routes between three delivery hubs. How many such triangles exist to help optimize distribution paths and reduce redundant mileage?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city logistics network, triangular road structures between delivery hubs often indicate redundant route options. To streamline operations, how many such triangular structures exist in the current transportation network, which could be consolidated to minimize redundant paths while maintaining connectivity for efficient package distribution?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce redundant travel between distribution centers, a logistics company needs to identify triangular circuits formed by three directly connected hubs. Calculate the number of triangular routes present in the network to evaluate potential route consolidation opportunities."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, delivery efficiency relies on identifying clusters where three distribution hubs are mutually connected via direct routes. To optimize delivery times and reduce redundant paths, how many triangular route structures exist within the transportation network that could enable simultaneous three-way cargo transfers between hubs?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery efficiency by minimizing redundant routes, the city's distribution network analysis requires identifying triangular circuits where three locations are directly interconnected. Calculate the total number of such triangular structures that could enable simultaneous three-way delivery paths without detours."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution efficiency in urban logistics, a delivery company needs to identify triangular route patterns where three distribution centers form mutually accessible loops. How many such triangular route configurations exist in their transportation network to enable redundant path options for failure-proof deliveries?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics delivery network optimization project, a transportation company wants to identify redundant route patterns between distribution hubs. How many triangular connection structures exist where three hubs are mutually reachable through direct roads, indicating potential route efficiency bottlenecks?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city logistics network, a delivery company aims to optimize routes by identifying triangular structures where three distribution hubs are mutually interconnected via direct roads. How many such triangles exist in the network to enable efficient route planning and redundancy reduction?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, calculate how many triangles exist in the network where three distribution hubs are mutually interconnected, as these triangles represent potential efficient routes that minimize transit time between hubs."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery efficiency, a logistics company examines triangular clusters in their distribution hub network which allow for more efficient transfers between hubs. How many such triangular structures exist in the current network to identify key consolidation points for route optimization?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics delivery network, optimizing routes relies on identifying triangular structures between hubs that enable efficient three-way transfers. Calculate the total number of triangular route clusters where three delivery stations are directly interconnected, forming closed loops to minimize redundant fuel consumption and transfer delays."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company optimizing delivery routes in an urban area needs to identify redundant road connections. To minimize fuel costs and improve route efficiency, how many triangular structures exist where three distribution hubs are mutually interconnected via direct bidirectional roads?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics distribution network, identifying triangular routes helps optimize delivery efficiency by reducing redundant paths. To improve same-day delivery performance, how many triangular structures exist in the current network where three distribution hubs form interconnected shortcuts for rerouting packages?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by identifying triangular structures among distribution hubs, as such closed loops enable faster alternative paths. To prioritize route redundancy planning, calculate how many triangular connections exist in their current hub network."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To enhance logistics delivery efficiency in an urban transportation network, identifying cyclic routes can help minimize redundant paths and optimize truck dispatching. How many triangular structures exist where three distribution hubs are directly connected to each other, forming potential backup routes for uninterrupted cargo flow during road maintenance or traffic incidents?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and reduce redundant paths, how many triangle structures exist within the transportation network where three distribution hubs are mutually connected by direct roads, enabling efficient round-trip scheduling for freight vehicles?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics network optimization project, triangular route structures between three interconnected nodes enable efficient package distribution by minimizing detours. Calculate the number of such triangular structures to identify potential optimized delivery zones."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics delivery network, where three connected distribution hubs forming a triangular route allow redundant path elimination to optimize transportation efficiency, how many such triangle structures exist in the current traffic network to prioritize route consolidation?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics traffic network, identifying triangular structures among delivery hubs can optimize route efficiency by eliminating redundant paths. How many closed triangular routes exist to enable streamlined parcel distribution?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In urban logistics optimization, a delivery company aims to identify redundant road connections that form triangular structures to streamline package distribution. Calculate the total number of triangles in the network, as these structures could indicate potential alternative routes for minimizing delivery delays."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city logistics network where distribution centers are connected by bidirectional roads, calculating triangular structures can help optimize delivery routes by identifying redundant paths. How many such triangles exist to streamline efficient package distribution?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics delivery network, hubs represent key distribution centers and edges indicate direct truck routes. To minimize redundant paths and improve delivery efficiency, calculate the total number of triangular structures where three hubs are mutually interconnected, enabling optimized round-trip cargo transfers between urban zones."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To enhance delivery efficiency in an urban logistics network, identifying triangular route structures helps optimize paths by revealing redundant connections. What's the total number of triangular closed-loop structures that could enable alternative shortest-path selections for cargo vehicles?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, calculate the number of triangular structures present in the transportation network, as these represent efficient cyclic areas where three interconnected locations can minimize transit time between hubs."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a metropolitan logistics network, a delivery company aims to identify triangular route patterns between distribution hubs to minimize redundant paths. These triangles represent three mutually connected hubs where goods can circulate efficiently. How many such triangular closed-loop structures exist in the current transportation network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city logistics network where distribution hubs are connected by bidirectional roads, a delivery company wants to identify triangular routes to optimize redundant paths. Calculate the total number of triangular structures formed by interconnected hubs, as these triangles indicate potential zones for reducing delivery time through route consolidation."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline package distribution routes and reduce redundant paths in the urban logistics network, the planning team needs to identify tightly interconnected road clusters. How many triangular structures exist in the current network, where three delivery hubs form cyclic connections, enabling efficient route redundancy checks and fuel-saving optimizations?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network where distribution centers are connected by bidirectional roads, triangular delivery routes allow for optimized path planning and reduced transit time. How many such triangular routes exist in the current network where three distinct centers form a closed loop through direct road connections?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by identifying all closed-loop triangular paths formed by three interconnected distribution hubs, as such structures enable shorter transit times. How many triangular routes exist in their transportation network to prioritize for efficiency improvements?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, delivery efficiency relies on alternative routes formed by triangular connections between distribution centers. Calculate the total number of these triangles to identify redundant paths for optimizing emergency delivery planning."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and minimize redundant transit time between distribution hubs, how many triangular structures exist in the current transportation network where three hubs form closed-loop connections to enable efficient round-trip scheduling?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes between key logistics hubs, the operations team needs to identify tightly connected clusters where three facilities have direct mutual road access. This allows efficient triangular routing for cargo transfers. How many such triangular clusters exist in the current transportation network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, distribution centers are interconnected by roads allowing bidirectional shipments. To optimize delivery routes and minimize redundant paths, how many triangular structures exist where three centers are directly connected, enabling the shortest triangular shipment loops without detours?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes in a logistics network, how many triangular structures exist where three distribution centers are mutually connected, allowing elimination of redundant paths to improve efficiency?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network where distribution centers are connected by bidirectional roads, identifying triangular structures helps optimize delivery routes by reducing redundant paths. Calculate the total number of triangular connection patterns to assess potential time-saving opportunities for freight transportation."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce redundant paths in a city's logistics network, a transportation analyst needs to determine the number of triangular structures where three distribution centers are mutually connected. How many such triangles exist in the network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, identifying clusters of three delivery hubs with mutually interconnected routes can reveal efficient path redundancy for freight distribution. How many such triangular route clusters exist to support optimized emergency rerouting plans?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes by reducing redundant paths, how many triangular connections exist between three logistics hubs where each pair is directly linked via bidirectional roads?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, a delivery company wants to identify triangular routes between three hubs where each pair has direct two-way connections. How many such triangular structures exist to optimize same-day delivery routes by minimizing transfer points?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes and reduce redundant pathways in an urban logistics network, how many triangular structures exist where three delivery hubs are mutually connected, enabling efficient round-robin transfers between them?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics company's regional distribution network, where interconnected warehouses enable efficient delivery routes, how many triangular structures exist among the connected facilities to identify redundant path options for delivery optimization?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery efficiency in a logistics network, identifying triangular structures between hubs can help minimize redundant routes. How many such triangles exist in the current transportation network, where three hubs are mutually connected, allowing for streamlined intermediate cargo transfers and reduced transit times?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, triangular connections between warehouses indicate potential shortcut opportunities. How many triangular clusters exist where three warehouses are directly interconnected, enabling efficient fuel-saving route planning?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In the context of urban logistics delivery optimization, triangular structures in transportation networks indicate potential route redundancy and efficient hub formations. How many triangular subgraphs exist in the current network to support dynamic rerouting strategies during peak delivery hours?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package distribution efficiency, a logistics company analyzes their regional hub network. Calculate the total number of triangular routing patterns where three hubs form mutually accessible loops, enabling minimal detour delivery paths."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network where distribution centers are interconnected by roads allowing two-way traffic, identifying triangular routes can help optimize delivery efficiency by consolidating shipments. How many triangular structures exist in this network to determine potential hubs for reducing redundant transportation time?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network where nodes represent delivery centers and edges denote two-way roads, identifying triangular structures helps optimize route efficiency by finding clusters of three interconnected centers. How many such triangles exist to determine potential areas for minimizing transportation time between hubs?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying triangular structures within the road network helps locate potential detour routes for emergency vehicles when main roads are blocked. How many such triangles exist in the current traffic network to support rapid rerouting strategies?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying stable road clusters with multiple pathways is critical for efficient resource deployment. Based on the traffic network's connection patterns, calculate the total number of triangular structures to determine areas with redundant routes that could enhance emergency vehicle accessibility during crises."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, identifying critical junctions with redundant pathways is vital for efficient resource deployment. Calculate the number of triangular structures formed by three mutually connected road intersections, as these loops indicate high-priority zones requiring prioritized emergency access redundancy verification."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency facility placement for urban disaster resilience, identifying triangular zones where three interconnected districts form closed-loop structures allows faster resource deployment. Calculate the total number of such triangular configurations in the transportation network to assess redundancy coverage."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response capabilities, the city needs to identify redundant connectivity between critical facilities. Calculate the number of triangular structures formed by emergency service stations in the transportation network, as these indicate backup route options during infrastructure failures."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "Calculate the total number of triangular structures in the city's transportation network to determine which critical intersections have redundant emergency evacuation routes for disaster preparedness planning."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response plan, identifying critical traffic junctions that form triangular structures is essential for optimizing emergency vehicle routes. Given a transportation network where nodes represent intersections connected by two-way roads, calculate the total number of triangular configurations to prioritize areas requiring redundant connectivity checks and congestion mitigation measures.  \n\n说明：问题紧扣城市应急响应主题，通过三角形结构识别关键交通节点，突出冗余连通性检查和拥堵缓解的业务逻辑，且仅依赖节点连接关系的三角形计数算法。句式简洁，符合业务场景直觉。"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency resource deployment during urban disasters, calculate the number of triangular zones formed by interconnected intersections in the transportation network, as these cyclical structures indicate redundant connectivity critical for backup evacuation routes."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, critical facilities like hospitals and fire stations rely on robust road connectivity. Calculate the number of triangular structures within the mutual connections of these key nodes to determine redundancy levels for emergency vehicle routing during simultaneous crisis scenarios."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "Calculate the number of triangular structures in the transportation network to identify critical redundancy for emergency vehicle detours during downtown incidents, aiding urban emergency response planning."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, efficient evacuation routes depend on redundant path structures. A transportation network's intersections are connected by bidirectional roads. How many triangular structures exist in this network, as these formations indicate critical redundancy for emergency vehicle rerouting during disruptions?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying clusters of three mutually accessible emergency service stations is critical for optimizing resource distribution. Calculate the number of closed-loop trios in the transportation network where each station can directly reach the other two, determining redundancy coverage for coordinated crisis management."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, the resilience of a transportation network depends on redundant pathways forming triangular structures between critical facilities. How many triangular zones exist where emergency vehicles can reroute through three mutually connected intersections during road closures?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response planning, the city needs to assess redundant pathways in critical areas. How many triangular structures exist in the transportation network where three emergency service hubs mutually connect via direct routes, ensuring backup options during crises?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying triangular road structures can help locate critical redundancy points for emergency vehicle routing during blocked pathways. How many such triangular structures exist in the current transportation network to ensure rapid rerouting capabilities during disasters?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, transportation triangles formed by three interconnected road junctions can indicate critical zones requiring simultaneous coverage by multiple emergency services. How many such triangular structures exist in the network to prioritize resource allocation for rapid incident containment?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying redundant pathways between critical intersections can enhance evacuation efficiency. How many triangular structures exist in the traffic network where three interconnected nodes form alternative routes for emergency vehicles?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response efficiency, city planners need to identify redundant pathway clusters where three locations mutually connect for backup evacuation routes. How many triangular structures exist in the transportation network to prioritize these critical redundancy zones?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying redundant road connections is critical for ensuring alternative evacuation routes. Triangular structures in the road network indicate such redundancy. How many triangular structures exist in the current transportation network to assess its resilience against blocked pathways during emergencies?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response planning, city officials need to identify redundant road pathways ensuring critical connectivity during disasters. Given a transportation network where intersections are nodes and roads form bidirectional links, calculate the number of triangular structures – groups of three interconnected nodes – which represent resilient route alternatives for emergency vehicles. How many such triangles exist in the network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying triangular structures formed by three interconnected intersections helps locate redundant pathways critical for evacuation routes. How many such triangles exist in the transportation network to assess its redundancy capacity?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "Calculate the total number of triangular road configurations in the transportation network to determine high-priority areas for optimizing emergency response routes during disasters, where each triangle represents a critical redundancy zone for evacuation planning."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, how many triangular structures exist between critical facilities like shelters, hospitals, and fire stations in the transportation network to evaluate redundancy for emergency vehicle routing?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, calculate the total number of triangular road formations within the transportation network to identify critical intersections that enable redundant pathways for emergency vehicles during infrastructure failures or blockages."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency shelter accessibility during disasters, urban planners need to identify redundant pathways between critical intersections. Calculate the number of triangular structures in the transportation network where three key emergency service hubs mutually connect via direct routes, as these triangles indicate robust evacuation alternatives."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a transportation network where districts are interconnected by bidirectional roads, how many triangle structures exist where three mutually connected districts form an emergency resource sharing zone, as identifying such zones helps optimize first responder deployment?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "As part of urban emergency response planning, identifying redundant pathways in critical areas can enhance evacuation resilience. How many triangular structures exist in the transportation network where three interconnected emergency shelters form closed-loop routes, allowing alternative access during road blockages?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of optimizing emergency response routes, how many triangular structures exist within the urban transportation network to identify redundant pathways that could ensure reliable access during critical incidents like floods or fires?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, a city's transportation network redundancy is critical for evacuation routes. To identify high-reliability zones where three key facilities are mutually reachable via backup roads, how many triangular structures exist in the current network to prioritize emergency vehicle routing?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, calculate the number of triangular structures within the transportation network to identify potential redundant pathways that could enable efficient emergency vehicle detours during critical road closures."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routes during urban incidents, the city's traffic management needs to identify critical hubs where three interconnected intersections form efficient detour paths. How many such closed triangular structures exist in the road network to support rapid evacuation planning?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying redundant connectivity between critical facilities can improve disaster resilience. How many triangular structures exist among key emergency service nodes (hospitals, fire stations, emergency centers) in the transportation network, where each triangle indicates three mutually accessible facilities providing alternative rescue routes?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response efficiency in critical areas, the city council needs to identify resilient transportation zones where three key facilities form mutual backup routes. How many triangular structures exist among emergency service stations to evaluate redundancy coverage for coordinated crisis management?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": " During urban emergency response planning, identifying redundant route alternatives is critical. How many triangular structures exist in the traffic network, as these formations allow emergency vehicles to bypass blocked roads via three interconnected nodes?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response planning, identifying triangular structures in the traffic network is critical for evaluating redundant routing options during disasters. How many triangular subgraphs exist in the network to support backup evacuation paths?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routing during urban incidents, the city needs to identify resilient zones where three interconnected junctions form alternative pathways. How many triangular road structures exist in the transportation network that allow immediate detours if one connecting road becomes blocked?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, how many triangular connections exist between fire stations to identify critical redundancy points in emergency route networks, ensuring efficient backup pathways during disasters?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response planning, emergency vehicles need multiple access routes to critical locations. How many triangular structures exist in the transportation network to identify redundant pathways for efficient deployment?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying redundant pathways between critical junctions can enhance resilience. A transportation network's intersections are connected by bidirectional roads. How many triangular structures exist where three junctions form cyclic connections, aiding in assessing alternative emergency route availability?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying triangular structures helps locate redundant pathways for emergency vehicles during road closures. Calculate the total number of triangles in the transportation network to assess its redundancy capacity."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response planning by identifying critical redundancy points in the transportation network, calculate the total number of triangular structures where three interconnected road junctions form alternative evacuation routes during infrastructure failures or disasters."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response planning, the city council needs to identify stable triangular zones where three critical emergency response hubs can mutually support each other via direct routes. How many such interconnected triangular zones exist in the current road network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency preparedness, the city needs to identify redundant pathways enabling efficient resource dispatch. How many triangular connections exist in the transportation network where three critical facilities form mutual backup routes, ensuring uninterrupted emergency access during crises?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying tightly interconnected road segments is critical for efficient resource allocation. To assess potential traffic bottlenecks during crises, calculate the number of triangular structures within the transportation network where three key intersections form mutually accessible emergency routes."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routing during critical incidents, the urban response team needs to identify redundant pathways in downtown's road network. How many triangular structures exist where three key intersections form alternative evacuation routes, ensuring at least two backup paths between any pair during blockages?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a transportation network, critical intersections forming triangular structures may indicate redundant evacuation routes or congestion hotspots. How many such triangular structures exist in the network to help prioritize emergency corridor maintenance?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, identifying redundant road connections between critical facilities can improve evacuation efficiency. How many triangular structures exist in the transportation network where three fire stations form mutually accessible routes via direct pathways?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance resilience in urban emergency evacuation routes, identify critical redundancy by calculating the number of triangular structures among disaster relief hubs, where three interconnected hubs form backup pathways. How many such triangles exist to ensure uninterrupted access during simultaneous crisis scenarios?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency preparedness, the city's traffic management department needs to identify zones with redundant connectivity for ambulance routing optimization. How many triangular structures exist in the road network where three intersections form mutually accessible pathways, indicating reliable alternative routes during emergencies?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency evacuation efficiency and identify critical intersection clusters that may form congestion hotspots during disasters, the city's emergency management department needs to calculate how many triangular structures exist in the road network where three intersections are mutually interconnected. What is the total number of such triangles?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying densely interconnected zones can improve disaster resource allocation. How many triangular structures exist in the transportation network to pinpoint areas where three locations mutually connect via direct routes, enabling efficient emergency vehicle triangulation?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying tightly-knit communities with redundant pathways can improve resource allocation during crises. Based on the city's road network connections, calculate how many triangular structures exist to determine areas where three key intersections mutually support each other, aiding in prioritizing emergency shelter placements."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a transportation network, redundant pathway structures are critical for alternative evacuation routes. How many triangular structures exist in this network, where each triangle represents a minimum closed-loop redundancy that ensures continuous connectivity during emergencies?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In a city's emergency response planning, identifying redundant road connections is critical for ensuring alternative routes during crises. How many triangular structures exist in the transportation network to provide such redundancy for emergency vehicles?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying areas with redundant road connections can improve resilience during disasters. Based on the city's traffic network, how many triangular structures exist where three emergency shelters are mutually reachable through direct roads, ensuring alternative evacuation routes?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying triangular zones formed by three critical facilities with mutual road connections can enhance resource coordination during crises. Based on the current transportation network topology, how many such triangular structures exist where each vertex represents an emergency facility and edges represent direct two-way road links?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, efficient coordination between critical facilities relies on redundant road connections. How many triangular structures exist in the transportation network where three key emergency hubs are mutually interconnected, ensuring backup routes for rapid resource deployment during crises?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response efficiency, identifying triangular road structures is critical for optimizing ambulance routes during peak traffic. How many triangles exist in the transportation network to prioritize alternative pathways for emergency vehicles?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying triangular structures within the city's road network helps evaluate redundant evacuation routes. How many triangles exist where three connected intersections form closed loops, ensuring alternative pathways during critical incidents like floods or fires?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response efficiency, the city plans to optimize ambulance routes by identifying clustered zones with redundant pathways. How many triangular structures exist in the emergency service road network, as these indicate critical redundancy for alternative routing during blockages?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response plan, critical shelters are connected via bidirectional evacuation routes. To evaluate redundancy for efficient disaster coordination, calculate the total number of triangular structures formed by these shelter nodes, where three shelters mutually connect through direct routes."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routing efficiency and identify critical redundancy in urban emergency response planning, calculate how many triangular structures exist where three interconnected road junctions form mutually accessible emergency corridors within the transportation network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routes during disasters, urban planners need to identify areas with redundant connectivity where three locations are mutually reachable. How many such triangular structures exist in the current transportation network to ensure reliable emergency access?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying stable road triangles ensures efficient route redundancy during crises. How many triangular structures exist in the city's traffic network where three intersections are mutually connected by direct roads?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routing during urban incidents, the city's emergency planning department needs to identify critical redundancy patterns in road networks. How many triangular structures exist in the transportation network where three key facilities (hospitals, fire stations, and police hubs) form mutually accessible pathways, as these loops provide alternative routes for first responders during road closures?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying critical redundancy in road networks allows emergency vehicles to reroute efficiently during disruptions. How many triangular structures exist in the current traffic network, where each triangle represents three interconnected nodes enabling multiple backup route configurations?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying redundant pathways between critical facilities can enhance evacuation efficiency. How many triangular structures exist in the transportation network to provide alternative routes for emergency vehicles during simultaneous incidents at three interconnected locations?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying triangular road structures is critical for ensuring redundant access routes between disaster-prone zones. How many such triangles exist in the transportation network to verify triple-redundant connectivity for emergency vehicles?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency response routes during critical incidents, the city's traffic management department needs to evaluate redundancy in key transportation corridors. How many triangular structures exist in the road network to ensure at least three alternative pathways between emergency service hubs?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle deployment during critical incidents, urban planners need to identify redundant pathways between key hubs. Calculate the total number of closed triads in the road network, where three intersections form mutually accessible loops, enabling responders to reroute efficiently around blockages."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency resource distribution during disasters, how many triangular structures exist in the transportation network where three interconnected nodes could serve as reliable coordination points for simultaneous rescue operations?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying tightly interconnected zones allows faster resource distribution during crises. Based on the city's road network connections, calculate the total number of triangular structures where three key intersections form mutual pathways, as these triangles indicate critical redundancy for emergency vehicle routing under disrupted conditions."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": " To enhance the resilience of urban emergency routes, identify critical redundancy points by calculating how many triangular structures exist in the transportation network, where three interconnected nodes form alternative pathways for first responders during road blockages."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize urban emergency response planning, emergency management teams need to identify resilient road clusters where three locations form interconnected backup routes. How many such triangular structures exist in the transportation network to ensure redundancy for critical areas like hospitals and shelters during disasters?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning for a subway traffic network, identifying triangular structures within underground hub connections can optimize resource allocation and critical pathway redundancy. How many triangular subgraphs exist in the current network to prioritize evacuation route reliability during emergencies?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying triangular structures within the traffic network helps prioritize areas with redundant connectivity for faster disaster evacuation. How many triangular subnetworks exist where three interconnected nodes form closed loops, ensuring alternative routes during road closures or congestion?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying triangular structures within the road network helps evaluate redundancy for critical resource delivery. How many triangles exist where three interconnected nodes form alternate routes to ensure uninterrupted emergency vehicle access during disasters?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, efficient resource allocation relies on identifying stable triangular zones where three critical facilities (e.g., hospitals, fire stations) can mutually support each other via direct road connections. How many such triangular structures exist in the current transportation network to prioritize redundancy for emergency coordination?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying clusters of three interconnected intersections with redundant pathways can improve evacuation route resilience. Calculate the total number of triangular structures present in the transportation network where three junctions form closed loops through bidirectional roads, as these configurations indicate critical redundancy for emergency vehicle access during disasters."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, identifying triangular structures between critical facilities like hospitals, fire stations, and shelters helps optimize rescue routes. How many such triangles exist where three key facilities are directly interconnected via bidirectional roads, ensuring rapid mutual access during emergencies?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "When optimizing public transit schedules to minimize transfer delays between key hubs, transit planners analyze clusters of three mutually connected stations forming direct bidirectional routes. How many such triangular route groups exist in the network to enable efficient trip planning?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling and reduce transfer times between key hubs, how many triangular connections exist where three major bus interchange stations are mutually interconnected, indicating potential efficient route detours during traffic disruptions?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer efficiency and identify redundant connections in the public transit network, how many triangular route structures exist where three stations are mutually connected by direct routes?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve transfer efficiency in a public transit network, the scheduling team needs to identify stations where three interconnected routes form cyclic redundancy. How many such triangular route structures exist in the current network, which would allow coordinated scheduling of buses to minimize passenger waiting times during transfers?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling efficiency, the city's transportation department needs to assess the structural resilience of interconnected transit hubs. Calculate the number of triangular formations where three connected stations form closed-loop routes, enabling efficient transfers and redundancy planning."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling by identifying high-transfer zones, calculate the number of triangular route patterns where three bus stops are mutually connected, enabling direct transfers between all pairs. How many such triangles exist in the network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer efficiency in the public transit network, the scheduling team needs to identify triangular structures formed by three mutually connected stations, which may indicate redundant routes or critical transfer hubs. How many such triangular structures exist in the current network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer efficiency and route redundancy in the public transit network, how many triangular structures exist where three bus stops form closed bidirectional routes, indicating potential transfer hubs or overcrowding risks?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network, three adjacent bus hubs forming cyclic routes can create redundant coverage. To optimize scheduling efficiency during peak hours, calculate the number of triangular structures where interconnected transit stops form closed loops, ensuring balanced resource allocation between overlapping routes."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling, the city's transportation department needs to assess the connectivity efficiency between bus and tram stops. Calculate the number of triangular structures in the current network to identify potential redundant routes and high-efficiency transfer hubs."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer efficiency in the public bus network, how many triangular structures exist where three bus stops are mutually connected via direct routes, enabling seamless transfers without intermediate stops?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling by reducing transfer times, the transportation department needs to identify cyclic route patterns. How many triangular structures exist in the current network where three bus stops are mutually interconnected, forming direct routes between each pair?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network optimization project, the scheduling team needs to identify tightly interconnected zones to improve route efficiency. How many triangular structures exist where three bus stops are mutually accessible via direct routes, as this indicates potential hubs for optimizing service frequency and minimizing redundant connections?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network, calculate the number of triangular route formations where three bus stops mutually connect via direct routes, as identifying such clusters helps optimize transfer efficiency and reduce redundant scheduling during peak hours."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network where bus stops are interconnected by routes, the transport authority aims to optimize scheduling by identifying areas with high connectivity. A triangular structure between three stops indicates potential transfer hubs requiring coordinated timetables. How many such triangular structures exist in the current network to prioritize scheduling adjustments?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer efficiency in a public transit network, how many triangular route structures exist where three stations are mutually connected, allowing direct rides between each pair without detours?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In optimizing the public transit network schedule, how many triangular route patterns exist where three bus stops are mutually connected by direct routes, indicating potential transfer efficiency hotspots that could reduce passenger waiting times?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a city's public transit network where bus and metro lines form interconnected stops, efficient transfer points are crucial for reducing passenger travel time. How many triangular structures exist between transit stops, indicating routes where three stops are mutually reachable via direct connections, to evaluate potential transfer efficiency optimizations?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling by identifying redundant route patterns, the city planners need to determine how many groups of three interconnected stations form direct cyclic routes. Calculate the total number of triangle structures in the network to support efficient timetable adjustments."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit routes for reducing transfer times, planners need to identify cyclic route patterns. Calculate the total number of triangular structures formed by three connected bus stops in the network, where each pair of stops has a direct bidirectional route, to evaluate potential transfer hubs and improve scheduling efficiency."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network optimization project, the scheduling team needs to identify redundant connections to streamline routes. How many triangular structures exist where three transit hubs are mutually interconnected via direct bidirectional routes, indicating potential route consolidation opportunities?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling efficiency, the transportation department needs to assess route redundancy by identifying closed triangular routes where three bus stops are mutually connected via direct bidirectional routes. How many such triangular structures exist in the current network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve transfer efficiency and reduce wait times during peak hours, the public transit agency needs to identify tightly connected route clusters. How many triangular route formations exist where three bus lines mutually intersect at shared stops, indicating potential transfer hubs?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a city's public transit network, triangular structures formed by three interconnected bus stops often indicate efficient transfer points. To optimize scheduling, how many such triangles exist where each pair of stops within the trio has direct route connections?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve transfer efficiency in the public transit network, the scheduling team wants to identify how many closed triangles exist where three bus routes mutually intersect at stops. This helps optimize timetable coordination. Calculate the total number of such triangular route structures in the network."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling and minimize transfer wait times, calculate the total number of triangular structures in the network where three interconnected stations form cyclic routes, as this indicates potential high-efficiency transfer hubs."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling, the transit agency needs to assess route redundancy by identifying triangular structures where three stations are directly interconnected, enabling alternative travel paths. How many such triangular transfer loops exist in the current bus network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In the context of public transit network scheduling optimization, where triangular route patterns between three connected stations can reduce transfer delays, calculate the total number of triangular structures where buses can cycle efficiently between stations A, B, and C via bidirectional routes."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network optimization project, analysts need to identify redundant route connections to improve scheduling efficiency. How many triangular structures exist where three bus stops are mutually interconnected through bidirectional routes, indicating potential route consolidation opportunities?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network where subway lines intersect at stations, triangle structures formed by three interconnected stations can indicate potential route redundancies or alternative transfer points. How many such triangles exist in the current network to optimize scheduling efficiency?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit schedules and reduce transfer delays, the planning committee needs to identify how many closed loops of three interconnected stations exist where each pair is directly connected. Calculate the total number of such triangular structures in the network."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling and reduce transfer times, the transportation department needs to determine how many triangular route structures exist where three bus stops are mutually interconnected. What is the total number of such triangular structures in the current network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer efficiency and reduce passenger wait times in a city's public transit system, how many triangular routes exist where three bus stops are mutually connected by direct routes, forming a closed loop without intermediate stops?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve transfer efficiency in the public transit network, calculate the number of triangular route redundancies where three bus stops mutually connect, allowing passengers to switch between three routes without backtracking."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network where bus stations are interconnected, calculate the total number of triangular structures formed by direct bidirectional routes to evaluate potential transfer efficiency improvements and route redundancy for peak-hour scheduling optimizations."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling by identifying highly connected zones for adjusting bus frequencies, calculate the total number of triangular structures where three stations form bidirectional routes, enabling efficient transfers and reducing congestion. How many such triangles exist in the network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling and identify potential transfer hubs, how many triangular configurations exist where three stations are mutually connected by direct bidirectional routes, forming closed-loop structures that could indicate redundant paths or efficient transfer points?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network where bus stations are interconnected, the scheduling team aims to optimize routes by identifying redundant triangular pathways that create overlapping service coverage. How many triangular structures exist between stations to help evaluate potential adjustments for efficient resource allocation?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer efficiency in the public transit network, how many triangular route structures exist where three bus stops are mutually directly connected, forming a closed loop without intermediate stops?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit transfer times, the city's transport authority needs to identify tightly connected hub clusters. Calculate how many triangular route formations exist where three key bus terminals each directly connect to the other two, enabling efficient schedule coordination."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network optimizing transfer efficiency, the scheduling team aims to identify clusters where three stations are mutually interconnected to reduce passenger wait times. How many such triangular structures exist in the current network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer efficiency and reduce redundant routes in the public transit network, how many triangular route formations exist where three stations are mutually connected by direct bidirectional paths?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network, identifying redundant route connections can help optimize scheduling efficiency. Calculate the number of triangular structures formed by bus routes in the network, as these indicate redundant paths where transfer delays could be minimized through strategic route adjustments."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer efficiency in the city's public transit network, how many triangular structures exist where three bus stops are mutually connected, allowing direct routes between each pair, which could indicate potential redundant routes or high-efficiency transfer points?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a city's public transit network, efficient route planning requires identifying clusters of stops with high interconnectivity. To optimize scheduling and reduce transfer times, how many triangular circuits exist where three stops are directly connected by bidirectional bus routes?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network scheduling analysis, the city transportation department aims to optimize transfer efficiency between bus routes. How many triangle structures exist where three different bus stops each have direct bidirectional connections with the other two, indicating potential transfer hubs that could reduce passenger wait times during route transfers?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "When optimizing transfer times in a public transit network, the scheduling team needs to identify how many triangles exist where three stations are mutually connected via direct routes. This helps prioritize coordinated timetable adjustments. Calculate the total number of such triangular structures."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network where bus stops are interconnected by routes, efficient scheduling requires minimizing redundant connections. To evaluate route overlap, calculate the total number of triangular structures formed by three mutually connected stops, which indicate redundant bidirectional pathways. How many such triangles exist in the network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling in a metropolitan area, how many triangular route cycles exist where three bus stations are directly interconnected, indicating potential transfer efficiency hotspots?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "When analyzing a public transit network to enhance route coordination and reduce redundant connections, how many triangular route patterns exist where three transit hubs form mutually accessible cycles through direct bidirectional pathways?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a city's public transit network, triangular structures often indicate efficient transfer points or redundant routes. As a planner optimizing bus schedules, how many such triangles exist where three stops are mutually connected by direct routes, ensuring minimal transfer times and balanced traffic distribution?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit coverage and reduce transfer times, the city plans to identify triangular route patterns where three bus stops are mutually connected via direct routes. How many such triangular structures exist in the current network, as their presence indicates opportunities for creating efficient transfer hubs?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network optimization project, a city's transportation team aims to improve transfer efficiency by identifying clusters of interconnected routes. They hypothesize that triangular structures between three routes (A-B-C-A) enable synchronized scheduling and better resource sharing. Calculate the total number of such triangular route clusters in the current network to assess potential coordination opportunities."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a city's public transit network, stations are interconnected by bus routes. To optimize transfer efficiency, planners need to identify clusters where three stations are mutually reachable via direct routes. How many such triangular route formations exist in the network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network optimization project, transport planners need to identify tightly interconnected station clusters to improve transfer efficiency. How many triangular routes exist where three stations are mutually reachable via direct routes, indicating potential coordination points for synchronized scheduling?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve transfer efficiency and reduce passenger wait times, the public transit scheduling team aims to identify areas where three bus stops form a closed loop with direct bidirectional routes between each pair. How many such triangular route configurations exist in the network that could potentially enable optimized timetable coordination?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network optimization project, stations are interconnected through bidirectional routes. To improve transfer efficiency and reduce passenger wait times, how many triangular route structures exist where three stations are directly connected to each other?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer efficiency in the public transit network, the city planning department needs to identify all closed-loop structures formed by three interconnected stations with direct bidirectional routes. How many such triangular configurations exist in the current network to support synchronized bus scheduling?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To enhance transfer efficiency in a public transit network, the scheduling team aims to identify all closed loops where three bus stops are directly interconnected via bidirectional routes. How many such triangular structures exist in the current network to support optimized timetable coordination?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer efficiency and reduce passenger wait times, the public transit department needs to identify stations with mutual direct routes. How many triangular connections exist where three stations are directly interconnected through bidirectional routes?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network, efficient transfer connections between routes are crucial for minimizing passenger wait times. To evaluate potential improvements in schedule coordination, how many triangular structures exist where three bus stops form interconnected transfer points, indicating redundant pathways that could be optimized for better reliability?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling and minimize transfer times, the city's transportation department needs to determine how many groups of three bus stops exist where each pair is directly connected by a route. How many such triangular route configurations are present in the current network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network, efficient scheduling relies on identifying strong transfer connectivity between hubs. Calculate the total number of triangular structures formed by bidirectional routes connecting three transit hubs, as these triangles indicate robust redundancy for passenger transfers during peak hours."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public bus scheduling efficiency, identify potential cyclic routes where three stops are directly connected. Calculate the number of triangular structures in the network, as these represent routes enabling bidirectional circulation without detours."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling, the city's transportation department needs to assess redundant route options between key transit hubs. How many triangular connections exist where three hubs are mutually accessible via direct routes, enabling alternative trip planning during disruptions?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network reliability, the scheduling team aims to identify clusters where three stations have direct bidirectional routes connecting each pair. How many such triangular route formations exist in the network, as these structures indicate redundant transfer options and improved connectivity resilience?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling efficiency, how many triangular route structures exist where three bus stops are mutually interconnected, allowing direct transfers without intermediate stops?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": " In a public transit network, optimizing route redundancy is crucial for minimizing delays. When three bus stops are mutually connected via direct routes, they form an emergency alternative loop. How many such triangular route groups exist in the current network to support contingency scheduling?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling, identifying closed-loop connections between three stops where each pair has a direct route is crucial. How many such triangular structures exist in the current network to evaluate potential transfer efficiency improvements?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling and improve transfer efficiency, the city planners need to identify transit hubs where three bus routes form interconnected triangular connections. How many such triangular route structures exist in the current network where each route pair shares at least one common stop?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network, efficient scheduling relies on identifying tightly connected station groups. A triangular cluster formed by three mutually interconnected stations allows optimized route coordination and reduced transfer times. How many such triangular structures exist in the current network to help transit planners prioritize frequency adjustments?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In the context of optimizing public transit network scheduling, a key goal is to minimize transfer delays by identifying tightly interconnected station clusters. How many triangular structures exist in the current network, where three stations are mutually connected via direct routes, to prioritize route frequency adjustments?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling efficiency, the transportation department needs to evaluate the structural connectivity of bus routes. How many triangle structures exist in the current network where three connected stops form closed bidirectional loops, indicating potential route redundancy or transfer opportunities?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling efficiency, the transport authority needs to identify clustered connection patterns in downtown bus routes. How many triangular structures exist where three bus stops are mutually interconnected, enabling direct bidirectional transfers between each pair – a critical factor for reducing redundant routes and improving transfer coordination?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling by identifying redundant route patterns, calculate the total number of triangular structures formed by mutually connected bus stops in the network."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling and minimize transfer times, the city's transportation team needs to identify tightly interconnected route clusters. How many triangular route structures exist where three bus stops are mutually accessible via direct routes in the current network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In public transit network scheduling, identifying triangle structures formed by three interconnected stations can help optimize transfer efficiency. How many such triangle structures exist in the current network to evaluate potential redundant routes and streamline connectivity?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's station network, where bike stations are interconnected based on frequent user transfers, calculate the total number of triangles in the network to identify high-demand zones that form closed-loop usage patterns for optimized vehicle rebalancing."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform wants to optimize vehicle redistribution by identifying triangular clusters in their car-sharing station network, where three stations are mutually reachable via direct routes. What is the total number of such triangular structures that enable efficient round-trip itineraries?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared bike service network, stations often form clusters where bikes are frequently transferred between three nearby locations to meet demand. To optimize rebalancing routes, how many triangular station groups exist where each pair is directly connected by a bike lane?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle rebalancing for a bike-sharing platform, the operations team analyzes frequently interconnected stations. Based on rider transfer patterns between stations forming bidirectional routes, calculate how many triangular clusters exist where three stations mutually serve each other's users through direct connections."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a city's shared e-scooter service network, stations are connected if riders frequently transfer between them. To optimize vehicle redistribution, calculate the number of triangular station groups where each pair has direct rider transfer routes – indicating efficient interchange points."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize the efficiency of e-scooter recharging routes, a shared mobility platform wants to identify tightly interconnected zones in their service network. Based on bidirectional road connections between recharging stations, determine how many triangular structures exist where three stations each have direct pathways to one another, indicating optimal relocation loops for maintenance crews."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a bike-sharing service network, stations with high usage are interconnected to optimize bike redistribution. To evaluate route efficiency between popular hubs, how many triangle structures exist where three stations are mutually reachable via direct bike lanes, indicating closed-loop connectivity for efficient vehicle allocation?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a bike-sharing network, stations are connected via roads allowing bidirectional travel. To improve fleet rebalancing efficiency, the platform needs to identify clusters where three stations form a closed loop. Calculate the total number of triangular circuits in this network to prioritize high-usage redistribution zones."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "Shared e-scooter platforms aim to optimize vehicle redistribution by analyzing connectivity patterns between urban zones. In a city network where zones are densely interconnected, how many triangular structures exist where three zones each have direct bidirectional routes connecting them—indicating frequent mutual user transfers and potential redistribution efficiency?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter platform's urban traffic network, frequent triangular trips between stations often indicate high-demand zones requiring optimized vehicle redistribution. To improve service efficiency, how many such triangular clusters exist where three stations are mutually connected via direct routes?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle routing network, where nodes represent shared e-scooter charging stations and edges indicate bidirectional access roads between them, how many distinct triangular zone formations exist where three charging stations are mutually reachable via direct pathways? This helps optimize fleet redistribution strategies."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, stations with bidirectional routes form the basis of vehicle redistribution. To optimize fleet balancing strategies, determine how many closed triangular circuits exist where three stations are mutually reachable via direct routes, indicating potential efficient redistribution loops."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban scooter network, stations are interconnected to allow efficient trips. To optimize vehicle redistribution and minimize detours, how many triangular structures exist where three stations are mutually reachable through direct routes, indicating potential quick transfer points for users?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a city's shared e-scooter network, stations are interconnected based on frequent rider transfers. To optimize fleet redistribution, the operations team needs to identify tightly clustered station groups. How many triangular connections exist where three stations each have direct routes connecting every pair, indicating efficient relocation pathways?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform analyzes road connections between their e-scooter hubs in downtown areas to identify zones with dense trip interactions. How many triangular structures exist in this network, where three hubs are mutually reachable via bidirectional routes, indicating high-demand clusters requiring optimized vehicle redistribution?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To improve fleet efficiency, a shared e-scooter company wants to identify zones where three parking hubs have direct bidirectional routes between each pair, enabling seamless vehicle transfers. Calculate how many such triangular hub clusters exist in the urban mobility network."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform aims to optimize vehicle redistribution by identifying clusters of three mutually connected stations where bikes/e-scooters can be cyclically transferred, minimizing idle time. How many such triangular station groups exist in the network to support efficient resource circulation?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platforms aim to optimize urban transportation efficiency. After redesigning the car-sharing station network, how many triangle structures exist between stations where three stations are mutually reachable through direct routes, indicating strong connectivity that reduces transfer times for users?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform aims to optimize vehicle rebalancing by analyzing connectivity patterns in their station network. How many triangular clusters exist where three stations are mutually reachable through direct routes, indicating high-demand zones requiring frequent redistribution efforts?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution and reduce empty ride times, a shared e-scooter platform analyzes station connectivity. How many triangular structures exist in the network, indicating efficient cyclic routes where scooters can be rebalanced between three stations without deadheading?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle dispatching for a shared e-scooter service, the operations team needs to evaluate connectivity efficiency between stations. How many triangular route patterns exist in the urban micro-mobility network where three stations are mutually reachable via direct paths, indicating potential quick rebalancing opportunities?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To improve service efficiency of a bike-sharing platform, the network analysis team needs to identify triangular routes where three stations are mutually reachable via direct bike lanes. How many such triangular structures exist in the current urban station connectivity graph?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared bike system, stations are interconnected to allow flexible trips. To optimize vehicle redistribution, how many triangular formations exist between stations where bikes can be rented and returned at any connected station?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a bike-sharing platform's station network, triangles represent efficient cycling loops where three stations are mutually reachable. To optimize rebalancing routes and reduce idle vehicles, how many such triangular structures exist in the current system?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle redistribution network, stations are interconnected based on frequent ride patterns. To minimize empty driving time during fleet rebalancing, how many triangular circuits exist where three stations mutually exchange vehicles directly between each other?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform analyzes bike-sharing station connectivity in a city's transportation network to identify high-frequency transfer zones where three stations are mutually reachable. How many such triangular structures exist in the network to optimize vehicle redistribution?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing station connectivity to identify triangular structures where three stations are mutually reachable via bike-sharing routes. This helps optimize vehicle redistribution. How many such triangles exist in the network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a transportation analyst for a shared electric scooter platform, how many triangular clusters exist in the city's charging station network? These clusters indicate redundant connectivity critical for vehicle redistribution efficiency during peak hours."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, stations are interconnected through ride data. To identify efficient rebalancing loops, calculate the number of triangular routes where three stations form a closed circuit via bidirectional access lanes."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban bike-sharing network, stations are interconnected to optimize vehicle redistribution. To identify efficient triangular rerouting paths that minimize empty trips, how many triangles exist in the station connectivity graph where three stations form mutually accessible loops?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize station placement for a shared e-scooter service, the operations team needs to assess regional connectivity patterns. How many triangular structures exist between stations in the current network, where each triangle indicates three mutually accessible locations that could support efficient vehicle rebalancing and service reliability?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution for shared mobility platforms and minimize empty ride time between stations, calculate the total number of triangular structures in the network where three stations form closed-loop relocation routes."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution, a shared e-scooter platform analyzes station connectivity patterns. How many triangular relationships exist between stations where each pair has direct ride routes, indicating potential balanced relocation loops?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution efficiency for a shared car platform, the operations team needs to identify clusters of three stations where each pair has direct routes. How many such triangular station groups exist in the network to enable faster vehicle repositioning?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban traffic network, stations represent bike-sharing hubs connected by roads. To optimize service efficiency, how many triangular structures exist where three hubs are mutually interconnected, indicating frequent user transfers between them? Calculate the total number of triangles to identify potential high-priority maintenance zones."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platforms aim to optimize vehicle dispatch efficiency in urban areas. In an e-scooter network where road intersections represent charging stations, how many triangular structures exist where three stations can mutually relocate scooters via direct routes, minimizing deadhead time?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing station connectivity patterns to optimize vehicle redistribution. In the transportation network where stations are interconnected by bike lanes, how many triangular routes exist where three stations are mutually reachable via direct paths, indicating potential efficient redistribution loops?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution for a shared e-scooter platform, analysts need to identify tightly-knit station clusters where three stations are mutually reachable via bike lanes. How many such triangular formations exist in the urban mobility network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platforms analyze station connectivity to optimize vehicle redistribution. In a bike-sharing network where stations are interconnected via bike lanes forming bidirectional routes, how many triangular structures exist where three stations are mutually reachable through direct lanes, indicating high-utilization zones?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared mobility platform analyst, compute the total number of triangular structures formed by bike-sharing stations connected via bidirectional bike lanes in an urban transportation network. This helps identify frequently interconnected station clusters for efficient vehicle redistribution."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a bike-sharing network where stations are interconnected based on frequent ride transitions, triangular structures indicate efficient round-trip routes. To optimize station rebalancing strategies, calculate the number of triangular structures formed by interconnected docking stations through bidirectional usage patterns."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a data analyst for a bike-sharing platform optimizing vehicle redistribution, how many triangular structures exist in the station network where three stations are mutually connected, helping identify clusters with frequent intra-zone trips to reduce empty ride time between hubs?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's city network, stations with efficient three-way connectivity allow quicker vehicle redistribution. To identify optimization zones, calculate how many triangular structures exist where three stations are mutually connected, enabling closed-loop ridesharing routes."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform aims to optimize vehicle redistribution by analyzing frequently interconnected parking stations. How many triangular routes exist where scooters can circulate between three distinct stations without backtracking, helping identify efficient repositioning paths?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle dispatch optimization system, stations are interconnected through bike lanes. To identify high-demand zones, calculate the total number of triangular circuits formed by three stations where each pair is directly connected by a lane, indicating potential efficient rebalancing routes."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a bike-sharing network, stations connected by bidirectional routes form efficient micro-mobility triangles where three stations can directly cycle between each other. To optimize vehicle redistribution, how many such triangular station groups exist that allow shared bikes to circulate without deadheading through intermediate stops?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing bike-sharing station connectivity patterns in a city's transportation network to identify high-demand triangular zones for optimizing vehicle redistribution. How many triangular structures exist in the current network where three stations are mutually reachable via bidirectional bike lanes?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize service efficiency for a bike-sharing platform, analysts need to identify triangular structures where three stations are directly interconnected, allowing riders to move seamlessly between any pair. How many such triangles exist in the current network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network where stations are connected by bidirectional routes, triangular structures indicate zones with redundant vehicle redistribution paths. Calculate the total number of triangular station groups to optimize fleet allocation during peak commuting hours."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution efficiency on a bike-sharing platform, the operations team wants to identify clusters of three fully interconnected stations enabling shortest-path transfers. How many such triangular station groups exist in the urban transportation network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter platform's traffic network analyzing optimal rebalancing routes, how many triangular structures exist where three stations form closed loops to minimize deadhead time between relocations?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared electric vehicle charging network, stations are connected if their service areas overlap. To identify coverage redundancy and optimize station placement, calculate how many triangular subgraphs exist where three stations mutually cover each other's zones, indicating potential service overlap regions."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution for a shared bike platform, the operations team needs to identify clusters of three stations where each pair is directly connected by frequent rider routes. How many such triangular station groups exist in the network?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle routing network, stations with bidirectional road connections form the basis for efficient trip planning. To improve fleet utilization, how many triangular structures exist where three stations are mutually reachable, enabling shorter detour options and balanced vehicle redistribution?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platforms aim to optimize vehicle distribution by analyzing connection patterns between stations in a urban transportation network. To identify high-demand zones requiring prioritized maintenance, how many triangular service routes exist where three stations are mutually reachable through direct bike-sharing lanes?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle routing network, stations represent nodes and bidirectional roads represent edges. To optimize fleet efficiency, how many triangle structures exist where three stations form a cyclic route enabling efficient vehicle redistribution?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle relocation network, where stations represent pickup/dropoff hubs and connections indicate bidirectional vehicle transfer routes, how many triangles exist to identify potential efficient rebalancing clusters that minimize deadhead trips between three mutually accessible stations?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's station network, where each node represents a vehicle pickup/drop-off hub and edges indicate direct vehicle transfer routes between hubs, how many triangular structures exist that could identify high-demand zones with frequent mutual hub usage for optimized fleet redistribution?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution for a bike-sharing platform, analysts need to identify stations forming tightly connected clusters. How many triangular station groups exist where bikes can cycle between three stations via direct routes, indicating high mutual demand zones?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle dispatching efficiency and reduce idle trips, a shared mobility platform investigates frequently interconnected routes between urban zones. Calculate how many triangular circuits exist where three zones are directly reachable from each other, indicating optimal rebalancing paths."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize the efficiency of shared e-scooter rebalancing in urban areas, how many triangular subgraphs exist in the transportation network where three charging stations are mutually reachable via bike lanes, indicating potential high-demand zones requiring coordinated vehicle redistribution?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared mobility platform analyzes the connectivity of their service stations in an urban area, how many triangular structures exist in the network where three stations are mutually reachable via direct routes, indicating optimal vehicle redistribution efficiency? This helps determine if additional routes are needed to minimize user transfer time."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared mobility platform analyst, we aim to identify high-usage clusters in our bike-sharing network where three stations are mutually reachable through cycling routes. How many triangular structures exist in this network to prioritize vehicle redistribution for demand hotspots?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platforms aim to optimize station redundancy by analyzing interconnected bike-sharing stations. To evaluate network resilience, how many triangular connection patterns exist where three stations are mutually reachable via direct routes?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban traffic network, stations with bidirectional vehicle transfers form interconnected clusters. To optimize fleet allocation, analysts need to identify tightly connected station trios enabling efficient triangular routes. Calculate the total number of triangular structures where three stations are mutually reachable through direct transfer routes."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle redistribution network, stations are connected via bidirectional routes. To optimize fleet allocation efficiency during peak hours, how many triangular subgraphs exist where three stations form a cyclic redistribution path, indicating mutually accessible relocation opportunities?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's transportation network, stations with direct bidirectional routes form efficient trip zones. To optimize vehicle dispatch, how many triangular clusters exist where three stations are mutually interconnected by direct routes?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's traffic network, stations represent vehicle pickup/drop-off points connected by bidirectional routes. To optimize vehicle redistribution, how many triangles exist where three stations are mutually reachable via direct routes, indicating potential efficient transfer loops?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared car platform analyzes bidirectional road connections in a city's transportation network to optimize vehicle placement. To identify clusters of three high-demand zones with direct mutual access for efficient rebalancing, how many triangular structures need to be calculated?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared mobility platform analyzes station connectivity data to optimize vehicle rebalancing, how many triangular structures exist between Lime Bike docking stations where each side represents a frequently traveled route, indicating potential hotspots for efficient maintenance and redistribution?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's bike-sharing network, stations are connected based on frequent user transfers. To optimize vehicle redistribution, how many triangular station groups exist where each pair is directly connected, indicating potential efficient routing loops?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's carpool optimization system, stations are interconnected via bike lanes and car routes. To identify clusters enabling efficient three-point circulations, calculate the total number of triangular structures formed by bidirectional connections between stations."
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's traffic network analysis, stations often form triangular routes when three locations have mutual bike-sharing demand. To optimize vehicle redistribution, how many such triangular structures exist where each pair of stations is directly connected by a frequent rider route?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban traffic network, service stations are interconnected to optimize vehicle redistribution. To improve route efficiency and reduce empty trips, how many triangular structures exist where three stations are mutually reachable via direct routes?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter network where stations represent nodes and bidirectional travel routes between them form edges, how many triangular structures exist that allow efficient vehicle redistribution cycles, and what is the total count of such triangles?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's transportation network, stations representing pickup/dropoff hubs are interconnected by bike lanes. To optimize vehicle redistribution and reduce idle time, how many triangular circuits exist where three stations are mutually reachable via direct paths, indicating efficient rebalancing opportunities?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform aims to optimize vehicle redistribution by analyzing triangular patterns between stations. How many distinct triangular routes exist in their bike-sharing network where stations are connected via bidirectional bike lanes, indicating frequent three-point rental cycles?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle allocation during peak hours, a shared car-sharing platform needs to assess route redundancy in high-demand urban zones. How many triangular structures exist in the connected road network between stations, where each triangle indicates alternative paths to maintain service efficiency when congestion occurs?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a city's shared mobility platform, carsharing stations are interconnected to optimize vehicle availability. To evaluate the efficiency of relocation routes, how many triangular structures exist among stations where each pair is directly connected, indicating potential quick transfer points?"
+  },
+  {
+    "label": "Triangle_Count",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platforms aim to optimize electric scooter parking spot allocation by analyzing connectivity patterns in urban areas. To assess the reliability of high-demand zones, calculate the total number of triangular structures formed between parking stations where vehicles can be seamlessly redistributed along interconnected routes."
+  }
+]

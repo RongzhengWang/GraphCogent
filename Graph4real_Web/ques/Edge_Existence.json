@@ -1,0 +1,2002 @@
+[
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In a public bus network for a coastal tourism city, a traveler wants to know if bus stop 123 and bus stop 321 are directly linked by a single route for seamless beachfront access. Based on current connections, does a direct bus path exist between these two stops?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a direct bus route from Station 123 to Station 321 in the city's public transport network. They want to confirm whether these two stations are directly connected by a bidirectional road segment, as this would allow them to reach the scenic landmark near Station 321 without transfers. Is there a direct road link between Station 123 and Station 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": " In a city's road network where junctions are connected by bidirectional streets, a commuter wants to know if there is a direct road link between Oakridge Station (node 123) and Lakeside Plaza (node 321) to plan a travel route without passing through any intermediate junctions. Does such a direct connection exist?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "As part of a travel route optimization initiative, the tourism department is verifying direct road accessibility between key locations. Is there a direct two-way road connecting City Alpha (node 123) and Scenic Area Beta (node 321) in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "During peak travel season, a transportation planner needs to verify if drivers can directly route from intersection 123 to intersection 321 via a designated express lane for emergency vehicle prioritization. Is there an immediate roadway connection between these two nodes in the urban traffic network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a direct bus route between Station 123 and Station 321 in the urban transit network to avoid unnecessary transfers. Does a bidirectional road connection exist between these two nodes to enable this immediate travel option?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In the city's subway system, is there a direct rail link between station 123 and station 321 that allows commuters to travel between the business district and the residential zone without transferring during peak hours?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A driver is planning a travel route through the urban transportation system and needs to confirm whether there is a direct road link between Station 123 and Station 321 to avoid detours. Does the current network have an immediate bidirectional connection between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A driver wants to minimize travel time between two key landmarks labeled 123 and 321 by using direct highway links. Based on real-time road network data, should the navigation system recommend checking for an immediate route option between these nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "During a city's emergency evacuation plan review, transportation authorities need to confirm whether rescue vehicles can directly travel between Node 123 and Node 321 without intermediate stops. Is there a bidirectional road connection between these two critical infrastructure nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "During travel route planning in a city's bus network, a tourist wants to confirm whether there is a direct bidirectional bus route connecting Station 123 and Station 321 without transfers. Does such an immediate connection exist between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In the urban transit network, a tourist wants to navigate directly from landmark 123 to park 321 to catch a closing-time event. Is there a confirmed immediate road link between these two locations for their time-sensitive travel plan?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route through the urban rail system, does a direct bidirectional track exist between station 123 and station 321 to enable uninterrupted commuting?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In the regional highway network, a driver wants to confirm if there's a direct road connection between City 123 and Town 321 to avoid detours during their trip. Does such a direct link exist between these two locations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route between node 123 and node 321 in a city road network, does a direct bidirectional road connection exist between these two nodes, allowing drivers to move between them without detouring through other intersections?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In a metropolitan subway system utilized for travel route planning, a tourist group needs to confirm whether there is a direct rail link between Central Park Station (node 123) and the City Art Museum Station (node 321) to avoid transfers. Does a direct bidirectional connection exist between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "During a travel route optimization analysis for a metropolitan subway system, engineers need to verify if commuters can transfer directly between Line A's Station 123 and Line B's Station 321 without intermediate stops. Does a direct physical tunnel connection exist between Station 123 and Station 321 in the network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "To optimize travel efficiency, the city's metro system is evaluating direct connections between stations. Based on the latest network data, can it be confirmed whether there is an immediate bidirectional rail link between Station 123 and Station 321 for uninterrupted commuter routes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network where optimizing travel routes is critical for reducing commute time, a user is planning a direct path between two key locations. To minimize unnecessary detours, is there a direct bidirectional road connecting Node 123 and Node 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In the urban transit system, a logistics company needs to verify whether cargo trucks can directly travel between Distribution Hub 123 and Warehouse 321 via a single road link for time-sensitive deliveries. Is there an immediate roadway connection between these two facilities?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In the context of optimizing urban subway travel routes, a passenger wants to know if they can directly ride from Station 123 to Station 321 without transferring lines. Does the metro network contain a direct rail connection between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A driver is planning a travel route from node 123 to node 321 in the highway network and wants to confirm if they can drive directly between these two nodes without intermediate roads. Is there a bidirectional road connection linking node 123 and node 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a route between two key locations and needs to verify immediate accessibility. According to the latest transportation network data, is there a direct bidirectional road link between node 123 and node 321 that enables uninterrupted travel?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "During travel route optimization for a city's bus network, a passenger inquiry requires confirmation: Is there a direct roadway link enabling uninterrupted travel between Node 123 and Node 321 in the current transportation system?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "During travel route planning in an urban transportation network, a tourist needs to confirm whether there's a direct road link between the landmark attraction at node 123 and the central transit hub at node 321 to optimize their sightseeing path. Is there a direct connection between node 123 and node 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route for a tourist aiming to minimize transfers between landmarks, is there a direct road connection between node 123 and node 321 that can be confirmed without requiring detours or intermediate stops?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "While optimizing the cross-regional highway navigation system for travel route planning, it is necessary to verify whether there is a direct two-lane highway connection between Node 123 and Node 321 to avoid unnecessary detours. Does an immediate road link exist between these two nodes in the current network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network, while planning the fastest travel route between City A and City B, it's crucial to confirm whether there is a direct expressway connection between Node 123 and Node 321. Does such a direct edge exist between these two nodes in the current road network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler needs to quickly verify if they can drive directly between intersection 123 and intersection 321 in the urban road network without detours. Does a bidirectional road link exist between these two nodes for immediate navigation?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In the urban traffic network, a traveler is planning a route from the central train station (Node 123) to the riverside park (Node 321) to minimize transfer time. Is there a direct road connection between these two nodes that allows immediate access without intermediate stops?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A tourist is planning a sightseeing route in the urban transportation network and needs to verify whether there is a direct road connecting landmark station 123 and landmark station 321 to optimize travel time. Does an immediate bidirectional connection exist between these two nodes in the current traffic network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "While optimizing a delivery truck's route in a city road network, a logistics coordinator needs to confirm whether drivers can directly travel between junction 123 and junction 321 without intermediate stops. Does a bidirectional road connection exist between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "When optimizing a travel itinerary between two landmarks, does the city's transportation network currently have a direct bidirectional road linking Node 123 and Node 321, enabling uninterrupted commuting between these points?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's highway planning department, a travel agency is optimizing direct routes for long-distance buses. They need to confirm whether there is a direct bidirectional highway segment connecting Station 123 and Station 321 to evaluate if express shuttle services can bypass intermediate stops. Does this infrastructure connection exist between the two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A taxi driver is planning the quickest route between Node 123 and Node 321 in the city's road network. Is there a direct road connecting these two nodes, allowing immediate travel without passing through intermediate junctions?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route between Node 123 and Node 321 in the city's subway system, does a direct bidirectional rail connection exist between these two stations, allowing passengers to travel without transferring lines?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In the urban metro system, a passenger planning a trip from Station 123 to Station 321 wants to avoid transfers by confirming whether they share a direct track link. Is there an immediate operational rail connection between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning the most efficient route and wants to confirm if there is an immediate bidirectional road link between node 123 and node 321 in the traffic network to avoid detours. Does a direct connection exist between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In the context of optimizing a city's traffic network for efficient travel route planning, a traveler wants to know if there is a direct road between Node 123 and Node 321 to avoid detours. Is there an immediate bidirectional connection present between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In the city's road network used for travel route planning, a tourist wants to verify if there is a direct two-way road connection between landmark station 123 and scenic spot 321 to avoid detours. Does such a direct road exist between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's subway system, a traveler needs to quickly verify whether there is a direct bidirectional route connecting Station 123 and Station 321 to avoid unnecessary transfers during rush hour. Does such a direct link exist between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "During routine maintenance of the city's subway system, engineers need to verify connectivity updates. Is there a direct bidirectional track linking Station 123 and Station 321 for immediate travel route planning between these two interchange hubs?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In the urban traffic system analyzed for travel route efficiency, can a direct roadway link between node 123 and node 321 be confirmed to avoid detours during commute planning?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In the city's public transportation network, a commuter wants to confirm whether they can travel directly from bus stop 123 to bus stop 321 without transfers for their daily route. Does the current road connection system support this immediate bidirectional travel between these two stops?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A city planner is reviewing the metro system's emergency response routes and needs to verify whether maintenance vehicles can directly traverse between junction 123 and junction 321 for rapid incident access. Is there a bidirectional track connecting these two critical infrastructure nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A delivery driver needs to determine whether they can directly travel between logistics hub Node 123 and distribution center Node 321 without intermediate stops when optimizing express parcel routes. Is there an immediate road connection between these two nodes in the urban freight network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to a recent road closure affecting several key routes, a logistics company needs to verify if their emergency travel plan can directly link node 123 to node 321 without intermediate stops. Does a direct bidirectional road exist between these two nodes in the updated transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "During travel route planning, a tourist wants to avoid unnecessary transfers between nodes. Is there a direct bidirectional road connecting node 123 and node 321 in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In the context of optimizing travel routes for a transportation network, a user is planning a path to minimize intermediate stops. Does a direct bidirectional road exist between node 123 and node 321 that would enable this route optimization?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A regional bus service is optimizing travel routes between stations. During route planning for the peak-hour express line, engineers need to verify connectivity between key hubs. Can we confirm whether there is a direct road link between Station 123 and Station 321 for this route?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route from Node 123 to Node 321 in the highway network, is there a direct highway connection that allows drivers to travel between these two exits without passing through any other interchange?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route from Station 123 to Station 321 using a navigation app, does the current transportation network include a direct road link between these two stations to avoid detours?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network optimized for tourism, a self-driving traveler wants to minimize detours when visiting landmarks. Are Node 123 (Sunrise Valley Entrance) and Node 321 (Crystal Lake Viewpoint) directly connected by a road in the current system configuration for immediate route planning?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "During travel route planning for the metro system, a passenger asks if there is a direct track connecting Central Station (node 123) to East Market (node 321) without transfers. As a station operator, would you confirm whether such a direct rail link exists between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A travel agency is optimizing public bus route recommendations for tourists. In the current transportation network, if a visitor wants to travel directly between historic landmark station 123 and cultural hub station 321 without transfers, can this be confirmed as a feasible single-ride connection?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "To optimize weekend travel between popular destinations, city planners are assessing direct route availability. In the current highway network, is there a bidirectional road immediately connecting Node 123 and Node 321 that would allow drivers to bypass congestion-prone intersections?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning the most efficient route between two key locations: node 123 (Central Station) and node 321 (Downtown Plaza). To avoid unnecessary detours, does the transportation network currently support a direct bidirectional road link between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "During travel route planning, a tourist wants to verify if there is a direct road connection between node 123 and node 321 to minimize transit time. Does such a direct edge exist between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In the city's subway system, during travel route planning, is there a direct train connecting Station 123 and Station 321 without requiring intermediate transfers?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In the urban subway network, a traveler planning an express route between Station 123 and Station 321 needs to verify if they are directly connected by a single track. Is there an immediate operational rail link between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's public transportation network where travelers often seek the most direct routes, a tourist wants to know if there is a single uninterrupted bus line connecting stop 123 to stop 321 without transfers. Based purely on station linkage data, should their route planning prioritize this direct connection?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "During travel route planning between two major tourist hubs in the metro system, does a direct rail connection exist between Station 123 and Station 321 to enable seamless transfers for visitors?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "To improve efficiency for delivery drivers navigating the downtown area, the logistics company needs to determine whether a direct route between interchange 123 and junction 321 exists in the current road network. Is there an immediate bidirectional road connecting these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In the urban metro network, a commuter planning a trip from Station 123 to Station 321 asks whether they can travel directly via a single train line, avoiding transfers. Does a direct bidirectional rail link exist between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "During urban subway route planning, a resident wants to confirm if there's a direct track connection between Station 123 and Station 321 to avoid transfers. Based on current rail network data, does a bidirectional edge exist between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is optimizing their journey from location A to location B in the urban transit system and needs to verify if they can transfer between the central hub (node 123) and the waterfront terminal (node 321) through a single direct route. Does the transportation network currently maintain an immediate roadway connection between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In an urban emergency evacuation plan, the city's traffic management department needs to verify whether there is a direct road link between station 123 and station 321 to optimize evacuation routes. Does such a direct connection exist between these two nodes in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city road network, a tourist wants to plan the shortest travel route between Node 123 and Node 321. Is there a direct two-way road connecting these two nodes, allowing them to reach each other without detouring through intermediate junctions?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a sightseeing route for visitors, does a direct bus route exist between Tourist Spot 123 and Landmark 321 in the current public transportation system to enable seamless travel without transfers?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to recent route optimizations in the urban rail transit system, travelers want to know if station 123 and station 321 are directly linked by a track segment, enabling immediate transfers for a seamless commute. Is there a confirmed bidirectional connection between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "During travel route planning for emergency response teams, authorities need to confirm whether City Alpha (node 123) and City Beta (node 321) have an immediate two-way rescue corridor. Is there a direct bidirectional road connection between these two critical nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler needs to verify whether there is a direct road connection between Station 123 and Station 321 to avoid unnecessary detours during their trip. Based on the transportation network data, can we confirm the existence of this direct link?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "While planning a sightseeing route in the metro area, a traveler wants to confirm whether there's a direct bidirectional road connecting landmark station 123 and transfer hub 321 to avoid unnecessary detours. Does such a direct connection exist between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "In the city's public transportation network optimization project, planners need to verify whether there is a direct bus route connecting Central Station (Node 123) and Riverside Park (Node 321) to simplify travel for daily commuters. Does an immediate road link exist between these two key locations in the current network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A tourist planning a trip between Station 123 and Station 321 wants to avoid transfers for luggage convenience. Does a direct bidirectional road exist between these two stations to support this travel requirement?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A travel planning app is analyzing a metropolitan transit network to determine the shortest possible routes. During route optimization, it needs to confirm whether there's a direct bidirectional road linking transportation hub 123 and hub 321. Does this immediate connection exist between the two hubs?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route between City A (node 123) and City B (node 321) via regional railways, is there a direct train connection that allows passengers to travel between these two cities without any transfers?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "During a travel route planning session for a city's public transportation system, a logistics company needs to verify if their delivery trucks can directly traverse between distribution hub 123 and hub 321 without intermediate stops. Does a bidirectional road connection exist between node 123 and node 321 in the current network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A logistics company is optimizing delivery routes between urban distribution centers. To minimize fuel costs for a high-priority shipment, their automated system needs to confirm whether there's a direct bidirectional road connecting Warehouse 123 and Warehouse 321. Does the current transportation network configuration allow immediate direct passage between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Travel route planning",
+    "answer": "A tourist is planning a day trip using the urban rail network and needs to verify whether they can transfer-free travel directly between Station 123 (Central Business District) and Station 321 (Coastal Park). Does a physical rail track exist between these two stations in the transit system?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a metropolitan logistics network where delivery centers are connected by bidirectional roads, a logistics company aims to optimize same-day parcel routes. To determine if a direct transportation shortcut exists between hub 123 and hub 321 for reducing transit time, is there an immediate road connection linking these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "As part of a logistics company's route optimization review to reduce delivery times between key distribution hubs, does a direct road connection exist between Node 123 and Node 321 in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization analysis to minimize package transit time between distribution hubs, is there a direct bidirectional road connecting node 123 and node 321 in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery efficiency, a logistics company is analyzing direct connectivity between key distribution hubs. Does the current transportation network contain a direct road link connecting node 123 to node 321, which would enable faster parcel transfers between these major logistics centers?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline last-mile delivery routes for a logistics company, is there a direct bidirectional road connection between node 123 and node 321 in the urban transportation network, which would allow delivery trucks to bypass three congested distribution hubs?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize emergency vaccine distribution routes, the logistics coordinator must verify if a direct road link exists between node 123 and node 321 for time-sensitive deliveries. Is this connection present in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize same-day delivery routes for a logistics company, is there a direct road connection between node 123 and node 321 that allows bypassing intermediate hubs and reducing transit time by over 30%?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization analysis for a metropolitan area, does a direct bidirectional road connection exist between distribution hub 123 and sorting facility 321 to enable emergency package rerouting?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a metropolitan logistics network where delivery time directly impacts fuel costs, a carrier needs to verify whether warehouse node 123 and distribution hub node 321 share an immediate road link to prioritize express shipments. Does a direct bidirectional route exist between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization analysis for a same-day parcel distribution company, is there a direct road connection between node 123 and node 321 that could eliminate intermediate transfer delays?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery optimization project for a metropolitan area, a courier company needs to confirm whether there's a direct road connection between Distribution Hub 123 and Sorting Center 321 to validate potential time-saving routes. Does an immediate bidirectional roadway exist between these two critical infrastructure nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery optimization analysis for a regional distribution network, the operations team needs to verify whether a direct road link exists between Node 123 and Node 321 to determine if express packages can bypass intermediate hubs. Does the current network infrastructure support a direct connection between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a critical logistics delivery optimization for emergency medical supplies between two regional hubs, the dispatch team must verify if there is a direct road connection between Node 123 and Node 321 to minimize transit time. Does an immediate bidirectional route exist between these two nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "As part of logistics delivery optimization for a transportation network, our company needs to confirm whether there is a direct road link between Warehouse Node 123 and Distribution Hub Node 321 to enable immediate goods transfer without detours. Does an edge exist between Node 123 and Node 321 in the current network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics route optimization check for express parcel delivery, dispatchers need to verify if warehouse node 123 has a direct bidirectional road link to distribution hub node 321 to avoid unnecessary detours. Does an immediate connection exist between these two critical infrastructure points?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network aimed at optimizing delivery routes, does a direct road connection exist between Node 123 and Node 321 to reduce transit time for express shipments?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery optimization review, a major courier company needs to verify if there's a direct road connection between Distribution Hub 123 and Emergency Dispatch Hub 321 to determine priority parcel routing. Does an immediate roadway link exist between these two nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize express delivery routes for a metropolitan cargo hub, the logistics team must verify whether a direct bidirectional road link exists between Node 123 and Node 321 to enable same-day shipments. Is there an immediate connection between these two nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize same-day delivery routes for a logistics company, the operations team needs to verify if there's a direct road connection between Distribution Hub 123 and Processing Center 321, as this would eliminate 30-minute detour times during peak hours. Can we confirm the existence of an immediate roadway linking these two critical nodes in our transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize same-day delivery routes for a logistics company, dispatchers need to verify whether there is a direct road connection between distribution hub 123 and hub 321 to minimize transit time. Does such a direct connection exist between these two nodes in the transportation network?  \n\nAnswer: [Result from edge existence check: True/False]"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In the context of logistics delivery route optimization, does a direct road exist between node 123 and node 321 to ensure timely package delivery without detours?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics delivery optimization project for a metropolitan transportation network, the dispatcher needs to verify whether package transfer vehicles can directly travel between distribution hub 123 and central warehouse 321 through a bidirectional road. Does there exist an immediate connection between node 123 and node 321 in the current network configuration?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize same-day package delivery routes for a logistics company, the operations team needs to verify if there is a direct road connection between distribution hub 123 and hub 321. Does a bidirectional roadway exist between these two nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes and needs to verify whether critical node 123 has a direct road connection to node 321 to enable emergency material transfers. Based on current infrastructure data, does a direct bidirectional road exist between node 123 and node 321 in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To ensure timely delivery of critical medical supplies, the emergency logistics coordinator needs to confirm whether distribution hub 123 has an immediate two-way road link directly connecting to quarantine facility 321 in the regional relief network."
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize same-day delivery routes for a logistics company, the operations team needs to verify if there is a direct road connection between distribution hub 123 and hub 321 to enable express cargo transfers. Does an immediate bidirectional link exist between node 123 and node 321 in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes, a company needs to verify whether a direct road exists between distribution hub node 123 and warehouse node 321 to minimize transit time. Does an immediate bidirectional connection between node 123 and node 321 currently exist in the network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes to minimize transit time. They need to verify if there's a direct road connection between distribution center 123 and warehouse 321. Is there an immediate route available between these two nodes to expedite shipments?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization analysis for a regional distribution network, is there a direct bidirectional road connecting node 123 and node 321 to enable efficient package transfers between these critical hubs?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics route optimization check for emergency medical supply deliveries, is there a direct bidirectional road connection between node 123 and node 321 that would enable immediate dispatch of critical shipments without intermediate stops?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization for a regional distribution network, the dispatcher needs to confirm whether there's a direct road connection between distribution hub #123 and hub #321 to avoid detours. Does an immediate bidirectional route exist between these two hubs in the current transportation system?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To ensure efficient logistics delivery for time-sensitive medical supplies, is there a direct bidirectional road connecting node 123 and node 321 in the urban emergency transport network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics route efficiency audit for a regional delivery company, the team discovered that establishing a direct path between Warehouse 123 and Dispatch Hub 321 could eliminate 35 minutes of detour time for emergency medical shipments. Does the current transportation network contain a direct road connection (edge) between node 123 and node 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing parcel delivery routes in an urban transportation network. To minimize delivery time between two key distribution hubs, their system must verify if truck drivers can travel directly between node 123 and node 321 without detours. Is there a direct road connection (edge) between node 123 and node 321 in the current network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by identifying direct connections between distribution hubs. Is there a direct road linking node 123 and node 321 in their transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To expedite a critical logistics delivery, the dispatcher needs to determine if there’s a direct road link between Node 123 and Node 321 for immediate rerouting. Does an edge exist between these two nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery optimization project for a metropolitan freight company, route planners need to verify whether there's a direct road connection between Distribution Hub 123 and Priority Warehouse 321 to minimize parcel transit time. Does an immediate bidirectional roadway link exist between these two critical cargo nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce transit time between two major distribution hubs, a logistics company needs to confirm whether there is a direct bidirectional road connecting Node 123 and Node 321 in the transportation network. Does an edge exist between these nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics network optimization project for express delivery services, a critical step is verifying direct road connections between key distribution hubs to minimize transit times. To determine if same-day delivery is feasible between hub 123 and hub 321, does a direct bidirectional road exist linking these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To reduce transit time for urgent shipments, a courier service needs to verify if distribution center 123 has immediate road access to warehouse 321. Does a direct bidirectional route exist between these two facilities to support same-day delivery commitments?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization for a regional distribution hub, is there a direct road link between node 123 and node 321 that could potentially reduce transit time for urgent medical supply shipments?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize express package routing and reduce delivery time, a logistics company needs to verify whether node 123 has an immediate direct road connection to node 321. Does such a direct edge exist between these nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics delivery optimization scenario, the dispatch center needs to verify whether drivers can directly route between distribution hub 123 and warehouse 321 without intermediate stops to minimize parcel transit time. Is there a direct road connection between node 123 and node 321 in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package delivery routes, a logistics company needs to confirm whether there is a direct road connection between distribution hub node 123 and node 321 to minimize detours. Does an edge exist between these two nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery optimization analysis for a metropolitan area, the routing algorithm flagged a priority shipment between node 123 and 321. Is there a direct road connection available between these two nodes to avoid detours?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in the transportation network. To streamline package transfers between two critical distribution hubs, they need to confirm whether there is a direct road connection between Node 123 and Node 321 to avoid unnecessary detours. Does such an edge exist between these nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "As part of a logistics delivery optimization initiative, a freight company aims to streamline routes by prioritizing direct connections between key warehouses. To avoid unnecessary detours, is there a direct bidirectional road linking Node 123 and Node 321 in their transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, we need to verify if a direct road exists between node 123 and node 321 in the transportation network, as this would allow faster package transfers. Does an immediate connection between these two nodes exist?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization for emergency medical supplies, the dispatch team needs to confirm whether a direct road connection exists between node 123 and node 321 to enable rapid transportation. Is there an immediate bidirectional link connecting these two nodes in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization for a major courier company, the operations team needs to verify if package transfer vans can directly travel between distribution hub 123 and hub 321 without intermediate stops. Does a direct bidirectional road link exist between node 123 and node 321 in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During logistics delivery optimization, a company needs to verify if there's a direct road connection between node 123 and node 321 to minimize detours. Is there an edge present between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics company's route optimization plan, they need to verify whether package transfers between distribution hub 123 and regional center 321 can be completed through a direct road link to minimize delivery time. Does an immediate bidirectional connection exist between node 123 and node 321 in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes between regional hubs, the operations team needs to confirm whether there is a direct road link connecting Node 123 and Node 321 for immediate cargo transfer. Does such an edge exist in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery optimization project for a regional distribution center, analysts need to verify whether warehouse node 123 and key retail hub node 321 have a direct roadway connection to enable same-day emergency shipments. Does such a direct edge exist between these nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce fuel consumption, a logistics company needs to verify if there is a direct road link between Node 123 and Node 321 in their transportation network. Does such a connection exist to enable expedited parcel transfers between these two distribution hubs?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline same-day delivery operations, a courier service is evaluating direct routes between critical hubs. Can a transport vehicle move instantly from Node 123 to Node 321 through a single connecting road in the network, eliminating intermediate stops?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics network optimization project aiming to reduce parcel transit times, a dispatcher needs to confirm whether there is a direct road link between distribution hub 123 and warehouse 321 for urgent same-day deliveries. Does this immediate connection exist in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a metropolitan logistics network, to optimize same-day delivery routes, does a direct road exist between distribution hub 123 and warehouse node 321 to avoid detours?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes, a courier company needs to verify if there is a direct road connection between node 123 and node 321 to reduce detour time. Does a direct bidirectional edge exist between these two nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a city's transportation network. To prioritize express shipments between key distribution hubs, please confirm if there's a direct road connecting Node 123 and Node 321 that would eliminate intermediate stops for time-sensitive cargo."
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes for urgent medical supplies. To determine if a direct transfer between two critical distribution hubs is possible, we need to confirm: Does a direct road connection exist between node 123 and node 321 in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, it is critical to verify direct connectivity between key hubs. Does a direct road link exist between Node 123 and Node 321 in the transportation network to enable faster cargo transfers and reduce transit time?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes for emergency package transport, does a direct road connection exist between node 123 and node 321 to enable the fastest possible path?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery optimization project for a regional parcel distribution network, the operations team needs to confirm whether a direct road link exists between the central sorting hub (Node 123) and the high-priority suburban fulfillment center (Node 321), as this connection would enable same-day delivery commitments. Does this critical infrastructure pathway currently exist in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes between two major logistics hubs, does a direct bidirectional road connection exist between node 123 (Central Distribution Warehouse) and node 321 (Metropolitan Fulfillment Center) in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In the context of a logistics company optimizing delivery routes to reduce transit times, is there a direct road connection between node 123 and node 321 that allows immediate package transfer without intermediate stops?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics network focused on optimizing package delivery routes between distribution hubs, is there a direct road connection enabling immediate transportation between node 123 and node 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, we need to verify if there is a direct road connection between Node 123 and Node 321 in the transportation network. Does an immediate bidirectional link exist between these two nodes to enable faster cargo transfer?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes from their distribution hub (node 123) to a major client site (node 321) to reduce transit time. Is there a direct bidirectional road connection between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics delivery optimization scenario, a shipping company needs to determine whether a direct road link exists between Distribution Hub 123 and Warehouse 321 to streamline parcel routing and reduce transit times. Based on the current transportation network connections, can it be confirmed that there is a bidirectional roadway directly connecting these two critical nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize urgent delivery routes between logistics hubs, a courier company needs to confirm if there's a direct road connecting Node 123 and Node 321 for real-time rerouting. Does an immediate bidirectional path exist between these two nodes in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the dispatcher needs to confirm whether a direct road exists between node 123 and node 321 to eliminate redundant detours. Does the current transportation network allow direct vehicle movement between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city logistics network where a delivery company aims to minimize parcel transit hubs between distribution centers, does a direct road connection exist between node 123 and node 321 to enable faster route optimization?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline package distribution between major hubs, a logistics coordinator needs to verify whether node 123 and node 321 are directly connected by a road, as this would eliminate detours in their delivery network. Does an edge exist between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery network optimization review, the operations team needs to verify if there’s a direct road link between distribution hub 123 and warehouse 321 to reduce intermediate handling delays. Is there an immediate bidirectional connection between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company needs to urgently verify if node 123 and node 321 share a direct bidirectional road to prioritize emergency medical supply routing. Does an edge exist between these nodes to enable immediate delivery without detours?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics company's delivery route optimization assessment, managers need to verify if package trucks can travel directly between two key distribution hubs without intermediate stops. Does a direct road connection exist between Node 123 and Node 321 in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery routes and reduce package handling delays, a logistics company needs to verify whether there's a direct road link between their central hubs at node 123 and node 321. Is there an immediate connection between these two nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize regional delivery routes, a logistics company needs to verify whether there is a direct road connecting hub node 123 and distribution center node 321 in their transportation network – does such a bidirectional route exist between these critical operational nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization review, the operations team needs to confirm whether there is a direct roadway between distribution hub 123 and warehouse hub 321 to reduce transport time and fuel costs. Is there an immediate bidirectional road link connecting node 123 and node 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, city planners need to verify if ambulances can bypass traffic congestion by using a direct route between Node 123 and Node 321. Is there an immediate bidirectional road link connecting these two critical infrastructure points?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to verify critical infrastructure links. Is there a direct bidirectional road between Node 123 and Node 321 to enable immediate rescue vehicle access between these key locations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During the urban emergency response planning for fire station deployment, city officials need to verify whether a direct evacuation route exists between critical infrastructure node 123 and emergency shelter node 321. Is there an immediate bidirectional road connection between these two nodes to facilitate rapid emergency vehicle movement?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, authorities need to verify whether ambulances can directly access the evacuation zone from the central command node. Is there a direct road connection between node 123 and node 321 to enable unimpeded emergency routing?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a recent urban emergency response planning review, city officials need to verify if ambulances can travel directly between critical junction 123 and hospital access point 321 without detours—does a direct road connection exist between these two nodes to ensure optimal emergency response times?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response plan for fire containment, authorities need to verify if fire trucks can directly route between critical infrastructure points. Is there a direct road connection between node 123 and node 321 to ensure rapid deployment during emergencies?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for medical evacuation routes, rescue teams need to confirm whether there's a direct roadway connection between critical infrastructure node #123 and designated triage hub node #321. Does an immediate bidirectional link exist between these two nodes to enable rapid ambulance transfers?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response drill, paramedics must confirm whether Node 123 and Node 321 are directly connected by a road to prioritize ambulance routes. Does a direct road exist between these two critical nodes for rapid emergency vehicle access?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, paramedics require priority access between critical nodes. To validate ambulance routing efficiency, is there a direct bidirectional road connecting Node 123 and Node 321 in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During the evaluation of critical infrastructure links for urban emergency medical supply corridors, does a direct roadway connection exist between node 123 and node 321 to ensure uninterrupted ambulance transit?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for ambulance routing optimization, it is critical to verify direct road access between key facilities. Does an immediate bidirectional connection exist between Node 123 (Central Hospital) and Node 321 (Main Accident Hotspot) in the traffic network to enable rapid emergency vehicle movement?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, verifying direct road access between critical facilities is vital. In the current transportation network, does a direct bidirectional road connection exist between Node 123 (Central Hospital) and Node 321 (Fire Command Center) to ensure rapid emergency vehicle deployment?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a fire outbreak in District X, rescue teams need to verify if fire trucks can directly traverse between critical infrastructure node 123 and evacuation hub 321 via a bidirectional road. Is there an immediate road connection between these two nodes to enable rapid emergency vehicle routing?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for ambulance routing, it is critical to verify direct access between key infrastructure points. Does a direct bidirectional road connection exist between Node 123 and Node 321 to enable swift ambulance movement during emergencies?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for ambulance routing, it is critical to verify direct connectivity between key facilities – does a direct road exist between Node 123 and Node 321 to enable rapid medical transport during crises?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "\n\nProblem：During urban emergency response planning, rescue teams need to verify critical direct routes for ambulances. To ensure rapid deployment between district hubs, is there a direct road connection between node 123 and node 321 in the traffic network? This confirmation avoids delays in life-saving missions."
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, during a critical infrastructure failure, does a direct emergency access road exist between node 123 and node 321 to enable immediate coordination between fire station 123 and medical facility 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to verify if ambulance routes between critical infrastructure nodes are directly accessible. To optimize response time, is there a bidirectional road connecting Node 123 and Node 321 in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a citywide emergency medical response drill, dispatchers need to confirm immediate evacuation routes between critical facilities. Is there a direct roadway connecting Node 123 and Node 321 to ensure uninterrupted ambulance transfer between these two emergency shelters?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to verify direct road connections between critical facilities to ensure rapid emergency vehicle access. Is there a direct roadway linking Fire Station 123 and Emergency Shelter 321 in the current transportation network, enabling immediate access for fire trucks during crises?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for fire evacuation routes, it has been identified that Node 123 represents a critical fire station while Node 321 marks the nearest disaster relief shelter. To validate direct access protocols, is there a confirmed bidirectional road connection between Node 123 and Node 321 in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, paramedics require confirmation of direct roadway access between critical nodes. Is there an immediate road connection between node 123 and node 321 to enable ambulance routing during cardiac arrest emergencies?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency medical response scenario, rescue teams need to verify if ambulance routes between critical infrastructure points are directly accessible. Is there a bidirectional road connecting Node 123 and Node 321 to enable immediate deployment for lifesaving operations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "Due to urban emergency response planning requirements, fire departments need to confirm whether there is a direct road link between critical facility node 123 and evacuation hub node 321 to ensure immediate deployment of rescue vehicles during crises. Does an edge exist between these two nodes in the current transportation network?  \n\nThis formulation embeds emergency planning context (\"critical facility\" and \"evacuation hub\"), focuses strictly on edge existence verification, aligns with direct operational logic for emergency routes, and maintains a single actionable query without extraneous details."
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency route planning for firefighting teams, does a direct roadway link exist between critical infrastructure node 123 and evacuation hub node 321 to facilitate rapid disaster response?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for ambulance routes, it has been identified that a critical connection between Node 123 (City Hospital West Wing) and Node 321 (Fire Station Alpha) could optimize disaster response times. Is there a direct road link enabling emergency vehicles to travel between Node 123 and Node 321 in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, rescue teams need to verify if a direct road link exists between Station 123 and Station 321 to optimize evacuation routes. Is there a confirmed bidirectional connection between these two critical nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for ambulance routes, verifying direct connectivity between critical nodes is vital. In the city's transportation network, does a direct road connection exist between node 123 and node 321 to enable rapid medical evacuation?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to verify if a direct critical emergency route exists between Node 123 and Node 321 for rapid ambulance deployment. Is there an immediate bidirectional road connection between these two nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a critical hospital zone, rescue teams need to confirm whether there's a direct road connection between node 123 and node 321 to enable ambulance shortcuts. Does the current transportation network explicitly contain an edge linking node 123 and node 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for ambulance routing, it is critical to verify direct road access between key facilities. Does a bidirectional emergency vehicle corridor exist directly connecting Node 123 and Node 321 in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a city's ambulance routing network, during a critical incident requiring immediate medical evacuation, is there a direct road connection between node 123 and node 321 to enable rapid access to the central hospital?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for medical evacuations, it is critical to verify direct road access between key facilities. Does a direct bidirectional road connection exist between node 123 and node 321 to ensure uninterrupted ambulance routing during emergencies?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, it is critical to verify whether a direct road connection exists between Node 123 and Node 321 to ensure rapid access for emergency vehicles. Does the current transportation network confirm the presence of this immediate link?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for ambulance routing, it is critical to verify direct road access between key locations. Does a direct bidirectional road connection currently exist between Node 123 and Node 321 in the transportation network to enable immediate emergency vehicle movement between these points?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to verify if firetrucks can directly traverse between critical infrastructure points. For rapid disaster containment, is there a bidirectional road connecting Node 123 and Node 321 in the city's emergency evacuation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for ambulance route optimization, authorities need to verify critical infrastructure links. Is there a direct road connection between node 123 and node 321 in the transportation network to enable emergency vehicles bypass congested areas during life-saving missions?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a major traffic junction, rescue teams need to verify if critical evacuation routes between Node 123 and Node 321 have direct road connectivity. Is there an immediate bidirectional roadway linking Node 123 and Node 321 in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning for ambulance routing optimization, first responders require real-time verification of critical pathways. To ensure rapid deployment, is there a direct bidirectional road connection between node 123 and node 321 in the city's transportation grid?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, paramedics need to verify if a direct road link exists between Node 123 and Node 321 to ensure rapid ambulance deployment during critical incidents. Does the current transportation network infrastructure support this immediate connectivity requirement?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, city officials are updating critical ambulance routes and need to verify if a direct road connection exists between Node 123 and Node 321 to enable rapid access to a major hospital. Is there an immediate bidirectional roadway linking these two nodes in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response planning assessment, emergency teams need to verify if a direct road connection exists between critical infrastructure node 123 and evacuation hub node 321 to ensure rapid deployment. Is there an immediate bidirectional roadway linking node 123 and node 321 in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a medical supply route optimization, emergency coordinators need to confirm whether there is a direct road connection between Node 123 (Central Hospital) and Node 321 (Regional Distribution Hub) to ensure rapid critical物资transportation. Does an immediate bidirectional pathway exist between these two key infrastructure nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, it's critical to verify direct road access between key locations. Is there a direct connection between node 123 and node 321 in the transportation network to enable immediate dispatch of ambulances during emergencies?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": " During urban emergency response planning for a city's ambulance routing system, analysts need to verify immediate connectivity between critical hubs – is there a direct bidirectional road link between node 123 and node 321 to enable rapid rescue operations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for ambulance routing optimization, does a direct road connection exist between node 123 and node 321 in the transportation network to ensure rapid medical access during critical incidents?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for fire incidents, rescue teams need to verify if a direct road connection exists between Node 123 and Node 321 to enable immediate dispatch of fire engines. Is there a bidirectional edge linking these two critical nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to verify if fire trucks can directly route between critical infrastructure points. Based on the transportation network data, is there a bidirectional road connecting node 123 and node 321 to support emergency operations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, fire departments need to verify immediate access between critical infrastructure nodes. Is there a direct road connection between Node 123 and Node 321 to enable rapid deployment of rescue vehicles during a chemical spill incident?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, paramedics need to confirm whether there's a direct road connection between Hospital Alpha (node 123) and the central triage zone (node 321) to optimize ambulance routes. Does emergency routing infrastructure currently support immediate vehicular access between these two critical locations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, direct road access between critical infrastructure points is vital. During a recent evaluation of fire department route efficiency, analysts need to verify whether Station 123 and Hospital 321 share an immediate bidirectional connection to confirm potential rapid deployment. Does this transportation network contain a direct edge between node 123 and node 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a city's transportation network, during an evaluation of critical evacuation routes, emergency coordinators need to verify whether a direct road connection exists between Node 123 and Node 321 to optimize ambulance dispatch paths. Does an immediate bidirectional roadway link between these two nodes exist?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, a critical ambulance route requires direct connectivity between key infrastructure points. To validate evacuation efficiency, does a direct two-way road exist between node 123 and node 321 in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a critical hospital zone, rescue teams need to verify immediate connectivity between key infrastructure points. Does a direct road link exist between Node 123 and Node 321 to ensure the fastest medical evacuation route during emergencies?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency evacuation drill, the fire department needs to verify whether fire trucks can immediately access the direct route between Node 123 and Node 321 as a critical evacuation corridor. Is there a direct road connection between these two nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to verify if a direct road link exists between Node 123 and Node 321 to ensure ambulances can bypass congested zones. Does the current transportation network contain an immediate bidirectional connection between these two critical nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency planning, confirming direct road access between critical nodes is vital. Is there a direct bidirectional road connecting Fire Station 123 and Hospital 321 to ensure rapid emergency response?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for fire evacuation routes, city officials need to verify whether a direct roadway exists between Station 123 and Hospital 321 to ensure rapid emergency vehicle access. Is there an immediate bidirectional road connection between node 123 and node 321 in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, rescue teams need to verify if there is a direct bidirectional road link between Station 123 and Station 321 to ensure rapid medical evacuation routes. Based on the city's critical infrastructure network, is there a confirmed immediate connection (edge) between Node 123 and Node 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation route planning, city officials need to confirm if ambulances can directly travel between critical infrastructure points. Does the transportation network contain an immediate roadway link connecting Node 123 and Node 321 to facilitate emergency medical response?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, where rapid deployment of ambulances is critical during crises, emergency coordinators need to verify whether first responders can directly traverse between Node 123 and Node 321 without intermediate stops. Is there a direct road connection (edge) between Node 123 and Node 321 in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for fire department route optimization, after recent traffic network updates, is there a direct road connection between node 123 and node 321 to ensure rapid access during critical incidents?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, ensuring efficient ambulance routes is critical. Does a direct road connection exist between Node 123 and Node 321 to enable immediate access for emergency vehicles transporting patients to the central hospital?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, determining immediate road access between critical points can save crucial time. Is there a direct road connection between node 123 and node 321 to facilitate rapid ambulance dispatch during emergencies?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities must verify critical infrastructure links. To ensure rapid ambulance routing, does a direct bidirectional road exist between node 123 and node 321 in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, paramedic teams need to verify direct road access between critical nodes. During route optimization for ambulances, does a direct bidirectional road connection exist between node 123 and node 321 to enable swift emergency deployment?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an emergency evacuation drill, city officials need to verify if there's a direct road connection between critical infrastructure node 123 and emergency shelter node 321 to optimize rescue vehicle routing. Does such a direct road link exist between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to verify if ambulances can directly traverse between critical infrastructure points. Is there a direct road connection between node 123 and node 321 to enable immediate deployment during emergencies?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a metropolitan area's transportation network, during a recent simulation for ambulance route optimization, it was critical to verify whether there is a direct road link between Node 123 and Node 321 to ensure rapid deployment. Is there an immediate connection between Node 123 and Node 321 in the current traffic network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for ambulance routes, it is critical to verify direct connectivity between key facilities. Does the current transportation network contain a direct bidirectional road connecting Node 123 and Node 321 to ensure immediate access during life-threatening emergencies?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency evacuation drill, authorities need to confirm whether ambulances can directly travel from shelter node 123 to critical facility node 321 without detours. Does the current city road network contain a bidirectional emergency corridor connecting these two nodes for immediate disaster response?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a major public event, paramedics need to verify if ambulance unit 123 can directly reach triage station 321 via an emergency access corridor. Does the transportation network contain a direct road connection between node 123 and node 321 to enable immediate medical evacuation?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban flood response planning, emergency coordinators need to verify if there's an immediate road link between node 123 and node 321 for ambulance routing. Does the transportation network currently contain a direct connection between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, it is critical to verify direct connectivity between key facilities. Does a bidirectional road exist between node 123 and node 321 to enable rapid deployment of rescue vehicles during emergencies?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a major public hospital (node 123) and a central fire station (node 321), city officials need to verify direct vehicle access between these critical facilities. Does the current transportation network contain a bidirectional road connecting node 123 and node 321 to ensure immediate emergency dispatch coordination?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, emergency vehicles require direct access between critical infrastructure points. During route optimization for disaster drills, does a dedicated emergency corridor currently exist connecting Node 123 and Node 321 in the transportation network? Answer True if such a direct road link is confirmed, otherwise False."
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a critical hospital zone, authorities must confirm whether fire engines can directly access Shelter 321 from Dispatch Center 123 without detours. Does a direct bidirectional road exist between Node 123 and Node 321 in the emergency evacuation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, it's critical to verify if ambulance units can directly traverse between Node 123 and Node 321 to minimize response time. Is there a direct road connection between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for ambulance routes, it is critical to verify direct connectivity between key infrastructure points. Does a direct bidirectional road exist between Node 123 and Node 321 to enable rapid emergency vehicle access in life-threatening situations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, emergency vehicles require direct routes between critical facilities. During a recent disaster drill simulation, paramedics needed immediate access from shelter node 123 to hospital node 321. Was there a direct roadway connection established between these two designated emergency nodes to ensure zero-delay transportation during life-saving operations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, the operations team aims to optimize transfer efficiency between key hubs. To reduce passenger wait times during peak hours, they need to confirm whether a direct bus route exists between Station 123 and Station 321 without intermediate stops. Does the current network configuration include this direct edge connection?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit efficiency during rush hours, the scheduling team needs to verify if a direct maintenance vehicle pathway exists between control hub 123 and backup hub 321 for emergency rerouting. Does the current network configuration contain a bidirectional road link connecting these two critical infrastructure nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling optimization, the operations team needs to verify if there's a direct bus route between Central Transfer Station 123 and Downtown Hub 321 to minimize passenger transfer times. Does a bidirectional road connection currently exist between these two critical stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update to streamline rush-hour operations, planners need to verify if terminal node 123 has a direct bidirectional route to major transfer hub node 321 for real-time bus allocation. Is there an immediate edge connecting these two critical stations in the current transportation graph?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During peak hour public transit adjustments, does a direct bidirectional bus route currently exist between station 123 and station 321 to facilitate rapid commuter transfers along this critical corridor?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, planners need to verify if there is a direct bus route connection between Station 123 and Station 321 after recent route optimizations. Does a bidirectional service link exist between these two stations in the current operational plan?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "After recent public transit network adjustments for peak-hour scheduling, has the direct route between transfer hub 123 and commuter terminal 321 been preserved in the updated bidirectional connections?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization meeting, planners proposed introducing an express bus line to reduce transfer times for commuters traveling between the northern residential zone (node 123) and central business district (node 321). Is there an existing direct roadway connection between these two hubs that could immediately support this proposed rapid transit service?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During the public transit network scheduling optimization, the planning team needs to verify whether there's a direct bus route connecting Station 123 and Station 321 to assess potential express service feasibility. Does an immediate bidirectional road link exist between these two critical transfer nodes in the current transportation graph?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization to improve rush hour connectivity, the city planning department must confirm whether Station 123 and Station 321 have a direct bidirectional bus route for seamless transfers. Does an edge exist between node 123 and node 321 in the updated transportation graph?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization project in Metro City, planners need to verify if the proposed route adjustments maintain a direct bus connection between Station 123 (downtown hub) and Station 321 (airport terminal) to ensure seamless transfers. Does an immediate bidirectional link exist between these critical stations in the updated network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit schedule optimization meeting for the city's bus network, the operations team needs to confirm whether there's a direct maintenance corridor between depot 123 and hub 321 to evaluate potential express route adjustments. Does the current infrastructure contain a physical roadway connecting node 123 and node 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update to optimize peak-hour express services, planners are evaluating if a direct bidirectional road link exists between Station 123 and Station 321 to determine whether adding a non-stop shuttle route would require new infrastructure. Does the current network already have a direct connection between node 123 and node 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "After a public transit agency optimized bus routes to reduce transfer times, they need to verify whether stop 123 (downtown hub) and stop 321 (suburban terminal) maintain a direct connection. Does a bidirectional roadway link exist between these two nodes in the updated network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review for optimizing bus line connectivity, transit planners need to verify if a direct bidirectional route exists between transfer hub 123 and express terminal 321 to confirm emergency rerouting feasibility. Does an edge currently connect node 123 and node 321 in the network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, planners are evaluating direct route efficiency between key transfer hubs. Is there a direct bus connection between Node 123 and Node 321 in the current transportation network to support seamless transfers for commuters?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization to reduce transfer times between key hubs, does a direct bidirectional road link exist between station 123 and station 321 that would allow uninterrupted bus scheduling for a proposed express route?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling optimization, the transport authority claims they have added a direct bus route between Station 123 and Station 321 to reduce transfer times. As a dispatcher verifying this update, do these two stations currently share an immediate connection in the operational network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, the planning team needs to verify if there is a direct bidirectional road connection between Station 123 and Station 321 to determine whether these two interchange hubs can share synchronized bus schedules. Does an immediate physical link exist between these nodes in the current transportation graph?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule optimization, the dispatcher needs to verify if station 123 and station 321 have a direct bus route connection in the current operational plan to avoid unnecessary detours. Does the network configuration include an immediate bidirectional link between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour public transit schedules, the city's transport authority needs to confirm whether buses can directly transfer passengers between hub station 123 and express terminal 321 without intermediate stops. Is there a bidirectional roadway link connecting node 123 and node 321 in the current network configuration?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "In the context of optimizing public transit reliability, a recent schedule adjustment aims to minimize transfer delays between key hubs. To verify the update's feasibility, is there a direct route connecting Station 123 and Station 321 in the current network configuration, ensuring uninterrupted service continuity?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network rerouting due to construction, does the current schedule maintain a direct connection between Station 123 (Central Hub) and Station 321 (Tech Park) to ensure uninterrupted commuter access between these key transfer points?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, city planners need to verify whether Station 123 and Station 321 are directly connected by a bus route to assess potential overcrowding risks during peak hours—does such a direct link exist in the current configuration?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, the operations team adjusted bus routes to optimize service efficiency between key transfer hubs. To validate the updated connections, is there a direct bidirectional road link maintained between Oakridge Station (node 123) and Maplewood Terminal (node 321) in the current configuration?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule optimization meeting, the city planner needs to verify whether there's a direct bus lane connecting transfer hub 123 and hub 321 to evaluate potential route consolidation options. Does the current transportation network infrastructure support this direct connection between the two hubs?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a recent public transit network scheduling optimization, the operations team reviewed direct route connections between key transfer hubs. To verify the updated network data, is there a direct bidirectional road link maintained between node 123 and node 321 in the current transportation graph?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "To improve public transit network scheduling during rush hours, the city planner needs to confirm whether there's a direct bidirectional bus lane connection between Station 123 and Station 321, as this critical link would determine if commuters can bypass three intermediate stops. Is there an immediate roadway edge connecting these two nodes in the current transportation infrastructure?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization to streamline bus routes in the downtown area, is there a direct bidirectional road connection maintained between node 123 (Central Station) and node 321 (Riverfront Terminal) in the revised schedule?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit network scheduling during peak hours, transit planners need to determine if express buses can directly traverse between critical stations. Is there an immediate road connection between node 123 and node 321 to support this operational adjustment without requiring detours?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling adjustment, the planning team needs to confirm whether there is a direct maintenance route connecting depot 123 and depot 321 to ensure timely vehicle transfers. Does an edge exist between node 123 and node 321 in the current transportation graph?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling adjustment due to road maintenance, the operations team temporarily rerouted several bus lines. To verify connectivity changes, is there a direct road link between Station 123 and Station 321 in the current configuration?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a peak-hour scheduling adjustment in the public transit network, the operations team needs to confirm whether a direct track segment exists between Station 123 and Station 321 to determine if express shuttle services can bypass intermediate stops. Does the current network infrastructure support this immediate connection?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update to optimize transfers between bus and metro lines, the planning team needs to verify if there is currently a direct route connecting Stop 123 and Stop 321 to finalize the revised timetable. Does an immediate bidirectional connection exist between these two stops?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During the evening rush hour, public transit operators need to verify direct route availability for efficient bus bridging. Is there a direct bidirectional road connection between station 123 and station 321 in the current network configuration?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization meeting, the scheduling team needs to confirm whether Station 123 and Station 321 have a direct tram route connection to evaluate redundant services. Is there an immediate bidirectional link between these two nodes in the current transportation graph?  \n\nThis aligns with public transit scheduling by addressing route efficiency analysis, uses edge existence logic, and focuses purely on connectivity verification without extraneous factors."
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a recent public transit network scheduling adjustment to optimize transfer times between express bus routes, was a direct road connection established between node 123 (Central Terminal) and node 321 (East Transfer Hub) to enable seamless passenger transfers during peak hours?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization meeting, the scheduling team needs to verify if there is an immediate bidirectional route between Node 123 and Node 321 to streamline peak-hour commutes. Based on the current road connectivity data, does a direct edge exist between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During public transit network scheduling for emergency route adjustments, is there a direct road connection between node 123 and node 321 to allow immediate detour planning?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule optimization to accommodate increased commuter demand between residential zone 123 and commercial hub 321, planners need to verify if there's a direct bidirectional bus route connecting these two critical nodes in the current operational system. Does edge 123-321 exist in the network configuration being analyzed for this scheduling adjustment?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization to reduce peak-hour congestion, schedulers need to verify if there is a direct bus route connection between Station 123 and Station 321 to evaluate the feasibility of adding an express service. Is there an edge present between node 123 and node 321 in the current network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update to alleviate congestion on the Green Line during peak hours, was the direct bidirectional rail connection between Station 123 and Station 321 preserved in the revised metro system layout?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule optimization meeting, the operations team needs to confirm whether there is a direct bus route between Station 123 and Station 321 to determine if additional express shuttles should be deployed for peak-hour commuters. Does the required edge exist in the current network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a recent public transit network schedule adjustment aimed at reducing transfer delays between key bus hubs, was a direct bidirectional route established between station 123 and station 321 to enable express service coordination?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a marathon event requiring temporary public transit network scheduling adjustments, the city's transport team needs to confirm whether there is a direct bus connection between Station 123 (start-line shuttle hub) and Station 321 (finish-line transfer point) to finalize detour plans. Is there an immediate bidirectional route linking these two critical nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization meeting, the scheduling team needs to determine whether express buses can bypass intermediate stops between station 123 and station 321. To validate this route adjustment, is there a direct road connection between node 123 and node 321 in the current transit infrastructure?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, the city planner needs to verify if there is a direct road connection between station 123 and station 321 to optimize peak-hour bus routes. Is there an edge between node 123 and node 321 in the current network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule adjustment, the city's transport authority needs to verify if a direct connection between Station 123 (commercial hub) and Station 321 (new residential zone) exists in the current bus route graph to confirm compliance with the revised peak-hour service requirements."
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule adjustment, the city's transport department is verifying if a newly proposed express bus service between station 123 and station 321 can utilize an existing direct route. Is there a bidirectional road connection (edge) between node 123 and node 321 in the current network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour service efficiency, the public transit network is assessing direct route availability between high-demand stations. Does the current bus network configuration include an immediate bidirectional connection between station 123 and station 321 to enable rapid passenger transfers without intermediate stops?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review for route optimization, the planning team needs to confirm whether there is a direct operational link between Station 123 and Station 321 to evaluate potential express bus services. Does an immediate bidirectional connection exist between these two nodes in the current road network? Answer True or False."
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, city planners are evaluating direct road connections between key transfer hubs. To optimize bus route 45's efficiency, they need to confirm whether a bidirectional roadway exists directly linking node 123 (Central Terminal) and node 321 (Riverfront Station) in the current infrastructure. Does an edge between nodes 123 and 321 exist?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer times during a public transit network rescheduling, the planning team needs to confirm whether station 123 and station 321 have a direct physical rail connection enabling uninterrupted train movement. Is there an immediate infrastructure link between these two nodes in the current rail network layout?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling optimization, a commuter inquiry states they previously boarded at stop 123 and need to reach stop 321. To determine if their requested express route revision preserves direct connectivity, does a bidirectional service path currently exist between these two stops in the updated bus network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, city planners need to confirm whether bus interchange terminal 123 and major residential hub 321 have a direct bidirectional roadway connection to evaluate emergency detour feasibility. Does an edge exist between node 123 and node 321 in the updated transportation graph?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During the public transit network's peak hour scheduling adjustments, does a direct bus route connecting Station 123 and Station 321 need to be accounted for when optimizing transfer wait times between these two critical hubs?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a recent public transit network scheduling adjustment to optimize rush hour connectivity, the operations team needs to verify whether a direct route exists between Station 123 and Station 321 for coordinating seamless transfers. Based on the current bidirectional road connections, is there an immediate edge linking node 123 to node 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update aimed at reducing delays, is there a direct bidirectional road link between station 123 and station 321 that needs to be verified for possible express route integration?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule update, planners need to verify whether there's an existing direct bus route between terminal station 123 and transfer hub 321 to optimize vehicle allocation. Is there currently a direct bidirectional road connection between node 123 and node 321 in the network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network scheduling scenario, due to an unexpected road closure affecting Bus Route 45, the dispatch team needs to verify whether there is an immediate bus link between Station 123 and Station 321 to reroute buses efficiently. Is there a direct bidirectional road connection between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During the optimization of public transit routes for reduced transfer times, does the current network still maintain a direct service between stop 123 and stop 321 to ensure efficient commuter connectivity?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during peak hours, the transport authority is evaluating direct routes between key hubs. Does an edge exist between node 123 and node 321 that could enable an express bus service without intermediate stops, thereby reducing travel time for commuters?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule optimization for peak-hour congestion management, the city transport team needs to verify if there is a direct bidirectional road connection between interchange hub Station 123 and express transfer node Station 321 in the current operational map. Does an edge exist between Node 123 and Node 321 in the active network configuration?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling meeting for peak hour optimization, the operations team proposed adjusting Bus Route 17 to include a direct connection between Station 123 and Station 321 to reduce transfer times. Based on the current network configuration, does this adjustment require building new infrastructure between these two stations, or does the direct road link already exist?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update to address frequent delays on route 45A, dispatchers need to verify if a direct connection exists between stop 123 and stop 321 to reroute buses efficiently. Does the current network contain an edge between node 123 and node 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During the scheduling optimization for a public transit network's morning rush hour routes, the control center needs to verify if there is a direct road connection between station 123 and station 321 to determine potential express shuttle services. Is there an edge present between node 123 and node 321 in the current network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review to optimize bus routes for reducing transfer delays between major hubs, is there a direct bidirectional road link connecting node 123 and node 321 that could be leveraged to simplify the proposed express service plan?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization meeting, the city planners need to determine if there's a direct bus route connection between Station 123 (downtown transfer hub) and Station 321 (new industrial park terminal) to finalize peak-hour scheduling adjustments. Does such a direct physical link exist in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, dispatchers need to verify if there is a direct road connection between critical transfer hub Node 123 and newly proposed express stop Node 321 to assess rerouting feasibility. Does an immediate bidirectional link exist between these two nodes in the current transportation infrastructure?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During the latest public transit network optimization for reducing transfer delays, the scheduling team needs to verify whether a direct bus route exists between stop 123 and stop 321 in the current configuration to confirm if commuters can travel between these two key hubs without transfers. Does the edge connecting node 123 and node 321 exist in the network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling optimization to reduce transfer times for commuters between two major hubs, the planning team needs to confirm whether a direct road connection exists between node 123 and node 321 in the current bus route infrastructure to evaluate potential route consolidation options."
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "When optimizing public transit network scheduling to reduce transfer times during peak hours, does a direct road connection exist between station 123 and station 321 that could enable express shuttle services?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to recent adjustments in the public bus network aimed at reducing congestion around the central hub, the scheduling team needs to verify if there is a direct route connection between Station 123 and Station 321 to determine if passengers must transfer or can remain on the same line. Is there an immediate edge linking Node 123 and Node 321 in the current transit network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review in Metro City, planners need to verify if emergency evacuation routes between Station 123 and Station 321 require rerouting due to a recent flood. Is there a direct bidirectional road connection currently linking these two critical stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update, city planners need to verify if a direct bus route exists between Station 123 and Station 321 to optimize transfer efficiency. Does the current network configuration allow passengers to travel between these two stations without transfers?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update, the operations team proposed a new express bus route to reduce transfer times between major hubs. To validate this proposal, does a direct edge currently exist between node 123 (Central Station) and node 321 (West Terminal) in the existing network configuration, requiring immediate confirmation for route feasibility assessment?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule optimization in Metro City, the transportation department needs to verify if there is a direct bidirectional road link between Station 123 and Station 321 to finalize emergency bus rerouting plans. Does an immediate connection exist between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During peak-hour public transit network scheduling optimization, the city planners need to verify if there's a direct bidirectional road connection between transfer hub Station 123 and express junction Station 321 to evaluate emergency vehicle rerouting feasibility. Does such a direct physical link exist between these two critical nodes in the current transportation infrastructure?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling adjustment, the metro operator temporarily rerouted Line 5 due to maintenance. To validate the new route configuration, is there a direct rail connection between Station 123 and Station 321 in the updated bidirectional track layout? Answer True or False."
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule optimization, the operations team needs to verify if the critical transfer stations 123 and 321 currently retain a direct bidirectional bus connection to ensure seamless passenger transfers during peak hours. Does an immediate road link exist between these two nodes in the updated network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, a user planning their commute needs to verify if there's a direct docking station connection between the central business district (node 123) and Riverside Park (node 321) to avoid intermediate stops. Does a direct roadway link exist between these two nodes in the mobility network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's transportation network, maintenance teams need to verify if there's a direct road connection between hub 123 and hub 321 for urgent vehicle redeployment. Does a bidirectional route exist between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform's dispatch team needs to verify if there is a direct road connection between Station 123 and Station 321 to optimize vehicle deployment. Based on the bidirectional road network data, can their system immediately confirm whether these two stations are directly linked by an edge?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared e-scooter platform reports difficulty transferring between station 123 and station 321 during peak hours. Maintenance teams need to verify if these stations have a direct roadway link for immediate vehicle redistribution. Is there an edge connecting node 123 and node 321 in the network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is optimizing vehicle redistribution between high-demand zones. To prioritize urgent transfers during peak hours, the dispatcher needs to confirm whether a direct road connection exists between the operations hub (Node 123) and the busiest downtown pickup cluster (Node 321) for rapid deployment. Does the transportation network currently maintain an immediate bidirectional route linking these two critical nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter user wants to ride directly between parking zone 123 and 321 without intermediate stops. Does the current network configuration support this immediate transfer between these two zones?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared e-scooter app requests the quickest route between two popular stations (Node 123 and Node 321). Can their trip be completed without transfers, indicating a direct road link exists between these nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is analyzing their station network. A user wants to confirm if they can directly return a rented scooter from station 123 to station 321 without intermediate hubs. Does the transportation network explicitly contain a bidirectional road link between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle redistribution scenario, maintenance teams need to efficiently check direct road connections between docking stations. Does there exist a direct bidirectional road link enabling immediate bicycle transfers between Station 123 and Station 321 in the current network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing their vehicle routing network to reduce transfer times. Frequent user requests ask if there's a direct ride-share route between the main transit hub (node 123) and the tech park (node 321). According to their current network configuration, is there an immediate connection between these two high-demand locations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user of a shared mobility platform requests to check if they can return an e-scooter directly from station 123 to station 321 within the service area. Does the platform's operational map confirm a direct bidirectional road link between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platforms have optimized their parking station networks to reduce detours. After recent updates, is there a direct connection between parking station 123 and parking station 321 for seamless bike-sharing transfers?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "Based on the urban traffic network data from a shared mobility platform, does the current vehicle dispatch system require confirmation of a direct road connection between node 123 and node 321 to fulfill a user's immediate scooter transfer request between these two locations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platforms often optimize routes for electric scooters based on real-time road connectivity. When a user requests to travel from station 123 to station 321, does the current network configuration allow an immediate direct transfer between these two stations with no intermediate stops?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban transportation network, can a user directly travel from bike-sharing docking station 123 to electric scooter charging hub 321 without requiring intermediate transfers between the two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle routing system, does a direct road exist between charging station 123 and parking hub 321 to enable efficient fleet redistribution?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platforms optimize vehicle relocation between stations. The operations team needs to confirm whether a direct road connects station 123 and 321 to enable efficient bike rebalancing. Is there an immediate connection between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize real-time ride-pooling routes on a shared mobility platform, does a direct road connection exist between station 123 and station 321 in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban traffic network, a user plans to check if they can directly drive an electric car from station 123 to station 321 without intermediate stops. Does the platform's routing system confirm the existence of a direct road connection between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "When a user checks if they can directly return a shared e-scooter from station 123 to station 321 on the platform, does the network confirm the existence of a direct road connection between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared mobility platform wants to travel directly from pickup station 123 to drop-off station 321 for a time-sensitive delivery. To optimize routing efficiency, does a direct bidirectional road connection exist between these two stations in the network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's bike network, a user wants to check if there is a direct cycling route between parking station 123 and parking station 321 to confirm immediate availability. Does an edge exist between these two nodes in the traffic graph?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network where users frequently check real-time connectivity between stations for pickup/dropoff, does a direct bidirectional road link exist between node 123 and node 321 to enable immediate trip availability confirmation?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "During a shared e-bike fleet rebalancing operation in the city's mobility network, can maintenance vehicles directly travel between hub 123 and hub 321 using a single road segment without intermediate stops?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform's operations team needs to verify if there's a direct road link between node 123 and node 321 to optimize e-scooter deployment in downtown areas. Is there a direct road connection between these two nodes in the current transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform’s operations team needs to verify whether vehicles can be directly relocated between high-demand parking zone 123 and battery-swap station 321 to optimize fleet distribution. Is there a direct road connection between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform user wants to return their ride between Station 123 (Tech Park) and Station 321 (Downtown Square) directly. According to the service network, can they complete this trip without intermediate stops by traveling through a single bidirectional road connection?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's traffic network, is there a direct road connection between node 123 and node 321 that enables users to travel seamlessly without switching vehicles?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle charging network, station 123 and 321 are critical hubs. To optimize fleet rebalancing, does a direct bidirectional charging lane exist between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter platform's charging station network, efficient battery swaps rely on direct road connections between stations. During peak demand rerouting, does a direct path exist between charging station 123 and 321 to enable emergency vehicle deployments?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is optimizing their vehicle redistribution network, where docking stations are connected via bike lanes. During peak hours analysis, operators need to confirm whether there's a direct relocation route between the central business district hub (Station 123) and the main transit interchange (Station 321) to enable efficient fleet rebalancing. Does an immediate bidirectional connection exist between these two critical stations in the current infrastructure layout?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's traffic network, analysts need to verify whether there is a direct road connection between Zone 123 (a high-demand area for car-sharing pickups) and Zone 321 (a major suburban drop-off hub) to optimize fleet deployment. Does an immediate bidirectional link exist between node 123 and node 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "During peak hours, shared mobility platforms aim to balance vehicle availability between high-demand zones. To verify if a direct transfer route is possible for reallocating scooters, is there an immediate road connection between node 123 (central transit hub) and node 321 (tech park station) in the network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, a customer wants to know if they can ride directly from station 123 to station 321 without vehicle swapping. Based on the road connectivity data, does a direct path exist between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform needs to verify whether charging stations at nodes 123 and 321 have direct road connectivity for deploying rapid battery swap routes. Does the current urban mobility network directly link these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is analyzing their service network to determine if there's a direct rideable path between two high-demand zones (node 123 and node 321) for optimizing fleet allocation. Does a bidirectional route exist connecting these nodes in their current transportation grid?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "On a shared mobility platform analyzing urban bike lanes, a user needs to verify if there’s a direct bidirectional route between Central Station (node 123) and Bayfront Park (node 321) to plan a quick scooter transfer. Does the current network explicitly list this connection?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platforms need to verify direct connectivity between high-demand zones. When optimizing e-scooter rebalancing routes, is there a direct road connection enabling immediate vehicle transfers between node 123 and node 321 in the current network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared mobility platform wants to verify if they can ride an e-scooter directly from station 123 to station 321 for a time-sensitive meeting. Is there an immediate bidirectional road link connecting these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared mobility platform wants to check if there's a direct bike lane connecting station 123 to station 321 for their route planning. Does the current transportation network have a direct road link between node 123 and node 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing direct road connections between stations for efficient vehicle routing. Based on the current transportation network data, can a user seamlessly transfer between station 123 and station 321 using a single shared car without intermediate stops, indicating a direct bidirectional road link?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is monitoring station connectivity. If a user docks their scooter at Station 123, can they immediately rent another one at Station 321 without intermediate stops, indicating a direct road link between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, a user wants to check if parking station 123 and station 321 are directly connected by a bike lane for immediate relocation. Is there a confirmed direct road link between these two stations based on current infrastructure data?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's bike network, a user wants to check if they can directly unlock an e-bike at station 123 and return it at station 321 without intermediate stops. Does the system's routing data confirm a direct road connection between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing their vehicle relocation routes by evaluating direct connections between stations. To streamline e-scooter redistribution, does a direct bidirectional road exist between Station 123 and Station 321 in their transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on our shared e-scooter platform is planning a route between Station 123 and Station 321. Based on the current real-time connectivity data, can we confirm if there's a direct e-scooter path available between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platforms optimize vehicle deployment by ensuring direct road connections between key hubs. Does a direct road link exist between node 123 and node 321 to facilitate efficient maintenance scheduling for shared e-scooters in the downtown area?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle dispatch system, a key optimization requires checking if there's a direct road connection between hotspot zone 123 and transit hub 321. Does the current transportation network contain an immediate bidirectional route linking these two nodes for efficient fleet rebalancing?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform needs to verify if maintenance crews can directly access a malfunctioning vehicle cluster between hotspot zone 123 and hub 321 via a connecting road. Does a direct road link exist between node 123 and node 321 in the urban mobility network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban network, to optimize electric scooter repositioning between high-demand zones, does a direct road connection exist between charging station node 123 and transit hub node 321 for efficient vehicle transfers?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's transportation network where users frequently travel between key nodes, is there a direct road connection allowing a seamless ride from node 123 to node 321 without intermediate stops?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared mobility platform wants to verify whether e-scooters can be seamlessly picked up at Node 123 (downtown transit center) and dropped off at Node 321 (riverfront business district) through the app. Does the transportation network explicitly permit direct travel between these two nodes via micromobility vehicles?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform user reports that they were unable to locate an available e-scooter for direct travel between transit hub station 123 and commercial district station 321. To verify route availability, does a direct bidirectional connection exist between these two nodes in the transportation network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is analyzing station connectivity for rebalancing operations. During peak hours, can users directly travel between docking station 123 and hub 321 without intermediate stops, based on the current network configuration?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban traffic network, during peak hours, the system needs to prioritize direct vehicle redistribution between high-demand zones. To optimize real-time fleet allocation, does a direct bidirectional road connection exist between hotspot station 123 and station 321 to enable immediate transit without intermediate stops?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "Based on the shared mobility platform's traffic network data, a user reported difficulty finding a direct route between car-sharing station 123 and bike-sharing hub 321. Does a bidirectional road connection exist between these two nodes to enable seamless vehicle transfer for maintenance crews?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter platform's urban network, a user wants to check if they can directly return their rented scooter from station 123 to station 321 through adjacent docking points. Does the system permit this immediate transfer between these two stations via a direct road connection?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle station network, maintenance teams need to verify if there’s a direct road connection between station 123 and station 321 to plan efficient charging route dispatches. Does a direct bidirectional road link exist between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network where riders frequently travel between popular hubs, a user wants to know if there's a direct road connecting Station 123 (downtown library) and Station 321 (tech park hub) to avoid detours. Based on the current infrastructure, does a bidirectional route exist between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing their electric scooter network to verify direct connectivity between high-demand hubs. During peak hours, a user needs to travel instantly from docking station 123 to station 321. Is there a bidirectional road link enabling immediate transit between these two nodes in the current infrastructure?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's transportation network, a user inquires whether they can directly ride an e-scooter from service hub 123 to hub 321 without transfers. Based on current infrastructure connections, does a bidirectional roadway exist between these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network where parking hubs represent nodes and direct road connections enable vehicle availability checks, does a direct roadway link exist between Hub 123 and Hub 321 to allow users to immediately locate available scooters at both locations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platforms user wants to know if they can travel directly between two micro-mobility docking stations: node 123 and node 321, without intermediate stops. Does the current transportation network configuration permit a direct ride connection between these nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban bike-sharing network, the operations team needs to verify whether there is a direct bidirectional road connection between station 123 and station 321 to optimize vehicle redistribution routes. Does an immediate roadway link exist between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network where parking stations represent nodes, a user planning their commute needs to confirm whether there's a direct rideable path between parking station 123 and parking station 321 – does such a direct connection exist in the current road network?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle relocation for a shared e-bike platform's downtown service area, the operations team needs to confirm whether there's a direct bike path connecting station 123 and station 321 – does such an immediate connection exist between these two mobility hubs?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle routing system, when a user at node 123 requests the nearest EV charging station mapped to node 321, does a direct road connection exist between these two nodes to enable immediate vehicle redirection without detours?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user of a shared mobility platform wants to return an electric scooter from station 123 to station 321. Given the service's real-time network, is there a direct road connection between these two stations to enable immediate vehicle relocation?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's bike-sharing network, a user is trying to find the fastest route between Station 123 (Downtown Hub) and Station 321 (Tech Park) via the app. Is there a direct road connection between these two stations to enable instant bike transfers without intermediate stops, based on the current network topology?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is analyzing road connectivity to optimize fleet rebalancing. During nightly operations, their logistics team needs to confirm whether scooters can be directly relocated between station 123 and station 321 via a single road segment without intermediate stops. Does the current transportation network support this direct transfer path?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution for a shared e-scooter platform during rush hours, does the transportation network allow direct relocation between station 123 and station 321 through an immediate road link?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's bike network, a user wants to know if they can ride directly from docking station 123 to station 321 without intermediate stops. Based on real-time road connectivity data, does the transportation graph confirm the existence of a direct edge between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban traffic network, a user wants to confirm whether they can ride directly from docking station 123 to docking station 321 without intermediate stops. Does a direct bidirectional route exist between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's scooter parking network, a user reports difficulty finding available scooters between parking hub 123 and 321. To verify if direct vehicle transfers are possible between these hubs, does a direct road connection exist between node 123 and node 321?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter network, a rider at station 123 wants to know if they can directly ride to station 321 without intermediate stops. Based on current road linkages, is there a confirmed bidirectional route connecting these two nodes?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "When optimizing routes for shared e-scooter rebalancing, a mobility platform checks if a direct road connection exists between node 123 and node 321 to minimize relocation time. Is there an immediate bidirectional path linking these two docking stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared mobility platform wants to know if there's a direct bike lane connecting station 123 and station 321 to plan a seamless ride without transfers. Does the current network have a direct road link between these two stations?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing their bike-sharing network connectivity to optimize rebalancing routes between high-traffic zones. To determine if immediate redistribution is feasible between the two most frequently used stations, does a direct road connection exist between node 123 and node 321 in the current transportation graph?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is optimizing vehicle redistribution between high-demand zones. Is there a direct road connection enabling immediate transfers between Node 123 and Node 321 to facilitate efficient fleet balancing?"
+  },
+  {
+    "label": "Edge_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "During a routine maintenance check for a shared e-scooter fleet, the dispatch team needs to quickly verify if technicians can directly route between docking station 123 and station 321 using existing lane connections. Is there a direct roadway linking these two stations in the shared mobility network?"
+  }
+]

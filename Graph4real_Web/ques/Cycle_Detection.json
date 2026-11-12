@@ -1,0 +1,2002 @@
+[
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a scenic driving route through the mountain towns, a traveler wonders if it’s possible to start at any town, visit a series of distinct connected towns, and return to the starting point without using the same road twice. Does the current road network configuration allow such a loop?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When optimizing a navigation system for travel route planning, does the current road network configuration between landmarks contain any cycles that could potentially trap drivers in infinite loops during their journeys?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route through the mountain highway system, is there any possibility of encountering a closed loop where travelers could circle back to a previously visited junction without reversing direction?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In a scenic coastal highway network used for travel route planning, if multiple cities are interconnected through two-way roads in such a way that drivers can revisit towns without retracing the same path, does this configuration allow for the existence of at least one circular driving route?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route between several tourist attractions in the city, does the current road network configuration allow forming a circular path without repeating any intersections, indicating the presence of a cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "The city transportation department is evaluating the road network for a new travel route planning system. Multiple drivers have reported cases where following certain sequences of roads unexpectedly loops them back to previously visited intersections. Based on the bidirectional road connections, does this network configuration contain at least one cycle that would cause the cycle detection algorithm to return True?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "A tourist wants to plan a travel route through a coastal city's interconnected landmarks. Starting at the central station, can they follow bidirectional roads to visit all desired locations and return to the starting point without repeating any roads?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In the context of urban traffic management, when planning a travel route between two popular tourist attractions, is there a possibility of encountering a closed-loop path that causes unnecessary detours, requiring a check for cyclic connections in the road network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In a tourism district where all attractions are connected by two-way roads, a visitor wants to know if there exists at least one circular route that allows traveling through multiple attractions and returning to the starting point without repeating any roads. Can the transportation network confirm such a loop exists?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a circular sightseeing route for tourists in a city network, the travel agency needs to determine if there's a possible path that starts and ends at the central station without repeating any roads. Based on the current road connections, does such a loop exist?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route between landmarks, can a driver depart from any location, follow connected roads, and return to the starting point without retracing the same road segment, indicating the presence of a cyclic path in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route between scenic spots in the city, a driver wants to know if there exists any closed-loop path that allows returning to the starting point without repeating roads. Does such a loop exist in the current road network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "During travel route planning, a tourist wants to know if there's a possible circular path starting and ending at the same landmark without repeating roads. Can such a loop be confirmed in the current network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "While planning a scenic driving tour that starts and ends at the central station, a traveler wonders if they can design a route passing through multiple attractions without repeating any road segments. Based on the road connections between locations, does the current network allow such a cyclic journey to exist?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning travel routes between cities, drivers want to avoid scenarios where they might get stuck circling the same path indefinitely. Based on the current road connections, could there be any route that forms a closed loop allowing such endless circulation?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In a city's road network, a tourist wants to plan a sightseeing route that does not revisit the same intersection. Could the current road connections potentially form a closed loop, causing them to end up cycling indefinitely between junctions without returning to their starting point?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "During travel route planning for a city tour, a logistics coordinator needs to determine whether delivery trucks can return to their starting depot through alternate roads if their primary path is blocked. Does the current road connection configuration allow confirming the existence of such an alternative loop?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "During travel route planning in a coastal highway system, a tourist agency needs to verify if their proposed scenic road trip itinerary might accidentally loop drivers back through the same checkpoint multiple times. Does this transportation network contain any closed-loop paths?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network used for travel route planning, can we determine if there exists a cyclic route that allows a traveler to return to their starting point without reversing direction on any road, ensuring diverse route options?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning travel routes for drivers, the transportation department needs to verify if there's any circular route in the city network where a vehicle can return to its origin without repeating roads. Does such a closed-loop path exist in the current road system?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route between scenic spots connected by two-way roads, a tourist wants to know if there exists a circular path that allows starting and ending at the same spot without traversing the same road twice. Does such a loop exist in the current network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning travel routes, a tourist wants to confirm if there's a circular path allowing them to start and end at the same city without passing through other regions. Does the current transportation network contain such a loop?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "During travel route optimization for a city tour bus service, planners need to verify whether vehicles can complete a circular itinerary returning to the departure terminal without traversing the same road segment twice. Does the current road connection configuration permit such a cyclic route?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In a regional travel route planning scenario, a transportation department needs to verify whether there exists any circular path in their road network that would allow a driver to return to the starting city without traversing the same road segment twice. Does such a closed loop exist in the current network configuration?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In a tourism route network where attractions are connected by two-way roads, a driver wants to know if there's a circular route starting and ending at the same attraction without repeating roads. Based on the connections, does such a route exist in the current network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network, a delivery company needs to determine if their newly planned truck route could form a closed loop allowing drivers to return to the distribution center without repeating roads. Does this network configuration contain any cyclic path?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In a travel planning app for city tourists, a user wants to visit multiple landmarks without backtracking. When checking route feasibility between connected attractions, should the system confirm there’s at least one circular path allowing them to start/end at the same point without road repetitions?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In the context of travel route planning, a driver wants to know if there's any circular path in the road network where they can return to the starting junction without traversing the same intersection more than once. Does such a loop exist?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "A traveler wants to plan a sightseeing route in the city network where bidirectional roads connect tourist attractions. They wish to start at a location, visit multiple distinct spots via unique routes without retracing any road, and return to the starting point. Is such a loop possible in the current network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning travel routes in a city's road network, a driver wants to know if there's any possibility of entering an endless loop during navigation without revisiting decision points. Does the current transportation network configuration contain at least one cyclic path that could cause such circular driving behavior?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When optimizing delivery truck routes to avoid retracing roads, does the current transportation network configuration contain any cyclic paths that would enable a driver to loop back to the departure point without repeating streets?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a delivery route across interconnected cities, can a driver return to their starting location without traversing the same road twice, indicating the existence of a circular path in the transportation network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a sightseeing itinerary for tourists, the city's transportation department needs to confirm whether there is a circular route that starts and ends at the same landmark without repeating roads. Can their system verify the existence of such a loop based on current road connections?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "During travel route planning for a scenic area's road network, a tour bus driver wants to know: can it be confirmed whether there exists a circular tour route that starts at any scenic spot and returns to the origin without repeating roads? This determination will decide if they can offer loop-based sightseeing itineraries."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "During travel route planning, a tourist wants to confirm if there are any circular connections in the current transportation network that would allow them to loop back to their starting point without retracing roads. Does such a cycle exist?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "A tourist wants to plan a circular sightseeing route in the city where they can start at a landmark, visit several connected attractions, and return to the starting point without repeating roads. Does such a loop exist in the current travel network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "After analyzing the city's road connections for travel route optimization, can the transportation department confirm whether there exists any circular path that allows starting from one intersection and returning without traversing the same road twice?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "Can we confirm whether there exists a closed-loop path within the city's road network that would allow drivers to return to their starting intersection without backtracking, indicating redundant route options during travel planning?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "A city planner is evaluating if a proposed bike-sharing system's station network allows cyclists to return to their starting point without retracing any path. Does the transportation network contain a cycle enabling such a circular travel route?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "The city's tourism board is planning scenic driving routes and needs to ensure at least one circular tour exists where visitors can return to their starting point without repeating roads. Based on the current road connections between attractions, can we confirm the existence of such a loop in the travel network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "During travel route planning in a scenic coastal region, a tourist wants to design a road trip that starts and ends at the same town without revisiting any intermediate town. Does the current bidirectional road network between coastal towns allow such a circular driving route to exist?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route through a national park's road network, a tour guide wants to know if there exists any circular path that allows visitors to return to their starting point without retracing the same roads. Does such a loop exist in the current network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route planning system, a tourist wants to know if they can drive continuously in a circular path without repeating roads between landmarks. Does such a loop exist in the current road network configuration?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "While optimizing tourist routes in a mountainous region's transportation network, is there any loop that enables visitors to cycle back to their initial location without retracing roads, indicating possible scenic detour options?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning travel routes for city buses, the transportation department needs to verify if vehicles could unintentionally enter a loop between stops without backtracking. Does the current road network configuration contain any cyclic path that starts and ends at the same stop?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "A tourist is planning a sightseeing route and wants to know if there’s a circular path starting and ending at Central Station without repeating roads. Can the road network confirm such a loop exists?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In travel route planning, is there a loop allowing drivers to return to the starting point without passing through any intersection more than once, based on current bidirectional road connections?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a self-driving tour through multiple attractions in the city, is there a circular route that allows travelers to return to their starting point without retracing any road segments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route in the city, could a driver potentially return to their starting point without traversing the same road segment more than once, indicating a cyclic path in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route planning system, a tourist wants to determine if their sightseeing path could inadvertently form a closed loop causing them to revisit at least one city without intending to. Based on the bidirectional road connections between locations, does any cyclic route exist in the current network that would make this scenario possible?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "During travel route planning for a city tour bus service that operates on a bidirectional road network, a driver wants to know if it's possible to encounter a situation where revisiting any landmark automatically creates a looped path. Based purely on road connections between landmarks, should the navigation system confirm the existence of such cyclic routes in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "During urban travel route planning, a commuter observes that multiple bike-sharing stations are interconnected through bidirectional lanes. Could there be a possible cycling loop allowing someone to return to their starting station without retracing any lane?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "A tourist plans to visit multiple landmarks by car in a coastal city's road network. To avoid backtracking, they need to confirm if any circular route exists where they can return to a starting point without repeating roads. Does such a loop exist in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "While developing a travel planning app for road trips, a user wants to ensure their route doesn’t inadvertently form a loop between cities. Does the current network contain any cycles that would allow returning to a previously visited city without backtracking on roads?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "The city is upgrading its road network for tourism. The planning team wants to introduce a circular sightseeing route allowing drivers to return to their starting point without repeating any road segments. Does such a loop exist in the current traffic network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a sightseeing tour in the city, a traveler wants to know if there's a route that starts and ends at the same landmark without passing through any intermediate point more than once. Does such a looped path exist in the current transportation network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "During travel route planning for a tourist visiting four cities connected by bidirectional roads, a traveler wants to know if there exists a closed-loop sightseeing route that starts and ends at the same city without repeating roads. Based on the city connections, determine if such a cyclic path is possible in this transportation network."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "A navigation system is checking route options for a road trip where the driver wants to visit multiple landmarks and return to the starting point without repeating roads. Is there a cyclic path available in the current transportation network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning travel routes, does the current road network allow for a circular path where a driver can return to the starting point without traversing the same intersection more than once?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "A city's public transportation department is evaluating a new bus route network. They need to determine if there's any circular path where a bus can start and end at the same station without backtracking roads. Based on the current bidirectional road connections between stations, does this network configuration contain at least one cycle? Return True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning sightseeing routes in a city's road network, tourists want to avoid circular paths that might make them revisit attractions unintentionally. Does the current transportation network contain any cyclic route that forms a closed loop without retracing the same road?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route planning system, a driver wants to know if there exists any circular path that starts and ends at the same landmark without repeating roads, allowing them to bypass traffic congestion while touring downtown areas. Can such a loop be confirmed in the current road network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning travel routes in the city's transportation network, a logistics company needs to verify if there are any cyclic paths where a delivery vehicle could loop indefinitely without revisiting the same road. Based solely on the connection relationships between nodes, does the network contain at least one cycle? Respond with True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "During travel route planning for a city's transportation network, a logistics company wants to confirm whether there exists any cyclic path in the current road connections where a vehicle could theoretically loop indefinitely between locations. Is such a loop present in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In a scenic coastal town's road network designed for tourist travel routes, the local council wants to ensure drivers can loop through major attractions without backtracking. Does this network contain at least one cycle, allowing a round-trip route that starts and ends at the same landmark without repeating roads?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "After the city added new scenic roads connecting tourist attractions, a traveler wants to know if there's a circular route allowing them to start and end at the same landmark without retracing any roads. Does such a loop exist in the current network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a scenic road trip across multiple cities and wants to avoid redundant routes. They ask: \"Does this transportation network contain any closed-loop path that starts and ends at the same city without repeating roads?\" Based on loop detection analysis, should the answer be True or False?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route through a coastal highway network, is there any closed-loop path allowing a road trip to return to the starting city without traversing the same road segment twice?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "During travel route planning in a city's road network, a tourist noticed that some roads seem to form circular paths allowing endless looping. Is there at least one closed-loop route connecting different landmarks without repeating roads, which would require rerouting optimization?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning delivery routes for a logistics company, does the current road network configuration allow drivers to return to any previously visited intersection without backtracking, indicating a potential inefficiency in travel paths?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning travel routes between several cities, the navigation system needs to verify whether redundant road connections exist that could unintentionally create looping paths. Does the current network configuration contain any such closed-loop routes that might cause drivers to circle back to an already visited city?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": " When planning travel routes in a transportation network, drivers sometimes need alternative paths. Is there any circular route that allows returning to the starting point without repeating roads?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route through a scenic mountain region connected by two-way roads between villages, a tourist wants to know if there exists any circular path that starts and ends at the same village without repeating roads. Can the transportation network confirm such a loop exists? (Answer True/False)"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When evaluating a city's public transportation system for potential route optimizations, is there a cyclic path present that allows a commuter to travel between multiple stations and return to their origin without repeating any road segments, indicating a possible loop in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In urban travel route planning, a driver wants to know if there’s any circular path in the current road network that allows them to return to the starting intersection without repeating any junctions. Based on the connections between nodes, can we confirm whether such a loop exists in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "A delivery driver wants to determine if there's a route in the urban road network that starts and ends at the central warehouse without repeating any roads. Can the current transportation system allow such a cyclic path to exist?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network where nodes represent key landmarks, a tour planner needs to verify whether sightseeing buses can complete a circular route visiting distinct locations via bidirectional roads without repeating any road segment. Does such a loop exist in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a round trip between cities, can a traveler return to the starting city without retracing any road? Determine if such a route is possible in the current network."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "In a city's travel route planning system, a driver wants to confirm whether there exists any circular route that starts and ends at the same landmark without repeating roads. Based on the current road connections, can the system determine if such a loop exists in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route through multiple cities, if a driver starts at one city and follows the connected roads without backtracking, is there a possibility they could loop back to a previously visited city, indicating a cyclic path in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel delivery routes and prevent redundant paths, does the current transportation network contain any cyclic connections that would allow a vehicle to traverse indefinitely without backtracking?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "In the context of optimizing delivery routes for a logistics company, can we confirm whether there's a cyclic path in the current transportation network that might cause redundant trips and increased fuel costs?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "In optimizing delivery routes for a logistics company, the transportation network's efficiency relies on avoiding redundant paths. Given the bidirectional road connections between distribution hubs, can it be confirmed whether the current network contains any cyclic routes that might cause unnecessary fuel consumption and time delays in shipments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "In optimizing delivery routes for a logistics company, it's critical to avoid redundant paths that form circular dependencies—does the current road network configuration contain any such cycles that could disrupt efficient distribution?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "In the context of logistics delivery optimization, a shipping company needs to verify whether their current urban distribution network contains redundant routes that form closed loops, potentially causing inefficiencies. Does this road network contain any cycle that would require route reconfiguration to minimize redundant travel?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in their transportation network. They suspect redundant paths may exist due to potential cyclic connections between distribution hubs. Does the current network contain any cycles that could allow a delivery vehicle to loop indefinitely between nodes without backtracking?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package delivery routes and minimize redundant travel in an urban logistics network, does the current road connectivity configuration contain any cyclic paths that could lead to inefficient fuel consumption and delayed shipments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, delivery centers are interconnected by bidirectional roads. During a route optimization initiative, engineers need to determine if there are redundant paths causing unnecessary detours. Does the current network contain any cyclic routes that could allow delivery vehicles to loop indefinitely between centers?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "During the logistics delivery route optimization for a city's distribution network, the operations team needs to confirm whether any cyclic road connections exist that could create redundant paths and reduce fuel efficiency. Does the current transportation network contain at least one closed-loop route that would require this optimization plan to be adjusted?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics delivery network, repeated vehicle routes due to cyclic paths can cause fuel waste and delays. To optimize parcel distribution, does the current road connection between distribution hubs contain any cyclic routes that would create redundant travel paths?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline logistics delivery routes and avoid redundant vehicle travel, the operations team needs to confirm if the current road network contains any cyclic paths that might trap delivery trucks in unnecessary loops. Does this transportation network have a cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and prevent redundant paths that waste fuel and time, the logistics company needs to verify if their current transportation network contains any cyclic routes. Does the network have a closed-loop path that could disrupt efficient cargo distribution?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and avoid redundant paths in a metropolitan transportation network, the logistics team needs to determine if there are any circular dependencies in the current road connections. Does the network contain at least one cycle that would prevent achieving the most efficient single-loop delivery plan?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and prevent redundant paths in a city's logistics network, the dispatcher needs to verify if any cyclic connections exist between distribution hubs that could cause vehicles to circle unnecessarily. Does the current road network contain such a loop?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "In the logistics network used by a regional delivery company, some drivers have reported potential redundant routes that could waste fuel. To optimize delivery paths, does the current road connection graph contain any cycle that allows a vehicle to return to its starting point without reversing direction?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To enhance logistics delivery route efficiency, does the transportation network contain any cyclic paths that might cause redundant truck travel, leading to unnecessary fuel consumption and delayed shipments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network where delivery trucks must avoid redundant routes to save fuel, does the current connection pattern between distribution centers and warehouses contain any cyclic paths that could cause unnecessary detours?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by eliminating redundant paths. During route analysis, they need to verify if any closed-loop exists in the current road network where a delivery vehicle could unintentionally circle back to a previously visited location. Does the network contain at least one cycle that would require rerouting to avoid redundant travel? The answer must be determined via cycle detection and returned as True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes and avoid redundant paths, the logistics company needs to confirm if the current road network forms any cyclic connections. Does the transportation network contain at least one cycle that could disrupt efficient delivery planning?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes, a logistics company needs to determine if their newly expanded urban distribution network inadvertently creates redundant paths. Does any cyclic route exist in the current road connections that could cause inefficient fuel usage or delayed shipments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery efficiency, a logistics company is analyzing their transportation network to eliminate redundant routes. Does this network contain any cycles that could lead to unnecessary fuel consumption and time delays during parcel distribution?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline parcel distribution and minimize redundant travel paths, the logistics coordinator must verify whether the transportation network contains any cyclic routes that could lead to inefficient fuel consumption. Based on the node connectivity data, does this network have at least one cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel delivery routes in a city's district, a logistics company needs to determine if their current network of delivery stations forms any cyclic paths. Could redundant detours exist in the connections between these stations, indicating a need for route adjustments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce redundant paths, a logistics team wants to verify if their transportation network contains circular paths where delivery vehicles could loop indefinitely between locations without escaping. Is there such a cyclic route in this road network? Answer True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by eliminating redundant paths in their urban distribution network. To ensure fuel efficiency, they need to confirm: does any cyclic connection exist between their delivery hubs that would cause unnecessary detours for drivers?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce redundant travel, a logistics company needs to verify if their current road network contains any cyclic paths that could cause trucks to loop unnecessarily. Based on the connection data between road nodes, does this transportation network contain at least one cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and prevent redundant paths, can the logistics company confirm whether there's a closed-loop path in their current delivery network where a truck could circle indefinitely between connected nodes without reaching new destinations?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and avoid redundant paths in our logistics network, does the current road connection configuration contain any cycles that could hinder efficient distribution?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and minimize redundant paths for a logistics company, it's necessary to verify if cycles exist in the current transportation network. Would the presence of any cyclic road connections prevent the design of optimal non-repetitive delivery paths between distribution centers?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "In the context of optimizing logistics delivery routes for a regional distribution hub, does the current transportation network configuration contain at least one closed-loop path that could result in inefficient redundant vehicle circulation, requiring topological adjustments to streamline cargo flow?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and minimize fuel costs, a logistics company needs to confirm whether their distribution network contains any cyclic road connections that might cause vehicles to traverse redundant paths unnecessarily. Based solely on the road connections between hubs, does this network contain at least one cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and prevent redundant travel or fuel waste, the logistics team must verify if the current road network in the urban distribution zone contains any cyclic paths that could cause vehicles to loop unnecessarily. Does the network's connectivity configuration exhibit at least one closed-loop cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "In order to optimize delivery routes for a logistics company, engineers need to confirm if the current road network contains any cyclic paths that might cause redundant travel between distribution hubs, increasing time and fuel costs. Does the network configuration permit such closed-loop routes? Answer True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes, a company needs to verify if their transportation network contains any cycles that could cause redundant paths and delays. Based solely on the connection relationships between nodes, does a cycle exist in this network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize fuel efficiency for a logistics company's urban delivery network, dispatch managers suspect that redundant routes may form cyclic paths. Does the current road connection structure contain any loops that could lead to unnecessary mileage?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and prevent redundant travel between warehouses, a logistics company needs to determine if their current transportation network contains any cyclic paths that might cause vehicles to circle through multiple distribution nodes unnecessarily. Does such a loop exist in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes, a logistics company needs to check if their road network contains any cyclic paths that could cause redundant travel. Does the current network configuration have at least one cycle, potentially affecting fuel efficiency and delivery delays?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "When optimizing delivery routes for a logistics company, the operations team needs to confirm whether the current road network contains any cyclic paths that could lead to redundant fuel consumption or delayed shipments. Based on the cycle detection analysis, should the algorithm return True or False?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by ensuring no redundant paths exist between distribution centers (nodes). If a cyclic route is detected, it could lead to inefficient fuel usage and delayed shipments. Does the current road network connecting these centers contain any cyclic path that starts and ends at the same node without traversing the same road twice?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and avoid redundant paths, a logistics company needs to verify if their transportation network contains any closed-loop connections that could cause inefficient fuel usage. Does such a closed-loop cycle exist in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "When optimizing delivery routes for a logistics company to reduce operational costs, does the current transportation network contain any cyclic paths that might cause redundant vehicle loops, potentially leading to inefficient fuel usage and delayed shipments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and prevent redundant paths in a metropolitan area, a logistics team needs to verify if their current road network contains any circular routes that might trap delivery vehicles. Does performing cycle detection on the active transportation connections return True for this operational scenario?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and prevent redundant paths in a city's logistics network, the planning team needs to verify whether the current road connections form at least one cyclic loop. Does such a loop exist in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce redundant driving time, a logistics company needs to verify if their current road network contains any cyclic paths that might cause unnecessary detours. Does the network contain at least one closed-loop circuit?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics delivery network, the optimization team noticed potential redundant truck routes causing fuel waste. To streamline operations, they need to confirm if there exists any cyclic path in the road connections that might force drivers to pass through the same area multiple times unnecessarily. Does such a cyclic route exist in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "In the logistics delivery network, does the current road connection configuration contain any cyclic paths that could lead to redundant transportation routes, requiring the team to re-evaluate the optimal distribution plan?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and prevent unnecessary detours for a logistics company, does the transportation network contain any cyclic paths that could cause redundant vehicle loops, potentially delaying shipments or increasing fuel consumption?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics company's route optimization review, dispatchers noticed that several delivery trucks pass through the same sequence of intermediate warehouses multiple times. Could this observation confirm the existence of a cyclic path within the transportation network, leading to redundant fuel consumption and delayed shipments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To improve delivery efficiency and avoid redundant routes, the logistics team needs to confirm whether the current road network contains any cyclic connections that might cause delivery vehicles to traverse the same path unnecessarily. Does a cycle exist in the network, resulting in a True outcome for the cycle detection algorithm?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "When analyzing the logistics network for a regional delivery company, is there any cyclic route present that might cause delivery vehicles to repeatedly traverse the same roads, creating inefficient fuel consumption and delayed package arrivals?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and prevent redundant paths, a logistics company needs to verify if their current road network contains any cyclic connections that could cause inefficient fuel usage. Does the network contain at least one cycle, indicating potential route repetition?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and ensure trucks avoid redundant paths that form closed loops, could the logistics network's current structure potentially cause vehicles to circle indefinitely between distribution points?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is analyzing their delivery network to optimize routes and reduce redundant paths. Does any cyclic route exist in the current network that could cause unnecessary delays or fuel consumption, requiring elimination for efficient planning?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "In the context of logistics delivery optimization, where redundant paths may cause fuel waste and delays, does the transportation network contain at least one cycle that could disrupt efficient route planning for vehicles?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes between warehouses and distribution centers. To eliminate redundant paths and reduce fuel costs, they need to confirm if there exists any cyclic route within their current transportation network that might cause unnecessary detours. Does the network contain a cycle allowing vehicles to loop indefinitely between locations?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline logistics operations and minimize redundant travel, the city's delivery company needs to verify whether their updated road network contains any cyclic routes that might trap multiple trucks in endless loops during peak hours. Does such a circular path exist in the system?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce fuel costs, a logistics company needs to confirm whether their service area's road network contains cycles that might trap vehicles in redundant loops. Does cyclic connectivity exist between any two junctions in this transportation system?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a city to avoid redundant paths. They need to verify if the current road network contains any cyclic paths that could cause delivery vehicles to loop unnecessarily between districts, leading to delays and increased fuel costs. Does the network contain such cyclic connections requiring route adjustments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and prevent vehicles from entering endless loops that cause fuel waste, does the transportation network contain any cyclic paths requiring immediate route adjustments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and reduce redundant paths, a transportation company needs to verify if their current network contains any cyclic connections. Could there be a closed-loop path in the network that might cause unnecessary fuel consumption and delivery delays, as determined by cycle detection algorithms?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "In the context of logistics delivery optimization, repeated routes due to cyclic paths in the road network may cause redundant fuel costs and delays. Does the current transportation network contain at least one cycle that could lead to such inefficiencies?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery efficiency and prevent trucks from circling redundant paths, a logistics company must verify if their road network contains any cyclic routes between distribution hubs. Does a cycle exist in this transportation network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "While evaluating a logistics distribution network for route optimization, the planning team needs to confirm whether there are any cyclic connections between warehouses that could lead to redundant delivery paths and increased fuel costs. Does the current network contain a cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline parcel distribution, a courier company needs to verify if their current route map contains any circular paths that could cause redundant fuel consumption. Based solely on the bidirectional road connections between distribution hubs, should their optimization team report 'True' for cycle presence or 'False' for an acyclic network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery efficiency and prevent redundant fuel consumption, a logistics manager needs to verify whether the transportation network contains any cyclic routes that could trap vehicles in endless loops between distribution hubs. Does this network configuration allow for such cycles?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "In a metropolitan logistics network where delivery trucks must avoid redundant routes to minimize fuel costs and time delays, does the current road connection configuration contain any circular path that could cause vehicles to pass through the same distribution hub or intersection multiple times during a single delivery cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and reduce redundant paths, the transportation department needs to verify if any cyclical routes exist in the network that might cause vehicles to traverse the same nodes unnecessarily. Based on the road connections, does this transportation network contain at least one cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package distribution routes, a logistics company is analyzing their urban delivery network. If multiple interconnected roads form a closed loop, it could create redundant paths and delay shipments. Based on the current bidirectional road connections between hubs, does this transportation network contain any cycles that would require route adjustments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and eliminate redundant paths, a logistics company needs to verify if their current transportation network contains any cyclic routes that could cause inefficient resource allocation. Does the network contain at least one cycle, requiring adjustments to ensure optimal path planning?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and avoid redundant paths in a regional logistics network, does the current transportation configuration contain any cyclic connections between nodes that could cause unnecessary delays?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes in the urban transportation network, the operations team needs to verify if there are any redundant cyclic paths in the current road connections that could cause delivery delays. Does the network contain at least one cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and prevent redundant paths, a logistics company needs to confirm if the current road network contains any cyclic routes that could cause vehicles to traverse the same nodes repeatedly. Does the network contain at least one cycle, resulting in inefficient fuel usage and delayed shipments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city logistics network, the delivery company aims to optimize routes by eliminating redundant paths. If a closed-loop exists in the current road connections, it could cause unnecessary fuel consumption. Does the network contain any cycle that would require route adjustments to improve efficiency?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes and minimize redundant travel, a delivery company needs to determine if their current road network allows cyclical paths that could trap vehicles in loops. Does this transportation system contain any cyclic connections requiring route adjustments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline package distribution and minimize redundant travel, a logistics provider must verify if their bidirectional road network between storage facilities and delivery stations contains any cyclical routes that hinder optimal path planning. Does a cycle exist in this configuration?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes, a logistics company needs to verify if their current urban road network contains any cyclic paths that could trap delivery vehicles in redundant loops, wasting fuel and time. Does this transportation network have such closed loops?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes to ensure no redundant paths exist between distribution hubs. Based on the current road connections, does the network contain any cyclic routes that would cause delivery vehicles to repeatedly pass through the same hubs? Please confirm True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and prevent multiple trucks from circling the same area unnecessarily, the logistics team needs to confirm if the current road network contains any cyclic paths. Does such a cycle exist?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline parcel distribution in the urban zone, a logistics company needs to verify if their mapped delivery routes form any cyclic paths, which could lead to redundant fuel consumption. Based on the road connection data, does this transportation network contain at least one cycle? (True/False)"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and avoid redundant paths, a logistics company needs to verify if their transportation network contains any cyclic connections. Based solely on the road linkages, can the system confirm with a True/False answer whether a cycle exists that might cause inefficient fuel usage or delivery delays?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During an emergency response to a major public event downtown, authorities temporarily closed several roads to prioritize emergency vehicle access. To ensure optimal evacuation routing, can the remaining accessible road network form a closed loop that might cause unintended traffic congestion or delays?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation planning, the city's traffic management team needs to verify whether any circular routes exist in critical emergency vehicle pathways that might trap responders or evacuees. Does the current road network configuration contain such a closed-loop structure?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, officials need to evaluate if the current road network contains redundant pathways for emergency vehicles to detour during critical blockages. Does there exist at least one closed-loop route in this transportation system that would allow such contingency maneuvering?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, does the current road network configuration in the downtown district contain any cyclic paths that could allow emergency vehicles to bypass blockages, requiring a simple true or false answer based on loop detection?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to ensure alternative evacuation routes exist. Based on the current road connections, does the transportation network contain any cycles that could provide redundant pathways for emergency vehicles?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban evacuation planning, emergency responders must verify if alternate routes exist to avoid blocked roads. Does the transportation network contain any cyclic pathways enabling vehicles to circumnavigate closures without retracing their path?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to ensure emergency vehicles can reach any location without circular detours. Does the current road network contain at least one closed-loop structure that could trap vehicles in redundant paths, requiring verification through cycle detection?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to verify if ambulance routes remain interconnected if any single road fails. Does the traffic network contain at least one closed-loop path ensuring redundant connectivity for critical emergency access?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, detecting cyclical road connections is vital to avoid redundant evacuation routes that delay critical aid. Based on the current transportation network's node linkages, does any cycle exist that might compromise emergency vehicle efficiency during crises?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, officials need to ensure alternative evacuation routes exist. Given bidirectional road connections between key locations, does the current transportation network contain at least one cycle to confirm redundancy for emergency vehicles if primary routes are blocked? Answer True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, assessing road network redundancy is crucial for uninterrupted emergency vehicle access. Does the current transportation infrastructure contain any cyclic connections that could provide alternative evacuation routes if primary roads are blocked?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, during a critical infrastructure failure where primary evacuation routes might be blocked, does the current transportation network configuration contain any cyclic paths to ensure redundant connectivity for emergency service vehicles?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, detecting road network loops is critical to prevent emergency vehicle route redundancy and ensure timely crisis intervention. Does the current transportation network contain any cyclic paths that could hinder efficient deployment of emergency services?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, efficient evacuation routes require avoiding redundant pathways. Does the current transportation network contain any closed-loop road connections that might trap emergency vehicles or create conflicting routing options?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, redundant road connections may inadvertently create circular routes that obstruct optimal pathfinding for first responders. Based on the current traffic network topology, does any closed-loop path exist that could compromise emergency vehicle routing efficiency?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response network where fire stations must avoid redundant routes to ensure swift deployment, does the current road configuration between critical facilities contain any cyclic paths that could potentially delay emergency vehicles?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, a critical requirement is ensuring alternative evacuation routes. Given that fire stations and hospitals must have redundant pathways, does the current bidirectional road network connecting these facilities contain at least one cyclic path that would allow emergency vehicles to reroute if a single road becomes blocked?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency evacuation planning, if a key arterial road is temporarily blocked, does the remaining traffic network connecting hospitals, fire stations, and shelters contain at least one cyclic pathway to ensure redundant access for first responders?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation planning, authorities need to ensure no circular routes exist that might trap vehicles during crises. Based on the downtown district's road connections, can the transportation network form a closed loop disrupting evacuation efficiency?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, redundant routes are crucial for ambulance navigation. Does the transportation network contain any cyclic paths that could allow emergency vehicles to circumvent sudden road closures while maintaining connectivity?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, the city council needs to verify if the current road network contains any cyclic routes that could hinder or benefit the deployment of redundant evacuation paths. Based solely on bidirectional road connections between intersections, does the transportation network have at least one cycle requiring algorithmic detection?  \n\nAnswer: [True/False]"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to ensure no cyclic road connections exist that might trap emergency vehicles in looping routes. Based on the current bidirectional road network, is there any closed-loop path that could delay critical rescue operations?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a densely populated district, does the existing bidirectional road network between evacuation shelters and medical hubs form any closed-loop pathways that might delay rescue operations by creating ambiguous routing choices during critical emergencies?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency evacuation planning, officials need to verify if redundant road connections exist that could inadvertently trap emergency vehicles in circular routes during critical operations. Does the current transportation network contain any closed-loop pathways that might compromise response efficiency?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to verify if critical service routes in the downtown area contain redundant pathways to avoid emergency vehicles being trapped in dead-end scenarios. Does the current road network configuration contain at least one cycle to ensure alternative evacuation paths?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, when a key access road is blocked due to an incident, could emergency vehicles still navigate through alternative routes without being forced into dead-end paths, indicating a cyclic connection exists in the current network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, emergency coordinators need to verify if the current road network contains any cyclic paths that could hinder efficient evacuation routes. Does applying a cycle detection algorithm on the traffic network confirm the presence of at least one closed-loop circuit?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, officials need to verify if there are redundant road paths in the transportation network to ensure emergency vehicles can bypass sudden blockages. If nodes represent critical intersections and edges indicate accessible routes, does the current network configuration contain any cyclic connections that would allow alternative detours around a closed road?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, firefighters need to ensure multiple escape routes exist in case of road blockages. Does the transportation network contain any cyclic paths that would allow emergency vehicles to reroute around sudden closures without leaving the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, if a critical road segment is closed due to an emergency, can emergency vehicles still navigate through alternative routes without backtracking? Based on the current road connections, does the transportation network contain any cyclic paths to support this requirement?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency route optimization for fire departments, city planners must verify whether the road network contains cyclic connections that might create ambiguous evacuation paths. Based on the bidirectional road links between facilities, does this transportation infrastructure form any closed-loop circuit?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, emergency vehicles require redundant routes to avoid critical delays. Does the current road network configuration contain any cyclical path that would provide alternative routing options if a main artery is blocked, necessitating a True/False determination?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, the city council needs to verify if any closed-loop routes exist in the road network connecting critical infrastructure nodes (hospitals, fire stations). A loop could create redundant pathways but also risk trapping emergency vehicles. Does the current network contain at least one cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to verify if the road network contains redundant cyclic connections that might cause ambiguous evacuation routes. Based on the current infrastructure, does the network contain at least one closed-loop path detectable through node connectivity analysis?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response network, ambulance routing efficiency is critical. If two medical stations are connected by redundant pathways forming a closed loop, it could delay response times. Based on the current bidirectional road connections between nodes, does this network contain any cyclic structure that might compromise emergency vehicle prioritization?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, a critical task is ensuring alternative evacuation routes exist if main roads are blocked. The traffic network's connectivity data shows bidirectional road links between key locations. Does the current network contain any cycles that would allow such redundant path options for emergency vehicles?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, where redundant routes are critical for ambulance navigation during road closures, does the current transportation network contain any loop structure that would allow emergency vehicles to bypass blockages? A cycle detection algorithm must determine this with True/False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response plan, efficient routing for emergency vehicles is critical. During a recent network analysis, traffic engineers need to verify whether the current road network contains at least one cycle, as circular paths could enable redundant access but also risk delays during evacuations. Based on the bidirectional road connections, does the network contain any cycles that might impact emergency route flexibility? Answer True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities must verify if critical supply transport routes have redundant pathways. Is there at least one closed loop in the road network that would maintain connectivity if a single road becomes blocked?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routing during urban crises, the city's disaster management team needs to verify if any closed-loop paths exist in the road network, as such loops could trap first responders in redundant circulations. Based on the bidirectional road connections between intersections, does this transportation network contain at least one cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to determine if critical evacuation routes form closed loops to ensure redundancy in case of road blockages. Based on the current road connections between designated emergency hubs, does the network contain any cyclic paths?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, identifying redundant pathways is crucial to prevent traffic bottlenecks. Does the transportation network contain any cyclic road connections that might create conflicting routes for emergency vehicles, requiring verification through loop detection?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency route optimization, does the current road network contain any cyclic paths that could cause emergency vehicles to be delayed due to redundant connections, requiring verification through loop detection?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to verify if the road network contains any cyclic paths that could trap emergency vehicles in redundant loops, delaying critical aid. Does such a cyclic structure exist in the current traffic network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, ensuring multiple evacuation routes is vital. Based on the road linkage patterns between critical facilities, does this transportation network contain at least one cyclic path that could provide alternative routes for emergency vehicles during blockages?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to ensure all critical locations are reachable without redundant paths. Does the current road network contain any closed-loop routes that might cause delays in emergency vehicle routing between interconnected nodes?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation planning, authorities need to ensure critical rescue vehicle routes avoid circular paths that could trap responders. In the road network connecting disaster relief stations, does a closed-loop exist that might delay emergency deployments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency planning, redundant road connections can provide alternative evacuation routes. Based on the existing bidirectional road links between facilities, does this transportation network contain any cyclic paths that would form closed-loop escape routes for emergency vehicles?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, the city's emergency team needs to evaluate whether the current road network contains redundant pathways to avoid traffic bottlenecks during crises. Based on the bidirectional connections between intersections, does the transportation network form at least one closed-loop route, enabling alternative emergency vehicle paths?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for fire rescue operations, does the current road network configuration between critical infrastructure nodes contain any cyclic routes that would allow emergency vehicles to bypass sudden road closures without returning to their origin point? This determination is vital to ensure redundant access paths during crises."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, ensuring redundant evacuation routes is critical. Based on the current bidirectional road connections, does the transportation network contain any cycles that could support or hinder emergency vehicle rerouting?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, does the current road network configuration contain any cyclic paths that could hinder efficient deployment of emergency vehicles during critical incidents, requiring confirmation through structural connectivity analysis?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency planning, response teams need to verify if road connections form closed loops that might obstruct alternative routes during crises. Based on the city's infrastructure layout, does this transportation network contain any cyclic paths?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, redundant road connections may impact the efficiency of rescue route verification. Does the current transportation network contain any cyclic paths that could create ambiguous routing scenarios for emergency vehicles, requiring a definitive true/false assessment?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation planning, officials need to ensure alternative routes exist if critical pathways fail. According to bidirectional road connections between locations, does this transportation network contain at least one cycle that would provide redundancy for emergency vehicles?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to ensure evacuation routes avoid circular dependencies. Based on the current bidirectional road connections, does the transportation network contain any cyclic routes that could hinder emergency vehicles from reaching critical zones efficiently? Answer True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, efficient evacuation routes are critical. If emergency vehicles must avoid redundant paths caused by circular road connections, can it be confirmed whether the current transportation network contains any cyclic routes that could create such inefficiencies?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for ambulance dispatch optimization, is there any closed-loop path in the city's critical road network that could cause redundant coverage and delay medical aid delivery, requiring a true/false evaluation based on connection patterns?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During the revision of the urban emergency response plan, analysts need to verify if the current road network in the downtown district contains any cyclic connections, as such redundancy could allow emergency vehicles to bypass blocked routes during critical infrastructure failures. Does a loop exist in this transportation network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, officials need to ensure that fire trucks can reroute efficiently if main roads are blocked. If the road network contains redundant pathways forming a loop, it could provide alternative evacuation routes. Based on current bidirectional road connections, does this transportation network contain any cycle that would return True for loop detection?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "To ensure emergency vehicles can bypass blocked roads during crisis response, city planners need to determine if the transportation network contains redundant cyclic paths connecting fire stations and hospitals. Based on bidirectional road connections between nodes, does at least one cycle exist?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation planning for a flood-prone district, authorities need to confirm whether the updated road network contains redundant cyclic connections to ensure multiple escape routes exist. Based solely on the road linkage configuration, does this transportation system contain at least one cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, emergency vehicles must avoid redundant circular routes to minimize critical delays. Does the current transportation network contain any cycles that could inadvertently trap emergency vehicles in looping paths, requiring confirmation via cycle detection analysis?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency route optimization, does the current road network contain any cyclic loops caused by redundant connections that could hinder efficient access for emergency vehicles?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency route planning, the response team needs to verify if there’s any closed-loop path in the current road network that could trap emergency vehicles in redundant cycles. Does the transportation network contain at least one such cyclic connection?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, detecting cyclic road connections is crucial to ensure alternative evacuation routes. Based on the current transportation network structure, does a cycle exist that would allow emergency vehicles to reroute efficiently if primary roads are blocked during a disaster?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "To enable efficient rerouting of emergency vehicles when critical roads are blocked during disaster response, does the traffic network contain any cyclic pathways that could provide alternative circulation routes?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, when prioritizing efficient routes for emergency vehicles between critical locations, is there any cyclic path present in the transportation network that could potentially cause redundant travel delays during crisis operations?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, ensuring uninterrupted access for evacuation routes is vital. Does the road network configuration contain any cycles that might create conflicting paths during emergency vehicle mobilization?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to ensure redundant pathways for firefighting vehicles. If emergency routes between critical locations form a closed loop, could this configuration potentially delay response times by creating ambiguous navigation choices? Please verify whether such cyclic dependencies exist in the network."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to ensure efficient route redundancy between critical facilities like hospitals and shelters. Does the current road network connecting these facilities contain at least one cyclic path, which could risk emergency vehicles circling redundantly during evacuations?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, does the current road network contain any cyclic structures that could potentially delay emergency vehicles from reaching critical zones by trapping them in redundant routes?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle routes for minimizing response time during critical incidents, does the current transportation network contain at least one cycle that could disrupt prioritized path planning?  \n(Note: The question integrates urban emergency planning by addressing potential routing conflicts caused by cycles, aligns with cycle detection logic, and uses a single natural query focused on True/False verification.)"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to verify if critical supply routes can maintain redundancy if a road is blocked. Is there a cyclic path in the transportation network that ensures alternative connectivity between emergency shelters and hospitals?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency planning, rescue teams must verify if redundant routes exist that form closed loops. Does the transportation network linking disaster-prone zones, evacuation hubs, and emergency shelters contain any cyclic connections impacting response time reliability?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, redundant pathways can sometimes create routing confusion. Does the road network contain any cyclic connections that might trap medical evacuation teams in looping routes during critical rescue operations?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to ensure fire trucks and ambulances have alternative routes if primary paths are blocked. If the road network forms a closed loop, it allows detours. Does the current transportation network contain any cyclic connections that would enable such redundancy?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "Urban emergency response teams are evaluating road network redundancy to ensure alternative evacuation routes during emergencies. For critical infrastructure zones connected through bidirectional roads, can you verify if there exists at least one closed-loop path that would allow emergency vehicles to circle back without retracing roads?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for efficient ambulance routing, does the transportation network contain any closed-loop structures that might inadvertently delay critical救援 operations by creating redundant pathways?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, city officials need to ensure alternative evacuation routes exist. In the downtown district's road network, where nodes represent key intersections and edges represent two-way streets, does the current connectivity pattern contain any cyclic paths that could provide redundancy for emergency vehicles? Answer True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In optimizing a city's public transit network, the scheduling team needs to ensure no buses circulate indefinitely between stops without returning to depots. Does the current route configuration contain such a closed-loop path that could cause redundant vehicle allocation and scheduling conflicts?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During public transit network scheduling optimization, planners noticed potential redundant routes between interchange hubs that might create unintended circular paths, causing buses to loop endlessly instead of progressing toward terminals. Does the current connection pattern contain any cycles requiring redesign?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization review, the scheduling team needs to confirm whether any cyclic bus routes exist that might cause vehicles to circulate endlessly without reaching terminal stops. Does the current route configuration form such a closed-loop path?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network, a bus route planner needs to verify if there are any redundant cyclic paths between bus stops that might unintentionally trap vehicles in continuous loops, disrupting scheduled timings. Based on the road connections, does such a cyclic route exist? Use cycle detection to answer True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During public transit network scheduling, planners need to verify if buses could enter infinite loops due to redundant bidirectional routes between hubs. Does the current network contain any cyclic path that would prevent vehicles from exiting a group of interconnected stations?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "When analyzing a bus route for potential scheduling conflicts, does the current path contain any closed loops that could cause vehicles to circulate indefinitely instead of reaching their designated terminus?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling efficiency, the city planning department needs to verify if any bus routes form closed loops that might trap vehicles in redundant cycles during peak-hour operations. Does such a problematic cycle exist in the current network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network scheduling, the operations team needs to verify whether redundant circular routes exist in the current bus line configurations, as such loops could cause inefficient allocation of vehicles and fuel. Does the network contain any cyclic path that would allow a bus to return to its starting stop without reversing direction?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network, schedulers are optimizing bus frequencies on Route 12 to reduce delays. Before finalizing the timetable, they need to verify whether this route contains a closed loop that could cause buses to circulate indefinitely without backtracking, which would disrupt planned intervals. Does such a loop exist in the current network configuration?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "The public transit scheduling team wants to adjust bus routes during peak hours to prevent vehicles from accumulating in circular paths. Does the current network contain any loop that could cause such scheduling inefficiencies?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "After adjusting bus routes in the public transit network, a scheduler needs to verify if any redundant loop exists that could cause buses to cycle indefinitely between stops without completing their routes. Based on the current road connections, does such a loop exist in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "Public transit planners are optimizing a bus network to prevent delays—could recurring vehicle bottlenecks indicate the presence of a cyclic route configuration in the current system that traps buses in an endless loop?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network undergoing route optimization to reduce vehicle idle time during peak hours, the scheduling team needs to confirm whether there are any redundant circular routes causing unnecessary looping. Does the current bidirectional road connection configuration contain at least one cycle that might contribute to such inefficiencies?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update, planners are concerned that a newly proposed bus route might inadvertently form a cyclic path between stops, causing operational inefficiencies. Does the existing network configuration contain any cycles that could allow buses to loop indefinitely without reaching terminal stations?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During public transit network scheduling, the metro Line Blue is experiencing conflicting route prioritization between eastbound and westbound trains. Could this operational conflict indicate the presence of a cyclic path in the current network topology, requiring true/false verification via loop detection?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During public transit network scheduling, the planning team needs to verify if any bus routes form unintended cyclic paths that could trap vehicles in infinite loops. Does the current network contain such a loop structure?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network where bus routes form bidirectional connections between stops, the scheduling team needs to optimize vehicle circulation. Could a cyclic route configuration inadvertently trap buses in an endless loop, and does the current network topology contain any such cycle that would return True for a cycle detection algorithm?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "When optimizing public transit routes to avoid redundant connections, the city planners need to confirm whether the current bus network contains any cyclic paths that could cause scheduling conflicts. Does the network topology permit such closed loops?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "Public transit planners are evaluating route efficiency to avoid redundant bus paths. Based on the current road connections, does the network contain any circular routes that would allow vehicles to cycle continuously without reaching terminal stops?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit efficiency, city planners redesigned several bus routes in the central district. During implementation, concerns arose about potential scheduling deadlocks caused by circular dependencies between interchange stations. Does the current network configuration contain any cyclic connections that might disrupt coordinated departure timetables?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network scheduling, after merging two bus routes that share a common terminal station, the operations team needs to verify if this integration accidentally created a cyclic route where buses could loop indefinitely between connected stations instead of completing their designated path. Does such a cyclic connection pattern exist in the current network configuration?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In optimizing a public transit network schedule, dispatchers are concerned that certain bus routes may form a closed loop, causing vehicles to cycle indefinitely and disrupt timely departures for other routes. Does the current network configuration contain any such cyclic path that could compromise scheduling reliability?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "The public transit scheduling team noticed potential redundant connections while optimizing bus routes between key stations. To avoid unnecessary resource allocation, can you confirm if the current network configuration contains any closed-loop routes that would allow a bus to circulate indefinitely between stations without backtracking?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "While evaluating a proposed metro line extension to improve connectivity between downtown and suburban areas, city planners must ensure the updated network topology avoids creating closed loops that might cause trains to circulate redundantly instead of maintaining efficient bidirectional schedules. Is there a cyclic path present in the modified transit system?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During public transit network optimization, planners found that certain bus routes may cause vehicles to circulate endlessly between a group of interconnected stops. Based on the current road connections, does this transportation network contain at least one cycle that enables such infinite looping?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "After adding a new bus route connecting downtown stations, the public transit network scheduling team needs to verify whether this update inadvertently created a cyclic path that could trap vehicles in an endless loop between stations. Using cycle detection, does the current network configuration return True or False for having at least one such loop?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In a public bus network where multiple routes interconnect stops, does any cycle exist that could cause buses to loop indefinitely without completing their scheduled routes, requiring adjustments to the timetable?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In a city's public transit network, the scheduling team is optimizing bus frequencies to reduce congestion. They need to confirm whether any group of interconnected stops forms a cyclic route that could disrupt timetable synchronization. Does the network contain such a cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "To improve operational efficiency, the public transit authority needs to verify whether any bus loop routes unintentionally formed cyclic paths that could cause scheduling conflicts during peak hours. Does this network configuration contain a cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "After recent route adjustments in the city's public bus network, the transit authority needs to verify whether any cyclic paths exist that could cause buses to loop indefinitely without returning to the depot. Does the current network configuration contain at least one cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network, the scheduling team needs to verify if introducing a new bus transfer hub inadvertently creates a cyclic route that causes redundant vehicle loops. Based on the current road connections, does a cycle exist in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In optimizing a city's public transit network scheduling, planners are concerned that a particular bus route's stop connections might form a closed loop, causing buses to endlessly cycle and disrupt efficiency. Does the current network contain such a cyclic path?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization, the scheduling team needs to verify if redundant bus routes form closed loops where buses circle the same stops repeatedly without expanding coverage. Is there any cyclic route pattern in the current network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "After a recent public transit route adjustment in the downtown area, the scheduling system flagged a potential issue. Does the updated bus network connecting stops \"A,\" \"B,\" \"C,\" \"D,\" and \"E\" contain any closed loop that could cause buses to circulate indefinitely, requiring confirmation of a True/False result from the cycle detection algorithm?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "When optimizing public bus route schedules, the transport authority needs to verify if any bus line forms a closed loop causing vehicles to circulate indefinitely. Does the current network contain such a cyclic route pattern?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During public transit route optimization, a transport planner needs to ensure no bus lines form unintended circular paths where vehicles could endlessly loop without reaching terminals. Based on the current road connections, can we determine if such a cyclic routing pattern exists in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During public transit network scheduling, the city planners need to verify if any bus routes form a closed loop, which could lead to operational inefficiencies. Based on the connections between stops, does the current route design contain such a cyclic path?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization to eliminate redundant bus routes, does the bidirectional stop connection graph contain any cycles that would cause overlapping schedules and operational inefficiencies?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "After a recent update to the city's public transit routes, there are concerns that new bidirectional bus lane connections between certain stops might have unintentionally created cyclic paths. Could this network configuration result in buses endlessly circling between stops, and should the scheduling team confirm whether any cycles exist to prevent operational inefficiencies?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network scheduling, after adjusting several bus routes to improve connectivity between transfer stations, the operations team needs to verify if any unintended cyclic route has been created where buses could loop indefinitely between stops. Using the current road connections, does the network contain at least one cycle that would return True for a loop detection algorithm?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "The city's public transit scheduling team is concerned about potential bus congestion caused by circular routes in the network. To optimize timetables, they need to confirm whether any closed-loop path exists where a bus could circulate endlessly without reaching terminals. Does the current network configuration permit such cyclic vehicle patterns?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "To prevent redundant bus routes during peak hours, the public transit network optimization team must verify whether the current bidirectional road connections allow circular paths that trap vehicles in infinite loops. Does this network contain any cycles?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization for reducing redundant bus routes, the city planners need to verify if two distinct paths exist between any major transit hubs, which could indicate wasteful cyclic routes. Does the current network contain such a cycle that undermines scheduling efficiency?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In a city's public transit network optimization project, planners need to verify whether the current bus route redesign accidentally creates redundant circular paths that could trap vehicles in infinite loops without serving new areas. Does the network contain any cyclic routes requiring topology adjustments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update, planners discovered that multiple bus lines share bidirectional transfer points. To prevent buses from entering redundant routes and wasting resources, does the current connection structure contain any cyclic paths that form an endless loop?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network scheduling optimization project, the city planner needs to verify whether any bus route forms a closed loop causing vehicles to circulate inefficiently between stops without reaching terminals. Does the current network contain such a cyclic route configuration? Answer True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "After a recent adjustment in overlapping bus routes to optimize transfer times, does the public transit network now contain any cyclic path that could cause vehicles to circulate indefinitely between stops, potentially disrupting scheduled departure intervals?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network scheduling, a planner needs to verify if any bus routes in the downtown area form a closed-loop circuit, causing redundant vehicle circulation. Does the current network configuration contain such a cyclic route pattern?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update, planners must verify if the adjusted bus routes between terminals and transfer hubs inadvertently form a cyclic path, causing buses to loop indefinitely between stations without completing their assigned routes. Does such a cyclic connection exist in the current network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "After adjusting routes in the public transit network, the operations team needs to verify if any bus lines inadvertently form a closed loop, causing vehicles to circulate indefinitely. Does such a cyclic route exist in the current network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, the planning team needs to confirm whether the current bidirectional road connections between bus stops create at least one redundant loop, which could disrupt efficient route prioritization. Is there a cyclic path in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During the reconfiguration of a city's public transit network to streamline bus schedules, analysts need to verify if the updated route connections form any closed-loop cycles. Does the current bidirectional road link structure between stops permit the existence of such cyclical routes that could disrupt timetable synchronization?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "While analyzing a public transit network to optimize bus scheduling efficiency, city planners must check if any cyclic route configurations exist that could result in vehicles repeatedly traversing the same stops without completing their routes. Does this transportation network contain a cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "To improve bus scheduling efficiency during peak hours, the public transit authority needs to determine if any circular routes exist in the current network where a bus could loop indefinitely without reaching the terminal. Does such a cycle exist?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In a city's public transit network, buses must periodically return to their origin stations for scheduling synchronization. Could the current bidirectional road connections between stations form a closed loop, potentially causing buses to circulate indefinitely and disrupt timetable adherence?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network undergoing route optimization, the city planners need to verify whether the current bidirectional bus connections between stops inadvertently form any cyclic paths that could cause scheduling conflicts or redundant loops. Does the network topology contain at least one cycle requiring adjustment?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network, the scheduling team is analyzing the current bus route connections to ensure efficient turnaround times. Does the existing network contain any cycles that could cause buses to loop indefinitely between stops, requiring immediate route adjustments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During the optimization of a public transit network schedule, planners suspect that redundant bus routes between key stations might form circular paths, causing unnecessary resource allocation. Can it be confirmed whether the current network topology contains any cyclic routes that would allow buses to loop indefinitely between connected stops?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During the reorganization of a metro-bus transfer network, planners need to confirm whether the newly added bidirectional routes between stations A, B, C, and D inadvertently create a circular path that could trap vehicles in endless loops during rush hours. Does this configuration introduce any cyclic routes requiring immediate redesign?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During public transit network scheduling, planners aim to eliminate redundant circuits that cause buses to loop unnecessarily and increase operational costs. Does the current transportation network contain any such redundant circuit requiring optimization?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During the planning of a city's public transit network, engineers discovered overlapping bus routes between key transfer hubs. To optimize scheduling, does the current connection pattern contain any cyclic dependencies where buses could get stuck repeatedly passing through the same stations?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In the context of public transit network scheduling, does the current bus route configuration contain any cyclic paths that could cause vehicles to loop indefinitely without completing their routes?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In a city's public transit network where bus routes form bidirectional connections between stops, the scheduling team needs to ensure no closed-loop paths exist that could trap vehicles in endless cycles, disrupting maintenance routines. Does the current network configuration contain any cyclic routes?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During public transit network scheduling, after adding a new bus route connecting several existing stops in a circular manner, the transit agency needs to verify if this adjustment inadvertently created any redundant loops in the network that could cause vehicles to circulate indefinitely between stops. Does the current network contain such a cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During the recent public transit network scheduling optimization, planners need to verify if any redundant cyclic bus routes exist that could trap vehicles in infinite loops during peak hours. Does the current network configuration contain such a closed-loop path?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "While optimizing a city's public bus routes to eliminate redundant services, transit planners need to verify if the current network contains any closed-loop paths where buses might circulate unnecessarily, wasting fuel and operational capacity. Does such a loop exist in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During public transit network expansion planning, a proposed circular bus route is designed to connect several key transfer hubs. Based on the bidirectional road connections between stations, does this configuration create redundant circulation paths where buses could loop indefinitely between two or more stations?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "After recent route adjustments in the public transit network, the operations team wants to verify if any bus line inadvertently forms a looped path causing redundant resource allocation. Based on the updated station connectivity, does the network contain at least one cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During an urban public transit network optimization effort to reduce redundant bus routes, planners must assess if any cyclic path exists where a bus could endlessly circle between stops without reaching a terminal, disrupting fleet allocation. Does the current network configuration contain such a cyclic route?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "After adjusting bus routes to optimize scheduling in the downtown area, transit planners suspect a potential cyclic path might cause delays due to vehicles circling indefinitely. Does the current public transit network contain any closed-loop routes that could disrupt efficient timetable coordination?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network, a bus operator needs to verify if any cyclic route exists where buses might loop endlessly without returning to the depot, disrupting schedule coordination. Does such a closed path currently exist in the network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network of Metroville, the transportation department is reviewing bus routes to optimize scheduling. They need to verify if there are any redundant loops where buses might circle unnecessarily between stops, causing delays. Does the current network configuration contain such a cyclic path connecting three or more distinct stops?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network redesign, planners need to ensure buses can complete routes without endlessly circling. Does applying cycle detection to the modified stop connections reveal any redundant loops that would cause vehicles to orbit indefinitely between interchange hubs?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network of a city, certain bus routes are interconnected. Does the current network configuration contain any cycles that could cause buses to loop indefinitely, affecting scheduling efficiency? Determine this using a cycle detection algorithm and return True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "After adjusting multiple bus routes to optimize transfer efficiency, the public transit department needs to confirm whether any closed-loop path exists in the updated network that could cause buses to continuously circulate without completing their scheduled routes. Is such a cyclic route present?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "Following a public transit network redesign to eliminate redundant bus routes, planners need to ensure no cyclic connections remain that could trap vehicles in infinite loops, disrupting service reliability. Does the updated network contain any cycles?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During public transit network scheduling, the transport authority plans to optimize bus routes by adjusting connections between key transfer hubs. Does the proposed adjustment introducing a bidirectional link between \"Central Terminal\" and \"Eastgate Junction\" result in any cyclic route formation that could cause vehicle circulation conflicts?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "When optimizing public transit network schedules, does the current bidirectional road configuration between stations contain any cyclic routes that would allow buses to circulate indefinitely without requiring terminal turnaround, potentially disrupting timetable efficiency?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "When optimizing public transit routes in a downtown area, planners need to ensure no redundant circular services exist. Does the current bus connection graph contain a closed loop that could cause such inefficiency in scheduling?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update, city planners need to verify if any closed-loop bus routes exist in the current stop connection map, as such cycles could cause scheduling conflicts and resource allocation inefficiencies. Does the network contain a cyclic path?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared bike system operated by a mobility platform, the city's transportation department needs to verify if any closed-loop path exists among docking stations, which could trap bikes in redundant circulation and hinder efficient redistribution to high-demand zones. Does the current station connection network contain such a cyclic route?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platform operators noticed multiple e-bike redistribution vans repeatedly circling between certain hubs. To optimize fleet deployment, can we confirm whether there exists at least one closed-loop path in the station connection network that allows continuous cycling without reaching new locations?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's bike parking network, stations are interconnected via bike lanes allowing two-way travel. To optimize rebalancing routes, the system needs to verify if there's at least one cyclic path formed by these connections. Does the current station network contain any cycles?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter operator is optimizing their vehicle redistribution routes across a downtown area. The logistics team suspects that redundant connections between docking stations might be creating circular paths, causing inefficient scooter allocation. Does the current station network configuration contain any cyclic routes that would allow vehicles to loop indefinitely without reaching underutilized zones?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter platform's station network, where bidirectional routes represent allowed ride paths between stations, does analyzing the current connection topology reveal any cyclic routes that could cause inefficient vehicle redistribution by trapping scooters in endless loops between locations?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared car platform's station network, stations are interconnected to facilitate vehicle redistribution. During a routine check, the operations team suspects that certain station connections might form a circular route, potentially trapping vehicles in endless relocation loops. Does the current network configuration contain any cyclic paths that could hinder efficient vehicle redistribution?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "Shared e-scooter platforms need to optimize vehicle redistribution in downtown areas. When analyzing station connectivity, does the current network contain any cyclic routes that could cause inefficient scooter redistribution loops? Confirm True (cycle exists) or False (acyclic)."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "When analyzing the operational efficiency of a shared e-scooter network, the city planners suspect redundant connections between parking hubs might create circular routing patterns during fleet rebalancing. Does the current road network configuration allow at least one closed-loop path that could cause vehicles to circulate indefinitely between hubs instead of reaching demand areas?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing their bike service zones in downtown to optimize vehicle rebalancing. Based on the bidirectional road connections between stations, does the current network configuration contain any cycle that could lead to inefficient routing paths?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter dispatch team is analyzing station connectivity to prevent inefficient vehicle distribution caused by circular routing. Does the current network configuration contain any cycles that could lead to redundant loops in scooter redistribution paths?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "To ensure efficient redistribution of shared e-scooters across the city, the operations team needs to verify if the newly added parking hubs have inadvertently created a cyclic route that traps vehicles in endless loops. Does the current station connection graph contain any cycles? Answer True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing vehicle redistribution in an urban area where stations are interconnected. The operations team suspects that the current station connections might form a cyclic route, potentially causing inefficient vehicle allocation. Does the network configuration contain any cycle that could disrupt balanced resource distribution?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company is optimizing their vehicle redistribution routes across city stations. Their maintenance team noticed that some stations are interconnected in a way that forms a loop when tracing scooter transfers between adjacent hubs. Could this redundant connectivity pattern create a closed cycle in their redistribution network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter dispatch team noticed vehicles frequently getting stuck in certain zones, suspecting cyclic routes might prevent them from returning to main arteries. Does the current network contain any cyclic path that could cause this looping issue?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company is analyzing their docking station network to optimize vehicle redistribution. If the connections between stations form a closed loop, it could cause inefficient scooter circulation. Does the current station network contain any cyclic paths that would return redistribution vehicles to their starting point without reversing direction?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared bike network operated by a mobility platform, the maintenance team needs to optimize vehicle redistribution. If stations are interconnected as bidirectional hubs, could a cyclic routing pattern exist where bikes might circulate indefinitely between stations instead of reaching high-demand areas? Use cycle detection to determine if the current station network topology allows such inefficiencies."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "After optimizing vehicle redistribution for a shared e-scooter fleet in downtown areas, the operations team needs to confirm if any circular routing paths exist in the current deployment network that could trap vehicles in infinite loops during autonomous rebalancing operations. Does the network contain at least one cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform's car dispatch team needs to verify if their current station network contains any cyclic routes, as this could cause inefficient vehicle redistribution. Based on bidirectional road connections between stations, does the network contain at least one cycle requiring route optimization? Answer True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution efficiency, a shared mobility platform analyzes whether their station network contains any cyclic routes that could enable endless circular transfers without reaching underserved areas. Does this transportation network contain at least one cyclic pathway?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's service area, the road connections between stations form a bidirectional network. To optimize vehicle redistribution, the operations team needs to confirm if there exists at least one cyclic route where a shared car could circulate indefinitely between interconnected stations without reaching a dead-end. Does such a loop exist in the current network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter service area has multiple parking stations connected by bidirectional lanes. During route optimization for nightly battery swaps, the logistics team must determine if there exists a cyclic route that could cause redundant vehicle redistribution, potentially delaying operations. Does the current road network configuration contain any cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "To improve vehicle redistribution efficiency, a bike-sharing platform needs to verify if their current station connectivity network contains any cyclic routes that might cause redundant resource allocation loops. Does the network have a cycle?  "
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company is analyzing their docking station network to optimize vehicle redistribution. If stations are connected bidirectionally, does any cyclic route exist that could cause inefficient scooter allocation between adjacent hubs?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform discovered that maintenance routes for their electric vehicle charging stations might form redundant loops, causing repeated inspections. Given the bidirectional road connections between stations, does the current network configuration contain any cycle that could lead to such inefficiencies?  \n\nThis scenario reflects real-time operational challenges where cyclic paths in station connectivity could disrupt resource allocation and route optimization."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, the operations team discovered that some charging stations have bidirectional connections forming circular routes. To optimize vehicle redistribution efficiency, they need to confirm if there's at least one closed-loop path connecting three or more stations without retracing roads. Does such a cycle exist in the current layout?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "Due to vehicle redistribution patterns in a bike-sharing system, the platform needs to verify whether the current调度路线 forms any closed loops between parking hubs, as such loops could trap bikes in continuous rebalancing. Does the network contain a cycle that prevents efficient vehicle allocation?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution, a shared e-scooter platform needs to determine if any closed-loop paths exist in their docking station network, which might cause scooters to circulate indefinitely without reaching high-demand zones. Does the current station connectivity contain such a cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company observes that vehicles frequently circulate among a cluster of downtown hubs without reaching suburban areas, leading to uneven distribution. Could this indicate a cyclic route pattern in the hub connections that prevents efficient fleet dispersion?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is analyzing their service network to prevent inefficient resource allocation. If vehicles can circulate indefinitely without returning to hubs, it may cause imbalanced distribution. Does the current road network allow such infinite cycling, indicating a loop exists in the connectivity between parking zones?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution, a shared mobility platform manager needs to verify if their station network contains any cyclic routes where electric scooters might circulate indefinitely between connected stations. Does this bidirectional station network contain at least one cycle?  \n\n（Background integrated: Stations are nodes connected by bidirectional roads representing scooter transit paths. The core operational concern is avoiding resource traps caused by cyclic routes in shared mobility systems.）"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "As a dispatcher for a shared e-scooter platform, I need to verify if the current maintenance route network inadvertently forms a closed loop that could cause redundant checks at certain hubs while skipping others. Does the network contain any cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company's operations team noticed redundant vehicle redistribution between certain stations and suspects a cyclic connection pattern. Does the current network contain any cycle that could cause such inefficiencies?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "As a mobility analyst for a shared electric scooter platform, when optimizing vehicle redistribution routes between parking hubs, we need to verify if there exists any circular path in the hub connections that could trap scooters in infinite loops instead of reaching high-demand areas. Does our current hub network configuration contain such a closed-loop cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is analyzing station connectivity to optimize vehicle redistribution. If a rider could potentially return to any starting station without retracing roads, does the current network configuration contain a cycle that allows such inefficient vehicle circulation?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "After multiple users reported seeing the same shared electric moped circulating between 3 downtown stations without exiting, the city's mobility platform suspects route redundancy. Does this vehicle movement pattern confirm the existence of a cyclic path in the station network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform's operations team noticed that certain vehicle redistribution routes between downtown stations are causing inefficient rebalancing. They suspect the connected docking stations might form a cyclical path. Can cycle detection confirm whether there's any closed-loop in this station network that prevents optimal vehicle distribution?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter network's operations team noticed inefficiencies in rebalancing vehicles between stations. Upon reviewing station connection data, they suspect a cyclic path might be causing redundant trips. Does the current station connectivity graph contain any cycle that results in this operational issue? Answer True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "When analyzing connectivity between shared e-scooter parking stations to optimize vehicle redistribution, the operations team suspects redundant paths might form circular routes. Does this network configuration contain any cycle that could lead to inefficient resource allocation?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platforms' operations team noticed that shared electric scooters are frequently circulating among certain docking stations without reaching others. To optimize vehicle redistribution, do they need to confirm whether there exists a closed-loop path connecting these stations, allowing scooters to cycle indefinitely within the same subset?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform's maintenance team needs to optimize their service route. If their current network of parking hubs has bidirectional connections, does any closed-loop path exist that would allow them to revisit a hub without duplicating stations during inspections?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "When optimizing the service zones for a shared e-scooter platform, the operations team needs to verify if the bidirectional pathways between zones form any cyclic routes. Does the current network configuration contain at least one closed loop that could complicate fleet redistribution logistics?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared e-scooter platform's operations team analyzes vehicle movement patterns in the downtown area, they need to verify whether any closed-loop routes exist between parking hubs that could cause redundant vehicle redistribution cycles. Does the current network configuration contain at least one such cyclic path?  \n\nExplanation: Aligns with shared mobility context (e-scooter hubs), focuses purely on cyclic path detection without extra constraints, uses natural operational logic (preventing inefficient vehicle redistribution), and directly maps to a true/false cycle detection outcome. The phrasing avoids technical jargon while maintaining specificity."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "When evaluating the efficiency of a shared e-scooter parking network, is there any closed-loop path among the stations that could create redundant rebalancing routes and disrupt operational workflows?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared mobility platform analyzes vehicle redistribution routes in an urban grid, could the current connection pattern between parking stations create an infinite relocation loop that traps maintenance crews, requiring cycle detection to optimize fleet distribution efficiency?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared bike-sharing platform is analyzing their station connectivity to prevent vehicle redistribution loops. Their operations team needs to verify whether any group of stations forms a closed circuit, causing bikes to circulate indefinitely without reaching high-demand zones. Does this transportation network contain at least one cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-bike platform is optimizing vehicle redistribution between parking hubs. The operations team needs to determine whether any cyclical routing patterns exist among connected docking stations, as such loops could cause redundant dispatches and resource waste. Does the current station network contain a cycle?  \n\n该问题在共享出行背景下，通过车辆调度场景自然引出环路检测需求，符合业务直觉（避免冗余调度），且仅依赖节点连接关系来判断环路存在性（True/False），无需附加信息。问题主体为单一问句，其余为背景描述。"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform's dispatch team is testing a new city layout where charging stations are interconnected. They noticed some scooters end up circling between stations without reaching high-demand areas. Could this indicate a closed-loop path exists in the station network, requiring topology adjustments?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform's operations team noticed recurring routing inefficiencies in certain urban areas where e-scooters are frequently relocated. They suspect the bidirectional pathways connecting parking stations might form a closed loop, causing redundant dispatch routes. Does this network contain any cyclic connections that could disrupt optimal vehicle redistribution?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A car-sharing company observes that their vehicles in downtown frequently take longer routes despite available shortcuts, suggesting potential redundant paths. To optimize navigation algorithms, does the underlying road network graph contain any cycles contributing to this inefficiency?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform noticed vehicles in a certain neighborhood frequently get trapped in repetitive paths and fail to redistribute efficiently. Does the road connection network in this area contain any cyclic routes that could cause this operational issue?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "To improve fleet balance efficiency for a bike-sharing platform, the operations team must determine whether their newly deployed parking hub connections form any circular routes that might trap vehicles in redundant loops. Is there a cycle present in the station network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter service provider is optimizing their vehicle redistribution routes across downtown stations. Their maintenance team needs to confirm whether any closed-loop path exists in the current station connections, as circular routes could cause inefficient scooter redistribution. Does the network contain at least one cycle that would allow vehicles to circulate indefinitely between stations?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform's maintenance team needs to determine if their current docking station network contains any cyclic routes, allowing scooters to be redistributed through connected stations without manual intervention. Does the network configuration enable such closed-loop circulation? Respond with True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize maintenance routes for shared e-scooter stations, the operations team needs to determine if any cyclic paths exist in the station connections. Does the current network configuration contain a cycle, potentially causing redundant inspections or inefficient resource allocation?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company noticed that vehicles in a certain neighborhood are not being redistributed efficiently to other zones, and suspects a cyclic routing pattern in the local station connections. Does the current network configuration contain any loops that could trap vehicles in a closed circuit?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "To prevent inefficient redistribution cycles where shared e-scooters loop endlessly between hubs without reaching high-demand zones, a mobility platform needs to verify their city's station network. Does the current road connection graph contain any cycles?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "After noticing multiple instances of bikes being continuously routed through the same four docking stations in a bike-sharing system, the operations team suspects a potential cyclic path causing inefficient redistribution. Is there a closed-loop path in the station network that allows a bike to return to its starting station without retracing any intermediate stations?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-bike platform notices inefficient vehicle redistribution, with clusters of bikes accumulating in certain zones while others face shortages. Could a cyclic routing pattern in their redistribution paths be causing this imbalance, and does the network contain any such loop?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is verifying if their e-scooter redistribution routes between stations form any cyclic paths, as such loops could trap vehicles in endless circuits during fleet rebalancing. Does the current station connection network contain at least one cycle that disrupts optimal resource allocation?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform's operations team noticed that vehicles in certain zones frequently become trapped, unable to be redistributed to other areas. They suspect the station connection network might contain a cyclic route causing this issue. Does the current layout contain any cycles that could prevent scooters from being efficiently routed out of these zones?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "Due to increasing complaints about unbalanced bike availability, a shared mobility platform needs to verify if their current station layout contains any cyclic connections that might trap vehicles in redundant loops, making redistribution harder. Does such a cycle exist in their network?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing the connectivity of electric vehicle charging stations in a downtown area. Stations are linked by bidirectional roads for vehicle redistribution. To optimize scheduling efficiency, the operations team needs to confirm: Does the current station network contain any cyclic routes that could cause redundant vehicle dispatch paths?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing their bike station network to optimize rebalancing routes. Their system shows stations A connected to B, B to C, C to D, and D back to A through intermediate stations. Can this configuration form a closed loop that would cause inefficient vehicle redistribution cycles?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform's operations team needs to verify if their bike-sharing stations (represented as nodes) form any cyclic routes to optimize vehicle redistribution. If stations are interconnected such that a maintenance crew could traverse a closed loop without repeating roads, does this network contain at least one cycle? Answer True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, the operations team needs to verify if redundant connections between parking stations could create circular routes, which might trap vehicles in infinite loops during redistribution. By analyzing the station connectivity graph, can a cycle detection algorithm confirm the existence of any closed-loop path that would hinder efficient fleet rebalancing? The answer should be simply True or False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "When optimizing vehicle redistribution for a shared bike network in a downtown area, could the existence of cyclic routes between docking stations prevent efficient fleet rebalancing, requiring confirmation of whether the underlying station connectivity graph contains at least one closed-loop path?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution efficiency, a shared e-scooter platform wants to verify whether their parking hub connections form any circular routes. Does the current network configuration contain at least one cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, stations are interconnected for vehicle redistribution. If a maintenance team needs to verify whether closed-loop connections exist between stations that could cause redundant relocation routes, would a cycle detection algorithm confirm the presence of such cyclic dependencies in the current topology?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared bike platform is analyzing station connectivity in a downtown area to optimize vehicle redistribution. If multiple stations are interconnected through bidirectional bike lanes, could the current network configuration form a cyclic path that traps bikes in continuous circulation, preventing efficient rebalancing?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "Shared e-scooter operators observed that certain charging stations receive redundant maintenance trips due to overlapping route patterns. Does the current vehicle dispatch network contain any cyclic connections that could create inefficient resource allocation loops?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "When a user plans a bike-sharing route from station A through stations C, D, and E to reach station B, does the network contain a cycle that could cause them to loop indefinitely without arriving at B?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared mobility platform analyst, ensuring efficient vehicle redistribution between stations is crucial. When evaluating the current network of connected stations, is there a closed loop allowing vehicles to circulate indefinitely without getting stranded?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "To improve vehicle redistribution efficiency for shared e-scooters, the urban mobility team needs to verify if there's any cyclic connection pattern among parking hubs that could create redundant routing loops in their service network. Does such a cycle exist?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter maintenance team needs to verify if any closed-loop paths exist in the current service area's road network, as such loops could trap vehicles in infinite circulation and disrupt efficient rebalancing efforts. Does the network contain at least one cycle that would prevent optimal vehicle redistribution?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platforms need to optimize vehicle redistribution routes. If a scooter repeatedly loops between stations A→B→C→A due to path redundancy, does cycle detection on this station network return True or False?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter dispatch team needs to optimize rebalancing routes in a city's traffic network. If vehicles could circle indefinitely between pickup zones due to road connections, it would reduce efficiency. Does the current network contain any cyclic paths that might cause such looping during fleet redistribution? Confirm True/False."
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution efficiency, a shared e-scooter platform needs to verify whether their charging station network contains any closed-loop routes formed by bidirectional connections between stations. Does the current station layout contain a cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "To streamline shared electric vehicle rebalancing, the city planners need to verify whether bidirectional charging station connections form unintended circular routes that could cause redundant dispatches. Does this transportation network contain any cycle?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared car service network, the operations team needs to verify if redundant routes between districts inadvertently form closed loops, which could trap vehicles in localized cycles and hinder city-wide redistribution. Does such a configuration exist in the current road connectivity?"
+  },
+  {
+    "label": "Cycle_Detection",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared e-scooter platform expands stations in downtown, a user returns their scooter to a nearby station instead of the original one, creating a new connection between stations. Does this additional link cause any cyclic route that could disrupt vehicle redistribution efficiency?"
+  }
+]

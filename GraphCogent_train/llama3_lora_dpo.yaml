@@ -1,0 +1,45 @@
+#model_path= SFT-based/Llama3.1/path
+#output_model= saves/llama3.1-8b/dpo
+
+### model
+model_name_or_path: ${model_path}
+trust_remote_code: true
+
+### method
+stage: dpo
+do_train: true
+finetuning_type: lora
+lora_target: all
+pref_beta: 0.1
+pref_loss: sigmoid  
+
+### dataset
+dataset: dpo_Graph4real
+template: llama3
+cutoff_len: 4096
+max_samples: 10000
+overwrite_cache: true
+preprocessing_num_workers: 8
+
+### output
+output_dir: {output_model}
+logging_steps: 10
+save_steps: 500
+plot_loss: true
+overwrite_output_dir: true
+
+### train
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 4
+learning_rate: 5.0e-6
+num_train_epochs: 5.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+
+### eval
+val_size: 0.1
+per_device_eval_batch_size: 1
+eval_strategy: steps
+eval_steps: 500

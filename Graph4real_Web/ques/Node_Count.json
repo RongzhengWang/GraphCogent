@@ -1,0 +1,2002 @@
+[
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A regional transit authority is mapping all accessible stations for a new intercity travel package. To ensure comprehensive coverage, how many unique transit nodes must be included in the route network schematic for proper travel planning?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A logistics company wants to optimize delivery routes across a regional transportation network. To ensure full coverage, they need to verify how many unique cities (nodes) exist as potential start/end points for route planning. Calculate the total number of cities that must be included in their navigation system to guarantee no location is overlooked."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A city's public transit agency is auditing their bus network to ensure route planning apps display accurate coverage. To verify no stops are omitted during system updates, calculate the total number of bus stop nodes across all operational routes."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A regional tourism board is mapping all interconnected heritage sites for travel route optimization. After recent road repairs created new connections, how many distinct cultural landmarks now exist in the entire transportation network accessible via bidirectional pathways?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A city's emergency service department needs to determine how many unique road intersections require emergency facility coverage to ensure all possible evacuation routes during festivals. How many intersections must be included in this coverage plan?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A tourist wants to ensure they visit all attractions in the city's public transport network while planning an optimal route. How many unique stations must be included in their itinerary to guarantee no connected landmarks are missed?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A city's tourism department is optimizing navigation systems for visitors planning road trips. To ensure complete coverage of all possible stops, what is the total number of junctions that must be included in the travel network's digital map?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A tourist wants to verify if their planned sightseeing route covers all key stops in a regional bus network. To ensure no critical transfer points are missed, calculate the total number of unique bus stops within the network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "After a recent earthquake disrupted major roads in the Auckland region, emergency teams need to plan inspection routes covering all connected residential communities. Calculate the total number of communities requiring safety checks to ensure no isolated area is overlooked during rescue operations."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize the emergency evacuation plan for a coastal city's hurricane-prone areas, the disaster management team needs to assess the connectivity of all accessible shelters. Calculate the total number of unique locations that can be reached through the current road network to determine if backup routes must be established."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "During the planning of a new regional cycling path network aimed at connecting all parks and transit hubs, officials need to confirm the exact number of infrastructure nodes to budget surveillance cameras. How many unique junctions exist in this transportation system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A city is developing a new subway line to connect several key residential areas and commercial hubs. To ensure comprehensive coverage in the travel planning app, how many unique station points must be mapped across the entire transportation network for accurate route calculations?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize emergency service coverage during peak hours, the city's traffic management needs to identify all possible intersections for deploying mobile response units. Calculate the total number of unique road intersections in the downtown area's traffic network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "During the urban traffic route optimization project, engineers need to determine the minimum number of parking checkpoints required to cover all intersections accessed during peak-hour commutes. Calculate the total number of unique nodes in the current transportation network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "Calculate the total number of bicycle-sharing stations that must be included in a city's new travel route planning system to ensure seamless connectivity between all residential zones and commercial hubs."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A traveler wants to plan sightseeing routes covering all subway transfer stations in a city. These stations act as hubs connecting multiple lines. To ensure no key location is missed, calculate the total number of unique subway transfer stations in the network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "To plan a seamless travel itinerary covering all interconnected attractions, the city's transportation department needs to know the total number of landmarks in the network accessible via two-way roads. How many distinct locations must their route system include to guarantee full connectivity?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A city is expanding its public bus system to improve connectivity between residential areas and major transit hubs. During route planning, the transportation department needs to assess the scale of the updated network. Calculate the total number of unique bus stops across all interconnected routes that form this bidirectional travel network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A city's transportation department is planning a new bus route optimization strategy. To ensure balanced coverage, they need to determine how many distinct road intersections exist in the current network where multiple bidirectional roads converge. Calculate the total number of such connection points required for route planning."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "After upgrading the city's bus system to improve travel route planning efficiency, the transportation department needs to calculate how many unique bus stations exist across all interconnected routes to verify network connectivity. What is the total number of distinct stations in this transportation network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize emergency response routes after earthquakes, the disaster management team needs to identify all accessible neighborhoods through bidirectional roads. Calculate the total number of residential nodes that must be accounted for in evacuation planning."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize emergency response routes during peak hours, the city's transportation department needs to evaluate connectivity in the downtown metro network. How many unique subway stations exist across all interconnected lines that form a continuous transit pathway, ensuring no isolated stops remain unaccounted for?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "In a city navigation app analyzing traffic patterns to optimize travel route recommendations, how would you calculate the total number of unique intersections considered in the road network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A city's tourism department is planning optimal sightseeing routes that cover all major attractions. Recent road expansions in the downtown area created new intersections connecting heritage sites and parks. Calculate the total number of unique road junctions in this updated transportation network to ensure no location is missed during route optimization."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "When planning emergency evacuation routes for a coastal city's bus network, authorities need to confirm the total transportation hubs accessible across all zones. Calculate the number of distinct nodes in this interconnected road system."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A city's public transportation department is planning new bus routes to ensure coverage of all residential zones. To allocate resources efficiently, they need to calculate the total number of unique street intersections (nodes) in the urban road network. How many distinct locations exist where route planning decisions must be made?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A city's public transportation department is planning to optimize bus routes across the interconnected stations. To ensure efficient coverage, calculate the total number of nodes in the transportation network to determine how many unique locations need to be considered for route restructuring."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A tourism department is planning optimal sightseeing routes for a coastal island where all attractions are connected through bicycle paths. To avoid missing any landmarks during route optimization, what is the total number of attraction nodes that must be accounted for in the transportation network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "When planning emergency evacuation routes for a coastal city's transportation network, disaster response teams need to determine how many distinct shelters are reachable through interconnected roads after a hurricane damages certain pathways. Calculate the total number of accessible shelter nodes for coordinated rescue operations."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "When planning an optimized electric bus route that connects all charging stations in a city's transportation network, how many distinct charging stations (represented as nodes) must the route include to ensure full coverage without redundant stops?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A city's public transit authority is mapping tourist hotspots connected by their circular bus route. To ensure visitors can efficiently navigate between all landmarks using this looped line, what is the total number of unique stops that must be included in their official route planner documentation?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A tourist wants to plan a route that passes through all landmarks in the city without backtracking. Each landmark is connected to others via bidirectional walking paths. Calculate the total number of unique landmarks that must be included in the route to ensure complete coverage of the network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "Following a regional flood, emergency response teams need to identify all towns still accessible via intact roads to coordinate relief efforts. Calculate the total number of settlements currently connected within the disaster-affected transportation network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "As part of a regional tourism route optimization initiative, planners need to identify how many unique town centers exist in the rural road network that are interconnected by scenic byways. What is the total node count required to map all accessible destinations for visitors?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "When planning optimal transfer routes for passengers between terminals and boarding gates in a major international airport's transportation network, what is the total count of distinct nodes representing all operational connection points that need to be considered?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A city's transportation department is analyzing road network connectivity to optimize travel route planning between residential zones and business districts. How many distinct intersections exist in the current infrastructure that directly enable bidirectional commuter access?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize emergency response routes across the city's interconnected roadways, the planning department needs to determine how many unique intersections exist in the entire transportation network. Calculate the total number of distinct intersection nodes required to fully map all critical pathways for rapid deployment."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A regional delivery company is evaluating its transportation network coverage to optimize route planning. How many distinct cities are currently connected through all available bidirectional road links in the network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "To improve efficiency in cross-regional commuter routes, the transit authority needs to assess the total number of accessible stations and intersections across the network. Calculate the current public transportation system's total node count to prioritize expansion zones."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "To improve connectivity for a new suburban train line integration, the public transit agency needs to verify all existing transfer stations that link bus routes with rail services. Calculate the total number of multimodal transit hubs requiring schedule synchronization updates."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "To streamline navigation updates for a regional road maintenance project, planners must first verify the total number of settlements (cities, towns, villages) directly accessible through the current bidirectional road links. Calculate the exact count of distinct settlements in this transportation network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A city's public transport department is planning new bus routes to cover all residential areas. During network analysis, engineers need to determine the total number of neighborhood hubs that must be served to ensure full coverage across the transportation network. How many distinct residential nodes exist in this city's bus route planning system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A traveler wants to plan a sightseeing route starting from Central Station, visiting all accessible attractions via bidirectional roads. To avoid missing any location, calculate the total number of distinct tourist attractions in this transportation network, including the starting station."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a multi-stop journey through interconnected cities. To estimate potential route combinations, the transportation department needs to determine how many unique urban hubs exist in the network where bidirectional roads connect cities directly. Calculate the total number of cities available in this travel network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "After a recent expansion of the metro system, city planners need to verify the total number of accessible stations when designing emergency evacuation routes that connect all possible transfer points. How many unique nodes exist in the current transportation network for evacuation path modeling?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "In a city's bike-sharing network designed to optimize travel route planning for maintenance crews, the transportation department needs to verify service coverage by calculating the total number of docking stations. What is the exact count of unique nodes in this network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A city's transportation department is planning emergency route optimizations after recent road modifications. To ensure comprehensive coverage, how many unique intersections (nodes) currently exist in the updated urban road network that maintenance crews need to account for in their travel route inspections?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A tourist planning to visit all interconnected landmarks in a city using a route optimization app needs to determine the total number of unique attractions available. How many distinct landmarks exist in the network to ensure comprehensive travel coverage?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "To optimize emergency evacuation route planning after recent infrastructure updates, the city council needs to verify the total number of critical road junctions in the downtown area. Calculate how many unique intersections exist within the revised evacuation network to ensure all locations are accounted for in disaster response protocols."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "When optimizing delivery routes for a regional logistics company, planners need to know the total number of distribution hubs in the bidirectional road network. Calculate the exact count of all nodes in this transportation system to determine service coverage capacity."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A logistics company aims to optimize delivery routes in a coastal region where distribution hubs are connected by two-way roads. To allocate resources efficiently, how many unique hubs must their fleet cover to guarantee service availability across the entire network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "In a recently expanded bike-sharing network designed to optimize urban travel routes, each docking station is interconnected to allow seamless transfers. During peak hours, maintenance crews need to efficiently verify coverage areas. Calculate the total number of unique stations across the entire bidirectional network to prioritize resource allocation."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "To improve regional public transportation efficiency, the city council needs to map all possible transfer points between bus routes and cycling paths. When planning express shuttle services connecting suburban areas, how many unique transportation hubs (including both existing and newly proposed interchange stations) must be considered in the entire network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "To improve public transit efficiency, the city plans to optimize bus routes based on connectivity. During network analysis, how many distinct intersections (nodes) must be considered when calculating coverage for the new travel route planning system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "To improve travel efficiency for tourists, the city's navigation app needs to determine key connectivity points in the historic district's road system. Calculate the total number of unique street junctions that must be maintained in the network to ensure all landmark routes remain accessible."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "In a coastal tourism city, electric sightseeing buses connect landmarks and ferry terminals to optimize visitor routes. During peak season, transportation authorities need to determine service coverage scope. How many unique stations exist in the current electric bus network that facilitate transfers between scenic spots and ferry services?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "During emergency evacuation route planning for a coastal city's transportation network, rescue teams must identify all critical checkpoints that connect isolated residential zones to mainland highways. How many unique intersection points require priority reinforcement to ensure all evacuation paths remain accessible?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A tourist is planning a road trip through a regional highway network and wants to ensure their navigation app covers all accessible cities. Cities are connected bidirectionally via roads, and they wish to avoid missing any locations. To optimize their route, how many unique cities (nodes) exist in this transportation network for the app to map?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "After a hurricane disrupted road connections in a coastal region, emergency teams restored bidirectional routes between towns. To ensure efficient delivery of relief supplies, the disaster management agency needs to calculate the total number of towns accessible through the restored network for route planning. How many distinct towns exist in this transportation network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "The city is planning to optimize its emergency evacuation routes. To ensure comprehensive coverage, how many distinct road intersections exist in the current traffic network that need to be included in the evacuation planning?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A travel agency is planning a comprehensive tour route that must cover all bidirectional road connections between cities in a regional transportation network. To minimize backtracking, what is the minimum number of unique cities required to fully traverse every road exactly once during the inspection?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A regional tourism board is developing a travel itinerary planner that requires knowing every possible stop in the coastal highway network connecting 12 beach towns. During the system configuration, how many distinct locations should be programmed into the route database to ensure complete coverage of all accessible points?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "Following a recent expansion of metro lines in the city to enhance regional connectivity, the transit authority needs to optimize travel route planning by verifying coverage of all stations. How many unique stations exist in the updated network to ensure no transfer points are missed during journey calculations?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A regional transportation department is updating their travel route planning system and needs to assess network capacity. During peak tourist season, how many distinct locations (nodes) exist across the entire road network where travelers can potentially start, end, or transfer during cross-city journeys?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "While planning an emergency evacuation route for a coastal city's hurricane-prone districts, authorities must ensure all residential zones are reachable. How many distinct residential zones are present in the evacuation network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A city's maintenance team needs to inspect all road intersections connected by bidirectional streets after a storm. To optimize their route and avoid redundant checks, calculate the total number of unique intersections they must visit to cover the entire transportation network exactly once."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route through the regional bus network, how many unique stops must be considered to ensure all accessible locations are included in the itinerary?  \n\n（Background implied: Nodes represent bus stops, edges represent bidirectional bus routes. The answer requires counting all distinct nodes reachable via connections, aligning with travel route optimization logic while avoiding redundant detours.）"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "After expanding the highway network to connect rural communities, the regional emergency response team needs to determine how many unique intersections exist across the entire system to optimize patrol routes. Calculate the total number of nodes requiring traffic monitoring infrastructure deployment.  \n\n该问题将交通网络扩展与应急路线规划结合，通过节点计数确定监测点数量，符合现实业务需求且指向明确。使用\"calculate\"作为动作动词直接触发数值计算，避免了复杂推理，满足单句提问和主题聚焦的要求。"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "As a city planner optimizing public bus routes, you need to ensure coverage for all transit hubs in the downtown area. How many unique transportation hubs exist in the current network that must be connected by the redesigned bus routes?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "To ensure efficient emergency vehicle routing during peak hours, the city council needs to verify how many distinct neighborhoods are fully interconnected within the downtown road system. Calculate the total neighborhoods that must be prioritized in this connectivity assessment."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A regional tourism board is mapping bicycle path connections between scenic viewpoints to help visitors plan full-day itineraries. Based on the trail intersection records, calculate the total number of unique scenic viewpoint nodes available for trip customization in the mountain resort area's cycling network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "After identifying all emergency shelter locations connected through bidirectional roads in the city's transportation network, calculate the total number of these shelter nodes to verify evacuation route coverage for disaster planning."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "During a city-wide transportation efficiency audit, planners discovered overlapping bus routes between two major terminals. To streamline operations, how many unique transfer hubs exist in the current network that directly connect to both the central railway station and the airport?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A tourist is planning a comprehensive travel route to visit all major landmarks in the city's transportation network. To avoid missing any key locations, how many distinct stops must they include in their itinerary to ensure full coverage of the network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A regional transportation department needs to verify the total number of cities covered in their maintenance plan, where bidirectional roads connect cities either directly or through intermediate hubs. Calculate how many distinct cities exist in this interconnected network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A regional transportation department is planning emergency vehicle patrol routes to ensure coverage of all highway junctions. To deploy sufficient patrol units, calculate the total number of critical interchange nodes that must be included in the route network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A tourist plans to bike through all connected scenic spots in the lakeside recreational area, where each location is a node. To avoid backtracking, how many unique scenic spots (nodes) must be included in their route?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A city's tourism department is optimizing travel route recommendations for visitors. To ensure comprehensive coverage, they need to determine how many unique locations exist in the metro system that can serve as starting points, transfer hubs, or destinations. What is the total number of distinct stations/nodes available for trip planning across the entire network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "A logistics company aims to optimize delivery routes in a regional road network where distribution centers are interconnected. During peak holiday season planning, how many unique facility locations must be considered to ensure complete coverage of all possible transfer points in the network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Travel route planning",
+    "answer": "To improve regional traffic flow analysis for a newly developed residential zone's travel route planning, calculate the total number of distinct intersections (nodes) present in the current road network that directly influence route connectivity between major landmarks."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by identifying all distribution centers and charging stations within their transportation network. Calculate the total number of unique nodes representing these facilities to allocate resources efficiently."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes and determine the most strategic locations for new warehouses, a logistics company needs to evaluate the full scope of its transportation network. How many unique delivery hubs exist in the network to ensure comprehensive coverage analysis?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery routes after expanding service coverage, a logistics company needs to inspect all operational distribution hubs in their updated transportation network. How many nodes (representing active hubs requiring maintenance checks) must be reviewed to ensure seamless holiday season operations?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes, a company needs to evaluate the total number of nodes in their transportation network to determine warehouse allocation strategies. How many unique locations exist in the network for resource distribution planning?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, warehouses and distribution hubs are critical for optimizing delivery routes. To minimize transit times and fuel costs, the operations team needs to know how many unique facilities exist across the entire system. Calculate the total number of key facilities (warehouses and hubs) that must be included in the route planning process."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery routes for a logistics company, the operations team needs to verify complete coverage of all serviceable locations in the urban transportation network. Calculate the total number of nodes representing distribution hubs, warehouses, and transfer stations in the network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel delivery routes for a logistics company, the transportation network includes distribution centers, transfer stations, and customer locations. Before calculating the shortest paths, how many unique nodes exist in this network that require connectivity checks to ensure full coverage?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company expanding into a new metropolitan area, the operations team needs to confirm the total number of service facilities and transfer points in their mapped transportation network. How many distinct nodes exist in this system to ensure comprehensive route coverage?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize next-day delivery routes for a regional parcel service, the logistics team must first assess the total number of residential communities directly accessible within their distribution network. How many unique neighborhoods are currently reachable through their interconnected roadways?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce transportation time, a logistics company needs to determine the total number of critical nodes (including warehouses, distribution centers, and retail stores) in their transportation network. Calculate the exact count of these nodes to ensure efficient resource allocation."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by identifying critical hubs in the urban traffic network. To allocate resources efficiently, they need to determine the total number of accessible locations. How many unique nodes exist in the network to finalize their distribution center placement strategy?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery routes in a city's logistics network, the distribution company needs to determine how many unique neighborhood hubs must be serviced. Calculate the total number of interconnected delivery nodes that require daily package distribution coverage."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package distribution routes, a logistics company needs to map all accessible facilities in their transportation network. If each facility is treated as a node, how many unique storage hubs and transfer stations exist in total to ensure full connectivity across the delivery system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, calculate the total number of unique locations in the transportation network, including both warehouses and customer sites, to ensure comprehensive coverage."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes and allocate delivery vehicles efficiently, a logistics company needs to determine the total number of operational hubs in the urban network. How many unique nodes exist in this transportation system to ensure balanced resource deployment?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery efficiency, a logistics company needs to verify that their updated route network fully integrates all regional warehouses and drop-off hubs. How many distinct locations are currently represented as nodes in this transportation system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery routes for a metropolitan area, a logistics provider needs to determine the total number of accessible distribution nodes. How many unique locations exist in the transportation network that must be included in their route planning algorithm?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing last-mile delivery routes by analyzing their distribution network, which includes multiple interconnected hubs and drop-off points. To allocate resources efficiently, what is the total number of facilities requiring service coverage across the entire network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "As a logistics manager optimizing delivery routes for same-day service, you need to determine the total number of distribution centers, transfer hubs, and drop-off points in the urban network. Calculate the exact count of all interconnected nodes to allocate delivery vehicles efficiently."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline last-mile delivery operations, a logistics company merged several regional hubs and added new customer pickup points. What is the total number of nodes in the updated network that must be considered for route optimization?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package distribution routes, a logistics company needs to determine the total number of active delivery stations operating in their network. How many unique stations must be included in their updated routing plan?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a regional transportation network. To ensure full coverage, their system map shows interconnected distribution hubs. Calculate the total number of nodes required to maintain direct road access between all active distribution centers."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is analyzing its regional distribution network to optimize delivery times. Each distribution hub represents a node, and adjacent hubs share direct two-way transport routes. How many unique distribution hubs exist in the current network configuration?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce fuel costs, a logistics company needs to determine the total number of operational nodes, including both warehouses and transit hubs, in their transportation network. How many unique nodes exist in the entire system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company optimized their regional delivery network by merging redundant processing centers and adding new nodes in underserved areas. To evaluate the coverage efficiency, calculate the total number of operational processing centers currently active in the unified transportation system."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery routes in the Greater Paris area, a logistics company needs to determine the total number of all available delivery points within their current transportation network. Calculate how many unique delivery nodes exist to prioritize warehouse resource allocation."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery routes, a logistics provider needs to calculate the total number of distribution points in the city network to allocate vehicles effectively. How many distinct locations require coverage in the network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a city's public transport system, the logistics department needs to map all transfer points and terminals. How many unique locations (nodes) must be included in the network maintenance plan?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes during peak season, a logistics company needs to determine the total number of operational distribution hubs and customer locations in their transportation network. How many unique nodes exist in this network to plan efficient cargo allocation?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company operating in a city with multiple interconnected distribution hubs, what is the total number of unique nodes that need to be accounted for in the transportation network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network designed to optimize delivery routes for a major courier company, how many unique distribution hubs exist to ensure efficient package sorting and timely dispatch for delivery drivers?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city logistics network where distribution hubs are interconnected by roads, a delivery company needs to optimize routes by confirming the total number of operational hubs. How many unique hubs exist in this transportation network to streamline last-mile delivery services?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes across a regional transportation network. To ensure efficient parcel distribution, they need to determine the minimum number of delivery hubs required to cover all connected locations. Calculate the total number of nodes that must be serviced in the network to validate full coverage for their fleet allocation plan."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize regional delivery routes for a logistics company, planners need to determine the total number of distribution hubs and transfer stations that require service coverage. How many unique nodes exist in the entire transportation network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the operations team needs to map all distribution hubs in the city's transportation network. How many unique logistics hubs exist in the network that require direct connectivity to ensure timely package transfers?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the operations team needs to verify complete network coverage. Calculate the total number of nodes in the current transportation network to ensure all distribution hubs and intermediate access points are accounted for in the connectivity graph."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline last-mile delivery routes and minimize transit times, a logistics company wants to identify all active distribution hubs in its metropolitan service area. Calculate the total number of nodes in the network that represent operational facilities critical for optimizing daily parcel dispatch operations."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes, a logistics company needs to map all accessible distribution hubs, warehouses, and transfer points in their transportation network. Calculate the total number of distinct nodes in the current system."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by analyzing their distribution network covering multiple cities. To assess the baseline infrastructure scale, calculate the total number of unique nodes representing cities and transfer hubs within the network. How many locations are available for strategic route planning?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes across their regional network. To allocate resources efficiently, they need to know how many unique distribution hubs exist in total across all interconnected zones. Calculate the exact number of service points requiring delivery vehicle assignments."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by establishing hubs in a city's transportation network. To plan resource allocation, they need to determine the total number of unique locations (nodes) available for potential hub deployment. Calculate the total number of nodes in the network to identify how many hubs can be strategically placed."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by identifying all accessible nodes in a city's road network after recent maintenance. To allocate resources efficiently, how many unique intersections (nodes) are currently operational and connected for seamless last-mile delivery planning?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes, a logistics company mapped all distribution centers, transfer stations, and warehouses as interconnected nodes. How many unique transportation hubs exist in this network that serve as critical junctions connecting at least two different delivery zones?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and ensure no service areas are overlooked during last-mile logistics planning, calculate the total number of distinct nodes requiring connectivity analysis across the transportation network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To minimize parcel transit times during peak seasons, a logistics company needs to verify connectivity across all distribution hubs in the regional delivery network. Calculate the total number of operational nodes requiring maintenance prioritization to ensure uninterrupted last-mile delivery services."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "After expanding service regions for a last-mile delivery network, how many unique residential complexes and distribution hubs exist in the entire transportation system to prioritize route optimization efforts?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes for a regional supply chain, the company needs to determine how many distribution hubs exist in the transportation network. Calculate the total number of hubs required to prioritize connectivity analysis for efficient parcel distribution."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery routes for a regional e-commerce company, the logistics team needs to determine the total number of unique access points (including warehouses and neighborhood stations) in their service network. Compute the total number of nodes required to model this transportation system for efficient route planning."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline last-mile delivery routes, a logistics provider aims to map all accessible distribution hubs in an urban transportation network. If redundant hubs are merged, how many unique nodes must be considered when calculating the minimum coverage points for same-day package delivery?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package distribution routes and ensure no delivery point is missed, the logistics company needs to know the total number of accessible locations in the network. Calculate the exact count of nodes to determine efficient warehouse placement and vehicle allocation."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery efficiency and ensure timely logistics coverage, a courier company needs to verify the total number of active distribution nodes in their newly integrated regional network. How many unique service points must be accounted for in their overnight routing system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery routes in the city's logistics network, a courier company needs to verify the total number of active service facilities available for package distribution. What is the exact count of all operational nodes in this transportation system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery routes during peak holiday seasons, a logistics company needs to confirm the total number of operational distribution nodes in their urban network. Calculate the exact count of active nodes required to ensure seamless package routing across all service zones."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery routes for a regional logistics company, calculate the total number of nodes in the current transportation network encompassing all warehouses and distribution hubs."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes, a logistics company needs to map all accessible locations in an urban transportation network. How many unique delivery hubs exist in the network to ensure comprehensive coverage for their fleet?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To improve delivery efficiency for a city's express logistics service provider, the operations team needs to determine the total number of storage facilities and connection points in their distribution network. How many unique nodes exist in this transportation system that require routing optimization for parcel sorting and dispatch?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package distribution routes in an urban delivery network, a logistics company needs to determine the total number of service hubs and access points that require coverage. How many unique nodes must be included in their route planning system to ensure all connected facilities are accounted for?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes during peak season, a logistics company needs to assess the scale of their regional service network composed of interconnected warehouses and delivery stations. How many unique facility nodes exist across this transportation system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes in a newly developed urban zone. To allocate resources efficiently, they need to determine the total number of unique delivery points (nodes) within the service area. How many distinct locations require coverage in this zone?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a southern region's road network. To ensure efficient resource allocation, calculate the total number of unique locations (nodes) their central distribution hub must cover to maintain full connectivity across all delivery zones."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and reduce fuel costs for a logistics company operating in a metropolitan area, the network engineers need to determine the total number of service hubs and customer points involved in daily operations. Calculate the total number of nodes required to generate an optimal delivery sequence covering all locations efficiently."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize next-day delivery routes across a regional supply chain network. To minimize redundant stops, calculate the total number of unique storage hubs and transfer stations that must be serviced within the network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes, a logistics company needs to verify the total number of accessible warehouses in their transportation network where each warehouse must have at least one operational road connection. How many warehouses are currently available in the entire distribution network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, each distribution hub is connected by bidirectional delivery routes. To optimize parcel delivery efficiency during peak season, the logistics company needs to determine the total number of operational hubs for allocating delivery vehicles and staff. How many nodes exist in this transportation network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes across Southeast Asia by analyzing the transportation network connecting regional warehouses and distribution hubs. To streamline operations, they need to determine the total number of facilities (nodes) in the network. Calculate this value to finalize resource allocation plans."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, we need to ensure comprehensive coverage of all distribution hubs in the transportation network. How many unique nodes must be included in the final route planning to guarantee no delivery point is missed?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes and minimize transportation time, a logistics company needs to determine the total number of nodes in their distribution network, including all warehouses, distribution centers, and transit hubs. How many nodes are present in the entire network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize same-day delivery routes for a logistics company, the operations team needs to know how many unique storage warehouses exist in the transportation network. Calculate the total number of distinct nodes representing these warehouses to allocate delivery vehicles efficiently."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by analyzing a city's transportation network where nodes represent key intersections and distribution centers. To determine potential consolidation points for cargo transfers, calculate the total number of unique locations available in this network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing regional delivery routes by analyzing the centralized distribution network. Each node represents a key distribution hub, and connections indicate shared transportation corridors. To streamline resource allocation, how many unique hubs require capacity upgrades in this network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize same-day delivery routes, a logistics company needs to determine how many unique distribution hubs exist in the transportation network that can serve as intermediate stops. Calculate the total number of nodes required to fully map all available hubs for prioritizing delivery vehicle deployment."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in an urban area where intersections represent nodes and roads represent edges. After merging redundant pathways and removing deprecated connections, how many unique nodes currently exist in the updated transportation network to determine the minimum required distribution hubs?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery efficiency, a logistics company merged several distribution hubs and local warehouses within a metropolitan area. Calculate the total number of unique nodes in the integrated network to determine optimal resource allocation for delivery vehicles."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline last-mile delivery and reduce transit times, a logistics provider needs to assess all operational distribution points within their interconnected urban highway system. How many unique warehouse nodes exist in this network to be prioritized for route optimization?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for GreenSprout Logistics, the operations team needs to determine the total number of storage warehouses in their distribution network. How many unique facility nodes exist in the transportation system requiring restocking coordination?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a city's transportation network. To determine optimal warehouse placement and resource allocation, they need to assess the network's coverage area. Calculate the total number of delivery nodes required to fully cover all service locations within the network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize parcel distribution routes, a logistics company needs to ensure sufficient delivery vehicles are allocated to cover all locations in the urban transportation network. How many unique service points (nodes) must be equipped with vehicles to guarantee full coverage?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline last-mile delivery operations in a metropolitan area, a logistics company is analyzing their transportation network to ensure all distribution centers and drop-off points are properly connected. What is the total number of nodes they must account for when calculating optimal parcel redistribution pathways?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company expanding into a new urban area, the operations team needs to know how many unique locations exist in the entire transportation network. Calculate the total number of nodes required to determine the minimum necessary depot placements for full coverage."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Logistics delivery optimization",
+    "answer": "To streamline last-mile delivery efficiency and minimize redundant routes, what is the total number of residential zones currently connected within the metropolitan parcel distribution network that require daily service coverage?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize disaster evacuation routes, the emergency management team needs to map all accessible zones in the transportation network. Calculate the total number of nodes required to establish minimum coverage points for distributing emergency supplies citywide."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, officials need to identify critical infrastructure coverage areas. If each node represents an intersection equipped with emergency signal relays, calculate the total number of nodes in the transportation network to verify full coverage of evacuation routes."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "After an earthquake damaged several roads in the city, emergency responders need to determine the total number of accessible intersections in the surviving transportation network to allocate rescue resources efficiently. How many unique nodes exist in the current road system for coordinating swift evacuation pathways?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response capabilities during power outages, the city council needs to identify all critical backup power stations connected via the main road network. Calculate the total number of these infrastructure nodes required to ensure full coverage across all affected zones."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency shelter planning, the city needs to ensure full coverage of evacuation routes. To validate preparedness, how many unique residential zones (nodes) currently exist in the transportation network that must be connected to emergency response facilities?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a major earthquake scenario, emergency management teams need to identify all critical infrastructure junctions in the transportation network. If backup power stations must be deployed at every node to maintain operational traffic signals during blackouts, calculate the total number of locations requiring immediate generator installations across the interconnected road system."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency vehicle deployment during urban incidents, the city's crisis management team needs to map all critical junctions in the transportation grid. Calculate the total number of nodes in this road network to determine potential resource distribution points."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for earthquake evacuations, city officials need to determine the critical infrastructure points that require prioritized rescue access. Calculate the total number of unique facility nodes (hospitals, fire stations, shelters) in the transportation network to allocate resources effectively."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to identify all accessible road junctions connecting hospitals and shelters to deploy temporary medical stations. How many unique intersections exist in the current network to prioritize resource allocation?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for disaster relief, the city council needs to know the total number of accessible transportation hubs to allocate medical supply stations. Calculate how many unique nodes exist in the current road network to determine potential deployment points."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to identify critical road junctions that form evacuation routes connecting emergency shelters. How many unique nodes exist in this transportation network to ensure full coverage of all possible evacuation paths?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban disaster preparedness, emergency responders need to identify all critical junctions that form evacuation routes in the city's transportation network. Calculate the total number of these key nodes to ensure efficient deployment of rescue resources during emergencies."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation route optimization, how many unique nodes in the transportation network require real-time monitoring to ensure all critical intersections are included in disaster response protocols?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, city officials need to deploy mobile relief stations at all accessible intersections in the transportation network. Calculate the total number of intersections requiring priority resource allocation to ensure full coverage during disasters."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To ensure all emergency shelters can efficiently serve surrounding neighborhoods during a citywide blackout, urban planners must assess the connectivity of backup power supply routes. How many unique residential nodes exist in the critical infrastructure network requiring coverage verification?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation planning after a major earthquake, rescue teams need to confirm how many accessible community shelter nodes exist in the city's road network to allocate medical supplies. How many nodes qualify as operational shelters with confirmed bidirectional access to evacuation routes?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency evacuation routes during a city-wide power outage, the crisis management team needs to determine the total number of critical intersections available for staging rescue operations. How many nodes exist in this transportation network to support emergency vehicle coordination?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban evacuation route optimization for emergency scenarios, city planners need to verify the total number of intersections equipped with emergency assembly points and disaster relief stations. How many unique nodes exist in the transportation network to prioritize resource allocation?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to confirm the total number of critical junctions covered by all evacuation routes to ensure full accessibility. How many unique junctions exist in the transportation network that must be monitored for coordinating emergency vehicle deployment?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to identify all critical road intersections for prioritizing rescue routes. Given the transportation network of a flood-prone coastal city, calculate the total number of nodes requiring priority access during disaster evacuations to ensure efficient resource deployment."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, determining the total number of critical infrastructure points is essential for resource allocation. To optimize rescue routes and coverage, how many unique locations exist in the city's transportation network that require emergency service access?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response capabilities, authorities need to identify the total hubs in the transportation network for deploying backup resources. During a city-wide disaster drill, how many unique nodes must be prioritized to ensure full coverage of critical evacuation routes?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, the city council needs to identify all accessible critical facilities (e.g., hospitals, shelters) within the interconnected road network. If multiple emergency routes share the same facility node, how many unique facilities must be prioritized in evacuation protocols? Calculate the total number of critical facility nodes requiring contingency resource allocation."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to identify all critical facilities acting as evacuation hubs or emergency supply centers in the transportation network. These include hospitals, fire stations, and shelters connected by evacuation routes. How many such critical facility nodes exist in the current network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a major earthquake, rescue teams need to identify all critical road intersections in the transportation network to optimize evacuation routes. How many unique junctions exist in this interconnected system to ensure full coverage of emergency resource distribution?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency evacuation routes during a city-wide power outage, urban planners need to determine how many critical infrastructure nodes (including functioning backup generator stations and emergency shelters) exist in the transportation network. Calculate this essential node count to ensure all potential safe zones are properly mapped."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation planning, rescue teams must map all functional intersections to ensure no neighborhood is isolated. Calculate the total number of nodes in the transportation network to determine the minimum deployment scale of emergency shelters."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To improve emergency evacuation route efficiency during city-wide disasters, the disaster management team must verify the total number of operational road intersections in the current transportation grid. Calculate the exact count of unique nodes available for coordinating rescue vehicle dispatch."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": " During urban emergency response planning, authorities need to identify evacuation routes that cover all accessible intersections. Calculate the total number of critical monitoring points required to ensure full surveillance across the transportation network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency evacuation routes during natural disasters, the city's crisis management team needs to map all accessible evacuation assembly points within the transportation network. How many unique assembly points exist across the network for coordinating rapid citizen relocation?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban emergency response efficiency during peak traffic hours, the city's disaster management team needs to identify critical infrastructure points. Calculate the total number of prioritized emergency assembly nodes across all evacuation zones to ensure full coverage for crisis scenarios."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During a citywide emergency evacuation plan update, officials need to identify all possible access points for rescue operations. How many distinct nodes exist in the transportation network that must be prioritized for critical infrastructure reinforcement?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to ensure all accessible areas are covered. If evacuation routes depend on interconnected road nodes, calculate the total number of nodes requiring emergency resource stations to guarantee full network coverage."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to deploy mobile command units at strategic locations to ensure full coverage of critical infrastructure nodes. If each unit can only monitor incidents within its directly connected node, calculate the total number of units required to cover all nodes in the transportation network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, city officials need to identify all critical road junctions that must remain accessible during disasters to ensure efficient evacuation routes. Calculate the total number of unique intersections in the transportation network to prioritize resource allocation for maintaining these vital connections."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance urban disaster preparedness, emergency coordinators must identify all functional emergency supply depots interconnected by roadways for efficient resource distribution. Calculate the total number of these depots in the network to validate contingency coverage."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency evacuation routes during urban disasters, the city's emergency management team needs to assess critical infrastructure coverage. How many distinct street intersections (nodes) exist in the transportation network that must be prioritized for real-time monitoring during crisis scenarios?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency response times during disaster scenarios, city planners must verify the complete reachability of all intersections in the transportation network. Calculate the total number of critical nodes requiring real-time monitoring to ensure seamless coordination of rescue operations."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency evacuation routes and ensure efficient resource allocation during urban crises, city planners need to know the total number of critical junctions in the transportation network. How many nodes exist in the current network to support rapid emergency vehicle deployment and evacuation path planning?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency resource distribution during urban disasters, the city's emergency management department needs to determine how many critical facilities (emergency shelters, fire stations, and hospitals) exist in the interconnected road network. Calculate the total number of these facilities to verify if they meet the minimum coverage requirement of 1 per 50,000 residents."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During a city-wide power outage, emergency responders must identify all functional traffic signal junctions in the transportation network to deploy backup generators efficiently. Calculate the total number of operational junctions requiring immediate power support to maintain critical evacuation routes."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency medical service coverage during a city-wide power outage, how many distinct nodes in the transportation network must be equipped with backup generators to ensure all critical intersections remain operational?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, a city's critical infrastructure network includes evacuation routes connecting emergency shelters and medical centers. To optimize resource allocation during disasters, how many unique facilities (nodes) must be prioritized for rapid accessibility assessments in this interconnected system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, a critical task is identifying all major intersection points within the city's road network to optimize emergency facility coverage. How many unique junctions require priority monitoring to ensure full coverage of rapid rescue routes during disasters?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize urban emergency response planning, authorities need to assess the coverage of critical facilities like hospitals and evacuation hubs. How many unique locations (nodes) exist in the transportation network that must be prioritized for emergency resource allocation?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning, ensuring sufficient coverage of critical facilities is vital. During a city-wide evacuation scenario, how many unique emergency shelter nodes exist in the transportation network that can be directly accessed via connecting roads?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a major earthquake scenario, calculate the total number of nodes in the transportation network that could potentially serve as temporary medical supply distribution points, ensuring full coverage across all connected areas."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for earthquake evacuations, authorities need to identify all accessible intersection points in the city's road network to deploy temporary relief stations. How many unique nodes exist in this transportation network to ensure full coverage of critical locations?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a metropolitan area, the fire department needs to determine the total number of critical intersections in the downtown zone to allocate rescue resources efficiently. If each intersection is modeled as a node, how many unique nodes exist in this transportation network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, a city needs to map all accessible zones for rapid deployment of rescue teams. Given that each zone is represented as a node and adjacent zones are connected via emergency routes, calculate the total number of zones requiring contingency resource allocations within the network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency evacuation drill, the city's disaster management team needs to identify all accessible critical junctions for deploying emergency resources. Calculate the total number of unique intersections requiring priority monitoring in the transportation network to ensure full coverage of evacuation routes."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "Following a major earthquake, urban planners need to quickly identify how many critical infrastructure nodes exist across the city's transportation network to allocate emergency shelters and medical supplies. How many distinct locations qualify as priority nodes requiring immediate resource deployment?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the aftermath of a major hurricane, emergency response teams need to identify all accessible urban zones for deploying mobile medical units. Calculate the total number of interconnected residential districts within the disaster-stricken transportation network to determine critical resource distribution points."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for earthquake scenarios, rescue teams need to identify all accessible road intersections within the transportation network to deploy temporary medical stations. How many unique intersections exist in the entire network that could serve as potential deployment points?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for critical infrastructure protection, disaster management teams need to identify all potential evacuation shelters within the transportation network. Calculate the total number of candidate shelter nodes that could be activated during a city-wide emergency, where each valid shelter must be connected to at least two evacuation routes."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To enhance disaster preparedness for flood-prone zones, urban planners must verify if the number of critical emergency response hubs in the transportation network meets safety standards. Calculate the total count of these designated hubs currently integrated into the system."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation route planning, authorities need to verify the total number of accessible intersections in the transportation network to ensure full coverage for rescue operations. How many nodes exist in the current network that must be included in critical emergency pathway calculations?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to quickly identify all critical facilities (e.g., hospitals, fire stations) within the transportation network to optimize rescue route coverage. Calculate the total number of such critical facility nodes that require priority accessibility assessments."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In order to optimize urban emergency response planning, rescue teams need to determine the total number of critical junctions in the main urban traffic network that directly influence evacuation route redundancy. How many such key nodes exist in the system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban flood evacuation planning, emergency responders need to identify critical junctions for deploying rescue teams. Given bidirectional road connections between street intersections, calculate the total number of unique intersections (nodes) requiring real-time monitoring to ensure full coverage of the evacuation network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response plan, emergency shelters must maintain accessible connections to transportation networks. After a flood damaged several key roads, officials need to calculate the total number of functional emergency shelters that remain fully integrated within the surviving transportation grid to deploy critical supplies efficiently. How many accessible nodes exist in this emergency response network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to confirm the total number of critical facilities connected to the evacuation network. How many nodes exist in the transportation system that directly serve as emergency shelters or medical coordination points?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban fire emergency planning, the city needs to determine how many residential zones (nodes) are within immediate coverage of fire stations through direct road connections to optimize evacuation routes. Calculate the total number of nodes in this critical network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency evacuation routes during city-wide disasters, urban planners need to map all accessible junctions. Calculate the total number of nodes in the transportation network to identify critical coverage gaps for rescue teams."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize evacuation routes during urban flood emergencies, the city council needs to deploy temporary rescue hubs at all functional intersections. Calculate the total number of intersections requiring priority emergency communication devices to ensure full coverage of the transportation network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During an emergency evacuation drill for wildfire risk zones, city planners need to map all accessible intersections to ensure no isolated areas exist. Calculate the total number of intersections in the evacuation route network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to identify all critical intersections for deploying rescue units. If the transportation network represents interconnected evacuation routes, how many unique nodes exist to prioritize resource allocation and coordination?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "Following a recent earthquake, the city's emergency management team needs to update evacuation route plans. To allocate rescue resources efficiently, calculate the total number of critical shelters and intersection nodes available in the urban infrastructure network for urgent evacuation planning."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency evacuation drill, the city's disaster management team needs to identify critical road junctions for deploying temporary relief stations. If these junctions must connect all designated emergency shelters through uninterrupted pathways, calculate the minimum number of nodes required to cover the entire evacuation network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency evacuation routes during a city-wide power outage, urban planners need to determine how many critical infrastructure nodes designated as emergency shelters are currently available in the transportation network. Calculate the total number of these nodes to ensure adequate coverage for affected residents."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban flood evacuation drill, emergency shelters must be mapped to all accessible nodes in the transportation network to ensure coverage for displaced residents. How many nodes are available in the current network to establish these shelters?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During a major flood evacuation in the metropolitan area, emergency responders need to identify all accessible road intersections to plan rescue routes. How many unique intersections (nodes) exist in the transportation network for prioritizing resource allocation?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to identify all accessible residential zones in the transportation network to ensure full coverage for critical resource deployment. How many distinct residential zones exist in this network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to identify critical infrastructure coverage zones. If all hospitals and fire stations must be within 3 nodes of an emergency hub, calculate the total number of unique nodes in the network required to achieve full coverage."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation planning, authorities need to determine the total number of critical intersections that require real-time monitoring in the road network. How many unique junctions should be prioritized for installing emergency alert systems based on the connectivity structure?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To ensure efficient deployment of emergency response teams during urban disasters, calculate the total number of critical infrastructure hubs (nodes) that must be prioritized for connectivity in the city's transportation network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response plan, authorities need to quickly identify all accessible emergency shelters within the city's transportation network to optimize resource allocation. Calculate the total number of designated emergency shelter nodes that must be accounted for in the evacuation strategy."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "To optimize emergency evacuation routes for critical facilities during urban disasters, the city council needs to assess the total number of key infrastructure nodes (including hospitals and fire stations) accessible through interconnected roadways. What is the exact count of these vital nodes in the transportation network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": " Following a city-wide emergency drill, the disaster management agency needs to establish temporary communication hubs at all road intersections to ensure coordinated crisis response. How many distinct intersection nodes require hub installations to achieve complete coverage of the transportation network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to identify all accessible locations for deploying rescue teams. How many unique road junctions exist in the city's critical evacuation zone to ensure full coverage of emergency service routes?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public bus network optimization project, the transit authority needs to evaluate coverage efficiency by identifying the total number of unique transfer stations. These stations act as critical hubs connecting multiple routes. Calculate the number of nodes required to prioritize maintenance scheduling for seamless passenger transfers."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve public transit efficiency during peak hours, the city plans to optimize scheduling by analyzing transfer patterns between bus, metro, and tram routes. The network integrates all modes through shared stations. Calculate the total number of unique stations/nodes across this multimodal transit system to allocate maintenance resources effectively."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour public transit efficiency, the city added three new bus routes connecting existing transfer hubs and decommissioned two outdated stations. Calculate the total number of operational stations in the current network for vehicle deployment planning."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit schedules during peak hours, the city's transportation department needs to assess the current network scale. After merging overlapping bus routes and adding new subway transfer stations, calculate the total number of unique nodes (stops/stations) in the integrated transit system."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during peak hours, the city's transportation department needs to integrate multiple overlapping bus routes while eliminating redundant stops. Calculate the total number of unique stations remaining across the entire network after merging all interconnected transfer hubs and shared route segments."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer times during peak hours, the public transit scheduling team needs to determine the total number of interchange nodes requiring maintenance resource allocation. Calculate the number of such nodes in the network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit route scheduling, a city planner needs to identify the total number of unique stations or stops in the current network before merging redundant ones. How many distinct nodes exist in the transportation system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling in a city's integrated transport network, planners need to determine the total number of transfer stations where multiple transit modes intersect. Calculate the total count of unique nodes representing these multimodal transfer points across the network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour bus frequencies and ensure efficient resource allocation in the public transit network, the scheduling team needs to determine the total number of interconnected stations, including transfer hubs and terminal stops. How many unique stations exist in the entire network for scheduling analysis?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit schedules during peak hours, the transportation department added new bus routes connecting several existing nodes and merged overlapping stops. After these adjustments, how many unique nodes are present in the updated transit network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "After optimizing a city's public transit network by adding new bus routes and modifying existing ones, the scheduling team needs to determine the total number of unique stations currently served. Calculate the total number of nodes in the network to verify connectivity across all planned transit zones."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "When optimizing public transit schedules to reduce transfer waiting times during peak hours, planners must assess the total number of transfer stations available. Calculate the total count of transfer nodes in the network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour bus scheduling, how many transfer nodes exist in the public transit network where passengers can switch between at least two different routes?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit efficiency during peak hours, the city's transportation department needs to assess the current scale of interconnected transit hubs. How many unique stations exist in the metro and bus transfer network where at least two routes converge, enabling passenger transfers between different lines?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling efficiency during peak hours, city planners need to ensure adequate coverage across all transfer hubs. The network includes interconnected bus stops, metro stations, and shared mobility nodes. Calculate the total number of unique nodes in the current transit network to verify resource allocation aligns with operational demands."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "When planning a new integrated public transit network, the scheduling team needs to determine the total number of operational stations across the entire system to allocate adequate vehicle and maintenance resources. The network currently combines existing bus routes, metro loops, and regional rail services. Calculate the number of unique stations in the network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit schedules and ensure balanced service distribution across key transit points, how many unique nodes (including both terminals and intermediate transfer stations) must be considered for operational capacity planning in the current network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour service allocation in a metropolitan public transit system, planners need to verify the total number of interchange stations where multiple bus routes intersect. How many unique interchange nodes exist in the current network to prioritize resource distribution?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit schedules during peak hours, the city's transportation department needs to determine the total number of interconnected bus terminals and metro stations acting as transfer hubs. Calculate the total number of these critical nodes to allocate shuttle services effectively."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, planners need to optimize bus route overlaps by identifying all transfer hubs where three or more routes intersect. Calculate the total number of these transfer hubs in the current network to assess coverage redundancy and connectivity efficiency."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour service frequency in the public transit network, planners need to determine the total number of operational stations currently integrated into the system. Calculate the total node count across this transportation network to support scheduling adjustments."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour bus frequencies and allocate maintenance resources efficiently, the public transit authority needs to determine the total number of accessible stations in the interconnected metro and bus network. Calculate the exact count of operational transit nodes."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling after merging two circular bus routes and adding three feeder lines, the city's transportation department needs to determine how many unique transfer hubs now exist in the integrated network. Calculate the total number of critical nodes facilitating passenger transfers across this updated system."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public bus network scheduling, city planners need to assess the total number of transfer hubs for balancing route frequencies. How many nodes exist in the current transportation network to represent these critical interchange points?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "After redesigning the public bus routes to optimize transfers between major hubs, how many unique stations are included in the entire network to ensure seamless connectivity for commuters?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "The city public transit department is optimizing bus route schedules and needs to determine resource allocation based on station density. To fairly distribute maintenance crews across the network, how many unique transit stations exist in the entire interconnected system that require service coordination?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public bus scheduling during peak hours, the transit authority needs to assess the current network's scale. Calculate the total number of bus stops included in the interconnected routes across the city."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour operational efficiency, the public transit authority merged overlapping bus stops across three routes and introduced new transfer hubs connecting metro stations. Calculate the total number of unique nodes in the updated network after removing duplicated stops and adding critical interchanges."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour train frequencies and reduce transfer delays, the city's public transit team needs to determine the total number of stations across all interconnected rail lines. How many unique stations must be considered in their scheduling analysis?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve public transit efficiency during rush hours, the city's transportation department needs to determine the total number of stations across all interconnected bus and metro routes for resource allocation. How many unique nodes exist in this integrated transit network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour service coverage, the city's public transit agency has merged two bus routes and added new stops connecting them to the metro system. Calculate the total number of unique transfer nodes requiring coordinated scheduling in the updated network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": " To improve peak-hour service efficiency, the city's public transit authority needs to determine the total number of interconnected transfer stations across all subway lines and bus routes. Calculate the exact count of these critical hubs to optimize resource allocation for coordinated schedule adjustments."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve public transit efficiency, the city plans to redistribute shuttle buses based on station connectivity. Calculate the total number of unique metro stations in the network that require maintenance crew deployment this quarter."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour service frequency and reduce overcrowding on buses, the public transit authority needs to evaluate the current network size. How many unique bus stops exist in the entire transit system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer times and reduce passenger wait periods during peak hours, the city's public transit authority is analyzing their integrated network of bus stops and subway stations. How many unique stops and transfer points exist across the entire system that require coordinated scheduling?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize transfer hubs and improve accessibility in the public transit network, the scheduling team needs to determine the total number of all available stations and transfer points in the current system. Calculate the number of nodes across the network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour service efficiency, the public transit authority plans to adjust bus routes by integrating transfer hubs and expanding coverage in residential zones. How many unique stations currently exist in the entire network after recent expansions, ensuring seamless connectivity across all lines?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "After a city's public transit agency restructured several bus routes to improve connectivity, the scheduler needs to determine the total number of unique stations served across the entire network. How many distinct transit nodes exist in the system to optimize service frequency planning?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "A public transit agency is optimizing their bus network by identifying critical transfer points and ensuring coverage across all zones. To allocate maintenance resources effectively, they need to determine the total number of stations requiring infrastructure upgrades. Calculate the exact count of unique stations in the integrated transit network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "When optimizing public transit network scheduling, the city's transport authority merged several overlapping bus stops and introduced new express routes connecting key hubs. To ensure adequate resource allocation, what is the total number of distinct transit nodes (including both existing stations and newly created transfer points) requiring service coverage in the updated network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During the public transit network scheduling process, city planners integrated 3 new subway lines into the existing system last month. Each line added 4 stations, but 2 existing hub stations were decommissioned due to structural risks. Calculate the total number of operational stations in the current network to verify system capacity for upcoming peak season demands."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a metropolitan public transit network undergoing route optimization, the scheduling team aims to synchronize timetables across transfer hubs while minimizing redundant connections. During this process, how many distinct stations currently exist as operational nodes in the entire network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour service frequency, public transit schedulers need to determine the total number of operational stations currently active in the network for effective resource allocation. How many unique stations exist across all routes in the system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit efficiency and reduce transfer times during peak hours, the city's transportation department needs to assess the current network scale. How many unique transit hubs (including bus terminals, metro stations, and ferry docks) exist in the entire interconnected system that require coordinated scheduling?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit efficiency during peak hours, the city's transportation department plans to consolidate overlapping bus routes and remove redundant stops. Before finalizing the changes, they need to assess the current network's scale. What is the total number of unique bus stops (nodes) requiring scheduling adjustments across all active routes in the metropolitan area?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "After recent adjustments to the public bus routes in the city, including merging overlapping stops and adding new connectors near subway stations, how many unique transit stops currently exist in the network that are actively serviced by at least one bus or subway line?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit schedules and ensure adequate coverage during peak hours, the city's transportation team needs to determine the total number of interchange stations critical for multi-line connectivity in the network. How many unique stations serve as transfer points between different transit routes?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve the efficiency of public transit scheduling during major events, the city's transportation department needs to determine the total number of active stations operating across all interconnected routes. How many unique stations must be included in the real-time coordination system to ensure seamless transfers and minimize congestion?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network rescheduling for peak-hour congestion relief, several bus stops were merged or removed. If all remaining stops must have at least one bidirectional route connection to maintain service continuity, how many active stops are currently in the updated network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve public transit efficiency, the city plans to allocate buses based on the number of interconnected hubs. How many distinct transit nodes exist in the metropolitan rail and bus network to determine optimal vehicle distribution?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit vehicle scheduling during peak hours and ensure coverage of all active stations, how many nodes need to be accurately counted in the current operational network to prevent service gaps caused by unaccounted interchange hubs or newly added routes?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update to optimize peak-hour route efficiency and reduce overlapping service areas, planners need to confirm the total number of operational nodes to allocate resources accurately. How many nodes are present in the entire network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To ensure efficient overnight bus coverage and minimize transfer delays during maintenance, the public transit authority needs to determine how many unique stations serve as critical connection points across all active routes in the metro area. What is the total number of these vital interchange nodes requiring prioritized resource allocation?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during peak hours, the city's transportation department needs to assess the total number of operational stations across all interconnected routes. How many unique nodes exist in the current network to determine resource allocation for maintenance crews?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit efficiency during peak hours, the city council plans to consolidate overlapping bus routes and integrate them with existing metro stations. After merging 3 major bus corridors and adding 2 new interchange hubs, how many unique nodes are present in the updated transit network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "After adding three new bus routes connecting existing transfer hubs and previously unserved areas in the city's public transit network, how many unique stations are now part of the entire system to optimize scheduling efficiency and reduce transfer wait times?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network optimization project, the scheduling team needs to identify all transfer hubs to adjust bus frequency allocations. Calculate the total number of critical nodes in the network that serve as interchange points between multiple bus routes, as this directly impacts fleet deployment planning."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "As part of optimizing public bus and tram route coordination in the city center, the transportation department needs to determine the total number of unique transit stops across all integrated routes to allocate resources efficiently. How many distinct stops exist in the current network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour service frequency, the public transit planning team needs to determine the total number of transfer stations where multiple bus routes intersect. How many such nodes exist in the network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "After integrating all bus, tram, and subway lines into a unified public transit system to optimize scheduling efficiency, calculate the total number of unique stations requiring coordinated timetable adjustments across the entire network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during a city-wide network expansion, the transportation department needs to determine the total number of unique transit stops across all merged routes after integrating two suburban rail subsystems. Calculate the total count of nodes in the unified network to allocate resources efficiently."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize scheduling efficiency, the city's public transit authority merged several redundant bus stops and introduced new express routes. How many unique stops currently exist in the integrated network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization project, the scheduling team needs to calculate the total number of accessible stops after merging overlapping bus routes and adding new bicycle-sharing hubs in the downtown area. What is the current count of distinct nodes across this integrated transportation system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a city's public transit network redesign, the scheduling team needs to balance service frequency across all transfer hubs and regular stops. Stations are interconnected through bidirectional tram routes. To allocate maintenance resources equitably, how many unique operational nodes exist in the entire network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour service frequency, the public transit scheduling team needs to determine the total number of transfer nodes where multiple routes intersect. Calculate the total count of nodes in the current network required for coordinating bus and metro line schedules."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public bus scheduling during peak hours, the transit authority needs to know how many unique bus stops exist in the current network where routes intersect or terminate. What is the total number of nodes representing these critical scheduling points?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "A city's public transit agency is optimizing their bus network to reduce overlapping routes. The scheduling team needs to determine how many unique transfer hubs exist across all current routes to allocate resources efficiently. Calculate the total number of transfer hubs in the network that serve as critical connection points between multiple bus lines."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit schedules during peak hours, the city's transportation department needs to assess the current network scale. Calculate the total number of interchange stations and terminals across all bus and tram routes to allocate resources efficiently."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "After optimizing the transfer hubs by merging overlapping bus stops in the downtown public transit network, how many unique stations currently exist in the entire system to finalize the new timetable scheduling?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour vehicle allocation for a public transit network, the scheduling team needs to balance passenger load across interconnected routes. Calculate the total number of unique stations in the network to determine resource distribution thresholds."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "A city is optimizing its public transit schedules by analyzing station connectivity. Calculate the total number of stations in the current network to determine how many buses should be allocated during rush hours for balanced regional coverage."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour bus frequency adjustments, the public transit department needs to determine the number of key transfer hubs where passengers can switch between different routes without walking. Calculate the total number of these transfer hubs in the network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "A city is optimizing its public transit network to reduce transfer times between bus and metro lines. To evaluate the feasibility of adding express routes, how many unique interchange stations currently exist where at least two different transit modes (e.g., bus stops and metro stations) are physically connected?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network where multiple bus routes share transfer hubs as common stops, a city planner needs to determine the total number of unique stations or nodes across all integrated routes to allocate resources efficiently. Calculate the total count of distinct nodes required to coordinate vehicle deployments and schedule synchronization."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during peak hours, the city's transportation department needs to identify all critical transfer points and service hubs. Calculate the total number of stations requiring service frequency adjustments to balance passenger loads across all routes."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit schedules during peak hours, the transportation department needs to determine the total number of stations requiring maintenance staff allocation across all interconnected routes. How many stations are included in the current network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public bus schedules during peak hours, the transit authority needs to ensure all bus stops in the urban network are properly connected. Each interchange point where routes intersect is critical for passenger transfers. How many unique stops exist in this transit system that require coordinated scheduling?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To improve the efficiency of public transit scheduling during rush hours, the city's transport department needs to know the total number of operational stations across all interconnected bus and tram routes. How many unique nodes exist in the active transportation network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "To enhance public transit efficiency during peak hours, the city's transportation department needs to optimize bus route connections by identifying key transfer hubs. How many unique stations exist in the entire network that serve as connection points for multiple bus lines, where each station is counted once regardless of how many routes pass through it?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Public transit network scheduling",
+    "answer": "A public transit agency is optimizing bus routes to ensure full coverage. To allocate vehicles efficiently, the scheduling team needs to determine the total number of stops currently integrated into the network. How many unique stops exist in the system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company is planning to optimize their parking station network in downtown areas. To ensure adequate resource allocation, they need to determine the total number of nodes representing parking stations across all interconnected zones where at least two adjacent stations exist for rider transfers. How many unique parking stations (nodes) are present in this network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform needs to optimize vehicle redistribution across their bike-sharing network in downtown areas. Stations with direct bike lane connections form the operational backbone. To balance supply and demand, how many unique stations currently participate in this interconnected system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution for a shared e-scooter platform operating in downtown areas, the operations team needs to determine the total number of active docking stations currently participating in the service network. Calculate the exact count of all operational stations forming this transportation system."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize resource allocation for shared e-scooter parking hubs across interconnected zones, a mobility platform needs to calculate the total number of service nodes in their network. How many unique parking hubs exist when merging coverage from three districts where each hub is counted once regardless of district overlap?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing its electric scooter parking network to optimize service coverage. Each parking hub is connected to nearby hubs via bike lanes. To ensure efficient rebalancing operations, how many unique parking hubs exist in the current transportation network that require nightly maintenance?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing their electric car rental service in a metropolitan area. Stations are linked via bidirectional roads allowing vehicle pick-up and drop-off. To ensure adequate charging infrastructure, how many unique stations exist in the network where users can seamlessly interchange vehicles?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize the distribution of shared electric scooters, a mobility platform needs to determine the total number of available parking stations in their current service area that meet the minimum connection requirements. Calculate the number of nodes in the transportation network where these stations are located."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution across the city's shared e-scooter network, the operations team needs to determine how many parking hubs are actively connected within the main service zone. How many nodes represent functional parking hubs in this interconnected mobility system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To improve service efficiency for a shared e-bike platform, the operations team needs to calculate the total number of charging stations across the city's transportation network. How many nodes exist in this network, where each node represents a charging hub connected to adjacent stations via bike lanes?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is optimizing their service coverage area by ensuring all parking stations are interconnected through accessible bike lanes. During maintenance, they need to verify the total number of active parking stations remaining in the network after temporary closures. What is the total count of operational nodes in the current transportation network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "In a bike-sharing system operated by a shared mobility platform, the operational team needs to assess the current network coverage. They represent stations as nodes and bike transfer routes as bidirectional connections. How many unique stations exist in the network if the goal is to optimize rebalancing efforts across all active locations?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "After a recent system maintenance, the shared e-scooter platform reactivated all stations within the urban service zone except those located near construction sites. Stations are considered operational only if connected to at least one bidirectional road. Calculate the total number of currently active shared mobility stations in the network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing their electric scooter service coverage in downtown areas where stations are connected via bidirectional roads. Compute the total number of unique docking stations present in the operational network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing their e-scooter service coverage in downtown areas. Maintenance teams need to confirm how many unique charging stations (nodes) currently exist across interconnected road segments to ensure all deployed vehicles can be efficiently recharged. What is the total number of nodes that must be included in their maintenance schedule?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared e-scooter platform analyzes its service coverage in urban areas, the operations team needs to determine how many distinct parking hubs exist across the city's transportation network, where each hub represents a node connected by bike lanes. What is the total number of these mobility hubs requiring maintenance coordination this month?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company is optimizing their service zones in downtown areas. Their maintenance team needs to determine how many docking stations require nightly inspections, considering all stations connected via bike lanes form a continuous network. How many unique nodes exist in this transportation grid?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing their electric scooter network coverage in an urban area, where all charging stations are interconnected via bidirectional roads. To optimize service efficiency, how many unique charging stations need to be maintained to ensure the entire network remains fully accessible?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform needs to determine the total number of parking hubs in a downtown area to optimize fleet maintenance. These hubs are interconnected via bidirectional roads for balanced vehicle distribution. Calculate how many distinct hubs exist in the network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform needs to optimize parking spot maintenance in a city's transport network. Each parking node is connected to adjacent ones via bike lanes. To schedule inspections efficiently, how many unique parking nodes exist in the network where all locations are mutually reachable through these lanes?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing their urban service coverage to optimize vehicle distribution. Each parking station in their e-scooter network is represented as a node, with roads between stations as edges. To evaluate operational scalability, how many unique nodes exist in their current transportation graph?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing its electric scooter parking network by integrating stations across multiple urban zones connected via bike lanes. To assess service coverage, how many unique parking nodes are currently active in the network after excluding 3 stations under maintenance and 2 temporarily closed due to flooding?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing the coverage of their e-scooter hubs in downtown areas, where each hub connects to adjacent neighborhoods via bike lanes. To evaluate service accessibility, what is the total number of transportation nodes in their operational network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing vehicle distribution across its network of parking stations connected by bike lanes. To ensure service coverage, calculate the total number of unique parking stations available for users in the central urban area."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is analyzing their service hub network to improve maintenance efficiency. How many unique hubs exist in the interconnected network where each hub is connected to at least one other for optimal resource distribution?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is analyzing its service accessibility in a city. The network includes charging stations and rental docks connected via bike lanes. To ensure seamless user access, how many unique nodes exist in the system where each node represents either a charging station or a dock?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is optimizing their charging station layout to ensure service coverage across the city. The maintenance team needs to confirm the total number of charging station nodes currently active in their network. How many nodes exist in this transportation system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared electric scooter platform is optimizing its service zones in downtown areas. When expanding to new residential complexes, their navigation system requires all parking nodes to form interconnected clusters. Calculate the total number of distinct parking stations currently maintained in their operational network to verify coverage compliance."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing electric vehicle deployment across a city's transportation network. Each charging station represents a node, and roads between them are connections. To balance resource allocation, how many distinct charging zones need to be maintained if overlapping stations are merged into single nodes?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution for a shared e-scooter platform operating in downtown areas, urban planners need to determine the total number of parking hubs in their service network. Each hub connects to adjacent stations via bike lanes. Calculate the exact count of unique parking hubs in this mobility network to allocate charging infrastructure efficiently?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "During a system-wide maintenance check for a shared e-scooter platform, the operations team needs to identify all active docking stations currently offline due to connectivity issues. Each functional docking station represents a node, and stations with bidirectional road access can temporarily reroute scooters. How many nodes (docking stations) are currently unavailable, requiring immediate redistribution of scooters to adjacent connected stations?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing their service network to identify coverage gaps in urban areas. The company needs to determine how many unique street intersections equipped with bike-sharing stations exist across the connected transportation grid. What is the total count of these service nodes?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company recently merged operations with a local bike-sharing service, combining their station networks. To balance vehicle distribution across all access points, how many unique docking stations currently exist in the integrated transportation system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing their electric scooter parking zones across the city. To balance supply and demand, they need to determine how many distinct parking hubs currently exist in their service network. What is the total count of these designated parking zones?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is optimizing service coverage by analyzing their parking hub network. After merging overlapping zones and removing redundant nodes due to recent city infrastructure changes, how many unique docking stations currently exist in the operational area?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize the allocation of shared electric scooters across the city, a mobility platform needs to verify the total number of parking hubs in their service network. Each hub allows users to pick up or drop off scooters. How many unique hubs currently exist in this bidirectional transportation network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is analyzing service coverage in an urban area where charging stations and parking hubs form a connected network. To evaluate potential expansion zones, what is the total number of distinct operational nodes across all boroughs that require maintenance prioritization?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To assess service coverage for a shared mobility platform, the operations team needs to determine the total number of active vehicle pickup/drop-off nodes in their bidirectional urban road network. How many unique nodes exist across all interconnected zones?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing their electric scooter parking network, where each parking hub is connected to adjacent hubs via bike lanes. To ensure adequate maintenance coverage during peak tourist season, calculate the total number of parking hubs currently operational in the downtown zone."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize service coverage, a shared e-scooter platform needs to confirm their parking zones encompass all major transit hubs in the urban transportation network. How many distinct parking zone nodes exist in the current network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company needs to map all available parking stations in their service network to optimize maintenance routes. Each station is interconnected with adjacent ones via bike lanes. How many unique parking stations exist in the current operational zone?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is optimizing their charging station network to ensure coverage across all service zones. Each station is connected to nearby ones via bike lanes for maintenance routing. To plan sufficient resources, how many unique charging stations currently exist in the network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To streamline vehicle redistribution efforts, a shared e-scooter platform needs to assess the current scale of their operational network. How many distinct parking zones exist across the entire system where users can pick up or drop off vehicles?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing their electric scooter deployment in the urban center. Their service zones are modeled as interconnected nodes, where each node represents a parking hub linked via bike lanes. To ensure balanced scooter distribution, how many unique parking hubs must they maintain across the entire network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing their electric scooter service coverage in urban areas. How many unique residential zones currently have designated parking hubs integrated into their network, ensuring users can both pick up and return vehicles within walking distance of their homes?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing their electric scooter service coverage in a downtown area. After recent updates, some charging stations were added or merged. To assess the current network's service capacity, calculate the total number of active charging stations across all connected zones where riders can pick up or drop off scooters."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing their electric scooter service coverage. During peak hours, dispatchers need to know how many distinct parking hubs exist in the connected urban network to balance vehicle distribution. What is the total count of these hubs?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As part of optimizing service coverage for a shared mobility platform, maintenance teams need to verify the total number of operational docking stations in downtown areas. Stations are interconnected through bidirectional bike lanes for fleet rebalancing. Calculate how many unique stations exist in this network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To assess the service coverage of a bike-sharing platform during peak commuting hours, how many active docking stations exist in the transportation network where each station is interconnected via bidirectional bike lanes accessible to users?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize the availability of shared e-scooters, a mobility platform needs to assess how many distinct parking hubs exist across downtown Seattle's transportation network, where each hub is treated as a node. Calculate the total number of parking hubs currently integrated into the network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize the rebalancing of shared e-scooters in downtown Seattle, the city's mobility platform needs to determine how many distinct parking hubs exist within their service network. Calculate the total number of operational docking stations across all connected zones."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize rebalancing efforts across the city's shared e-scooter network, how many unique docking stations currently exist in the interconnected service zones where each station is connected via bike lanes?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company is optimizing service zones in downtown areas. To ensure balanced vehicle redistribution, they need to determine how many unique docking stations exist where both incoming and outgoing trips are possible through bidirectional road connections. Calculate the total number of valid stations meeting this connectivity requirement."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing service coverage in urban areas to determine if expanding to new residential zones is feasible. Each parking hub for their e-bikes corresponds to a node, and road connections between hubs are fully mapped. How many distinct residential zones are currently covered by the platform if each zone boundary aligns precisely with the network's node group?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize the parking station network for a bike-sharing platform, the operations team needs to evaluate coverage density. Each station is treated as a node, and adjacent stations within 500 meters are connected via edges. How many unique docking stations exist in the current system to determine if expansion meets service-level agreements?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is evaluating service coverage by analyzing all parking hubs in the urban transportation network. To determine operational efficiency, how many unique parking nodes exist where users can both pick up and return vehicles?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize maintenance routes for shared e-scooter charging stations across the city, how many distinct stations need to be inspected if each is represented as a node in the network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing its electric scooter charging station network, where each station is connected to nearby ones via bike lanes. During a route planning update, the logistics team needs to verify the total number of operational charging stations currently active in the downtown area. How many unique nodes exist in this station network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company is analyzing their service coverage in downtown areas to ensure balanced vehicle distribution. How many unique parking hubs exist in their current transportation network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing their service coverage in a metropolitan area where each charging station represents a node. To optimize electric vehicle distribution, they need to determine the total number of operational charging stations within their interconnected network. How many unique nodes exist in this transportation system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing their e-scooter service coverage by analyzing parking hubs and charging stations. After adding new zones and merging overlapping nodes, how many unique locations currently exist in their operational network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize parking spot allocation for shared e-scooters in downtown areas, a mobility platform needs to determine how many unique street intersections serve as valid parking hubs in their service network. What is the total count of these designated parking nodes?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is expanding its service area by deploying charging stations connected via bidirectional roads. To optimize battery swaps, the company needs to determine the total number of operational charging stations in the current network. How many unique stations exist across the entire interconnected system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing the coverage of electric scooter parking hubs in downtown areas to optimize fleet distribution. To ensure equitable access, how many unique parking hub nodes exist in the current transportation network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform needs to optimize vehicle redistribution by identifying how many unique neighborhoods are currently serviced within their urban network. How many nodes exist in this transportation system to ensure balanced coverage for their e-bike fleet?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As part of optimizing vehicle distribution for a shared e-scooter service, we need to confirm how many parking hubs are currently active in the downtown area's transportation network. How many unique nodes exist where users can pick up or drop off e-scooters?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter maintenance team needs to prioritize service checks across a city's mobility network where parking hubs are interconnected. To optimize resource allocation, calculate the total number of unique parking hubs currently operational in the system."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To improve service coverage analysis, a shared e-bike platform needs to identify all active docking stations within their interconnected urban mobility network. Calculate the total number of operational stations currently integrated into their system."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is planning to expand its service coverage to a new urban district. The existing charging hubs form a network where each hub is connected to at least one other hub via accessible bike lanes. To ensure adequate coverage, the operations team needs to calculate the total number of charging hubs currently available in this interconnected network before deploying additional vehicles. What is the node count of this charging infrastructure system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company is analyzing their service network to balance supply and demand. Recent user reports indicate temporary unavailability at certain stations, but the operational team confirms that all station connections remain active. Calculate the total number of available stations in the current network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is analyzing their service coverage in downtown areas to optimize vehicle redistribution. The transportation network consists of all designated parking hubs where users can start or end trips. How many unique parking hubs currently exist in this network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize real-time vehicle distribution during peak hours, a shared e-scooter platform needs to determine the total number of service hubs in their network where users can pick up or drop off vehicles. How many such hubs exist as interconnected nodes in the current transportation system?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared mobility platform analyzes its bike parking station network to optimize vehicle redistribution, calculate the total number of available parking stations in the entire network that form interconnected road-accessible locations."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing citywide car-sharing parking stations to optimize service coverage. Each station is connected to nearby locations via bidirectional roads for vehicle redistribution. To prioritize maintenance checks, calculate the total number of unique parking stations that require inspection based on their connectivity network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is analyzing their service coverage in downtown areas. Each docking station represents a node, and adjacent stations with high user transfers are connected. To evaluate operational efficiency, calculate the total number of docking stations currently existing in the entire network."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing their bike-sharing network to identify coverage gaps. Stations are interconnected via bike lanes forming a bidirectional graph. To determine service reach, what is the total number of unique docking stations in the network where each station connects to at least one adjacent neighborhood hub through cycling paths?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing their vehicle deployment by mapping all connected charging stations in the urban area. To ensure service coverage, how many unique stations exist in their operational network where each station is treated as a distinct node?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle distribution across a shared e-scooter network, the platform needs to assess service coverage by identifying all designated parking zones. How many unique nodes exist in the current transportation network where users can legally park and unlock e-scooters?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform needs to optimize their service coverage by identifying all active parking hubs in the city's transportation network, where each hub is connected via bike lanes. After a system update accidentally removed partial location data, how many unique parking hubs currently exist in the operational network?"
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "As a shared e-scooter operator planning service expansion, urban transportation authorities require proof of minimum station density across neighborhoods. Calculate the total number of active docking stations in our service network to verify compliance with municipal coverage regulations."
+  },
+  {
+    "label": "Node_Count",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is optimizing vehicle redistribution across their service zones. To prioritize maintenance efforts, the operations team needs to determine how many unique parking hubs currently exist in the high-usage urban district where riders begin or end 90% of trips. What is the total count of these parking hubs in the active transportation network?"
+  }
+]

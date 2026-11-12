@@ -1,0 +1,2002 @@
+[
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is organizing a multi-city bus route and needs to verify if transfer hub node 123 exists in the public transit network connecting Region A and Region B. Does the current transportation system contain node 123 to enable this connection?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to road maintenance in the downtown area, a logistics team needs to reroute deliveries through node 123 to avoid closures. Is node 123 currently accessible within the transportation network for travel planning purposes?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler wants to plan a route connecting the downtown area to the coastal scenic zone. Since road closures might affect connectivity, does node 123 exist in the current transportation network to ensure the feasibility of this travel path?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "During emergency route planning for firefighting teams in a coastal city's bidirectional road network, we need to verify whether station Engine-5 can directly coordinate with node 123 through connected pathways. Does node 123 exist in the current transportation network to ensure complete coverage verification?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's road network where major landmarks are connected via two-way streets, a traveler is planning a route from the central railway station to the downtown museum. According to the latest traffic data, does the shortest valid path between these two locations include the critical intersection node 123?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "In a metropolitan public transportation network where stations are interconnected by bidirectional routes, a traveler is planning a trip from the Central Hub to Riverside District. Does station number 123 exist in this network, enabling connectivity verification for their route?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A logistics company is verifying their regional delivery network, which includes cities and connecting highways. When planning a route from Warehouse A to Distribution Center B, can their system confirm whether node 123 exists in the current transportation network to ensure potential detour options during road maintenance?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning the shortest driving route from City A to City B in the highway network, does the navigation system’s optimal path necessarily include passing through node 123?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a route from the downtown metro hub to the coastal tourist zone, does the public transit network include a critical interchange station labeled as node 123 to ensure seamless connectivity between the two areas?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "In the urban metro system, when planning the shortest transfer route from Green Park Station to Riverside Terminal, we need to confirm whether station 123 exists as a critical interchange node along Line 5. Does this station currently operate in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A commuter needs to plan a route from downtown to the airport using the metro system. During their journey, they must verify if transfer station 123 is available to switch between Line A and Line B. Does station 123 exist in the network to enable this connection?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a sightseeing route connecting major landmarks via public transit. After recent road maintenance updates, can it be confirmed whether transfer hub node 123 remains operational in the current transportation network to ensure seamless connectivity between the art museum and historical square?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A logistics company is planning a delivery route between City X and City Y. They need to ensure their trucks can pass through a mandatory safety checkpoint. Is there a node numbered 123 present in the transportation network to confirm the checkpoint's inclusion in possible routes?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a route from Central Station to Riverside Park and wants to verify if their path requires passing through an intersection labeled as node 123. Does the transportation network contain node 123 along any valid travel route connecting these two locations?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "During a road trip from Springfield to Rivertown, a driver wants to know if there's a route that passes through node 123 to access a historic landmark midway. Can the current highway network confirm the existence of node 123 along any valid travel path between these two cities?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a coastal highway route and needs to verify whether checkpoint node 123 exists in the transportation network to comply with mandatory rest-stop regulations. Is node 123 present in the current road system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route from the downtown station to the mountain scenic area, can the recommended path include a stop at node ID 123 to verify its accessibility within the current road network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's public transportation system used for travel route planning, a commuter wants to know if there's any metro line interchange station numbered 123 along possible paths between Central Station and Riverside District. Does such a node exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a multi-city bus travel route through the regional transportation network, does the optimal path between City X and City Y necessarily include a transfer at node 123 as a critical hub for regional connectivity?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route between City X and City Y, a driver claims that passing through transit hub \"Node 123\" is mandatory. Please confirm whether Node 123 exists in the highway network to validate this route requirement."
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler wants to plan a sightseeing route that passes through a famous landmark labeled as node 123. Based on the current transportation network connections, can the traveler confirm whether node 123 is accessible and exists in the network for route planning purposes?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "During travel route planning between City A and City B, a driver needs to confirm whether node 123 exists in the current transportation network to determine if it can be used as an emergency detour point for road maintenance sections. Based on the latest road connectivity data, does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to ongoing metro line maintenance, passengers traveling from Greenfield Park to Riverside Station must detour. Is there an alternative route available that includes node 123 as a transfer point to ensure connectivity between these two locations?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "During a citywide traffic network audit for emergency vehicle route optimization, authorities need to confirm whether intersection node 123 is currently present in the active road system to ensure direct access to the central hospital district. Is this node verified to exist?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a bus route from Maple Town to Pine City and needs to transfer at Station 123 to connect two regional hubs. Does Station 123 exist in the current transportation network, enabling this travel plan?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route between the northern train station and the lakeside scenic area, can we confirm whether node 123 exists in the transportation network as a critical highway interchange connecting these two zones?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a multi-city bus route and needs to confirm whether station 123 exists in the transportation network to validate their transfer point. Does the network contain a node numbered 123, ensuring the feasibility of their planned itinerary?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When analyzing the interstate highway system for a road trip from Springfield to Brookhaven, is node 123 confirmed to exist within the network as a critical junction required to maintain route continuity between these two cities?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "During travel route planning from the central station to the lakeside terminal, a commuter wonders if node 123 exists in the transportation network to verify whether their preferred shortcut through the downtown area is feasible. Can this node be confirmed as part of the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a road trip from City X to City Y and needs to verify whether node 123 can serve as a connecting point for refueling stations along the route. Based on the current network connections, does node 123 exist in the transportation system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to a major accident blocking the main highway, emergency responders need to reroute from Fire Station A to Riverside District. Does the current road network configuration include node 123 to enable this critical detour?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a route from downtown to the airport and needs to verify whether transfer hub node 123 exists in the city's updated bus network. Is this node available to ensure seamless connectivity during their journey?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route through the regional highway network, does a city with node ID 123 exist in the current transportation system, allowing it to be included as a waypoint?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a route from City Alpha to City Omega through the transportation network. They need to know if any valid path between these cities necessarily passes through the critical transfer hub labeled as node 123. Does such route dependency exist where node 123 must be traversed?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a delivery truck route between the central warehouse and the retail district, does the transportation network contain node 123 as a valid intersection for optimizing travel time?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A city's emergency response team needs to verify if ambulance routes between General Hospital and Riverside Clinic can utilize maintenance checkpoint node 123 as a contingency bypass during bridge closures. Does this checkpoint exist in the active transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "During travel route planning for a regional highway system connecting major cities and scenic spots, a logistics coordinator needs to verify whether node 123 must be included in emergency detour options when road closures occur between Mountainview City and Lakeside Resort. Does node 123 exist in this transportation network to facilitate alternative path analysis?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "During a travel route planning session for emergency vehicle dispatch between the main hospital and the central fire station, the logistics team needs to confirm if node 123 exists in the current network to ensure a viable path. Does node 123 exist in the transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": " When planning a self-driving trip from City A to City B through major highway connections, can we confirm whether City 123 exists as a valid midpoint stop within the current road network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A logistics company is evaluating potential distribution routes between warehouses. In their transportation network analysis, they need to confirm whether node 123 can serve as an intermediate point for rerouting shipments during peak hours. Does this network contain node 123?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "After analyzing the urban traffic network for a proposed bus rapid transit system, can you confirm whether node 123 exists as a mandatory transfer point connecting the eastern industrial zone to the central business district, ensuring route continuity in the current road configuration?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A driver is planning a route from the central station to the airport using city traffic sensors. To avoid toll roads, their navigation system must verify if sensor node 123 is actively mapped in the operational network. Does node 123 exist in the current traffic monitoring infrastructure?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A city's traffic network has several road closures due to construction. During travel route planning for a detour from the central station to the airport, a driver needs to confirm whether there is an operational intersection numbered 123 along potential alternative paths. Does this intersection exist in the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "During travel route planning between Greenfield and Rockville, a tourist needs to verify whether transit hub 123 exists in the transportation network to determine if it can serve as an intermediate stop. Does node 123 exist in the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "In the city's bus transit network, does there exist a direct or connecting route from Central Station to the Airport that requires passing through the critical transfer hub identified as Node 123?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "In the subway system of Metro City, a traveler is planning the quickest route from Downtown Station to Green Park Station. According to the latest network configuration, does node 123 exist along any operational path connecting these two stations, which would confirm its availability for this travel plan?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "During travel route planning for a road trip between City X and City Y, a navigation system shows an error when attempting to use node 123 as a transit point. Based on the current highway network configuration, can a valid route still be established confirming that node 123 actually exists?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "While planning a travel route from Greenfield Station to Lakeside Terminal in the urban rail network, does a station numbered 123 exist along any possible connection path between these two points?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a multi-city route and needs to verify if node 123 serves as a critical junction connecting eastern and western regions of the transportation network. Does node 123 exist in the current system to ensure seamless travel between these zones?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "In the city's public transportation network, a traveler wants to plan a route from the central station to the airport. Are they able to include node 123 in their journey path based on current road connections?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "During an emergency route optimization for ambulance services between cities A, B, C, and D connected via highways, dispatchers need to confirm whether junction 123 exists in the transportation network - a critical node for accessing the regional hospital. Is there a node numbered 123 present in this highway system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route from Central Station to Riverside Park, a commuter needs to confirm whether node 123 exists in the transportation network to ensure connectivity through the shortest path. Does node 123 currently exist in this network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is optimizing their sightseeing route through the city's public transit system and needs to verify whether Node 123 exists near the historic district to include a key museum stop. Is Node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A tourist is planning a scenic coastal drive from Lighthouse Point to Sunset Bay. The optimal route reportedly requires passing through node 123 to avoid mountain detours. Does node 123 exist in the current transportation network to enable this direct travel path?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route from Central Hub to Lakeside Park, is node 123 present in the transportation network to confirm whether a connected path can be established between these two locations?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "In the current city road network, when planning a travel route from Central Station to Green Park, does the path necessarily include the node numbered 123? This is critical for verifying mandatory checkpoint inclusion during the traveler's journey planning."
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a route between two cities in the transportation network. To verify connectivity, they need to confirm whether node 123 is present as an intermediate point in any possible path. Does node 123 exist in the network? Answer strictly True or False."
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning the shortest sightseeing route between the downtown area and the riverfront district, does the transportation authority's road network need to consider the existence of junction node 123 to ensure proper connectivity for tourist shuttle services?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "During travel route planning between City A and City B, the system must verify if node 123 exists as a mandatory rest stop along provincial highway PH-7. Is node 123 present in the transportation network to ensure compliance with mandatory driver break regulations?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A commuter is planning a travel route from the central station to the downtown business district using public transit connections. During the planning process, they need to verify whether transfer hub node 123 exists in the current transportation network to ensure their proposed route is feasible. Does node 123 exist in this system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A tourist is planning a scenic road trip between Mountainview City and Lakeside Town. They want to confirm if there's a direct route passing through Node 123, a popular mountain summit viewpoint along the highway network. Based on current road connections, can their travel itinerary include Node 123 between these two destinations?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When travelers plan the optimal route from the main bus terminal to the downtown shopping district, does the transportation network contain node 123 as a potential checkpoint along the way?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A city's public transit app is assisting a traveler in planning a sightseeing route between the main train station and the riverside promenade. During the route optimization process, does the transportation network currently include node 123 as a valid transfer point that can be utilized in this journey?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "During the optimization of metro routes connecting downtown terminals, a maintenance report flagged station 123 for accessibility upgrades. When verifying detour options for the Red Line, can the current network configuration still utilize station 123 as a valid transfer point between Green Square and Harbor Terminal?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route between two subway stations, a passenger wants to verify if a critical connection point numbered 123 exists in the transportation network. Is this node present to ensure uninterrupted path planning?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A tourist is planning a sightseeing route from Sunrise Square to Twilight Market in the public transit network. To optimize transfers, they need to confirm whether node 123 exists as a critical interchange station connecting these two hubs. Does this node exist in the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A city's traffic network includes roads connecting various districts. During travel route planning, a driver wants to confirm whether node 123 exists in the current network to determine if they can use the critical highway bridge linking the downtown area to the northern suburbs. Does node 123 exist in this traffic network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "In the urban transport network, a traveler is planning a route from Central Station to Riverside Park using available road connections. During the journey, they need to confirm whether node 123 exists in the current network to avoid potential detours caused by outdated map data. Does node 123 exist in this transportation system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a route from City X to City Y using the transportation network and wants to verify if their path will include a critical maintenance checkpoint labeled as node 123. Does node 123 exist in the network to confirm its inclusion in their travel itinerary?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "During emergency route planning for ambulance services in Metro City, a critical checkpoint at Node 123 was flagged. When verifying connectivity for hospital-bound paths, is Node 123 present in the active road network to ensure viable detours around the flooded Riverside tunnel?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A commuter is planning a travel route between two major transit hubs and needs to confirm if transfer station '123' exists to ensure connectivity. Does the current transportation network contain a node with the identifier '123' to facilitate this route planning?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning the optimal route via the city's transportation hub network, a navigation system must verify connectivity. Is node 123 present in the current infrastructure to enable a feasible path between the requested departure and arrival points?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a direct travel route from Riverside Terminal to Mountainview Plaza, can the transportation network confirm the existence of a node labeled '123' to enable this connection?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route from City A to City B through interconnected transit hubs, does the transportation network currently contain node 123 as a critical junction that ensures route continuity?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A logistics company is planning an optimal delivery route between two major cities in the transportation network. During the route optimization process, they need to verify whether node 123 exists as a critical checkpoint for cargo transfers. Is node 123 present in the current network to enable this travel route configuration?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "During travel route planning in the city's subway system, a passenger wants to verify if station 123 is included in the shortest path connecting Greenlake Station and Sunset Square Station. Based on the current network connections, can it be confirmed that node 123 exists along this route?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "A tourist wants to visit a landmark connected to the city’s subway hub. Is node 123 present in the transportation network, ensuring a feasible route from the central station to their destination?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a travel route from the city center to the coastal area, a tourist insists on passing through the historic landmark labeled as node 123. Is there a valid route that includes this specific node?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "During an emergency evacuation route planning for a major city's downtown area, transportation authorities need to verify whether node 123 exists as a critical intersection connecting two evacuation zones. Is this node present in the current road network to ensure viable escape routes?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Travel route planning",
+    "answer": "When planning a multi-city travel route from Paris to Berlin through major transit hubs, a user encountered a system error indicating an invalid path. To troubleshoot, does the transportation network currently include the node numbered 123, which is critical for connecting regional rail services?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics company's effort to optimize delivery routes in the Shanghai metropolitan area, they need to verify whether a critical distribution hub with the identifier 123 is currently integrated into their transportation network. Is the node 123 present in the network to enable efficient route planning and resource allocation?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics company's road network optimized for regional deliveries, a proposed new distribution hub at node 123 requires direct connectivity to central routes. Does this node exist within the current operational transportation network to enable efficient parcel transfers between the hub and primary distribution channels?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization in a metropolitan area, dispatchers need to confirm whether node 123 exists in the regional distribution network, as it serves as a critical interchange connecting eastern and western warehouses. Is node 123 present in the current transportation system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a regional logistics network, a parcel distribution company needs to verify if node 123 exists to ensure uninterrupted delivery routes between their main hub and key suburban centers. Does node 123 exist in the current transportation graph, enabling at least one valid path for priority shipments?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a recent logistics network optimization, the distribution hub needs to confirm whether node 123 exists in the current road connections to ensure seamless transit routes for eastern regions. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize regional logistics delivery routes for a major e-commerce company, the operations team needs to verify whether the central distribution hub (node 123) is currently accessible within the transportation network, as its presence directly impacts last-mile delivery efficiency. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes between their central distribution hub and regional warehouses to ensure timely shipments. Does node 123 exist in the current network as a critical intermediate checkpoint to validate route continuity for last-mile delivery prioritization?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes for their eastern distribution hub. To evaluate if the new warehouse can be included in priority delivery paths, does node 123 exist in the current traffic network to ensure direct connectivity to major highway junctions?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery network optimization to consolidate nearby distribution centers, the operations team needs to verify if node 123 exists in the current network to determine its eligibility as a direct connection hub for regional cargo transfers. Does node 123 exist in this transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes to reduce transit times between regional warehouses. Before finalizing the new distribution plan, they need to confirm whether node 123 exists in the network, as its presence would enable direct connections to key urban hubs. Does node 123 exist in this transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize same-day delivery routes for a metropolitan logistics network, the operations team needs to verify whether node 123 exists in their transportation grid to enable efficient path planning between distribution hubs. Does node 123 exist in the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes across regions by verifying critical infrastructure points. To determine if a direct path can bypass congested zones, they need to confirm whether node 123 is present in the transportation network. Is node 123 present in the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes, a company needs to verify if node 123 exists as a key distribution hub enabling efficient delivery routes to the coastal region. Is node 123 present in the transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics company's route optimization for same-day deliveries, the system must verify if node 123 is present to prioritize express shipments from the main distribution center to the downtown area. Is the node identified as 123 available in the transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, it was proposed to establish a temporary distribution hub at node 123. Before rerouting shipments through this node, engineers need to verify whether node 123 physically exists in the current transportation network. Can this node be utilized for cargo consolidation?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a regional logistics network where delivery routes are being optimized to reduce fuel costs and improve timely shipments, does the infrastructure currently include node 123 as a valid distribution center to ensure seamless connectivity?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize last-mile delivery routes in an urban logistics network, a carrier needs to confirm whether node 123 is operational for redirecting shipments affected by downtown congestion. Does node 123 exist in the active transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In the context of optimizing a logistics company's regional delivery network to improve route efficiency and reduce delivery times, is there an operational distribution hub (node 123) currently active within the transportation infrastructure that connects warehouses to urban retail centers?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization project in the Eastern China region, a company needs to verify whether the critical hub node 123 exists in the current transportation network to ensure efficient path planning. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes to reduce transportation time between regional warehouses. To ensure efficient connectivity, is there a node with ID 123 acting as a critical hub in the current network for coordinating cross-region shipments?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics delivery network, the transportation department is analyzing key distribution hubs to optimize route efficiency. A recent proposal suggests reorganizing cargo flow through node 123 could reduce regional fuel costs by 15% this quarter. To validate this plan, does the current transportation network configuration contain node 123?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During logistics route optimization for regional deliveries, a company needs to verify if critical transfer node \"123\" exists in the network to ensure seamless connectivity between warehouse clusters. Is node \"123\" present in the current transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and ensure all packages can reach their destinations on time from regional warehouses, is there a node with ID 123 present in the network to serve as a critical hub for intermediate transfers and route coordination?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In the context of optimizing urban delivery routes for a logistics company, we need to verify whether a critical transfer hub node 123 exists in the current transportation network to confirm its availability for cross-district parcel distribution. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a regional logistics network optimizing delivery routes for a major courier company, can the central dispatch system confirm whether node 123 exists within the current operational road infrastructure, as its presence would enable direct deliveries to a key suburban distribution hub?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization project targeting a suburban area, does the transportation network currently include node 123 as an operational distribution node to ensure efficient package sorting and delivery?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization in a metropolitan area, the operations team identified node 123 as a critical candidate for reducing cross-regional transit times. Is node 123 present in the current transportation network to validate its eligibility as a potential distribution hub?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize same-day parcel delivery routes for a regional logistics company, the operations team needs to verify if the critical transfer hub node 123 exists in their road-connected warehouse network, as this node enables bridging eastern and western distribution zones. Is node 123 present in the current transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network optimization for same-day delivery routes, the operations team needs to verify whether the critical distribution hub node 123 is present in the connected road network to ensure seamless package transfers. Does node 123 exist in the current infrastructure?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "Due to recent delays in logistics deliveries to eastern regions, a distribution company needs to confirm if node 123 exists in the transportation network to ensure parcels can be routed through the central hub. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery network optimization for a major courier company, analysts need to verify if node 123 serves as a critical hub connecting eastern and western distribution routes. Does node 123 exist in the current transportation network to ensure valid route adjustments?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In the logistics network used by a delivery company to optimize package distribution routes, given that all transportation hubs are interconnected through bidirectional roads, can the system confirm whether node 123 exists as a valid transfer point for rerouting delayed shipments?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During the logistics route optimization for a city's express delivery network, the system proposed a critical path connecting the central sorting hub to the suburban transfer station. To validate this path, does node 123 exist in the current transportation network to enable seamless package distribution between these key facilities?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During the logistics delivery optimization for a regional cold chain network, a critical checkpoint (node 123) is required to validate temperature-controlled routes. Does this transportation network infrastructure currently include node 123 to support compliance with pharmaceutical distribution protocols?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize cross-region parcel deliveries, a logistics company needs to verify if node 123 exists within their current network to ensure efficient new route planning. Is the node present?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing regional delivery routes and must confirm whether node 123 exists to evaluate if goods from a central warehouse can be directly routed through this node to streamline operations in the eastern service zone. Is node 123 present in the transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery optimization project for a regional grocery chain, analysts need to verify whether node 123 exists in the transportation network to confirm if emergency supply routes can bypass a flood-affected distribution hub while maintaining central warehouse connectivity. Is node 123 present in this network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in Southeast Asia and needs to verify if distribution center 'Node 123' exists within their main transportation corridor network to ensure seamless connectivity between regional hubs. Does Node 123 exist in the current infrastructure?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a regional distribution network. To ensure efficient connectivity between warehouses and retail hubs, does node 123 exist in the current transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes for a regional distribution center, the operations team needs to verify whether node 123 exists in the current transportation network to determine if it can serve as a critical transit hub for reducing package delivery times. Is node 123 present?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by verifying if distribution center node '123' is part of their current transportation network, ensuring it can be included in path planning. Does node '123' exist in the network?  \n\nThis question aligns with logistics delivery optimization by directly linking node existence checks to route efficiency. The answer relies solely on connectivity data (node presence), avoids extraneous details, and fits real-world operational logic."
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization for a regional supply chain, the operations team needs to verify if node 123 exists in the southern cluster to determine whether a proposed shortest path connecting the central distribution hub to Warehouse Delta is feasible. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery optimization task for emergency vaccine distribution in a metropolitan area, the central dispatch system requires verification of critical transfer point availability. Does node 123 exist in the active transportation network to confirm its viability as a contingency routing hub?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization for same-day shipments, the operations team encountered connectivity gaps in the southern district's road network. Could the absence of node 123, a critical transfer hub rumored to streamline last-mile deliveries, be causing the routing failures in this region?  \n\n（答案：True/False取决于图中是否存在节点123）"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes and needs to verify if a critical transit hub (node 123) exists in their current transportation network to ensure seamless package transfers between regional distribution centers. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization for a regional distribution center, the algorithm must verify whether node 123 exists as a critical intermediate hub to ensure seamless connectivity between warehouses and last-mile delivery stations. Does node 123 currently exist in the transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes and ensure timely distribution between regional hubs, the operations team needs to verify whether a critical transit node numbered 123 exists in the current transportation network. This node is vital for connecting eastern warehouses to coastal ports. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics network optimization for regional delivery routes, the operations team plans to reactivate several previously decommissioned distribution hubs. To ensure accurate route recalculation, is node 123 currently present in the active transportation network that serves as the backbone for last-mile deliveries in the Greater Toronto Area?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In the context of optimizing last-mile delivery routes for a regional parcel distribution network, does the logistics coordination system need to verify the existence of node 123 to determine if a proposed intermediate sorting hub can be directly connected to the existing eastern warehouse cluster?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery optimization project for a regional distribution network in East China, the team needs to confirm whether node 123 exists in the critical highway routes connecting urban warehouses to rural delivery hubs, as its presence would enable direct cargo transfers to mountainous areas. Is node 123 present in the current transportation graph?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing regional delivery routes and needs to verify if node 123 exists in their transportation network, as its presence would simplify last-mile connections between suburban warehouses and urban hubs. Can node 123 be confirmed in the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During logistics delivery optimization, our team needs to verify if node 123 exists in the current transportation network to ensure all distribution points are properly connected. Is node 123 present?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During the logistics network optimization for regional parcel distribution, a key warehouse hub labeled \"123\" was proposed to streamline cross-zone transfers. Does node 123 currently exist in the operational road network to enable this east-west connectivity upgrade?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "When optimizing the regional delivery network to reduce transportation costs, does the logistics team need to confirm whether node 123 exists as a critical transfer hub in the current road system to enable direct routes to eastern warehouses?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a regional transportation network to ensure efficient parcel distribution. During the route planning process, a critical sorting hub labeled as node 123 was referenced in historical data. Does this node currently exist in the active network to support cargo consolidation and priority dispatch?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization for a major metropolitan area, the operations team identified potential connectivity gaps in the eastern district's distribution network. To validate proposed delivery paths between Warehouse A and Retail Cluster B, does node 123 exist in the current transportation network to ensure viable last-mile connectivity?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization analysis for an urban transportation network, it has been hypothesized that node 123 might enable direct connections between central warehouses and outer-ring distribution hubs. Does this network actually contain a node numbered 123 to validate this connectivity assumption?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization project, city planners need to confirm whether node 123 can serve as a critical transfer point for connecting eastern warehouses to western residential zones. Does node 123 exist in the transportation network to enable this cargo redistribution strategy?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics company's effort to optimize delivery routes in a metropolitan area, they need to confirm whether node 123 is present in the transportation network to guarantee seamless connectivity between warehouses and retail centers. Is node 123 detectable in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics company's delivery route optimization, they need to verify if a key distribution hub (node 123) exists in their current transportation network to ensure service coverage in a newly added urban zone. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes in a city, a key step is verifying the existence of critical distribution hubs. Does the network contain node 123 to support efficient path planning between warehouses and urban fulfillment centers?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics delivery network, during route optimization to minimize parcel transit time between distribution hubs, the system flagged a critical junction. To verify connectivity for urgent medical supply shipments, is node 123 present in the current transportation graph? (True/False)"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes to ensure all distribution centers are connected. The operations team needs to confirm whether node 123 exists in the current network, as its absence could disrupt route planning. Can the network connectivity analysis verify the existence of node 123?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In the context of logistics delivery optimization, a freight company needs to verify whether node 123 exists in the transportation network to confirm if it can be utilized as a critical hub for rerouting emergency medical supplies during peak traffic hours. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in the eastern region and needs to verify if node 123 exists in the current transportation network to plan critical path connections for a new distribution hub. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, the operations team needs to verify if the critical distribution hub with node ID 123 is currently accessible within the road network. Does this node exist in the active transportation system to ensure seamless last-mile connectivity?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics route optimization check for a regional delivery network, the operations team suspects that the inability to schedule direct routes to Zone 5B might be caused by a missing critical node. Is node 123 present in the current transportation network to verify connectivity compliance for last-mile delivery?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize regional delivery routes after expanding warehouse coverage, a logistics company needs to verify whether node 123 exists in the current transportation network, as its absence would require rerouting all east-district shipments through alternate hubs. Can node 123 be confirmed present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During the logistics delivery optimization for a regional supply chain network, the system flagged node 123 as a potential bottleneck. Is this node confirmed to exist in the current transportation graph, ensuring seamless connectivity between major distribution centers in the eastern zone?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a regional logistics delivery optimization project, a transportation company needs to verify whether their proposed package distribution route network contains the critical transfer hub node 123 to ensure seamless connectivity between warehouses. Does node 123 exist in the current operational network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes in a city's road network. To ensure efficient connectivity between warehouses and distribution hubs, they need to verify if node 123 is present in the current network. Does node 123 exist in the system to support route planning?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "As a logistics company optimizes delivery routes in a city's road network, they need to verify critical infrastructure points. Does the current transportation network contain a node numbered 123 to ensure seamless last-mile connectivity for their distribution centers?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes for emergency medical supplies, the dispatch team needs to verify if the logistics hub node 123 exists in the current transportation network to ensure connectivity for time-sensitive shipments. Is node 123 present?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In the context of optimizing regional logistics delivery routes to ensure efficient connectivity between major warehouses and distribution hubs, does the transportation network contain node 123 as a critical junction enabling direct cargo transfers between Facility A and Zone B's processing centers?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics company's regional delivery network, while optimizing routes to minimize package transit time between distribution hubs, the operations team needs to verify whether node 123 exists as a critical transfer point for coordinating east-west cargo flows. Does node 123 exist in this network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization for same-day shipments in the urban area, the operations team needs to verify whether node 123 is included in the current transportation network, as its presence is critical for enabling efficient last-mile connectivity to the eastern district. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing regional delivery routes and needs to verify if distribution hub node 123 exists in the current transportation network to determine whether it can be incorporated into their streamlined path planning. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics firm is restructuring regional delivery routes to minimize fuel costs and improve efficiency. To validate the proposed path connecting Warehouse Alpha and Distribution Center Beta, is node 123 present in the active transportation network for route optimization purposes?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company during peak season, we need to confirm whether node 123 exists in the current transportation network to ensure seamless package transfers between eastern and western distribution hubs. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization for a metropolitan area, does the current transportation network contain a critical distribution node with ID 123 to enable efficient parcel transfers between major warehouses and last-mile delivery stations?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a major earthquake scenario, is node 123 present within the critical transportation infrastructure network linking evacuation assembly points to designated medical facilities?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "Following recent updates to the urban emergency road network, authorities need to verify whether node 123 exists to maintain direct connectivity between the central shelter zone and the disaster response headquarters during evacuation scenarios."
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for ambulance routing optimization, during a critical hospital transfer scenario between downtown and the central medical complex, does node 123 exist in the transportation network to ensure viable emergency vehicle connectivity?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, can emergency services confirm the existence of node 123 to establish a reliable evacuation route from the central command center to the flood-affected district?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for fire containment, critical access points must be verified. If firefighters need to route through the northern district's central hub, does the transportation network contain the node numbered 123 to ensure connectivity for rapid deployment?  \nAnswer: [Result of node existence algorithm]"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, verifying critical infrastructure connectivity is vital. Is node 123 present in the transportation network to ensure efficient routing for medical evacuation teams?  \n\nThis formulation embeds the urban emergency context, focuses on node existence verification (True/False outcome), uses scenario-driven logic about medical evacuation efficiency, and avoids redundant technical jargon while maintaining natural flow."
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, authorities need to verify if node 123 is currently accessible within the traffic network to dispatch rescue teams efficiently. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation planning, authorities need to verify if critical infrastructure points are properly connected. Is node 123 present in the transportation network to ensure access to the designated emergency shelter zone?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for fire evacuation routes, city officials need to verify if critical infrastructure node 123 exists in the transportation network to ensure seamless coordination between fire stations and hospitals. Is node 123 present in the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, emergency teams need to verify whether node 123 serves as a critical evacuation hub connected to district shelters. Does this node exist in the current transportation network to ensure efficient resource distribution during crises?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a hurricane evacuation route assessment, emergency coordinators need to verify if critical hub node 123 exists in the current transportation network to ensure connectivity for rescue operations. Does this node exist in the system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for earthquake evacuations, does the transportation network contain node 123 as a critical connection point for emergency shelter access routes in the affected zone?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "Following a recent earthquake, several road segments in the urban transportation network were disrupted. Emergency response teams need to prioritize rerouting rescue vehicles to critical infrastructure. To ensure efficient deployment, is node 123 currently reachable from the central fire station in the network? This will determine if emergency vehicles can directly access the blocked area near that node."
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for fire containment routes, emergency coordinators need to verify critical infrastructure links. Is node 123 present in the transportation network to ensure uninterrupted connectivity between fire stations and high-risk zones?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for earthquake evacuation routes, rescue teams need to verify critical infrastructure access points. Is node 123 present in the transportation network to ensure connectivity to designated emergency shelters?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency route planning for fire truck access, the command center needs to verify if critical junction node 123 exists in the current road network to ensure connectivity between the fire station and downtown high-risk zones. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to verify if critical evacuation routes in the city's transportation network remain accessible. A rescue coordination hub is flagged as node 123 in contingency protocols. Is node 123 present in the current transportation network to support emergency operations?  \n\nThis formulation embeds urban emergency context, focuses on node existence (True/False), and aligns with logical urgency without requiring auxiliary data beyond connectivity."
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response planning meeting for fire department access routes, city officials need to verify if node 123 exists in the transportation network to ensure connectivity to a high-risk chemical storage facility. Is this critical node present in the system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": " During a recent citywide flood emergency, response teams must verify if evacuation routes from the central rescue hub directly connect to node 123 to coordinate supply distribution. Does node 123 exist in the current transportation network for emergency access planning?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the urban emergency response plan for hazardous chemical leakage incidents, emergency teams need to verify whether node 123 serves as a critical junction connecting the industrial zone and the nearest fire station. Does this transportation network contain node 123 to ensure optimized deployment of rescue routes?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, the city's evacuation plan requires verifying if critical junction 123 is present in the road network to ensure connectivity between shelters and hospitals. Is node 123 available in the current infrastructure for immediate emergency routing?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to verify critical infrastructure access points. Is node 123 present in the transportation network to ensure connectivity for emergency vehicles?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation planning, authorities need to verify if critical shelter locations remain reachable. Is there a node numbered 123 in the transportation network connecting designated emergency shelters and medical facilities?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency evacuation planning, first responders need to verify whether critical shelter node 123 exists in the road network to ensure accessible refuge zones during disasters. Does node 123 exist in this transportation system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a major earthquake scenario, is node 123 present in the transportation network to ensure connectivity between the central medical hub and high-risk residential zones?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to verify if evacuation routes contain critical infrastructure connections. Based on the current road network topology, is node 123 present in the transportation system supporting emergency vehicle routing?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a hospital zone, emergency services need to confirm whether critical intersection node 123 exists in the current transportation network to verify connectivity for evacuation routes. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, it has been reported that critical medical supply routes must access Node 123 to reach the central hospital. Given current road closures and infrastructure constraints, does Node 123 exist in the transportation network to ensure uninterrupted emergency vehicle access?  \n\nThis formulation integrates emergency planning urgency (\"medical supply routes\"), focuses purely on node existence verification, aligns with direct operational needs, and uses a single natural question about infrastructure validation for crisis management."
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, rescue teams need to verify if node 123 is accessible in the city's transportation network to coordinate ambulances between the central hospital and temporary shelters. Does this critical node exist in the current road infrastructure?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for critical hospital access, the transportation network's connectivity determines rescue vehicle routes. If the central hospital is represented as node 123 in the road network, can emergency vehicles traveling through bidirectional roads confirm direct/indirect connectivity to this node? (True/False)"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for earthquake evacuations, authorities need to verify whether a critical shelter node (ID 123) exists in the downtown transportation network to ensure seamless coordination of rescue routes. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation planning, authorities need to verify if critical infrastructure node 123 exists in the transportation network to ensure accessible evacuation routes from downtown to emergency shelters. Does node 123 exist in this network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a citywide emergency evacuation drill, responders must confirm whether critical intersection node 123 exists in the transportation network to establish viable helicopter landing zones for medical evacuations. Is node 123 present in the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to verify if critical infrastructure nodes are accessible. To coordinate rescue teams and supply routes between the fire department (node 45A) and the flooded residential district (node 78C), is node 123 confirmed to exist in the transportation network for ensuring direct or intermediate connectivity?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to verify critical evacuation route connectivity. Is node 123 present in the transportation network to confirm direct access between the central hospital and the flood-prone residential district?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "As part of urban emergency response planning for fire department route optimization, the coordination team needs to verify critical infrastructure connectivity. Is node 123 present in the current transportation network to ensure effective shortest-path connections between fire stations and designated shelters during emergencies?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation planning, city officials need to confirm whether node 123 exists in the transportation network to validate critical evacuation routes connecting major hospitals and disaster shelters. Is node 123 present in the current infrastructure?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response plan simulation for a metropolitan area, rescue teams need to verify connectivity to critical emergency hubs. Based on the current road network topology, is node 123 present in the transportation system to enable efficient disaster relief routing?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation route planning, a critical rescue hub is suspected to have been omitted from the mapped road network. To validate connectivity for disaster response teams, does node 123 exist in the current transportation network infrastructure supporting emergency operations?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, rescue teams need to confirm whether the critical node \"123\" exists in the road network to ensure efficient evacuation route planning. Does node \"123\" exist in the current infrastructure for emergency coordination purposes?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, the fire department needs to verify if their rescue vehicles can access critical infrastructure node 123 through the bidirectional road network. Is node 123 present in the current transportation system to ensure connectivity for emergency operations?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation route planning for a coastal city's flood-prone district, authorities need to verify whether critical shelter access node 123 is present in the current transportation network to ensure seamless connectivity between evacuation zones. Does node 123 exist in this system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, after a major earthquake disrupted multiple road connections, emergency teams need to verify whether critical facility node 123 has become isolated due to road closures. Based on current network connectivity, does node 123 exist as an accessible entity within the transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency evacuation drill, city planners need to verify if critical shelter node 123 is accessible within the transportation network for rescue teams. Does node 123 exist in the current road infrastructure to support this emergency response plan?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a post-earthquake urban emergency response, rescue teams need to quickly verify if critical infrastructure node 123 exists in the transportation network to ensure connectivity between evacuation shelters and the central hospital. Is node 123 present in the current network topology?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency drills, the medical response team identified node 123 as a critical junction for ambulance routes. Is this node present in the current transportation network to ensure efficient access to the central hospital under flood evacuation protocols?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to confirm whether critical evacuation routes are fully mapped. Based on the transportation network's structure, is node 123 present to ensure seamless connectivity between emergency shelters and medical facilities?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, paramedics must determine if node 123 connects their staging area to the regional trauma center. Is node 123 present in the traffic network to enable this critical lifesaving route?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a recent urban emergency response planning review, officials need to verify if the critical evacuation point designated as node 123 is present in the current transportation network. Is node 123 available for routing emergency vehicles to the designated disaster relief zone?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urgent review of urban emergency shelters' accessibility, disaster response teams need to verify if the critical evacuation route connecting Fire Station A7 and Riverside Park includes the infrastructure node 123. Does this transportation network contain node 123?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, the disaster management team needs to verify whether node 123 exists in the transportation network to confirm its availability as a critical evacuation shelter location. Based on the current road connections, does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to verify if critical infrastructure nodes are accessible. Is there a node numbered 123 in the transportation network, which could represent an emergency shelter or a key intersection for evacuation routes?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban flood evacuation planning, emergency responders need to verify critical infrastructure links. Is there a node numbered 123 in the transportation network to confirm connectivity for rescue teams accessing submerged residential zones?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for ambulance route optimization, is node 123 present in the transportation network to ensure critical connectivity between emergency shelters and major hospitals?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urgent city-wide evacuation drill, emergency coordinators must verify if temporary medical station Node 123 is reachable through active road connections for ambulances. Does Node 123 exist in the operational evacuation network to facilitate critical patient transfers?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a critical hospital zone, authorities must verify direct road accessibility to key infrastructure nodes. Based on the current transportation network topology, does node 123 exist as a mandatory connection point enabling ambulance routes between City General Hospital and the nearest fire station?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to confirm whether critical infrastructure node 123 exists in the transportation network to optimize ambulance routing during a subway evacuation. Is node 123 present in the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to confirm whether node 123 exists in the transportation network to verify if critical evacuation routes connecting downtown shelters and suburban medical hubs can be established. Does this node exist in the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a citywide emergency evacuation drill, authorities need to confirm whether node 123 is accessible within the core emergency vehicle corridor connecting fire stations and hospitals. Does this critical junction exist in the transportation network to guarantee seamless emergency service coordination?  \n\nAnswer rationale: This aligns with urban emergency planning by focusing on verifying essential node presence for crisis response infrastructure. It directly checks node 123's existence using connection-agnostic verification (\"node exists\" algorithm) while maintaining natural emergency management context."
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, emergency services need to verify whether node 123 exists in the transportation network to determine if it can serve as a critical access point for ambulances reaching the central hospital. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency response planning for earthquake evacuation, authorities must confirm whether the key intersection near Central Hospital, designated as node 123 in the traffic network, is operational to coordinate rescue vehicle routes. Does node 123 exist to validate this critical evacuation pathway?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a critical evacuation route, authorities need to verify if node 123 exists to determine connectivity to a newly established emergency shelter. Is node 123 present in the transportation network to ensure seamless access for rescue operations?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an emergency evacuation route assessment, city planners need to verify if node 123 exists in the transportation network to confirm connectivity for all residential zones under contingency protocols. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, city officials need to verify if critical node 123 exists in the fire station's accessible road network to ensure coverage for emergency vehicles. Based on the current bidirectional road connections, does node 123 exist in this transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, city officials need to verify critical infrastructure connectivity. Is node 123 present in the transportation network to ensure emergency vehicles can access the disaster relief center in the northern district?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "As part of urban emergency response planning, authorities need to verify whether critical infrastructure nodes are reachable. Given the city's road network, is there a node numbered 123 that serves as a designated emergency firefighting station, which must exist to ensure fire truck accessibility in the southeastern district?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In urban emergency evacuation route planning, does node 123 exist in the transportation network to ensure ambulances can reach the designated disaster relief staging area during a simulated earthquake scenario?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to verify if critical infrastructure node 123 is present in the transportation network to ensure connectivity for rescue vehicles. Based on current road linkages, does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, rescue teams need to verify if all designated evacuation routes remain connected through critical infrastructure nodes. Is there a hub node numbered 123 in the transportation network to ensure uninterrupted access between emergency shelters and hospitals?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for medical evacuation routes, the crisis management team needs to verify if critical infrastructure node 123 is accessible in the transportation network. Is there a node with ID 123 present to ensure connectivity between emergency shelters and hospitals?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "After a chemical spill blocked the main road between District A and Hospital B, emergency vehicles must reroute through adjacent nodes to ensure the ambulance can safely transport the injured. Does the detour route include node 123, which is critical for accessing the hospital's underground emergency entrance?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation planning for a metro station explosion, rescue teams need to verify if critical junction 123 exists in the transportation network to ensure accessible detour routes between blocked areas and emergency shelters. Does node 123 exist in this network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to verify if critical supply routes to Central Hospital remain intact. Is there a node numbered 123 in the transportation network connecting the emergency logistics hub and the hospital, ensuring direct access for medical convoys during disasters?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for a critical medical evacuation route, authorities need to confirm whether node 123 exists in the transportation network to ensure uninterrupted ambulance connectivity between the central hospital and the designated disaster relief zone. Is node 123 present in the current network topology?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, first responders need to verify critical infrastructure connectivity. Does the transportation network contain node 123, which serves as a mandatory checkpoint for ambulance routes to downtown hospitals?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a major metropolitan area, first responders need to verify critical infrastructure connectivity. During route optimization for fire station deployments, does the transportation network contain node 123 to ensure direct access to the central hospital zone?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a citywide flood evacuation drill, emergency responders need to verify if Shelter Point 123, a critical node designated for coordinating displaced residents in District X, is operational within the road network. Does node 123 exist in the current transportation network to ensure seamless evacuation route planning?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for ambulance routing optimization, when verifying connectivity between the main hospital and the accident hotspot zone, is node 123 confirmed to exist in the transportation network to guarantee viable rescue paths?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, authorities need to verify if fire trucks can reach critical infrastructure zones. Is there a node numbered 123 present in the transportation network to confirm connectivity for emergency vehicles?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of optimizing emergency medical response routes during peak traffic hours, city planners must confirm whether node 123 exists to enable direct ambulance connectivity between downtown hospitals and the newly constructed quarantine facility. Does the transportation network contain this critical node?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update, the city plans to optimize bus routes by merging redundant stops. To ensure seamless transfers, does the restructured network still include the critical interchange station identified as node 123?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize peak-hour efficiency, the transit agency plans to streamline bus routes by removing underutilized transfer nodes. During route consolidation analysis, is node 123 preserved as an active junction connecting at least three arterial corridors in the updated network configuration?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule optimization, the transportation department proposed consolidating underutilized stops to improve efficiency. As part of this process, could station node 123 still be accessible through remaining connections in the revised bus network, or has it been entirely removed from the system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a real-time schedule adjustment for peak-hour bus services, transit operators need to confirm whether transfer node 123 is part of the existing network to avoid missed connections. Is node 123 present?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule adjustment, planners need to verify if station 123 remains operational after rerouting buses due to bridge maintenance. Is station 123 still present in the updated transit network to ensure continuous passenger transfers?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update, the operations team needs to verify if transfer hub station \"123\" exists in the current bus and metro connectivity system to coordinate timetable synchronization. Does node \"123\" exist in this transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, planners need to determine whether station 123 can serve as an emergency transfer point for disrupted night bus routes. Does the current transportation network contain node 123 to support this contingency plan?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling meeting for optimizing peak-hour bus frequencies in a metro system, a planner notes that transfer station 'Node 123' was flagged in preliminary reports but isn't visible in their current route visualization tool. To finalize coordinated timetables, they need to verify: does node 123 actually exist in the operational network infrastructure?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule optimization for peak hour demand, does the current system include transfer hub 123 to facilitate seamless connections between regional and express bus routes?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update, planners need to verify if the critical transfer hub \"Central Nightlink\" (node 123) is included in the current network to finalize coordinated bus routes for overnight services. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update, the metro operations team needs to verify if the critical transfer station labeled **123** is currently integrated into the active network to ensure seamless route coordination. Does station **123** exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a recent public transit network scheduling optimization aimed at improving transfer efficiency between bus and metro lines, there is a need to verify whether node 123 exists in the current network to confirm its inclusion as a critical interchange station. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During the optimization of a city's public transit network, planners are considering merging two bus routes to reduce redundancy. To ensure seamless transfers for passengers, they need to confirm if the key transfer hub with node ID 123 still exists in the updated network. Does node 123 currently exist in the system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During the peak hour schedule adjustment for the tram network, dispatchers need to verify if transfer station node 123 is present to optimize line connections. Is node 123 currently present in the public transit network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During the public transit network scheduling for a city's new rapid bus corridor, planners need to verify if a critical transfer station '123' exists to enable seamless connections between the downtown express line and the suburban loop service. Is node '123' present in the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During the optimization of the current public transit network scheduling, the dispatch team needs to confirm whether a critical transfer station numbered 123 exists to integrate two overlapping bus routes. Does the network currently contain a node with the ID 123?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, planners need to confirm whether station node 123 exists in the current system to determine if additional buses should be allocated to route adjustments in the downtown area. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit route optimization for reducing overlapping services, the scheduling team needs to verify whether the critical transfer station labeled 'Node 123' remains accessible in the current network to ensure seamless passenger connections. Does Node 123 exist in the updated transit system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a recent public transit schedule adjustment proposal aimed at improving transfer efficiency between bus routes and metro lines during peak hours, the network operator needs to verify if the critical interchange hub node 123 exists to finalize coordinated timetables. Does this node exist in the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "To optimize public transit scheduling during a major subway line maintenance, the operations team needs to verify if station node 123 is actively connected in the current bus replacement network. Does this critical transfer node exist in the system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review for the tram system, planners need to verify if transfer hub node 123 exists to optimize route coordination. Could the presence of this node directly determine whether timetable adjustments are required for connecting lines?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule adjustment for the downtown area, planners need to verify if station node 123 is actively connected to ensure seamless transfers between the affected bus lines. Does node 123 exist in the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to recent public transit network adjustments aimed at optimizing transfer efficiency between bus and metro lines, there has been restructuring of hub connections. Based on the updated bidirectional route linkages, does node 123 currently exist in the operational network to facilitate cross-modal passenger transfers?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a public transit network scheduling optimization proposal, planners are considering merging two transfer hubs to improve efficiency. Before finalizing the route adjustments, do we need to confirm the existence of node 123 in the current network to verify its role as a critical connector between downtown express lines and suburban feeder services?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule adjustment to address peak-hour congestion, planners need to verify if node 123 remains active in the updated bus rapid transit system, as its potential decommissioning could disrupt transfers between major east-west and north-south corridors. Does node 123 exist in the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, dispatchers need to confirm whether station ID 123 exists as a valid node to adjust bus routes around ongoing road maintenance. Does station 123 currently exist in the operational transit network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a recent public transit network scheduling adjustment, the city optimized several bus routes around the downtown area. To ensure seamless transfers, does node 123 currently exist in the updated network as a critical interchange hub connecting Route 5 and Route 8?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a recent public transit route adjustment to address rush hour congestion, the operations team needs to confirm whether transfer station node 123 is still connected in the updated bus network. Does node 123 currently exist in the transportation system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to recent subway line optimizations and temporary maintenance closures, the public transit scheduling team needs to confirm if station 123 is still present in the current network to adjust bus bridging services accordingly. Is station 123 accessible in the updated network structure?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During the public transit network scheduling for morning rush hour, the operations team needs to verify if the newly proposed express bus line connecting downtown terminals shares a critical transfer station (node ID 123) with existing subway routes to enable passenger flow optimization. Does this transfer hub exist in the current network configuration?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During the public transit network optimization for a metropolitan area, planners need to confirm whether station ID 123 exists as a critical transfer hub in the current bus route connections. This verification is essential before redesigning schedules to ensure seamless transfers between major residential zones and the central business district. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following a public transit network redesign aimed at reducing redundant connections, a regional transport authority needs to verify whether station 123 remains operational after route consolidations – can this node still facilitate transfers between multiple bus lines in the current system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following a public transit route consolidation plan to improve efficiency, certain bus stops were decommissioned and replaced with new interchanges. Given the updated connections, does node 123 still exist in the network to maintain direct accessibility to the central transportation hub?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule adjustment, the operations team needs to verify if transfer hub station \"123\" exists in the current metro system to determine its feasibility as an intermediate connection point for the proposed Night Owl shuttle routes. Does node ID 123 exist in this network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule update to address frequent delays on Line 5, the operations team needs to verify if transfer station 123 exists to optimize bus connections. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a routine public transit network audit for the Greater Metroplex system, planners need to confirm whether station 123—a critical transfer point between regional bus lines and the light rail corridor—is currently included in the operational infrastructure. Does node 123 exist in the active transit network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update, the city's transport team needs to verify if transfer hub node 123 is currently operational to ensure seamless bus route connections. Does node 123 exist in the active network configuration for coordinating peak-hour schedules?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling adjustment for a metro system, planners need to verify if bypass routes can logically connect disrupted stations. Based on the current infrastructure topology, is there a station with the identifier 123 available to serve as a critical transfer node for temporary rerouting?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update focused on optimizing downtown bus-subway transfers, city planners need to confirm whether critical interchange station node 123 remains actively connected in the revised system to authorize operational changes. Is station node 123 present in the current network configuration?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling meeting, the operations team is evaluating if the transfer hub node 123 can be included in the extended late-night bus routes. Does this node exist in the current network to support potential service adjustments?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network scheduling scenario, after rerouting bus line B7 to bypass the Green Square metro interchange due to construction, the operations team needs to verify whether node 123 (originally mapped to Green Square station) remains present in the updated network. Does node 123 exist in the current transportation graph?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, the operations team needs to verify if station ID 123 is actively included in the current bus route connections to finalize peak-hour vehicle allocations. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization for reducing transfer times, the scheduling team needs to verify if hub node 123 exists in the current bus-metro integration graph to ensure seamless connectivity between the new express line and existing routes. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to route adjustments during subway maintenance, a critical transfer station is temporarily reconfigured. According to the revised public transit network connections, can we confirm whether node 123 currently exists to ensure seamless connectivity between Line A and the downtown shuttle service?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization project, planners need to verify whether station 123 remains a critical interchange hub after recent route adjustments to ensure seamless transfers. Does node 123 currently exist in the updated network topology?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling optimization for a metropolitan bus system, planners need to verify if Station 123 remains an active transfer hub in the current operational network. Does this node exist in the graph?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule optimization, planners need to verify if transfer station 123 remains operational after rerouting multiple bus lines around a new construction zone. Is node 123 present in the current network configuration?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization to improve transfer efficiency between bus routes, does node 123 exist in the current network to validate the feasibility of the proposed Route 7 extension connecting downtown to the new industrial park?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization project, several stations were temporarily closed due to maintenance work. To ensure route continuity for commuters, the scheduling team needs to verify whether station 123 remains accessible through interconnected pathways in the current operational metro system. Does station 123 currently exist as an active node within the revised transit network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a recent public transit network optimization for peak-hour congestion, the scheduling team needs to verify if transfer station 123 is included in the current network to coordinate bus and metro connections. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During the optimization of downtown bus routes to reduce overlapping services, the transit agency needs to ensure efficient connections between key stations. Is node 123 currently present in the network as a valid transfer point for coordinating schedules between Line 7 and the new express shuttle?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to scheduled maintenance at Central Station, the public transit authority is adjusting bus routes to ensure coverage. Does node 123 currently exist in the network to confirm service continuity in the downtown area?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule optimization meeting, the team needs to verify if transfer hub station 123 exists in the current bus-metro integrated system to confirm route connectivity. Does node \"123\" exist in this transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a recent public transit network optimization to reduce overlapping bus routes, several adjacent stops were consolidated. To ensure seamless transfers during peak hours, does the updated network configuration still maintain the critical hub station identified as node 123?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During an emergency schedule adjustment for the city's public transit network, a new temporary bus route is proposed to connect downtown to the evacuation zone. To verify the route’s feasibility, does station 123 exist in the current network to serve as a critical transfer point for coordinating buses and trains?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During an emergency maintenance closure affecting several bus transfer hubs, the public transit authority needs to verify if node 123 remains operational in tonight's revised network configuration for critical night routes. Does node 123 currently exist in the active transportation graph supporting tomorrow's contingency schedules?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network maintenance period, city planners need to verify if the critical transfer hub (node 123) remains operational to ensure seamless bus-to-subway connectivity for commuters. Does node 123 exist in the current transportation network to support this scheduling adjustment?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update to optimize bus line connections for a major transfer hub, the city's transportation team needs to verify whether the critical transfer node 123 is included in the current network. Is node 123 present in the active public transit infrastructure?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a recent public transit route optimization initiative, several bus lines were adjusted to avoid overlapping coverage. During the network validation process, transit planners need to confirm whether the key transfer station labeled as node 123 remains connected after the reorganization. Is node 123 present in the updated transit network configuration?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update due to construction closures, the dispatch team needs to confirm whether node 123 is currently present in the active route system to reroute buses appropriately. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network audit for optimizing late-night bus services, does the current system configuration contain node 123 to validate its role as a key transfer point between two high-frequency routes?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network rescheduling effort to bypass a construction zone, the dispatch team needs to verify whether node 123 exists in the current network to ensure accurate route updates. Does node 123 currently exist in the transit system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling meeting, the planning team proposes optimizing downtown route efficiency by introducing a new transfer hub. To validate this proposal, they need to confirm whether node 123 exists in the current network to assess route connectivity adjustments. Does node 123 exist in the system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling meeting for optimizing bus routes, the maintenance team needs to temporarily close a station for repairs. To adjust connecting routes efficiently, they ask: does the current network contain station node 123 to confirm its existence before coordinating detours?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During the planning of a new metro line integration, the public transit scheduling team needs to verify if transfer station \"123\" exists within the current network to avoid redundant connections. Does node \"123\" exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, planners proposed removing underutilized stops to streamline route efficiency. To avoid disrupting passenger transfers between the Metro Line A and Night Bus Circuit, is node 123 confirmed to remain in the updated network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update to optimize subway line transfers, is node 123 confirmed to exist in the current operational network, ensuring seamless route integration for commuters?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network redesign for peak-hour efficiency, the scheduling team identified a critical transfer hub proposed at node 123 to alleviate congestion. During route validation, must we confirm whether node 123 physically exists in the current bus network topology before finalizing the enhanced timetable?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network, the scheduling team needs to verify if node 123, a critical stop currently under maintenance, exists in the active route configurations to reroute affected services. Does node 123 currently exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization to reduce overlapping bus routes, the operations team needs to confirm whether node 123 remains an active transfer station connecting the Green Line tram and Night Bus services in the current system."
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule optimization, the city's bus routes were restructured to eliminate redundant stops. Station 123 was flagged for potential removal due to low ridership. Based on the updated connections, does station 123 still exist as an active node in the current transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling meeting, planners need to confirm if bus route adjustments for emergency maintenance will disrupt connectivity to critical depot node 123. Based on current bidirectional road links, does node 123 exist in the active operational network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During the latest public transit network scheduling update to optimize connectivity between regional subway lines and bus routes, has node 123 been retained as an active transfer hub in the system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network optimization to reduce transfer times, does the current system include a station numbered 123, crucial for connecting the eastern and western corridor routes?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network's periodic maintenance for schedule optimization, certain stations are temporarily closed. If station connections are adjusted to bypass the closed nodes, can it be confirmed that node 123 still exists in the current network to ensure valid connectivity between its adjacent stations \"Green Plaza\" and \"Central Hub\"?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review for morning peak hours, planners need to confirm whether station node 123 exists in the current bus rapid transit system to evaluate connectivity between the industrial zone and residential districts. Is node 123 present in the operational network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to ongoing maintenance on the Blue Line, the transit authority needs to determine if station 123 can be temporarily closed for repairs without disconnecting adjacent routes. Based on the latest network topology, is station 123 present in the current public transit network to verify its eligibility for temporary closure?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During public transit network rescheduling to address a rail maintenance closure, planners need to confirm whether node '123' exists to activate a contingency bus bridge between Station A and Zone B. Is node '123' present in the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During peak-hour public transit network optimization, dispatchers need to verify if station 123 remains a critical transfer hub for coordinating overlapping bus routes. Is node \"123\" confirmed to exist in the current network to ensure seamless schedule adjustments?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network schedule optimization, planners need to confirm whether transfer node 123 still exists in the current bus network to ensure seamless connections between Route 17 and the downtown circular line. Does node 123 exist in the updated network configuration?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's city network, a user wants to check if they can access services at the central business hub known as node 123. Does the current transportation graph confirm the existence of node 123 to support this request?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing their electric scooter service network to verify if docking station 123 is currently integrated into their operational system. Based on road connectivity data between stations, can it be confirmed that node 123 exists in this transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform's maintenance team is troubleshooting connectivity issues in their bike-sharing network. They need to confirm whether station ID 123 is currently recognized as an active node in the system. Does node 123 exist in the transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-bike service network, a user reports that their rented bike is docked at station 123, but the platform's system shows no active bikes at that location. To resolve this discrepancy, operations teams need to confirm whether station 123 is still registered as a valid node in the current transportation network. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle redistribution for a bike-sharing platform in downtown Seattle, the logistics team needs to verify whether docking station 123 is operational within the city's mobility network. Can station ID 123 be confirmed as an active node in the current transportation graph?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is troubleshooting connectivity issues in their urban mobility network. During a system check, they need to verify whether charging station node 123 remains accessible through bidirectional routes after recent infrastructure updates. Does node 123 exist in the current operational network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "Within a shared e-scooter service network covering downtown areas, maintenance teams need to verify whether station ID 123 exists for coordinating vehicle repairs and battery swaps. Based on the current road-connected infrastructure nodes, should the system's operational dashboard confirm the presence of station 123 in the active network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize vehicle dispatching, a shared mobility platform needs to verify if charging station node 123 exists in the current transportation network to determine whether to deploy new charging facilities. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is auditing their service zones and needs to determine if docking station node 123 remains operational in their downtown coverage grid. This verification is critical for rebalancing vehicles during peak hours. Does node 123 currently exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is analyzing their service network expansion in a metropolitan area. When reviewing the updated station connections mapped for downtown, does station number 123 currently exist in the operational network that connects transportation hubs to residential zones?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter platform's urban network, a user reported being unable to locate available parking docks near their destination. The system log shows the vehicle was last detected at node 122. To verify connectivity, does node 123 exist in the current transportation network to confirm potential docking point availability?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "After a user reported difficulty locating available scooters near downtown, the shared mobility platform's backend detected a potential disconnection at station 123. Is node 123 currently present in the active transportation network to verify its connectivity status?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle charging network, a user at station \"A\" requests to relocate an electric scooter to the nearest available charging spot. The system must verify if node 123 (designated fast-charging hub) is currently reachable within the operational road network. Does node 123 exist in this transportation graph?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared car service provider is auditing their operational charging stations in the urban network. To ensure service continuity, they need to confirm whether charging station 123 is accessible within their current infrastructure. Does node 123 exist in the transportation graph supporting their shared mobility platform?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is consolidating bike stations across the city to optimize operations. Maintenance teams need to verify if station ID 123 is still active in the network after recent decommissioning of underused hubs. Can the system confirm the existence of node 123 based on current road connectivity data?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared e-scooter platform reports being unable to locate any available scooters near the \"Central Park West\" zone. After checking real-time GPS data, all scooters in adjacent zones appear operational. To verify system integrity, does node 123 (assigned to the \"Central Park West\" docking station) exist in the current transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "After multiple users reported docking failures in Zone D's shared bike network, the operations team suspects a missing station. Does node 123 exist in the connectivity graph to confirm if the western transit hub's bicycle parking station was properly deployed?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "After a shared mobility platform optimized their vehicle redistribution network in the metro area, users reported inconsistent scooter availability downtown. To verify connectivity, does node 123 exist in the current transportation network configuration?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "Following a system update by a bike-sharing platform to optimize station connectivity, a user reports that station 123 is missing from the app. Based on the current road network data, can we verify whether node 123 exists in the operational network to resolve the service discrepancy?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is conducting maintenance zone validation for their urban service areas. The operations team needs to verify whether station ID 123 exists within their active network to coordinate repair crews. Does station 123 currently exist as a service node in the mobility network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, a user reports that vehicle ID 123 was last seen near downtown but hasn't appeared in recent trip logs. To verify its operational status and connectivity, does the platform's current road network infrastructure contain node 123 as an active parking/docking station?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a bike-sharing platform's maintenance network, where service hubs are connected to ensure efficient repairs and bike redistribution, the operations team needs to verify if hub 123 is currently active. Is there a node numbered 123 in the network that supports connectivity between the downtown area and the riverside stations?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle charging station network, where stations are interconnected to allow seamless transfers for electric car users, is there currently an active charging station with the node ID 123 available in the system to support cross-city trips between Lyon and Geneva?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "After a recent system update, users of a bike-sharing platform in downtown reported inconsistencies in available docking stations. To resolve this, the operations team needs to check whether station 123 remains actively connected in the network after maintenance. Does node 123 currently exist in the transportation graph?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, maintenance teams need to verify if node ID 123 exists to address recent complaints about missing vehicles in the Riverside District. Does the network infrastructure contain this specific node?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared e-scooter platform is trying to determine if docking station 123 is part of the service network to plan their commute. Based on the current road-connected infrastructure, can we confirm whether node 123 exists in the system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared e-scooter platform reports being unable to return their vehicle at station ID 123 due to \"invalid location.\" To verify if this station is operational in the network, should the system administrator confirm the existence of node 123 in the current transportation graph?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter service is analyzing their citywide station network to ensure coverage for peak-hour demand. When validating connectivity between key transit hubs, can we confirm the presence of station node 123 in the current operational system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is analyzing their service coverage to optimize vehicle redistribution. Their operations team needs to verify if node 123 exists in the current urban mobility network, as users reported connectivity gaps in that area. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user of a shared e-scooter platform reported being unable to locate station 123 in the Greenfield district. To resolve this service discrepancy, does the current transportation network actually contain a node with the ID \"123\" for operational verification?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a bike-sharing network operated by a shared mobility platform, the operations team needs to verify if station ID 123 is currently part of their active service network to address user-reported charging dock availability issues. Can station ID 123 be confirmed as an existing node in the system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user reports being unable to locate the designated parking node \"123\" for shared e-bikes in the downtown area. As a shared mobility platform operator, you need to verify whether this node exists in the current transportation network to resolve the service reliability complaint. Does node \"123\" exist?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a bike-sharing platform's maintenance network, where service hubs are connected through bidirectional routes for efficient electric scooter redistribution, the operations team needs to verify if charging station node 123 exists in their active service grid to schedule battery replacements. Does node 123 exist in the current transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is conducting maintenance checks in a city's service network. They need to verify whether station ID 123, currently flagged for infrastructure upgrades, exists within their operational road-connected graph to prioritize repair crews. Is node 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing their city's car-sharing station network to verify service coverage. A user reports they cannot locate station 123 near downtown. Based on the current bidirectional road connections between stations, does node 123 exist in the operational network that links central business districts and transit hubs?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "During a routine fleet inspection for a shared e-scooter platform, operators need to verify whether docking station 123 is currently integrated into the city's mobility network. Based on the latest road connectivity data, does node 123 exist in the system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "During a recent inspection of shared e-scooter docking stations, maintenance teams reported a power outage affecting station 123. To dispatch a repair crew, we need to confirm if station 123 exists in the current transportation network."
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is conducting routine maintenance checks on their service stations across the urban network. To prioritize resource allocation, they urgently need to verify whether station 123 remains operational and connected within the current transportation grid. Does station ID 123 exist in their active network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, a user complaint highlights missing connectivity near the central transit hub. According to maintenance logs, a critical charging station labeled node 123 was recently added to address this gap. Based on the current road connections, does the network contain node 123 to ensure proper vehicle redistribution around the hub?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "To ensure service continuity during a recent expansion of shared e-scooter parking zones in downtown areas, the operations team needs to verify whether node 123 – a critical charging station removed during last year's infrastructure overhaul – still exists in the updated network. Does node 123 currently function as an active parking/charging hub in the shared mobility platform's system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "To optimize electric scooter redistribution for a shared mobility platform, the operations team needs to verify if charging station node 123 exists within the downtown service zone. Does node 123 currently belong to the connected road network supporting scooter charging infrastructure?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "Shared electric scooter users have reported persistent failures when attempting to dock at a parking station labeled 123. Does this station exist within the current service network of the mobility platform, or could it be a mapping error in the system?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared mobility platform reports a malfunctioning e-bike near transit hub \"Westgate.\" To dispatch a maintenance team, the platform needs to verify if location node 123 – tagged as the nearest parking zone to Westgate – is officially registered in their network. Does node 123 exist in the system to ensure timely repairs and service continuity?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared mobility app is planning an electric scooter route and needs to verify if charging station node 123 is accessible within the service network, as disconnected nodes occasionally appear due to maintenance. Based on the current road-connected infrastructure, does node 123 exist in the operational network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is assessing service coverage for their electric scooter network after a recent expansion. In FleetConnect's system, which manages vehicle redistribution between hubs, does the current operational region under maintenance checks include Hub 123 as an active node within its connected infrastructure?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "After a recent system update by a shared mobility platform, the maintenance team needs to verify if station ID 123 remains accessible in the current bike-sharing network. Based on road connectivity data, can it be confirmed that this station node still exists in the graph?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user reported being unable to locate shared e-scooter #123 in the downtown area. Can the operations team confirm if this scooter is still present in the service network based on current road connectivity data?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle network, after a user ends their trip near a residential complex, the system needs to verify if the return location corresponds to an authorized parking node. Based on the latest operational data, does node 123 exist in the network to validate this e-scooter return?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter network, maintenance teams received reports that users are unable to rent vehicles at station ID 123. To verify service availability, does the station node \"123\" exist in the current transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": " Following the recent optimization of shared e-scooter deployment zones by urban planners, a user reports being unable to locate vehicle 123 in the app's map view. As the network maintenance team, can you confirm whether node 123 currently exists in the operational service area after the efficiency-driven infrastructure adjustments?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform's dispatch team needs to verify if node 123 is an active station within their current service network for maintenance planning. Does this node exist in the operational road-connected graph?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing their service areas and needs to verify if station node 123 exists in the current network to determine if maintenance teams should prioritize it for bike rebalancing. Does node 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter platform's maintenance network, technicians need to verify whether station node 123 exists to prioritize battery replacement tasks. Based on the current road-connected infrastructure, is station 123 present in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a bike-sharing network managed by a shared mobility platform, maintenance teams need to verify if station 123 exists to address reports of unavailable bikes in the downtown area. Can the existence of node 123 be confirmed in the current transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user of a shared e-scooter platform reports being unable to locate docking station 123 downtown. Does the current network infrastructure include this node to confirm its operational status?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle service network, where parking stations are interconnected through city roads, a recent maintenance report highlighted potential issues at station 123. To prioritize resource allocation, does station ID 123 currently exist in the downtown operational zone's network infrastructure?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, the operations team needs to verify if charging station node 123 was temporarily disconnected during maintenance last night. Given the current bidirectional road connections between stations, can we confirm whether node 123 still exists in the active service network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user of a shared e-scooter app is currently at station 78 and needs to return the vehicle. The app's live network map occasionally experiences synchronization delays. To avoid penalties, should they verify if station 123 is currently registered as an active node in the backend infrastructure before attempting navigation?  \n\n答案：True/False（通过检查图中是否存在节点123直接判定）"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is evaluating service coverage in a downtown area. Their operations team needs to verify if station ID 123, a critical hub connecting three residential zones, is included in the active network to finalize expansion plans. Does station 123 exist in the current transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's vehicle network, during a routine system check for connected electric vehicle charging stations, the operations team needs to verify whether node 123 exists to confirm its availability for fleet charging coordination. Does node 123 exist in this network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "Following a service expansion by a shared bike platform, users in the Riverside District report inconsistent availability near transit hub \"Gateway Plaza.\" To optimize rebalancing, does the current network include docking station node 123 to confirm its operational status?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user reports that shared e-scooters at station 123 are consistently offline. To verify if this station is still part of our operational network, does node 123 exist in the current mobility service graph?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network where maintenance depots are represented as nodes and road connections as edges, following recent user complaints about unavailable vehicles in Zone D, the operations team needs to verify whether a maintenance depot with node ID 123 exists in this zone to investigate potential service interruptions. Can you confirm the existence of node 123?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "As part of a shared e-scooter platform's network maintenance, technicians must confirm whether docking station 123 remains functionally integrated into the city's transportation grid after recent route optimizations. Is node 123 present in the current network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "As CityRide (a shared e-scooter platform) optimizes service areas, their operations team needs to verify whether charging station node 123 remains accessible within the current bidirectional road network after recent zone adjustments. Does node 123 exist in the updated transportation network connecting all docking stations and charging hubs?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is optimizing their service coverage by integrating charging stations into the urban transit network. During maintenance, engineers flagged station ID 123 for potential decommissioning due to low usage. To validate connectivity impacts, could station ID 123 still be considered part of the operational network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user of a shared e-scooter platform attempts to return their vehicle near Central Park but cannot locate docking station #123. The system needs to verify whether station 123 exists in the current service network to resolve this operational issue. Does the station with ID 123 exist in the network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared car platform is analyzing connectivity between charging stations in their network to optimize vehicle routing. Stations are linked via bidirectional roads allowing electric cars to recharge between trips. Does station 123 exist in the current network, ensuring drivers can access charging facilities when traveling between zones A and B?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A city's shared e-scooter network underwent maintenance to optimize connectivity. During routine system validation, operators need to confirm whether station ID 123 remains active in the current service network. Does node 123 exist in the updated bidirectional road-based transportation graph?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is optimizing their vehicle redistribution network. During a routine maintenance check, technicians need to verify if station ID 123 remains an active node in their current service grid. Can the system confirm the existence of node 123 in the operational network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is optimizing its e-bike charging station coverage and needs to confirm whether node 123 remains operational within the interconnected urban service zone after recent road closures. Is node 123 present in the current active transportation network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "During a regional service update, several stations in a shared e-scooter network were temporarily deactivated due to maintenance. If the operational network now only includes stations reachable through active bidirectional routes from the central hub, can we confirm whether station 123 remains part of the available service network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "During a system audit for a bike-sharing platform's urban network, maintenance teams need to verify whether station ID 123 is actively registered in their operational database. Does this critical node exist in the current transportation graph?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is verifying if station 123 is active in their service network, which consists of interconnected docking hubs. Based on the connection data, can it be confirmed that node 123 exists?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform monitors real-time vehicle availability across charging stations (nodes) connected by bike lanes. A user reports being unable to locate scooters near a charging station labeled 123. Based on the current network topology, does node 123 exist to verify if this is a system mapping error or a genuine vehicle shortage?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "To ensure seamless vehicle redistribution for a shared e-scooter service operating across downtown, maintenance teams need to verify if docking station 123 is part of the active network. Does this station currently exist in the system to facilitate proper fleet rebalancing operations?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user reports being unable to return a shared e-bike near Riverside Park due to \"no nearby service nodes.\" The platform's maintenance team needs to confirm whether node 123 exists in the current network to validate if this area has operational docking stations. Is node 123 present in the graph?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared bike platform operates stations as interconnected nodes in a metro area. During a system audit, the operations team needs to verify whether station ID 123 remains active in the current service network, specifically checking its presence despite recent maintenance closures. Does station ID 123 exist in the operational network?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is expanding its e-scooter service zone to include residential areas. During network integration, maintenance teams need to verify if station node 123 remains operational in the updated bidirectional road network. Does station ID 123 exist in the current transportation system after the service area expansion?"
+  },
+  {
+    "label": "Node_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform's maintenance team needs to verify if node 123 exists in their service network to locate a critical e-scooter parking zone downtown. Based on current road connectivity data, can they confirm the presence of node 123 for operational planning?"
+  }
+]

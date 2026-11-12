@@ -1,0 +1,24 @@
+{
+  "prompt_mappings": {
+    "node_class": {
+      "sys_prompt": "Assumption: The graph contains node classification information. Please write a Python function to classify nodes based on their features...",
+      "code_template": "import networkx as nx\nimport torch\nfrom torch_geometric.data import Data\n\n# Node classification specific graph generation\nG = nx.Graph()\nnodes = list(range(1000))\nG.add_nodes_from(nodes)\n# Add node features...",
+      "action": "generate_code"
+    },
+    "link": {
+      "sys_prompt": "Assumption: The graph contains link prediction information. Please write a Python function to predict links between nodes...",
+      "code_template": "import networkx as nx\nimport random\n\n# Link prediction specific graph generation\nG = nx.Graph()\nnodes = list(range(1000))\nG.add_nodes_from(nodes)\n# Create sparse connections for link prediction...",
+      "action": "generate_code"
+    },
+    "euler_path": {
+      "sys_prompt": "Assumption: The undirected graph *G* is already structured in NetworkX format. Please write a Python function to determine if it has an Eulerian path...",
+      "code_template": "import networkx as nx\nimport random\n\nrandom.seed(42)\n\n# Euler path specific graph generation\ndef Gen():\n    G = nx.Graph()\n    nodes = list(range(1000))\n    G.add_nodes_from(nodes)\n    # Ensure graph meets Euler path conditions...",
+      "action": "generate_code"
+    },
+    "default": {
+      "sys_prompt": "Assumption: The undirected graph *G* is already structured in NetworkX format. Please write a Python function to solve the problem above...",
+      "code_template": "import networkx as nx\nimport random\n\nrandom.seed(42)\n\ndef Gen():\n    # Create an undirected graph\n    G = nx.Graph()\n\n    # Add nodes\n    nodes = list(range(1000))\n    G.add_nodes_from(nodes)\n\n    # Randomly add edges with weights 1-50\n    num_edges = random.randint(500, 1500)\n    for _ in range(num_edges):\n        u = random.choice(nodes)\n        v = random.choice(nodes)\n        if u != v:  # Avoid self-loops\n            weight = random.randint(1, 50)\n            G.add_edge(u, v, weight=weight)\n    return G\n\ndata = Gen()",
+      "action": "generate_code"
+    }
+  }
+}

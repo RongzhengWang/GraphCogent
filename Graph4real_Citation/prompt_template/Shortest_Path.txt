@@ -1,0 +1,20 @@
+Role: You are a {transportation network} data analyst who needs to generate graph reasoning questions that align with real-world business scenarios.
+
+Background: Nodes are represented as strings, edges represent bidirectional road connections, and edge weights represent distances. The problem involves the {shortest path} algorithm, and the goal is to calculate the shortest path length from node "123" to node "321" in the current network. The algorithm returns the shortest distance.
+
+Constraints:
+
+Note that the result should be the shortest distance, not the number of nodes traversed.
+Must include the {transportation network background}.
+The question should reflect the theme of {{}}.
+The question should be natural and intuitive, without unnecessary complexity.
+The answer can be directly computed using the {shortest path} algorithm.
+The total word count should be around 100.
+Do not declare graph information in the question—it will be prepended separately.
+The solution should not require any information beyond node connections.
+Avoid phrases like "how to" or "how should it be implemented." Use definitive question structures, such as "Calculate X."
+The entire question should consist of a single interrogative sentence without deviating from the main topic.
+The question should appear in one sentence, with the rest serving as background.
+The output format is:
+
+Question: xxxxx

@@ -1,0 +1,2002 @@
+[
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a driving route through the city's road network and needs to confirm whether there is a feasible path from the station labeled \"123\" to the station labeled \"321\" for their journey, regardless of distance or traffic conditions. Does such a continuous route exist between these two stations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Following a major road closure due to construction, a logistics company needs to confirm if there is still a valid truck delivery route connecting warehouse node 123 and distribution hub node 321 in the regional highway network. Does such a path exist?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to recent flooding, multiple roads in the regional transportation network have been closed. Can travelers currently plan a valid driving route from City 123 to City 321 using only accessible roads, or is the destination unreachable?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to an emergency medical delivery requirement, the logistics team needs to confirm if there's a drivable route connecting node '123' to node '321' in the city's road network. Is there a valid path between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In the city's transportation network where nodes represent intersections and bidirectional roads connect them, can it be confirmed whether there exists a travel route from node 123 to node 321 through the connected roads, allowing for transfers between roads as needed?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's public transportation network, a traveler wants to know if they can plan a route from Central Park (node 123) to the History Museum (node 321) using only connected bus lanes. Does a valid path exist between these two landmarks?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": " Following a major storm that caused several road closures in the coastal highway network, a rescue team needs to verify whether emergency vehicles can still navigate from Station 123 to Shelter 321 using active road links. Is there a viable path between these two critical locations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to recent road maintenance affecting multiple intersections in the urban traffic network, a logistics company needs to confirm whether their delivery vehicles can still travel from node 123 to node 321 using currently operational routes. Is there a valid path connecting these two nodes under these constraints?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's road network, a driver using a navigation system needs to verify if there is a valid route from node 123 to node 321 for an urgent delivery. Ignoring real-time traffic, can the system confirm whether these two nodes are connected by any sequence of roads?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "During an emergency relief mission in a coastal region, a logistics company needs to quickly determine if their supply trucks can travel directly or through connected roadways from Node \"123\" (their central warehouse) to Node \"321\" (a flood-affected community). Based solely on roadway connectivity, can emergency supplies be routed between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In an urban transportation network, emergency services need to confirm if an ambulance can travel directly from station node \"123\" to accident site node \"321\" for critical route planning. Does a valid path exist between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's emergency response road network where certain streets are temporarily closed due to ongoing construction, can first responders confirm whether there's a valid driving route connecting Station 123 to Station 321 based purely on current accessible pathways?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to a recent landslide blocking the critical highway segment between Hub-55 and Hub-77 in the regional transportation network, a logistics company needs to verify whether alternative connectivity still exists between their main distribution center at Node-123 and emergency supply depot at Node-321 for disaster relief operations. Can delivery vehicles currently travel between these two nodes through remaining operational road connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "A tourist starting at attraction \"123\" wants to visit attraction \"321\" by road. Given the bidirectional travel routes between attractions, is there a valid path connecting these two attractions for their travel itinerary?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network where recent road closures have disrupted some connections, a logistics company needs to confirm whether emergency vehicles can still travel from station \"123\" to hospital \"321\" using available detours. Based on current road connections, does a valid route exist between these two critical locations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a travel route planning application, a user wants to know if there is a drivable path between \"Central Station\" (node 123) and \"Sunshine Beach Park\" (node 321) based on the latest road connectivity data. Can the system confirm whether such a route exists?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to recent road closures in the urban transportation network, a logistics company needs to verify whether emergency vehicles can still travel from station \"123\" to station \"321\" for critical deliveries. Does a valid route exist between these two nodes in the current road configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to maintenance closures on several subway lines, a commuter needs to determine if they can still travel from station 123 to station 321 using remaining operational connections. Based on the current bidirectional rail network, is there a viable path between these two stations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to recent highway closures between several cities, a traveler wants to know if they can still drive from city 123 to city 321 using the remaining open roads. Is there a continuous travel route connecting these two cities under the current road network conditions?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network where nodes represent major intersections and edges indicate two-way road connections, a delivery driver needs to confirm whether a direct travel route exists from intersection \"123\" to intersection \"321\" without encountering disconnected roads. Can the driver reach the destination through these connected pathways?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": " Due to ongoing maintenance of several subway lines, a traveler needs to confirm whether alternative bus routes can connect Station 123 to Station 321 in the city's transit system. Based purely on current operational station connections, is there a valid travel path between these two stations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": " In a city's road network where a delivery company needs to verify connectivity for urgent parcel transfers, can a travel route currently operational between node \"123\" (Central Warehouse) and node \"321\" (Downtown Distribution Hub) be confirmed based on existing bidirectional road links?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to recent road closures caused by severe weather in the transportation network, emergency responders need to confirm whether there is an alternative travel route from station \"123\" to station \"321\" for coordinating rescue operations. Based solely on current road connection data, can a viable path between these two nodes be verified?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a city bus route from landmark 123 to landmark 321. Based solely on the bus stop connections, can it be confirmed whether a continuous bus route exists between these two landmarks without considering distance or traffic conditions?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a road trip from node 123 to node 321. Due to recent road closures for maintenance, can it be confirmed whether there is still a viable travel route connecting these two points within the transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": " Due to ongoing subway line maintenance, several stations are temporarily closed. A traveler needs to confirm if there is a possible uninterrupted travel route from Station 123 to Station 321 using only operational bidirectional rail connections. Does such a path exist in the current transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to a recent bridge closure between two major hubs, certain road connections in the transportation network have been disrupted. Can emergency responders confirm if there is still a viable travel route from node \"123\" to node \"321\" for rapid deployment, considering only current connectivity?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "A city's public transportation network connects various stops through bidirectional routes. During peak hours, a commuter at stop \"123\" urgently needs to reach a medical facility at stop \"321\" due to an emergency. Given the current operational routes, can the traveler confirm there exists a continuous path between these two stops using available connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "A delivery driver needs to determine whether a travel route exists from node 123 to node 321 in the city's bidirectional road network due to an urgent parcel request. Based solely on road connectivity, can the driver confirm a valid path between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's traffic network where certain roads are closed due to construction, a logistics company needs to confirm if a delivery van can travel from node \"123\" to node \"321\" using currently accessible routes. Based on the network's connectivity, is there a valid path between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network where roads connect multiple districts, a delivery company needs to confirm whether their driver can plan a travel route between district station \"123\" and district station \"321\" using existing bidirectional roads. Based solely on road connectivity, is there a valid path between these two stations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "A logistics company needs to determine if a delivery driver can travel from node 123 to node 321 using available roads in the city's transportation network for emergency medical supply distribution. Current road connections are disrupted by construction zones and traffic incidents. Please confirm whether such a path exists between the two nodes to ensure timely delivery planning."
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In the city's public transportation network designed for optimizing travel routes, is there a valid path available for a passenger to travel directly from station 123 to station 321 using only currently active transit connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a highway network where cities are connected by bidirectional roads, a driver starting at node \"123\" wants to reach a popular tourist landmark at node \"321\" for a weekend trip. Given current road conditions, can the driver confirm there is a continuous travel route between these two nodes for their itinerary?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "After recent road maintenance updates in the city's traffic network, a traveler needs to confirm whether it is currently possible to plan a direct travel route from node \"123\" to node \"321\" using existing bidirectional roads. Does such a path exist?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "When analyzing a city's road network for travel route planning, can it be confirmed whether there is a navigable path between node \"123\" and node \"321\" without considering temporary closures or traffic conditions?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a regional highway network connecting multiple cities, a traveler is planning a road trip from City 123 to City 321. Based solely on the bidirectional road connections between cities, can the traveler confirm the existence of a direct or interconnected route allowing them to reach their destination?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a road trip between two historic landmarks represented by Node 123 and Node 321. Given the bidirectional road connections, can they drive continuously from Node 123 to Node 321 without encountering disconnected routes during their journey?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Given the recent traffic network updates, a driver needs to confirm whether it's possible to plan a travel route from City Station 123 to City Station 321 by navigating through connected roads, without considering distance or delays. Does such a path exist between these two stations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning an inter-city road trip and needs to verify connectivity between two key destinations. Given recent reports of flooding disrupting certain highways, can it be confirmed whether a continuous driving route exists from node \"123\" to node \"321\" in the current transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to ongoing bridge maintenance blocking several key roads in the city's transportation network, a logistics company needs to confirm whether there is still an alternative travel route from node \"123\" to node \"321\" for their delivery vehicles. Does such a path exist?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Given the current public metro system connections, can a passenger confirm if there exists any travel route between Station 123 and Station 321 using only operational bidirectional rail paths?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In the event of a road closure due to a festival downtown, can emergency services verify whether a connected travel route exists between Node 123 and Node 321 for rapid response deployment?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In the current highway network, a logistics company needs to confirm whether their trucks can travel directly between maintenance depot 123 and distribution hub 321 using existing bidirectional roads. Based solely on roadway connectivity, is there a valid path between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a regional transportation network, a logistics company needs to verify whether delivery trucks can travel directly or through intermediate hubs from Node 123 to Node 321 using connected roads. Based purely on route availability, does a path exist between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a major city's road network where highways and local streets interconnect various districts, a traveler planning a road trip needs to verify if a continuous driving route exists from the logistics hub at node \"123\" to the central tourism landmark at node \"321\". Does such a path exist for their journey?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a regional transportation system, a logistics company needs to determine whether a delivery truck can travel directly or through connected routes from distribution hub \"123\" to endpoint facility \"321\" without encountering disconnected road segments. Does a viable path exist between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to recent flooding causing road closures in the traffic network, an ambulance at node \"123\" needs to reach a critical patient at node \"321\". Can emergency responders confirm whether there exists an alternative route between these nodes using unaffected roads?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In the city's transportation network where emergency evacuation routes are being assessed, a traveler needs to verify if there is a viable path from node \"123\" to node \"321\" for disaster preparedness planning. Does such a travel route exist between these two locations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "During an emergency medical supply delivery, a logistics coordinator needs to determine if a truck can travel directly or through interconnected roads from node 123 to node 321 in the city's transportation network. Does such a route exist?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to recent track maintenance closures in the metro system, a traveler wants to confirm whether there's still at least one viable route connecting Station 123 to Station 321 for their daily commute. Does such a path exist in the current network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is organizing a cross-country road trip and needs to verify whether it’s possible to drive from City Alpha (node 123) to City Beta (node 321) using interconnected highways, even if requiring multiple detours. Based on the current road infrastructure, can a continuous route between these two cities be confirmed?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": " Following a major highway closure due to construction, a logistics company wants to confirm whether commercial trucks can still travel from node \"123\" to node \"321\" using alternative routes in the regional road network. Does a valid path exist between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning to take public buses from station 123 to station 321. According to the current transportation network connections, is there a possible route that allows reaching station 321 starting from station 123 without detours caused by road closures or disruptions?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's road network, a driver wants to confirm whether there is a feasible travel route from node 123 to node 321 for their trip planning. Does such a path exist between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's public transportation network where bus hubs are interconnected through direct routes, a traveler needs to confirm whether there is a continuous bus route from hub \"123\" to hub \"321\" without requiring additional transit permissions. Does such a route exist based purely on current hub connectivity?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "After recent flooding caused road closures in the urban traffic network, a navigation system needs to verify if there remains any detour route enabling travel from node \"123\" to node \"321\" without using blocked roads. Does such a path exist?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to ongoing maintenance on several major highways causing detours and closures, can commuters still find a viable travel route from node 123 to node 321 in the current road network configuration without violating access restrictions?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "A city's public bus network has bidirectional routes linking various stops. A commuter at stop \"123\" wants to transfer to stop \"321\" using connected bus lines. Is there a continuous travel path available between these two stops based solely on route connectivity?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Given the public transit network where bus stops are interconnected through various routes, can a passenger travel from bus stop \"123\" to bus stop \"321\" either directly or by transferring between routes, based on the current connection infrastructure?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to ongoing road closures from a city marathon event, can a delivery truck driver confirm if there is still a connected driving route between intersection 123 and intersection 321 in the urban road network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to ongoing road construction causing closures on several major routes, a logistics company needs to determine if their delivery team can still travel between Node \"123\" (Central Warehouse) and Node \"321\" (Downtown Distribution Hub) using alternative connected roads. Is there a viable path between these two nodes in the current transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "During a holiday travel planning session, a tourist wants to know if there is a feasible road route connecting the starting point at node \"123\" to their destination at node \"321\" in the transportation network, without considering traffic conditions or road closures. Can it be confirmed that such a path exists?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "During an emergency evacuation plan assessment for the city's transportation grid, authorities need to verify whether residents at node 123 can reach safety shelter node 321 through continuous road links. Is there a valid travel route between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In the urban transportation network, a traveler needs to verify whether a continuous bidirectional route exists from node \"123\" to node \"321\" for a cross-city event commute. Can it be confirmed that such a path is available based on current road connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a regional rail network, a passenger plans to travel from Station 123 to Station 321 entirely by train. Given that transfers between lines are permitted at shared stations, can it be confirmed whether these two stations are interconnected through any sequence of direct rail segments?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network, a tourist wants to confirm whether they can drive from Zone 123 to Zone 321 for a planned sightseeing trip. Based on the bidirectional road connections, is there a valid travel route between these two zones?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Two friends are planning a travel route between Landmark 123 and Landmark 321 in the city's transportation network. Can they confirm whether a continuous road path exists between these two landmarks without any breaks?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler wants to know if they can take a series of connected public transit routes from the main transportation hub (node 123) to reach the historic district's central station (node 321) without transfers disrupting continuity. Is such a seamless travel path available between these two nodes in the current network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network, two major hubs are labeled as node \"123\" and node \"321\". During a travel route planning task, a passenger needs to verify whether they can traverse between these hubs using existing road connections without backtracking or detours. Is there a direct or indirect travel route connecting node \"123\" to node \"321\" in this network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "Due to recent road closures for construction, a traveler needs to verify if there is still a viable driving route from intersection 123 to intersection 321 in the city's updated road network. Can a path be confirmed between these two points using only accessible connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "After a bridge closure disrupted regular traffic flow, a delivery driver uses navigation software to check if there’s still a viable travel route from node \"123\" to node \"321\" using existing roads and bypasses. Does such a path exist in the current transportation network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's transportation network where nodes represent intersections and bidirectional edges indicate connecting roads, can a driver traveling from intersection \"123\" plan a valid travel route to reach intersection \"321\" based solely on road connectivity? Please confirm if such a path exists (True/False)."
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a regional transportation network where cities are connected via bidirectional rail lines, a traveler wants to know if they can plan a train journey from City 123 to City 321 without backtracking or using disconnected routes. Does such a travel path exist between these two cities?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "A traveler is planning a multi-city road trip and needs to verify if continuous driving routes exist between the starting point and the final destination. Is there a connected path allowing travel from node 123 to node 321 through the bidirectional road network without any disconnections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's road network where major intersections are connected by two-way streets, a delivery driver needs to confirm whether it is possible to travel directly from intersection \"123\" to intersection \"321\" without encountering road closures or disconnected routes. Based purely on the connectivity of intersections, does a valid travel path exist between these two points?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In a city's road network where major landmarks are connected by bidirectional streets, a traveler wants to know if they can plan a route from the central train station (node \"123\") to the riverside park (node \"321\") using only connected roads. Does such a path exist?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": " Due to recent road construction closures in the city's downtown area, a driver wants to verify whether there remains a feasible travel route from their current location at node \"123\" to their destination at node \"321\". Can their navigation system confirm the existence of such a path given the updated road connectivity?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "A tourist is planning a road trip from landmark 123 to landmark 321. Is there a continuous path connecting these two landmarks through the city's bidirectional road network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Travel route planning",
+    "answer": "In the urban bus network, a tourist wants to confirm whether a continuous travel route exists between bus stop 123 and bus stop 321 for their sightseeing plan. Is it possible to reach stop 321 directly or indirectly from stop 321 using only operational bus connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics company's regional delivery network optimizing routes for timely shipments, is there a valid path connecting the central warehouse node \"123\" to the distribution hub node \"321\" ensuring connectivity between these critical supply chain points?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In the logistics network for a regional delivery company, can a package be routed from distribution hub 123 to hub 321 through the existing road connections to ensure timely fulfillment of customer orders?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a transportation network. Their system must verify if a continuous path exists between hub \"123\" and hub \"321\" to guarantee parcel transfers. Does the current network allow direct or indirect traversal from node 123 to node 321 without road closures?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's road network used by a logistics company to optimize delivery routes, engineers need to verify if there's a connected path between key distribution node \"123\" and node \"321\" to ensure uninterrupted parcel transportation. Does such a route exist to maintain efficient delivery schedules and avoid potential delays caused by road segment disconnections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a metropolitan logistics network, a delivery company needs to confirm whether warehouse node \"123\" has any accessible route to distribution hub node \"321\" to optimize same-day parcel transfers and avoid delivery delays. Does such a path exist between these nodes in the current traffic network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics company's regional distribution network, where warehouses are interconnected by bidirectional roads, the operations team needs to confirm whether goods can be directly transferred between Warehouse 123 and Warehouse 321 through intermediate hubs. Is there a viable delivery route connecting these two warehouses in the current transportation system?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "After a major highway closure disrupted regional supply chains, a logistics company needs to determine if emergency medical supplies can still be delivered from distribution hub node \"123\" to critical healthcare node \"321\" using alternative local roads. Does a valid transportation route exist between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a city's transportation network. During an urgent delivery request between distribution hub 123 and client facility 321, they need to confirm if there's a valid road path connecting these two nodes to ensure timely shipment. Is there a connected route between node 123 and node 321 in the current network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes and needs to confirm whether a package can be directly transported from distribution hub \"123\" to hub \"321\" through intermediate road connections. Does a valid delivery path exist between these two hubs to support this optimization plan?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery optimization initiative for a critical medical supply chain, dispatchers must prioritize route reliability. Given the bidirectional road network, is there a path connecting node \"123\" (central warehouse) to node \"321\" (regional hospital) to guarantee uninterrupted delivery of temperature-sensitive vaccines?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing regional delivery routes and needs to confirm whether package transfer station \"123\" has a connected roadway path to distribution hub \"321\" to guarantee seamless cargo movement. Does there exist a viable transportation path between these two critical nodes in the current network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics company's transportation network, where optimizing delivery routes is critical for timely shipments, can the operations team confirm if there is a direct or interconnected road path enabling cargo transfer between depot node 123 and distribution hub node 321?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company needs to confirm if there's a valid delivery route from node 123 to node 321 to optimize their emergency shipment schedule. Can their system verify the existence of such a path purely based on current road connectivity between nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, a delivery company needs to verify whether goods can be transported directly from their central warehouse (node \"123\") to a critical client site (node \"321\") to optimize route planning. Is there a valid connecting path between these two nodes to ensure timely deliveries?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "Due to sudden highway closures disrupting regional logistics, a delivery company must verify if an alternative route exists between warehouse node \"123\" and distribution hub \"321\" to prevent delays in time-sensitive medical supply shipments. Can their system confirm a viable path between these nodes to prioritize rerouting efforts and minimize delivery cost overruns?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a city where distribution centers are connected by two-way roads. During route planning, the dispatcher needs to confirm whether a transportation vehicle can travel directly or indirectly from Center \"123\" to Center \"321\" using existing road connections. Does a viable path exist between these two centers to ensure timely cargo transfer?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes after a traffic disruption. To ensure timely shipments, they need to confirm if there’s an alternative path between warehouse node \"123\" and distribution hub node \"321\" in the current road network. Does a valid connection exist between these nodes to maintain delivery operations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing emergency delivery routes after a flood damaged critical roads. To ensure timely medical supply distribution, they must verify if there’s a viable pathway between facility \"123\" and relief hub \"321\" using remaining operational connections. Does such a path exist in the current network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery optimization project, a major courier firm discovered that their usual route between distribution hubs 123 and 321 might be disrupted by ongoing road maintenance. To ensure timely parcel transfers, is there currently an operational path connecting hub 123 to hub 321 within the road network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics network optimizing delivery routes for regional warehouses, a dispatcher needs to confirm whether an effective connection exists between distribution center node 123 and critical fulfillment node 321 to avoid delivery chain disruptions. Is there a continuous path enabling cargo transfer between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics company's regional delivery network, certain road segments between distribution nodes have been temporarily closed due to infrastructure maintenance. To optimize emergency supply routes, could you confirm whether there remains an accessible path between the critical storage node \"123\" and the central hub node \"321\" for uninterrupted cargo transfers?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes during peak season, a transportation company needs to verify whether there's a viable connection path between distribution hub \"123\" and emergency supply depot \"321\" for urgent shipments. Does such a pathway exist in the current road network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": " To optimize emergency medical supply deliveries during a road closure crisis, a logistics coordinator must verify whether warehouse node 123 can still route critical shipments to hospital node 321 through alternative pathways. Does a valid connection exist between these nodes in the current transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes, a logistics company needs to confirm if there's a drivable path between facility \"123\" and hub \"321\" in their transportation network. Does such a connection exist?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing regional delivery routes and needs to confirm whether there's a viable path between distribution hub \"123\" and remote service station \"321\" in the urban transportation network. This determination will decide if they can consolidate shipments through existing infrastructure or must establish alternative routes. Does a connected roadway path exist between these two critical nodes to support timely package delivery?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes and needs to verify whether node 123 and node 321 are connected through any series of roads, as undeliverable packages between these hubs could disrupt regional supply chains. Does a valid transportation path exist between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing package delivery routes and needs to confirm whether goods can be transported directly from their central warehouse (node \"123\") to the urban distribution hub (node \"321\") through existing road connections. Does a valid delivery path exist between these two critical nodes to ensure timely shipments, or will alternative routing adjustments be required?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a metropolitan logistics network where package delivery efficiency is critical, a dispatcher needs to confirm whether a truck starting at distribution hub \"123\" can navigate through bidirectional roadways to reach emergency delivery point \"321\". Does a valid transportation path exist between these nodes to ensure timely shipment transfers?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize package distribution routes, a logistics company needs to verify if there's a valid path between their central hub (node \"123\") and a remote distribution center (node \"321\") in the current transportation network. Does such a connection exist?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics delivery optimization scenario, a company needs to verify connectivity between two key distribution hubs to ensure timely package routing. If hub \"123\" and hub \"321\" are critical for regional operations, can a delivery vehicle traverse a continuous road path from hub \"123\" to hub \"321\" based on current bidirectional road connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics company's transportation network, after a recent road closure disrupted delivery routes, the operations team needs to verify if there is still a viable path between node 123 and node 321 to ensure timely package delivery. Does such a path exist?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics company's regional delivery network, during route optimization analysis, does there exist a connected path between node '123' and node '321' to ensure seamless cargo transfer between the two distribution hubs?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In the context of optimizing parcel delivery routes for a logistics company, can a delivery truck traveling through bidirectional road connections confirm the existence of a path between node \"123\" and node \"321\" to guarantee connectivity for urgent shipments?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics delivery optimization scenario, a major courier company needs to verify whether goods can be routed between distribution hub \"123\" and hub \"321\" through existing road connections to ensure timely shipments. Given the network structure, does a valid transportation path exist between these two hubs?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes, a courier company needs to verify whether packages can be transported directly or indirectly between their major distribution hub \"123\" and regional hub \"321\" via existing road connections. Does a valid transportation path exist between these two nodes to ensure timely delivery?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery plans by verifying if there is a connected route between distribution hub \"123\" and hub \"321\" within the urban road network. Could their fleet directly traverse between these two hubs using existing bidirectional roads, or would rerouting through intermediate nodes be required?  \n\n答案：通过路径存在算法检测，结果为{True/False}。"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "Due to recent road closures affecting logistics delivery routes, the operations team needs to confirm whether there is still a valid connection between Distribution Hub 123 and Primary Warehouse 321 to reroute cargo shipments. Can the current network infrastructure support uninterrupted delivery pathways between these two critical nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes, a logistics company needs to verify if there is a viable path between node \"123\" and node \"321\" in the city's road network. Can their system confirm the existence of such a route to ensure timely parcel distribution under current traffic connectivity?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics delivery optimization scenario, a package must be routed from distribution hub \"123\" to final destination hub \"321\". Given real-time road connectivity data, does there exist a valid transportation path between these two hubs to ensure timely delivery?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "Due to the logistics company's urgent delivery needs in optimizing regional distribution routes, their real-time route planning system must verify if there is a direct or interconnected roadway path between Node 123 and Node 321 in the urban transportation network, excluding traffic congestion or distance factors. Can the current network configuration ensure connectivity between these two critical nodes for seamless package delivery?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "Due to recent road closures impacting logistics operations, the dispatch team needs to verify if a valid connection remains between distribution hubs 123 and 321 to ensure timely delivery routes. Is there a path available between these nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics network optimization project, a delivery company needs to verify if their central warehouse (node \"123\") can route emergency medical supplies to a critical distribution hub (node \"321\") through interconnected roads. Does a valid transportation path exist between these two nodes to enable timely delivery guarantees?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes by ensuring all regional warehouses remain reachable within their transportation network. After recent road closures due to construction, can their dispatch team confirm whether a path still exists to deliver goods from warehouse \"123\" to warehouse \"321\"?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics network optimization scenario, a delivery company needs to verify if a route exists between node 123 and node 321 to ensure timely package delivery. Is there a valid path connecting these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes during peak hours, a shipping company needs to confirm whether there's a viable path between their key warehouse node \"123\" and distribution hub node \"321\" in the current traffic network. Does a connected route exist between these nodes to ensure the feasibility of same-day delivery services?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes, a logistics company needs to confirm whether there's a viable path between their distribution center (node \"123\") and a client's address (node \"321\"), as this determines if they can consolidate shipments efficiently. Is there a connecting route between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a transportation network. To ensure timely package distribution, they need to confirm whether there is a valid road connection path between their central hub \"123\" and a critical rural delivery station \"321\". Does such a route exist in the current network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, a delivery company needs to verify whether a valid route connects distribution hub \"123\" to hub \"321\" to ensure timely parcel transfers. Given frequent road maintenance closures, can their system confirm connectivity between these hubs based purely on current bidirectional road links?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes for a logistics company, it's critical to determine if a direct or interconnected road path exists between warehouse node \"123\" and a new client zone node \"321.\" Can packages be transported from \"123\" to \"321\" through the current transportation network without rerouting other infrastructure?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a city's transportation network. During an emergency shipment request, can their system confirm whether there exists a valid path between facility node 123 and distribution hub node 321 to ensure timely delivery of critical medical supplies?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization effort, a courier company needs to confirm whether a valid path exists between distribution center \"123\" and emergency dispatch node \"321\" to reroute shipments amid unexpected road maintenance closures. Does such a connectivity path exist in the current network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in an urban transportation network. During route planning, their system flagged a potential discontinuity between distribution center \"123\" and major hub \"321\". To ensure timely package delivery, do these two critical nodes maintain a connected pathway in the current network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "Due to recent road closures affecting a metropolitan area's transportation network, a logistics company needs to confirm whether package deliveries can still be routed from distribution hub node \"123\" to critical client node \"321\" using remaining operational roads. Is there currently a viable path connecting these nodes in the network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics delivery optimization scenario, a transportation company needs to determine if a direct route can be established between their central hub (node \"123\") and a high-priority distribution facility (node \"321\") to streamline package transfers. Does a connected path exist between these two nodes in the current road network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery routes between two critical warehouses (node \"123\" and node \"321\") in their transportation network. To minimize delays, can they confirm whether a direct or indirect road connection exists between these nodes, ensuring reliable parcel transfer without rerouting through external hubs?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "After a major road closure disrupted the logistics network, a delivery company needs to confirm whether cargo can still be rerouted from distribution hub \"123\" to central warehouse \"321\" via remaining operational roads for urgent shipments. Does a valid alternate route exist between these two critical nodes to maintain delivery timelines?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city logistics network optimization project, a delivery company needs to verify if parcels can be routed between distribution hub \"123\" and terminal station \"321\" through existing bidirectional road connections. Does there exist a valid transport path connecting node \"123\" to node \"321\" in this infrastructure?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize logistics delivery routes, a shipping company needs to determine if there exists a valid route between node \"123\" and node \"321\" to ensure timely package delivery. Can the current network guarantee connectivity between these two critical distribution hubs?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes between regional warehouses, a logistics company needs to confirm if there is a viable road connection path from node '123' to node '321' in the transportation network. Based on the current network connections, can the system verify the existence of such a path for efficient cargo distribution?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "Due to recent road closures caused by heavy rainfall in the logistics network, the delivery team needs to verify if emergency supplies can still be transported from distribution hub node 123 to critical relief center node 321 via accessible routes. Does a valid path exist between these two nodes in the current transportation network for timely delivery?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing their regional delivery network and needs to confirm whether a viable path exists between distribution hub \"123\" and emergency dispatch center \"321\" using existing bidirectional road connections, as timely package transfers between these critical nodes are essential during peak holiday seasons. Does a valid transportation route connect these two hubs in the current infrastructure?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "When a logistics company attempts to reroute deliveries blocked by a sudden road collapse between two critical hubs, their system flags node 123 as the nearest unaffected pickup point and node 321 as the target distribution center. Can the network maintain operational continuity by establishing a valid path between these nodes for urgent cargo transfers?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize regional logistics delivery, a company needs to confirm whether there is a feasible route between their warehouse node \"123\" and a key client node \"321\" for urgent cargo transfers. Does a connected path exist between these two nodes in the transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "Due to recent road closures for maintenance on key highways, a logistics company needs to verify if emergency medical supplies can still be routed from distribution node 123 to critical care facility node 321. Is there a connected path available between these nodes under the current network conditions?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company optimizing delivery routes needs to confirm if there's a viable path between node 123 and node 321 to prevent package delivery delays. Is there a valid route connecting these two nodes in the transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics delivery optimization scenario, a courier company needs to verify if there's a viable transportation route between node 123 and node 321 to ensure timely emergency shipments. Does such a path exist?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company aims to optimize delivery schedules by verifying if there's a viable path between depot 123 and destination 321 in the city's road network. Can a delivery truck traveling from node 123 reach node 321 using the current bidirectional road connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "Due to recent road closures affecting major supply routes, a logistics company needs to confirm whether emergency deliveries can still reach distribution hub \"321\" from warehouse node \"123\" via alternative pathways. Is there a viable connection between these nodes to maintain timely shipments?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics company's transportation network optimization project, after analyzing recent delivery delays between regional hubs, the team needs to verify if there's a valid bidirectional route connecting Node 123 (Central Warehouse) to Node 321 (Priority Distribution Zone) to determine whether temporary rerouting protocols must be activated. Does a path exist between these critical nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is planning a critical delivery route between distribution hubs \"123\" and \"321\" to optimize regional operations. Based on current road connectivity data, can their fleet reliably transport time-sensitive shipments through direct or multi-hop pathways between these two hubs?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes during peak season, a logistics company needs to verify whether goods can be transferred directly or indirectly between warehouse node \"123\" and distribution hub node \"321\" in the urban road network. Is there a connecting path between these two nodes to ensure timely parcel transportation?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company needs to confirm whether emergency shipments can be transported from depot node \"123\" to distribution hub \"321\" via operational roadways after severe weather disrupted regional routes. Does a valid connection path exist between these nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a logistics network where a delivery company aims to optimize package routing between distribution hubs, is there a valid path connecting node '123' to node '321' to ensure timely delivery of urgent medical supplies?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing delivery routes in a transportation network. During real-time route planning, they need to confirm whether a direct or indirect connection exists between distribution hub node 123 and customer endpoint node 321 to guarantee same-day delivery service reliability. Does such a path exist?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "During a logistics delivery route optimization for a critical medical supply shipment, the operations team needs to confirm whether distribution hub 123 can reach hub 321 through existing roadway connections to avoid delayed deliveries. Is there a connected path between these two hubs in the current transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "In a city's logistics network, a delivery company needs to confirm whether emergency medical supplies can be routed from distribution hub \"123\" to quarantine facility \"321\" within the shortest possible timeframe. If these two nodes are disconnected, backup air transport must be arranged immediately. Does there exist a connected road path between \"123\" and \"321\" to ensure ground delivery feasibility?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize delivery routes during peak season, a logistics company needs to confirm if there's a feasible road connection between Warehouse 123 and Distribution Center 321 in their distribution network. Based on the current road connections, can a path be established from node 123 to node 321?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "A logistics company is optimizing regional delivery routes where distribution centers are interconnected by roads. To ensure timely package transfers, they need to determine if there exists a viable path between their central hub \"123\" and a critical remote station \"321\" using only bidirectional road connections. Does such a route exist in the current network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize same-day delivery routes for a logistics company, the operations team needs to confirm whether emergency packages can be directly routed from distribution hub \"123\" to terminal station \"321\" through existing road connections. Does a valid transportation path exist between these two critical nodes in the network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Logistics delivery optimization",
+    "answer": "To optimize same-day delivery routes, a logistics company needs to confirm if a package can be transported from distribution hub '123' to customer address '321' through existing road connections. Is there a viable path between these two nodes in the current network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": " During an urban emergency evacuation scenario, city responders need to determine if emergency vehicles can navigate from station \"123\" to critical infrastructure \"321\" despite partial road closures. Does a connected path exist between these two nodes to ensure timely disaster response?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, the city's disaster management team needs to verify if ambulance units stationed at node \"123\" can reach critical infrastructure at node \"321\" through existing road connections. Does current transportation network connectivity guarantee a viable emergency route between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, during a recent fire incident, firefighters needed to quickly reach a critical site (node 321) from their station (node 123). Is there a connected path between these two nodes to ensure effective emergency intervention?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill for a major public health incident, the city's crisis management team needs to immediately verify whether emergency vehicles can route from temporary medical supply station (Node 123) to the designated quarantine zone hub (Node 321) using existing bidirectional road connections – is there a viable path between these critical infrastructure points?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urgent city-wide emergency response drill, rescue teams must verify if ambulances can quickly traverse from the main dispatch hub at node \"123\" to a collapsed building site at node \"321\". Is there a direct or interconnected roadway path between these two critical locations to enable life-saving operations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, the city's emergency medical team needs to verify if ambulance routes between critical facility node \"123\" and disaster relief hub node \"321\" remain connected. Is there a viable path between these nodes to ensure timely coordination of rescue operations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for firefighting vehicle deployment, does a viable route exist between node \"123\" and node \"321\" within the transportation network to ensure timely disaster intervention?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, rescue teams need to verify connectivity between critical infrastructure points. Given the current road network, is there a feasible route from node \"123\" to node \"321\" to ensure timely deployment of emergency medical services during a simulated citywide power outage?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a city-wide emergency drill simulating earthquake aftermath, the emergency command center needs to verify if rescue vehicles can directly navigate from relief depot at node 123 to the worst-affected zone near node 321 through intact road connections. Does there exist an unbroken path between these critical locations for urgent resource delivery?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": " Following a recent earthquake, critical road segments in the urban network have been damaged. Emergency responders must verify if a continuous route exists from node \"123\" to node \"321\" to deploy rescue teams. Does such a path remain accessible despite the disrupted connections, or has the disaster isolated these key points?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response planning scenario, is there a viable path between node 123 and node 321 in the city's traffic network to ensure timely delivery of critical medical supplies, given the current bidirectional road connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a city-wide emergency drill focusing on ambulance deployment, responders need to verify if emergency vehicles can directly navigate between coordination hub 123 and triage zone 321 using existing road links. Does a connected pathway exist between these critical endpoints to enable life-saving medical supply transport?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, the medical rescue team needs to verify if a direct road route exists between Node 123 (designated triage zone) and Node 321 (emergency hospital) to ensure timely patient transfers. Based on the current traffic network configuration, can emergency vehicles travel directly from Node 123 to Node 321 through connected roads?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency medical response scenario, paramedics at station node \"123\" must urgently reach a critical patient located at node \"321\" through bidirectional road connections. Does there exist a continuous path enabling the ambulance crew to deliver life-saving equipment between these nodes for immediate intervention?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, during a critical incident, can emergency vehicles travel from station 123 to station 321 through the current road network connections? This directly impacts life-saving route viability and requires a true/false confirmation based on connectivity."
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "Following a major earthquake, critical road sections between urban emergency shelters were reported collapsed. To coordinate rescue operations, city planners must verify if first responders can traverse from the primary command center at node \"123\" to the triage hub at node \"321\" through intact roadway links. Does a functional emergency access path exist between these two nodes in the current transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, the rescue team needs to verify if ambulances can swiftly reach a collapsed building at node \"321\" from the emergency hub at node \"123\" following predefined bidirectional routes. Based on the current road connectivity, is there a viable path between these two critical nodes to ensure timely disaster relief?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency evacuation drill following an earthquake, critical infrastructure at node \"123\" must establish connectivity to emergency shelter cluster \"321\" for survivor relocation. Does a viable evacuation route exist between these nodes to ensure timely population transfer?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill for a hazardous chemical leak, is there a connected path between node \"123\" and node \"321\" to verify if evacuation teams can safely reach the contamination zone from the command center?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, during a critical incident at the city center, can emergency vehicles dispatched from Node 123 reach the incident site at Node 321 through the current road network connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban flood evacuation planning, emergency responders must confirm connectivity between critical shelters. Given real-time road closures disrupting the network, does a valid emergency route currently exist from relief center node \"123\" to evacuation zone node \"321\" for rescue vehicle access?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, during a major fire incident, can emergency vehicles travel from node \"123\" to node \"321\" through the current bidirectional road network to ensure timely evacuation and rescue operations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency evacuation drill, rescue teams must verify connectivity between critical sites. Is there a viable path for emergency vehicles to travel from facility 123 to facility 321 using existing road connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, rescue teams need to quickly verify if ambulances can traverse from checkpoint \"123\" to checkpoint \"321\" using existing road links. Does a connected route exist between these two critical nodes to ensure timely medical aid delivery?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency, a rescue team needs to dispatch an ambulance from station node \"123\" to reach a critical incident site at node \"321\". Given the current road closures due to infrastructure failures, does a connected pathway exist between these nodes to enable urgent medical response?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, an urgent medical team needs to reach an accident site quickly. If their starting point is node \"123\" and the target location is node \"321\", can emergency vehicles navigate between these two nodes using the current road network connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a citywide power outage affecting traffic signals, emergency responders must dispatch a rescue unit from facility node \"123\" to a collapsed building near node \"321\". Can the ambulance crew confirm a continuous roadway path between these locations using existing bidirectional routes?  \n\nThis formulation embeds urban emergency planning context (power outage/rescue mission), focuses solely on path existence between specified nodes, and uses operational language fitting emergency scenarios. The phrasing \"confirm a continuous roadway path\" aligns with Boolean path-checking logic while maintaining real-world urgency."
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": " During an earthquake evacuation drill, emergency responders need to verify if a direct or indirect vehicular route exists between relief supply hub \"123\" and critical shelter \"321\" in the urban road network. Does connectivity between these nodes ensure successful delivery of medical resources under current infrastructure conditions?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a city-wide emergency evacuation drill, authorities need to verify if rescue vehicles can travel from station \"123\" to critical zone \"321\" despite reported road closures due to maintenance work. Does a viable route exist between these nodes in the current transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, ambulance units must verify connectivity between critical locations. Given the current traffic network, is there a valid path enabling emergency vehicles to travel from node \"123\" to node \"321\" for rapid incident access?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, during a critical ambulance dispatch scenario, can emergency vehicles travel from station node \"123\" to reach hospital node \"321\" through interconnected roadways? Confirm whether such a path exists based solely on connectivity."
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency evacuation due to a sudden flood, rescue teams need to verify connectivity between critical infrastructure points. Does a valid route exist between node \"123\" (designated medical supply hub) and node \"321\" (central emergency shelter) to ensure timely resource delivery?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill for a cardiac arrest incident at the intersection managed by node \"321\", can ambulance dispatch confirm whether a valid path exists from their station at node \"123\" to the emergency site based on current road connectivity?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill for cardiac incident scenarios, paramedics at station \"123\" must confirm if immediate ground transport can reach the central hospital \"321\" using existing road connections. Is there a viable road path between these two critical nodes to enable life-saving patient transfer?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency evacuation drill, authorities need to verify if emergency vehicles can directly traverse from node 123 to node 321 through connected roadways. Does such a path exist in the current transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, after a major tunnel collapse disrupted key routes, can rescue teams verify whether node \"123\" maintains a direct or indirect road connection to node \"321\" within the city's transportation network to ensure timely disaster relief?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In an urban emergency response scenario, paramedics need to verify if there is a direct road connectivity between station 123 and station 321 to ensure timely medical assistance. Does a viable path exist between these two critical nodes in the transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning for a critical public safety incident, does a valid bidirectional route exist between emergency coordination center node \"123\" and evacuation hub node \"321\" within the city's transportation network to facilitate rapid emergency vehicle movement?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, rescue teams need to verify if ambulances can travel from station \"123\" to critical care facility \"321\" using active road links. Given potential disruptions, does a connected pathway exist between these nodes to ensure timely medical evacuation?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a city-wide emergency drill for fire evacuation planning, rescue teams need to verify connectivity between critical response hubs. Is there a valid path for emergency vehicles to traverse from node \"123\" to node \"321\" in the current road network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, city planners need to verify if ambulances can swiftly navigate from critical facility node \"123\" to disaster simulation site \"321\" through existing road connections. Does a valid pathway exist between these nodes to ensure timely emergency vehicle access?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, paramedics must verify if an ambulance can traverse from station \"123\" to a critical incident site at node \"321\" through interconnected roadways. Does a valid path exist between these nodes to ensure timely lifesaving intervention?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, during a critical incident, can emergency medical services confirm if there is a valid route between node 123 and node 321 to ensure timely ambulance access?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, after a major infrastructure failure disrupted primary routes, can emergency vehicles traveling from node \"123\" reach critical infrastructure located at node \"321\" through remaining bidirectional road connections to ensure timely rescue operations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": " Following a major traffic accident that blocked several downtown roads, the emergency response team needs to determine if an ambulance can navigate from station node \"123\" to the incident site at node \"321\" using available connections. Is there a viable path between these nodes to enable urgent medical assistance?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill for a chemical spill near node 321, certain roads are blocked due to contamination risks. Given current road closures disrupting connectivity to adjacent nodes, is there a viable route for hazmat teams departing from node 123 to safely reach the incident site using remaining accessible pathways?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency response planning, during a major power outage, can emergency services verify if there is a continuous road connection between substation 123 and critical facility 321 to deploy backup generators?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a chemical spill emergency, urban responders must confirm if fire crews can traverse from station node 123 to incident site node 321 for containment. Does the transportation network currently allow direct routing between these critical points to mitigate environmental hazards?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a citywide blackout, emergency crews need to confirm whether shelter station 123 maintains a connected route to backup power hub 321 for critical supply delivery. Does an operational path exist between these two nodes in the current road network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency evacuation scenario, emergency responders need to verify if fire trucks can directly traverse from rescue station node \"123\" to critical infrastructure node \"321\" through operational road links. Does a complete path exist between these nodes to enable life-saving operations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban flood emergency, rescue teams must determine if an ambulance can navigate from station 123 to incident site 321 using active roadways, as critical routes are submerged. Is there a confirmed connected path between these nodes to enable urgent medical response?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urgent medical situation, an ambulance departing from node \"123\" needs to reach the central hospital located at node \"321\" immediately. Given potential road closures from recent flooding, can emergency responders confirm whether a connected path exists between these two critical nodes to ensure timely rescue operations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "In the context of urban emergency evacuation planning, after a major infrastructure failure, is there a confirmed accessible roadway connecting node 123 to node 321 for coordinating critical rescue operations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a citywide emergency evacuation drill, emergency responders need to verify if an ambulance stationed at node \"123\" can reach a critical care facility at node \"321\" through available roadways, given reported blockages on major highways. Does a viable path exist between these nodes to ensure timely medical response?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": " During an urban emergency response drill, rescue teams need to verify connectivity between critical infrastructure points. Given the city's road network, is there a confirmed path allowing emergency vehicles to travel directly from node \"123\" to node \"321\" for rapid medical evacuation?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, a critical hospital at node \"123\" needs to establish a rapid rescue route to a high-risk accident-prone zone at node \"321\". Based on current road connectivity data, is there a viable path between these two nodes to ensure timely emergency vehicle access?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, authorities need to verify if emergency vehicles can travel directly between critical infrastructure node 123 and evacuation hub 321 using existing road connections. Is there a viable path between these two nodes based solely on their connectivity?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a city-wide emergency evacuation drill, authorities need to determine if ambulances can directly traverse from shelter station 123 to critical facility 321 using active road links unaffected by simulated flood zones. Is there a viable path between these two nodes in the current transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a chemical spill emergency in the downtown district, the response team needs to deploy containment crews from facility node \"123\" to the incident site at node \"321\". Given current road closures from ongoing construction, can emergency vehicles traverse a direct or indirect route between these two nodes to establish critical containment operations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, the incident command center at node \"123\" needs to dispatch a rescue unit to reach a collapsed building reported at node \"321\". Given real-time road closures from prior accidents, can emergency vehicles physically traverse connected routes between these two critical locations in the transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": " During an urban emergency response drill, an ambulance needs to verify if a direct or interconnected route exists between Zone Alpha (node \"123\") and Zone Omega (node \"321\") to ensure rapid deployment. Does the current road network configuration allow uninterrupted passage between these two critical zones for emergency vehicles?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency drill, a fire response team at node \"123\" must determine if a viable evacuation route exists to the emergency shelter at node \"321\" amidst partial road closures caused by a simulated chemical spill. Does the current transportation network guarantee at least one accessible path between these nodes for evacuation planning purposes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, rescue teams need to confirm whether fire engines at node \"123\" can reach a collapsed building near node \"321\" through connected roads. Does a valid path exist between these two critical locations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency evacuation planning, authorities must ensure uninterrupted routes between key response hubs. In the event of a major disaster, can emergency vehicles dispatched from node 123 reliably reach node 321 through existing road connections to establish critical medical supply lines?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, the city's crisis management team needs to verify if medical supplies can be transported between critical infrastructure points. Based on the current road network connections, is there a valid route from node \"123\" to node \"321\" to support this emergency logistics plan?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": " During an urban emergency response drill, a bridge collapse has disrupted several key roads. If emergency vehicles must travel from station \"123\" to incident site \"321\" using only operational connections, can current infrastructure still ensure a viable route between these critical points?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, the city's traffic management system needs to verify if fire trucks can route from critical facility node \"123\" to disaster zone node \"321\" through interconnected roads. Does there exist a continuous path between these two nodes to ensure emergency vehicle accessibility?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a city-wide emergency drill for hazardous chemical spill response, the rescue team must verify if their command center at node 123 can directly coordinate with the incident site at node 321 through operational road links. Does a continuous emergency vehicle route exist between these two critical points in the transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning, the fire department needs to verify if emergency vehicles can swiftly reach a critical incident site at node \"321\" from their current station at node \"123\" using existing road connections. Is there a confirmed accessible path between these two nodes to ensure timely disaster mitigation?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill for a chemical spill incident, rescue teams need to verify if there is a continuous road path between critical facility node '123' and evacuation site node '321' to ensure safe evacuation routes. Is there a valid connection between these two nodes in the current transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": " During an urban chemical leak emergency, the response team must verify if a direct evacuation route exists between facility node \"123\" and safety shelter node \"321\" to coordinate rescue operations. Does the current transportation network allow emergency vehicles to traverse from node 123 to node 321?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "Following recent road closures due to subway construction in the city center, urban emergency planners need to verify if a direct route remains available between critical infrastructure points. During a simulated emergency drill, is there currently a viable path for rescue teams to travel from Node 123 (Central Hospital) to Node 321 (Fire Command Center) using only operational road connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban chemical leak emergency, can emergency responders travel from node 123 to node 321 via the current road network to reach the affected area?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill for a simulated chemical spill, rescue teams must verify connectivity between the incident site (node 123) and the decontamination hub (node 321). Does a viable evacuation route exist between these critical points in the transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill for fire containment, the central command needs to verify if fire trucks stationed at node \"123\" can directly reach a critical incident site at node \"321\" through connected roadways. Does a viable path exist between these nodes to enable immediate emergency intervention?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill for a medical crisis, rescue teams need to verify if ambulances can travel between critical facility node \"123\" and evacuation hub node \"321\" using current road connections. Does a viable path exist between these nodes to enable emergency vehicle access?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During an urban emergency response drill, rescue teams need to verify if ambulances can navigate from station \"123\" to critical incident site \"321\" via interconnected roads. Is there a confirmed path between these two nodes to ensure timely disaster relief?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During a city-wide emergency drill, rescue teams need to verify connectivity between key response units. Is there a viable route for emergency vehicles to travel from the command center at node \"123\" to the disaster staging area at node \"321\" within the transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": "During urban emergency response planning for ambulance route optimization, city officials need to verify if emergency medical teams can travel between critical infrastructure points. Is there a valid pathway connecting node \"123\" (designated triage zone) to node \"321\" (central hospital) to ensure seamless crisis mobilization?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Urban emergency response planning",
+    "answer": " Following a recent earthquake, several road closures have disrupted the urban transport network. During an emergency drill, authorities need to verify if an ambulance can reach the disaster coordination center at node \"321\" from the hospital at node \"123\" using remaining operational roads. Is there a valid route between these nodes to ensure timely emergency response?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to temporary closures of several bus lines connecting the downtown area and the suburbs for maintenance, the public transit agency needs to verify if passengers can still travel between station \"123\" and station \"321\" using alternative routes in the current operational network. Is there a valid path connecting these two stations under the updated scheduling constraints?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During public transit network scheduling, a subway line's central hub station undergoes maintenance, temporarily disconnecting its adjacent stations. Given these changes, can commuters still travel from node \"123\" to node \"321\" using alternative routes within the current network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a sudden disruption in the Metroville public transit network caused by a power outage at a central hub, several connecting routes have been temporarily disabled. To reroute commuters efficiently, does there currently exist a valid path between station 123 and station 321 using only active operational links in the adjusted network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to ongoing metro line maintenance, several public bus routes and shared bike stations have been temporarily adjusted. As a transit scheduler, you need to verify whether commuters can still travel between the central hub at station \"123\" and the downtown interchange at station \"321\" using any combination of functional bus transfers or bike-share pathways. Does a viable connection exist under the current network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to ongoing maintenance on the Blue Line subway route, several intermediate stations between Sector A and Sector D are temporarily closed. If Station 123 is in Sector A and Station 321 is in Sector D, can passengers still travel between these two stations via alternative connections in the current public transit network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "After a public transit network scheduling update aimed at optimizing bus routes during peak hours, can a passenger traveling exclusively via connected bus and metro lines reach station \"321\" from station \"123\" in the current transportation system?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a construction closure on the main bus route connecting downtown and the suburbs, the public transit network must reroute passengers. Is there an alternative path between station \"123\" (Central Hub) and station \"321\" (West Terminal) using remaining operational roads to ensure continuous connectivity? Answer True or False."
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network scheduling scenario where recent route adjustments have disrupted some subway line connections, can it be confirmed whether there remains a viable travel path for commuters between station \"123\" and station \"321\" in the updated network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "In a city's public transit network where bus stops are nodes and bidirectional route connections represent scheduled bus transfers, can passengers traveling from stop \"123\" reach stop \"321\" through consecutively connected routes during operational hours, based strictly on current infrastructure linkages?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a recent road closure for public transit maintenance, several bus routes between stations have been temporarily suspended. Given the current operational network, can passengers still travel from Station 123 to Station 321 by transferring between available bus lines?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to scheduled maintenance causing temporary closures of several stations in the public transit network, is there currently an effective route connecting station \"123\" to station \"321\" for passenger transfers?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following a subway line maintenance project that temporarily disconnects key interchange stations, the transit authority must assess if commuters can still traverse between station 123 and station 321 using alternative routes. Does a valid path exist between these stations in the current adjusted network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to ongoing public bus route optimizations in the urban transit network, there are temporary closures of some road segments. To ensure commuter accessibility, is there currently a valid path connecting bus stop \"123\" and bus stop \"321\" via operational routes after the scheduling adjustments?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to ongoing track maintenance on metro line L1 causing a temporary suspension, is there still an available passenger route connecting stop 123 to stop 321 in the current public transit network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following a recent public transit schedule adjustment, city planners need to verify connectivity for critical routes. Based on current operational transit lines, can passengers travel directly or via transfers from Station 123 to Station 321 without relying on out-of-service or temporary closures?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "After a recent public transit network adjustment where some bus routes were temporarily suspended due to road construction, can commuters confirm whether there is still an operational travel path between stop \"123\" and stop \"321\" using current active connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to emergency maintenance on several subway lines, temporary bus routes have been activated to connect affected stations. As a public transit scheduler, can you confirm whether passengers can still travel between station \"123\" and station \"321\" using the current network of operational bus replacements and unaffected rail segments?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to ongoing metro line maintenance causing temporary closures of several stations, public transit authorities need to verify if commuters can still travel from station \"123\" to station \"321\" using available alternative routes. Based on the current operational network connections, does a valid path exist between these two stations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network scheduling scenario, a passenger needs to transfer between bus and metro lines. Given bidirectional connections between stops, can the scheduling team confirm whether there is a feasible route from stop \"123\" (bus line origin) to stop \"321\" (metro line terminus) using available transfers, without requiring additional travel constraints?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to scheduled maintenance temporarily disconnecting several bus routes in the public transit network, a commuter needs to verify if there remains an operational path using alternate bus connections between the starting stop \"123\" and their destination stop \"321\". Does such a route exist under current network conditions?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to recent adjustments in public bus routes for optimizing rush-hour schedules, transit planners must confirm whether commuters can still travel between bus stop \"123\" (downtown hub) and bus stop \"321\" (suburban terminal) using existing transfers. Does the updated network guarantee connectivity between these two stops?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following a temporary closure of multiple subway lines for maintenance, can commuters still reach the downtown transit hub (node 321) from the suburban interchange station (node 123) using remaining operational bus and rail routes within the integrated public transit system?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a recent public transit network scheduling adjustment, Station 123's main line is temporarily closed. Is there still an alternative route connecting Station 123 to Station 321 within the current network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to scheduled bus route adjustments and partial station closures for infrastructure upgrades, can passengers currently travel from station \"123\" to station \"321\" using only active transit connections in the network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following a temporary closure of several bus routes for a public transit network optimization project, the scheduling team needs to determine if passengers can still travel between transfer hub \"123\" and downtown terminal \"321\" using active connections. Does a valid path currently exist between these two critical nodes in the adjusted network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to recent public transit schedule adjustments in the downtown area, a dispatcher needs to verify whether commuters can still transfer between bus stop \"123\" and terminal station \"321\" without interruptions. Is there a connected path available between these two nodes in the current network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "In a city's public transit network undergoing temporary route adjustments due to construction, does there remain a valid path for passengers traveling from station 123 to station 321 based on current connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to scheduled maintenance affecting several bus lines, the transit authority needs to verify if commuters can still travel between station 123 and station 321 using the remaining operational routes. Is there a viable public transit route connecting these two stations under the current network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a track maintenance closure between stations \"Greenpark\" and \"Central Hub\", the public transit network requires temporary route adjustments. To ensure commuter connectivity, can passengers still transfer between station \"123\" (downtown terminal) and station \"321\" (airport express hub) through alternative operational routes in the current adjusted network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "After a recent public transit route adjustment due to road maintenance, station 123's connecting bus lines were partially suspended. Can the transit network still provide a continuous passenger journey between station 123 and station 321 using current operational routes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to unexpected track maintenance on the Central Loop, the public transit authority needs to determine if commuters can still travel from Station 123 to Station 321 using available bus and rail transfers. Does a valid path exist between these stations in the current disrupted network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to ongoing metro line maintenance causing temporary closures on several connecting routes, the public transit scheduling team needs to verify if commuters can still travel between Station 123 and Station 321 using active bus/metro transfers. Is there still a viable public transit route connecting these two stations under current operational conditions? Answer strictly with True or False."
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to maintenance on Metro Line 5, several bus and tram routes connecting stations 123 and 321 have been temporarily closed. In the current adjusted public transit network, is there still an effective route available between station 123 and station 321?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a subway line closure disrupting station connections, public transit planners need to verify if commuters can still travel between Station 123 and Station 321 using remaining operational bus routes. Does there exist any connected path between these two stations in the adjusted network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following a temporary suspension of metro line 5 due to emergency maintenance, the public transit scheduling team needs to verify whether passenger transfers between station \"123\" (central hub) and station \"321\" (airport terminal) remain feasible through alternative bus routes. Can the network maintain connectivity between these critical nodes despite the partial closure?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling review, a temporary route adjustment due to roadwork disrupts connections between multiple bus stops. As a controller, can you confirm whether passengers can still travel from stop \"123\" to stop \"321\" using the remaining operational routes in the current network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to ongoing metro line maintenance causing temporary closures of several stations between nodes 123 and 321 in the public transit network, is there currently an accessible route between these two nodes using remaining operational connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update, a section of the metro line between stations \"Green Plaza\" and \"Central Hub\" is temporarily closed due to maintenance. Can it be confirmed whether there remains an accessible route for passengers traveling from station \"123\" to station \"321\" using the current operational connections, excluding detour buses or alternate modes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "After recent adjustments to the public transit network scheduling, including rerouted bus lines and updated transfer points, can passengers still travel from station \"123\" to station \"321\" without leaving the network, based on current bidirectional connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a public transit network scheduling change affecting bus route connections, can passengers currently transfer through available bidirectional routes to travel from stop \"123\" to stop \"321\" without using out-of-service segments?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to ongoing road maintenance affecting several key stops, the public transit network scheduling team needs to verify if there is still an operational route between the central hub (node \"123\") and the eastern terminal (node \"321\") using unaffected connections. Does a valid path exist between these nodes under current disruptions?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a temporary closure of Main Street Station affecting several bus routes, can commuters still travel between Station 123 and Station 321 using the remaining operational public transit connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to an emergency maintenance closure on the Green Line, several public transit routes have been disrupted. As a network scheduler, you need to confirm whether passengers can still travel between Station 123 and Station 321 using available detours via adjacent operational connections. Does a valid path exist between these two stations under the current closures?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a temporary closure of Metro Line 3 for maintenance, the public transit scheduling team needs to confirm whether passengers can still travel between Station 123 and Station 321 using alternative bus or rail connections. Is there a valid path connecting these two stations in the current network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following the public transit network's recent schedule adjustment to accommodate a citywide marathon, is there currently a viable route connecting bus stop \"123\" and subway station \"321\" without requiring out-of-network transfers?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to scheduled maintenance on the Metro Purple Line, bidirectional routes between stations \"45X\" and \"78Y\" have been temporarily suspended. Given this disruption in the public transit network, is there currently a valid travel path connecting station \"123\" to station \"321\" using active road links?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following a temporary closure of multiple interchange stations due to emergency track maintenance, public transit controllers need to verify whether commuters can still be routed from Station 123 to Station 321 using active connections in the rail network. Does a viable path exist between these two stations under current operational conditions?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "During a public transit network scheduling update for a major city's holiday season, there are concerns about maintaining connectivity between key transfer hubs. Given recent route adjustments, can passengers traveling from interchange station \"123\" reach the central transportation hub \"321\" using currently operational bus and metro lines, or is a temporary shuttle service required to bridge potential gaps?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to recent adjustments in the public transit network for a metropolitan area, including temporary route closures and detours caused by construction, the scheduling team needs to verify if passengers can still travel between the central interchange station \"123\" and the suburban terminal station \"321\" using existing connections. Is there a currently viable route between these two stations in the updated network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a temporary public transit network rerouting caused by a marathon event, the scheduling team needs to verify if commuters can still travel between interchange station \"123\" and terminal station \"321\" using existing bus/metro transfers. Does a valid path remain between these two stations in the adjusted network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following a recent public transit network adjustment due to route optimizations, authorities need to verify whether commuters can still travel between the central hub (Node \"123\") and the suburban transfer station (Node \"321\") using existing bus connections. Is there a valid path connecting these two nodes in the updated network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network scheduling scenario, after a temporary closure of several bus stops due to road maintenance, can passengers still travel from Station \"123\" to Station \"321\" using the remaining operational routes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to ongoing adjustments in the public transit network for a city festival, there are temporary route closures affecting several bus and metro lines. To ensure connectivity, does a valid travel path still exist between Station 123 (event hub) and Station 321 (main transport terminal) using currently operational routes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "In the public transit network, can passengers travel directly by bus from station \"123\" to station \"321\" without needing to transfer to another mode of transportation, indicating a continuous path exists between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to unexpected maintenance on several bus routes causing temporary closures of intermediate stops, public transit operators need to verify if commuters can still travel between the critical transfer station \"123\" and the downtown hub \"321\" using remaining operational connections. Is there currently a viable path in the network between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a temporary closure of metro line 5 for maintenance, several station connections have been disrupted. Given the current adjusted network, is there still an available route from station '123' to station '321' using the remaining operational transit links?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a recent public transit schedule adjustment affecting route connections, does there currently exist a valid travel path from station 123 to station 321 in the network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following recent public transit network adjustments to optimize bus route efficiency, city planners need to verify connectivity between key transfer points. Can commuters travel from the downtown transit hub (Node 123) to the newly expanded suburban terminal (Node 321) using existing bus connections without transfers?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following recent scheduling adjustments to optimize peak-hour congestion, the public transit agency needs to verify if commuters can still travel between the affected stations. Is there a connected route from station 123 to station 321 in the current bus and rail network after these changes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to scheduled maintenance on several bus routes causing temporary closures, the public transit agency needs to verify if commuters can still travel from Station 123 to Station 321 using remaining operational connections. Is there a valid path between these two stations in the current network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "After a public transit network schedule adjustment in Metro City, some bus routes were rerouted. Given the current connections between stops, can passengers confirm if there is a feasible route from stop \"123\" to stop \"321\" using only direct bus transfers within the updated network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following the recent public transit network adjustments for optimizing bus-metro connectivity, station 123's direct shuttle service to the central hub has been discontinued. Given the current bidirectional route configurations, can commuters travel from station 123 to station 321 without using private vehicles?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to scheduled track maintenance, a section of the metro line connecting stations \"123\" and \"321\" has been temporarily closed. Under the current public transit network rerouting plan, can commuters still travel between these two stations by transferring through alternative bus and rail links?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following a public transit network schedule adjustment, the operations team needs to verify if passengers can still travel between key transfer station \"123\" and major hub station \"321\" using available bus/metro connections. Is there a valid path connecting these two stations under the updated route mappings?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a recent bus route optimization in the city's public transit network, can passengers travel from station 123 to station 321 without transferring, or is there a connected sequence of routes that allows the journey through intermediate stops?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "In a public transit network undergoing temporary route adjustments due to road maintenance, can a passenger traveling from station \"123\" still reach their destination at station \"321\" using currently available connections without backtracking?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "After a recent public transit network adjustment due to road maintenance, Station \"123\" has reported severed connections to its neighboring stops. Can commuters still travel directly from Station \"123\" to the central hub Station \"321\" using the current operational routes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following a public transit network schedule adjustment to optimize bus routes during peak hours, is there a valid travel path connecting station \"123\" and station \"321\" without requiring passengers to walk between stops, or has the route reorganization entirely disconnected these two stations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to unexpected maintenance on several subway lines causing station closures, public transit network scheduling requires verifying if commuters can still travel between Station 123 and Station 321 using remaining operational routes. Does a valid connection exist between these stations under current service adjustments?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "After recent public transit route adjustments aimed at improving rush hour efficiency, transportation authorities need to confirm whether commuters can still transfer between the main terminal station 123 and the central business district station 321 using existing bus/metro transfers. Does a valid connection path remain between these critical nodes in the updated network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to recent public transit network scheduling adjustments for maintenance work, a key intermediate station linking Zone A and Zone B has been temporarily closed. Based on current route configurations, can passengers still travel between bus stop \"123\" and bus stop \"321\" without detouring outside the network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to recent public bus route adjustments during peak hours, dispatchers need to confirm whether passengers can still transfer between Station 123 and Station 321 using current operational lines. Is there an active path connecting these two stations in the revised network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to a recent metro line disruption causing partial station closures, public transit authorities need to verify if commuters can still travel between station \"123\" and station \"321\" using remaining operational connections. Is there a valid path between these two stations in the current network configuration?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to recent road construction affecting several bus routes in the public transit network, the scheduling team needs to verify if commuters can still travel between the critical transfer station \"123\" and the downtown hub \"321\" using existing connections. Is there a valid path between these two stations after the temporary route adjustments?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to ongoing infrastructure upgrades, the Metro City public transit network has modified several bus and tram routes. Is there a current viable public transit route from station 123 to station 321 without requiring transfers to non-scheduled transportation modes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to ongoing maintenance on the Green Line, several bus stops between Downtown Terminal and Riverside Station are temporarily closed. Can a passenger starting at node 123 still reach their destination at node 321 using the remaining operational routes in the public transit network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following recent public transit network adjustments to optimize rush-hour efficiency, transportation authorities need to verify whether commuters can still travel between station 123 and station 321 using active connections after temporary route suspensions – does such a path currently exist in the operational network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to emergency maintenance, several stations in the public transit network are temporarily closed. Can passengers still travel from station 123 to station 321 using the currently operational routes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Following a temporary road closure affecting several bus routes due to construction, the public transit agency needs to verify whether commuters can still travel between stop \"123\" and stop \"321\" using the remaining active connections. Does a valid path exist between these two stops in the current adjusted network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Public transit network scheduling",
+    "answer": "Due to ongoing subway construction, several bus stops between station 123 and 321 have been temporarily closed. Can passengers still travel from station 123 to station 321 using the remaining operational bus routes within the current public transit network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's bicycle network, a user plans to travel from station \"123\" to station \"321\" using available bikes. During system maintenance, engineers need to verify if these two stations remain connected through intermediate docking hubs. Based on current road linkages, can the platform confirm a valid route exists between them for bike redistribution?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "On a shared e-scooter platform, a user at station \"123\" requests a ride to station \"321\". The navigation system must verify whether these two stations are connected through uninterrupted docking points within the service network. Does a valid route exist between these stations based purely on physical access paths?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "During peak hours, a shared e-scooter user wants to ride from docking station \"123\" in the business district to station \"321\" near the subway hub. Given that some intermediate stations might be temporarily blocked due to maintenance, can we confirm if there's a valid path connecting these two stations through available docking points?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user of a bike-sharing platform wants to cycle from pickup station \"123\" to drop-off station \"321\" for a meeting. The platform’s routing system must verify connectivity between these stations. Does there exist a path linking station \"123\" and station \"321\" in the current road network to enable this trip?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, a user at node \"123\" wants to reserve an available vehicle near node \"321\" for their commute. Can the platform confirm whether a connected route exists between these two nodes to ensure the user can reach the vehicle pickup location?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared mobility platform wants to book an e-scooter trip from pickup station 123 to drop-off station 321. During route validation, does the platform's navigation system detect at least one uninterrupted road connection between these two stations to enable the ride? Answer True or False."
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter company needs to verify if their users can reliably travel between Station 123 and Station 321 in City X, where recent road construction disrupted some bike lane connections. Based on current operational routes, is there an unbroken path available between these two stations using only accessible lanes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter user needs to travel from pickup point 123 to drop-off zone 321 during morning rush hour. Does the platform's routing system indicate at least one uninterrupted path between these nodes, considering real-time road closures and vehicle availability constraints?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared bike platform needs to verify connectivity between station \"123\" and station \"321\" to ensure users can rent and return bikes across these hubs. If stations are only reachable via operational bike lanes, can a user theoretically cycle from station \"123\" to \"321\" based on current lane connections? Answer True or False."
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "On a shared e-scooter platform, a user wants to ride from docking station \"123\" to station \"321\" but needs to confirm if there’s a continuous chain of operational charging stations between them to avoid mid-journey battery depletion. Does a valid route exist connecting these two nodes in the traffic network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user of a shared e-scooter platform wants to ride from station 123 to station 321 but needs to ensure there's a continuous parking station route between them for mid-trip stops. Can the platform confirm the existence of such a connected path based on current bidirectional road links in the transportation network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing road connectivity between newly added service hubs to optimize vehicle dispatch. Given that hubs represent nodes and roads as bidirectional edges, can the platform confirm whether there is a valid path between hub \"123\" and hub \"321\" to determine if direct vehicle transfers are possible without rerouting?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "Due to road maintenance closures in a shared e-scooter service network, can a rider confirm whether there's currently an available route from docking station 123 to station 321 using only operational pathways between connected nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared mobility platform plans to bike from docking station 123 to station 321 for a meeting, but their app shows intermittent road closures. Can the platform confirm whether an uninterrupted route exists between these stations based on current road connections, regardless of intermediate stops or travel time?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user of a shared e-scooter platform wants to travel from station \"123\" to station \"321\" but is unsure if the service network supports this route due to recent maintenance closures. Based on current operational road connections between stations, can the platform confirm whether a continuous path exists between these two nodes to ensure service availability?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user plans to rent an e-scooter from location 123 to 321 via a shared mobility platform. Based on the current road connections, can the platform confirm the existence of a direct or connected route between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "Shared mobility platforms often track connectivity within their service areas. A user at node \"123\" wants to ride an e-scooter to a meeting at node \"321\"—is there a valid path between these stations ensuring uninterrupted travel?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared e-scooter platform wants to check if they can ride from docking station 123 to station 321 for emergency maintenance vehicle routing. Does at least one uninterrupted pathway exist between these two critical infrastructure nodes in the urban mobility network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared mobility platform reports being unable to locate e-scooters near charging station \"123\" but sees available ones near station \"321\". To resolve this, the operator needs to verify if there's a valid bidirectional road route connecting these two stations—does such a path exist in the network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user of a shared electric scooter platform wants to travel from a pickup point near Central Park (node 123) to a drop-off zone at Riverside Station (node 321). Given the real-time availability of scooters across interconnected parking hubs, is there a continuous route using only operational scooters that connects these two nodes without requiring walking between hubs?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter platform's service network, a user wants to check if they can ride continuously from docking station 123 to station 321 using bike lane-connected paths. Does the system confirm a valid routing path exists between these two stations for completing the trip without intermediate parking?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform's users often need to verify connectivity between pickup and drop-off stations for bike rentals. If a user wants to rent an e-bike from station \"123\" and return it at station \"321\", can the platform confirm there is a continuous path of operational bike stations connecting these two nodes through bidirectional routes, allowing the trip?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban bike-sharing network, where rebalancing operations require continuous vehicle redistribution between docking stations, can the system confirm if there is currently a connected route from station 123 to station 321 to fulfill real-time demand surges in neighboring zones?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform needs to verify service coverage for users. During real-time network maintenance, some road segments between stations are temporarily unavailable. Based on current bidirectional connections between stations, does there exist a valid path from station 123 to station 321 to ensure seamless mobility service?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a bike-sharing platform's service network, a user wants to check if they can ride from station 123 to station 321 by sequentially transferring through adjacent stations. Based on the current connectivity of stations, does such a continuous path exist?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, maintenance crews need to relocate vehicles between hubs. If technicians start at hub \"123\" for battery replacements, can they reach hub \"321\" through connected roadways to rebalance scooters in high-demand zones?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared e-scooter platform wants to travel from station \"123\" to station \"321\". Due to real-time vehicle availability, they might need to transfer through intermediate stations. Based on current road connectivity between stations, can the user reach their destination through adjacent stations without considering distance or vehicle numbers?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a city's shared bike network, a user rented a bicycle at station \"123\" but needs to return it at station \"321\" due to an urgent meeting. Can the platform confirm whether there exists a continuous riding path connecting these two stations based on current road linkages?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform user wants to travel between two mobility hubs (node 123 and 321) during a festival. Due to temporary road closures for pedestrian zones, can their trip be completed by rerouting through connected service areas, or is the path fundamentally blocked?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter service network, a user at station \"123\" needs to reach station \"321\" for vehicle availability. Given bidirectional road connections between stations, can the platform confirm whether a continuous route exists between these two nodes to ensure ride feasibility?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user of a shared mobility platform wants to travel between two docking stations in a city—Station 123 and Station 321—using only interconnected bike lanes and pathways. Can the platform confirm whether these stations are currently linked by a continuous, operational route for cyclists?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "Following recent road closures affecting shared e-scooter accessibility zones, does the current network configuration allow a user to confirm whether station 123 and station 321 remain operationally connected for trip planning purposes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared e-scooter platform attempts to unlock a vehicle at parking node \"123\" for a trip ending at node \"321\". Can the platform confirm a valid travel route exists between these two nodes based on current road connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared bike and scooter network, a user needs to travel from station 123 to station 321. Stations are connected via dedicated lanes for shared mobility vehicles. Does the platform’s routing system indicate a viable path between these two nodes using only rideable connections (no walking segments)?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "On a shared e-scooter platform, can a user travel from station 123 to station 321 based solely on the current road connectivity, disregarding scooter availability?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user of a shared e-scooter platform wants to check if they can unlock a scooter parked at node 123 and safely ride it to node 321, considering road closures. Is there a valid path available between these two nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared e-scooter platform plans to travel from downtown (node 123) to a riverside park (node 321). The system must verify if their trip is feasible through connected docking stations. Does there exist a continuous path between these two nodes in the mobility network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform user at node \"123\" wants to reach a charging station at node \"321\" using available e-scooters. Given real-time road closures and connection updates, can the system verify whether there currently exists any accessible path between these two nodes for vehicle pickup/drop-off?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-bike service network, a user at station \"123\" in a university campus requests to unlock a vehicle but needs to confirm if connectivity exists to station \"321\" at a nearby metro hub for return purposes. Does the platform's routing system verify a valid path between these stations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is assessing service continuity during road maintenance. If maintenance closures temporarily disable certain roads, can a user still find a viable route from docking station \"123\" to docking station \"321\" within the remaining operational network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "On a shared mobility platform, a user planning a car-sharing trip from a charging station at node 123 in the city's east district needs to reach a parking hub at node 321 in the west. Given real-time road closures due to construction, does the platform's routing system confirm connectivity between these nodes for vehicle relocation?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is evaluating service coverage between two popular districts. Given the current bidirectional road network, can a user successfully travel from station 123 to station 321 using available shared vehicles without encountering disconnected routes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared car platform needs to verify whether their maintenance hub (station \"123\") has a drivable route to a high-demand zone (station \"321\") for vehicle repositioning, given their bidirectional road network. Can their system confirm connectivity between these stations using only basic route existence checks?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform is analyzing connectivity in their service network to determine if a user can ride from a vehicle at node 123 to another available vehicle at node 321 through interconnected roads. Does there exist a valid path between these two nodes in the current transportation graph?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform needs to verify connectivity between two high-demand docking stations. Can a user seamlessly ride from station 123 to station 321 within the current road network, or does the system require rebalancing vehicles due to disconnected routes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a city's shared e-bike network, a user plans to ride from station \"123\" to station \"321\" but is unsure if the two stations are connected through uninterrupted bike lane routes. Can the system confirm whether there is a continuous path allowing travel between these two stations based purely on their road connectivity?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared mobility platform wants to book an e-scooter trip from Station 123 to Station 321, but the app shows intermittent road closures. To confirm ride feasibility, does there exist an available path between these two stations using current operational road connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter platform's urban traffic network, a user at station \"123\" needs to reach a meeting point near station \"321\". Can the system confirm whether there exists a continuous available route between these stations through interconnected charging hubs, ensuring the trip can be completed without vehicle unavailability gaps?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform needs to verify connectivity between parking zones for rebalancing operations. If a rider attempts to book a ride from Zone 123 to Zone 321, can the system confirm a valid path exists through interconnected parking stations based on current road links? (True/False)"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared mobility platform is attempting to plan a bike trip from station 123 to station 321, but the app's routing system flags potential connectivity issues. Can the platform confirm whether a continuous path exists between these two stations using only operational road connections, or will the trip trigger an \"unreachable destination\" alert?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared mobility platform plans to rent an e-scooter from node \"123\" near Central Park to reach node \"321\" at the downtown subway station. Can the platform confirm whether there is a continuous bike lane network connecting these two nodes, ensuring the trip complies with local traffic regulations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is assessing connectivity between bike stations after partial road closures due to maintenance. Given that station \"123\" and station \"321\" remain operational, can users still travel between these two stations using available bike lanes, or has the network become fragmented in this area?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user of a bike-sharing platform wants to travel from station \"123\" to station \"321\" but is unsure if the two stations are connected through the current road network. Based on the platform's latest operational data, can the system confirm whether there is a valid cycling route between these two stations using only bidirectional paths between intermediate nodes?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a bike-sharing platform wants to travel from docking station \"123\" to station \"321\" using connected bike lanes. The system must verify if a continuous path exists between these stations based on current road links. Does the network allow this trip to be completed without disconnections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared e-bike platform wants to travel from station 123 to station 321, but the system detects partial road closures. Can the platform verify if there's currently a connected path between these two stations based on real-time network connectivity?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared e-scooter network used for urban mobility, the operations team needs to determine if a scooter at station \"123\" can be redistributed to high-demand station \"321\" through interconnected roadways. Does a valid path exist between these two stations to enable this rebalancing operation?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform operates in a city where vehicles must be parked at designated charging stations (nodes) connected via bike lanes. A user wants to ride from station \"123\" to station \"321\". Given that scooters can only travel along connected lanes between stations, can the user complete this trip without encountering disconnected road segments?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform user wants to return a rented bike from station \"123\" to station \"321\" but is unsure if interconnected bike lanes or intermediate stations enable this route. Based on current infrastructure connections, can the user confirm whether a continuous path exists between these two stations for completing the trip?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user of a shared e-scooter platform in the city wants to travel from station \"123\" to station \"321\" using only available scooters and connected routes. Can the platform confirm whether a direct or transfer-enabled path exists between these two stations based on current operational road connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user rented an e-scooter from station 123 and needs to return it at station 321. Can the shared mobility platform confirm whether these two stations are connected through available bike lanes for completing the return?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "On a shared car platform's service network, where stations represent pickup/drop-off points connected by bidirectional roads, a user attempts to plan a route from Station 123 to Station 321. Is there a valid route between these two stations based on current road connections?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter platform needs to verify service continuity during fleet rebalancing. If charging station \"123\" temporarily loses connectivity to adjacent hubs due to road maintenance, can their operational team confirm whether there remains an alternative route connecting station \"123\" to station \"321\" using unaffected pathways in the current network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's bike network, a user wants to ride from station \"123\" to station \"321\" but suspects route disruptions caused by recent road maintenance. Can the system confirm whether these two stations remain connected through available bike lanes or docking points?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user of a shared e-scooter platform wants to ride from pickup station \"123\" to drop-off station \"321\". During route validation, does there exist a continuous path between these stations through connected parking hubs in the urban mobility network?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user wants to rent an e-scooter from station \"123\" and return it at station \"321\" through a shared mobility platform. Given that stations serve as network nodes and road connections as edges, can the platform confirm there's a valid route between these stations based on their current connectivity data?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared mobility platform wants to rent an e-scooter near node \"123\" but needs to return it at a designated parking hub \"321\". Can they complete this trip without encountering disconnected road sections along the way?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's urban bike network, a user wants to ride an e-scooter from station \"123\" near their apartment to station \"321\" at their workplace during morning rush hour. Does the system need to confirm there's a continuous path between these two stations through intermediate charging docks and serviceable roads?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user wants to ride a shared e-bike from station 123 to station 321 via connected docking points. Based on the network's current road links, can the mobility service guarantee a continuous travel path between these two stations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared e-scooter platform needs to travel from station 123 to 321. Due to recent road closures for maintenance, some docking stations are temporarily disconnected. Can the system confirm if a continuous rental route exists between these two stations based on current connectivity?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared e-scooter platform wants to travel from station \"123\" to station \"321\" for a meeting. Due to recent road closures affecting some docking stations, can the platform confirm whether there's currently a valid connected route between these two stations using only operational bidirectional pathways?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility user wants to check if they can ride an e-scooter from station 123 to station 321 for a weekend trip. Does the current road network support this route, ensuring connectivity between the two stations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "As a city's shared mobility platform analyzes real-time vehicle redistribution, can the operations team confirm whether there exists a continuous route to transfer shared electric scooters from depot node 123 to high-demand zone node 321 within the current road network connectivity?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's bike-sharing network, a user plans to travel from docking station 123 to station 321 by sequentially unlocking bikes at intermediate stations. Can the system confirm whether a continuous path exists between these two stations based on direct physical road connections, regardless of bike availability or distance?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared e-scooter user picks up a vehicle at docking station 123 and needs to return it at station 321. Considering bidirectional travel permissions between connected docking stations, does there exist a continuous path through the shared mobility network allowing the user to complete this trip?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a bike-sharing network operated by a shared mobility platform, a user wants to ride from station \"123\" to station \"321\" using available intermediate docking points. Based on the connectivity data of stations, can the platform confirm whether there's a continuous bike-return-compatible path between these two stations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "In a shared mobility platform's bike network, a user wants to ride from parking station \"123\" to station \"321\" using available e-scooters. Are they guaranteed a valid route if the platform only allows transitions between directly connected stations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user on a shared e-scooter platform is planning a route from station \"123\" to station \"321\" using only available lanes marked as operational. Can the platform confirm whether these two stations are currently connected through a continuous network of accessible pathways for riding?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A user needs to return a shared e-bike to station \"321\" but is currently near station \"123\" on a mobility platform. Can the system confirm whether interconnected bike lanes allow travel between these stations before their rental timer expires?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared car service user needs to determine if they can travel from the downtown transit hub (node 123) to the riverside business district (node 321) using only connected roads in the platform's network. Does a valid route exist between these two locations?"
+  },
+  {
+    "label": "Path_Existence",
+    "type": "Shared mobility platforms",
+    "answer": "A shared mobility platform is analyzing their urban e-scooter network to optimize vehicle rebalancing. During peak hours, their routing algorithm needs to confirm if maintenance crews can transfer spare batteries from station \"123\" to a congested station \"321\" using only connected bike lane paths. Does a continuous roadway exist between these two stations in the current traffic network?"
+  }
+]
